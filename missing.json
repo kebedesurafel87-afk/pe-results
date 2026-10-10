@@ -1,0 +1,54 @@
+{
+ "updated_utc": "2026-10-10 08:09",
+ "count": 4,
+ "matches": [
+  {
+   "id": 2867250,
+   "home": "RSU/VEF Riga",
+   "away": "Gulbenes Buki/BJSS",
+   "league": "NBL",
+   "country": "Latvia",
+   "sport": "basketball",
+   "kickoff_utc": "2026-10-09 19:30",
+   "needs": [
+    "final_incl_ot"
+   ]
+  },
+  {
+   "id": 2869659,
+   "home": "Villa San Martin",
+   "away": "Ec Uniao Corinthians",
+   "league": "Club Friendly Games",
+   "country": "International",
+   "sport": "basketball",
+   "kickoff_utc": "2026-10-10 02:00",
+   "needs": [
+    "final_incl_ot"
+   ]
+  },
+  {
+   "id": 2865880,
+   "home": "Atenienses De Manati",
+   "away": "Pollitas de Isabela",
+   "league": "BSNF, Women",
+   "country": "Puerto Rico",
+   "sport": "basketball",
+   "kickoff_utc": "2026-10-10 03:00",
+   "needs": [
+    "final_incl_ot"
+   ]
+  },
+  {
+   "id": 2865881,
+   "home": "Ganaderas de Hatillo",
+   "away": "Gigantes de Carolina",
+   "league": "BSNF, Women",
+   "country": "Puerto Rico",
+   "sport": "basketball",
+   "kickoff_utc": "2026-10-10 03:00",
+   "needs": [
+    "final_incl_ot"
+   ]
+  }
+ ]
+}

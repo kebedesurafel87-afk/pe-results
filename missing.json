@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-11 19:41",
- "count": 3,
+ "updated_utc": "2026-10-11 22:56",
+ "count": 4,
  "matches": [
   {
    "id": 2850009,
@@ -34,6 +34,18 @@
    "country": "Belgium",
    "sport": "football",
    "kickoff_utc": "2026-10-11 17:00",
+   "needs": [
+    "ft"
+   ]
+  },
+  {
+   "id": 2768464,
+   "home": "Jeugd KAA Gent B",
+   "away": "RFC Seraing",
+   "league": "Challenger Pro League",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_utc": "2026-10-11 20:15",
    "needs": [
     "ft"
    ]

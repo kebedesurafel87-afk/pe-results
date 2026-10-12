@@ -1,54 +1,5 @@
 {
- "updated_utc": "2026-10-11 22:56",
- "count": 4,
- "matches": [
-  {
-   "id": 2850009,
-   "home": "FK Kauno Zalgiris",
-   "away": "FK Minija 2017",
-   "league": "LFF Cup",
-   "country": "Lithuania",
-   "sport": "football",
-   "kickoff_utc": "2026-10-11 14:15",
-   "needs": [
-    "ft"
-   ]
-  },
-  {
-   "id": 2863339,
-   "home": "Ethiopian Coffee SC",
-   "away": "Sheger Ketema",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_utc": "2026-10-11 15:00",
-   "needs": [
-    "ft"
-   ]
-  },
-  {
-   "id": 2768474,
-   "home": "Union Saint-Gilloise",
-   "away": "Oud-Heverlee Leuven",
-   "league": "Pro League",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_utc": "2026-10-11 17:00",
-   "needs": [
-    "ft"
-   ]
-  },
-  {
-   "id": 2768464,
-   "home": "Jeugd KAA Gent B",
-   "away": "RFC Seraing",
-   "league": "Challenger Pro League",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_utc": "2026-10-11 20:15",
-   "needs": [
-    "ft"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-12 05:56",
+ "count": 0,
+ "matches": []
 }

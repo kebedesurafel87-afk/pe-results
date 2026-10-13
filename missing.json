@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 12:32",
- "count": 1,
+ "updated_utc": "2026-10-13 13:02",
+ "count": 2,
  "matches": [
   {
    "id": 2746281,
@@ -20,6 +20,23 @@
     "pb_cor_ou_9"
    ],
    "stored_ft": "1-1"
+  },
+  {
+   "id": 2878582,
+   "home": "Avshar Ararat FC",
+   "away": "FC Ararat-Armenia 2",
+   "league": "First League",
+   "country": "Armenia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 13:30",
+   "kickoff_utc": "2026-10-13 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

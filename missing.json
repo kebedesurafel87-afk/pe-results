@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 20:18",
- "count": 4,
+ "updated_utc": "2026-10-13 20:33",
+ "count": 9,
  "matches": [
   {
    "id": 2746281,
@@ -56,20 +56,120 @@
    ]
   },
   {
-   "id": 2865803,
-   "home": "SV Lebring",
-   "away": "FC Schladming",
-   "league": "Steiermark, Landesliga",
-   "country": "Austria Amateur",
+   "id": 2871394,
+   "home": "Oldham Athletic",
+   "away": "Leeds United",
+   "league": "EFL Trophy",
+   "country": "England",
    "sport": "football",
-   "kickoff_eat": "2026-10-13 20:30",
-   "kickoff_utc": "2026-10-13 17:30",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 2871395,
+   "home": "Cheltenham Town",
+   "away": "Tottenham Hotspur FC",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 2871396,
+   "home": "Walsall FC",
+   "away": "Fulham FC",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 2871484,
+   "home": "Notts County",
+   "away": "Nottingham Forest FC",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 2871397,
+   "home": "Gillingham FC",
+   "away": "Brighton and Hove Albion",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 2871410,
+   "home": "Reading FC",
+   "away": "Chelsea FC",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

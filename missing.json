@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 19:48",
- "count": 4,
+ "updated_utc": "2026-10-13 20:03",
+ "count": 5,
  "matches": [
   {
    "id": 2746281,
@@ -70,6 +70,23 @@
    ],
    "markets": [
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 2865803,
+   "home": "SV Lebring",
+   "away": "FC Schladming",
+   "league": "Steiermark, Landesliga",
+   "country": "Austria Amateur",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 20:30",
+   "kickoff_utc": "2026-10-13 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 14:03",
- "count": 1,
+ "updated_utc": "2026-10-13 14:48",
+ "count": 2,
  "matches": [
   {
    "id": 2746281,
@@ -20,6 +20,25 @@
     "pb_cor_ou_9"
    ],
    "stored_ft": "1-1"
+  },
+  {
+   "id": 2746283,
+   "home": "Buriram United",
+   "away": "Beijing Guoan",
+   "league": "AFC Champions League Elite",
+   "country": "International Clubs",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 15:15",
+   "kickoff_utc": "2026-10-13 12:15",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "dc",
+    "pb_cor_ou_9"
+   ],
+   "stored_ft": "0-1"
   }
  ]
 }

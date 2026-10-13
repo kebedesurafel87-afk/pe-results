@@ -1,24 +1,5 @@
 {
- "updated_utc": "2026-10-13 10:02",
- "count": 1,
- "matches": [
-  {
-   "id": 2279116,
-   "home": "Chapecoense SC",
-   "away": "CA Paranaense PR",
-   "league": "Brasileiro Serie A",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 01:30",
-   "kickoff_utc": "2026-10-12 22:30",
-   "status": "no_result",
-   "needs": [
-    "cards",
-    "ft"
-   ],
-   "markets": [
-    "pb_y_iou_t1_1_5"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-13 10:17",
+ "count": 0,
+ "matches": []
 }

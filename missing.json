@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 19:33",
- "count": 5,
+ "updated_utc": "2026-10-13 19:48",
+ "count": 4,
  "matches": [
   {
    "id": 2746281,
@@ -47,23 +47,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-13 19:00",
    "kickoff_utc": "2026-10-13 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 2873187,
-   "home": "SV Pachern",
-   "away": "DSV Leoben",
-   "league": "Steiermark, Landesliga",
-   "country": "Austria Amateur",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 20:00",
-   "kickoff_utc": "2026-10-13 17:00",
    "status": "no_result",
    "needs": [
     "ft"

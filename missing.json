@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-13 04:12",
+ "updated_utc": "2026-10-13 10:02",
  "count": 1,
  "matches": [
   {
@@ -9,9 +9,15 @@
    "league": "Brasileiro Serie A",
    "country": "Brazil",
    "sport": "football",
-   "kickoff_utc": "2026-10-13 01:30",
+   "kickoff_eat": "2026-10-13 01:30",
+   "kickoff_utc": "2026-10-12 22:30",
+   "status": "no_result",
    "needs": [
-    "cards"
+    "cards",
+    "ft"
+   ],
+   "markets": [
+    "pb_y_iou_t1_1_5"
    ]
   }
  ]

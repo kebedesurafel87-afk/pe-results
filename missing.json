@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-13 19:18",
- "count": 3,
+ "updated_utc": "2026-10-13 19:33",
+ "count": 5,
  "matches": [
   {
    "id": 2746281,
@@ -53,6 +53,40 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 2873187,
+   "home": "SV Pachern",
+   "away": "DSV Leoben",
+   "league": "Steiermark, Landesliga",
+   "country": "Austria Amateur",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 20:00",
+   "kickoff_utc": "2026-10-13 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 2876745,
+   "home": "Ilzer SV",
+   "away": "USV St. Anna am Aigen",
+   "league": "Steiermark, Landesliga",
+   "country": "Austria Amateur",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 20:00",
+   "kickoff_utc": "2026-10-13 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_4_5"
    ]
   }
  ]

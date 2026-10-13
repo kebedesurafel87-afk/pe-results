@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-13 20:48",
+ "updated_utc": "2026-10-13 21:03",
  "count": 9,
  "matches": [
   {
@@ -70,43 +70,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871395,
-   "home": "Cheltenham Town",
-   "away": "Tottenham Hotspur FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871396,
-   "home": "Walsall FC",
-   "away": "Fulham FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
     "double_chance"
    ]
   },
@@ -129,6 +92,40 @@
    ]
   },
   {
+   "id": 2871395,
+   "home": "Cheltenham Town",
+   "away": "Tottenham Hotspur FC",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
+  },
+  {
+   "id": 2871397,
+   "home": "Gillingham FC",
+   "away": "Brighton and Hove Albion",
+   "league": "EFL Trophy",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-13 21:00",
+   "kickoff_utc": "2026-10-13 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
+  },
+  {
    "id": 2871410,
    "home": "Reading FC",
    "away": "Chelsea FC",
@@ -142,14 +139,13 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "double_chance"
    ]
   },
   {
-   "id": 2871397,
-   "home": "Gillingham FC",
-   "away": "Brighton and Hove Albion",
+   "id": 2871396,
+   "home": "Walsall FC",
+   "away": "Fulham FC",
    "league": "EFL Trophy",
    "country": "England",
    "sport": "football",

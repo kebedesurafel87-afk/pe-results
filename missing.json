@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-14 22:34",
- "count": 5,
+ "updated_utc": "2026-10-14 22:49",
+ "count": 4,
  "matches": [
   {
    "id": 2859352,
@@ -70,24 +70,6 @@
    ],
    "markets": [
     "double_chance"
-   ]
-  },
-  {
-   "id": 2875144,
-   "home": "Ittihad Tanger",
-   "away": "Maghreb AS de Fes",
-   "league": "Botola Pro D1",
-   "country": "Morocco",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 23:00",
-   "kickoff_utc": "2026-10-14 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance",
-    "over_under_1_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-14 17:34",
- "count": 1,
+ "updated_utc": "2026-10-14 18:49",
+ "count": 2,
  "matches": [
   {
    "id": 2279192,
@@ -11,6 +11,23 @@
    "sport": "football",
    "kickoff_eat": "2026-10-14 18:00",
    "kickoff_utc": "2026-10-14 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 2824341,
+   "home": "FC Nizhny Novgorod",
+   "away": "FC Shinnik Yaroslavl",
+   "league": "Russian Cup",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-14 19:15",
+   "kickoff_utc": "2026-10-14 16:15",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-14 20:34",
- "count": 6,
+ "updated_utc": "2026-10-14 20:49",
+ "count": 4,
  "matches": [
-  {
-   "id": 2824341,
-   "home": "FC Nizhny Novgorod",
-   "away": "FC Shinnik Yaroslavl",
-   "league": "Russian Cup",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 19:15",
-   "kickoff_utc": "2026-10-14 16:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 2859352,
    "home": "Als Omonia",
@@ -34,25 +17,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 2865950,
-   "home": "UD Santarem",
-   "away": "Gil Vicente Barcelos",
-   "league": "Taca de Portugal",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 21:00",
-   "kickoff_utc": "2026-10-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "over_under_1_5"
    ]
   },
   {

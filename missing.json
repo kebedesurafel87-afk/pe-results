@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-14 21:04",
- "count": 5,
+ "updated_utc": "2026-10-14 21:34",
+ "count": 4,
  "matches": [
   {
    "id": 2859352,
@@ -70,24 +70,6 @@
    ],
    "markets": [
     "double_chance"
-   ]
-  },
-  {
-   "id": 2873409,
-   "home": "RC Recreativo de Huelva",
-   "away": "CDA Navalcarnero",
-   "league": "Copa Federacion",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 21:30",
-   "kickoff_utc": "2026-10-14 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance",
-    "over_under_1_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-14 08:48",
- "count": 4,
+ "updated_utc": "2026-10-14 09:18",
+ "count": 1,
  "matches": [
   {
    "id": 2876805,
@@ -17,57 +17,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 2871396,
-   "home": "Walsall FC",
-   "away": "Fulham FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871397,
-   "home": "Gillingham FC",
-   "away": "Brighton and Hove Albion",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871410,
-   "home": "Reading FC",
-   "away": "Chelsea FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   }
  ]

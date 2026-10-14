@@ -1,23 +1,5 @@
 {
- "updated_utc": "2026-10-14 09:18",
- "count": 1,
- "matches": [
-  {
-   "id": 2876805,
-   "home": "Hapoel Acre FC",
-   "away": "Bnei Yehuda Tel Aviv FC",
-   "league": "League Cup, National",
-   "country": "Israel",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 19:00",
-   "kickoff_utc": "2026-10-13 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-14 09:33",
+ "count": 0,
+ "matches": []
 }

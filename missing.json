@@ -1,43 +1,7 @@
 {
- "updated_utc": "2026-10-13 21:03",
- "count": 9,
+ "updated_utc": "2026-10-14 08:48",
+ "count": 4,
  "matches": [
-  {
-   "id": 2746281,
-   "home": "Shanghai Port FC",
-   "away": "Daejeon Citizen FC",
-   "league": "AFC Champions League Elite",
-   "country": "International Clubs",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 13:00",
-   "kickoff_utc": "2026-10-13 10:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_ou_9"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
-   "id": 2746283,
-   "home": "Buriram United",
-   "away": "Beijing Guoan",
-   "league": "AFC Champions League Elite",
-   "country": "International Clubs",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 15:15",
-   "kickoff_utc": "2026-10-13 12:15",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_ou_9"
-   ],
-   "stored_ft": "0-1"
-  },
   {
    "id": 2876805,
    "home": "Hapoel Acre FC",
@@ -56,45 +20,9 @@
    ]
   },
   {
-   "id": 2871394,
-   "home": "Oldham Athletic",
-   "away": "Leeds United",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871484,
-   "home": "Notts County",
-   "away": "Nottingham Forest FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871395,
-   "home": "Cheltenham Town",
-   "away": "Tottenham Hotspur FC",
+   "id": 2871396,
+   "home": "Walsall FC",
+   "away": "Fulham FC",
    "league": "EFL Trophy",
    "country": "England",
    "sport": "football",
@@ -129,23 +57,6 @@
    "id": 2871410,
    "home": "Reading FC",
    "away": "Chelsea FC",
-   "league": "EFL Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-13 21:00",
-   "kickoff_utc": "2026-10-13 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 2871396,
-   "home": "Walsall FC",
-   "away": "Fulham FC",
    "league": "EFL Trophy",
    "country": "England",
    "sport": "football",

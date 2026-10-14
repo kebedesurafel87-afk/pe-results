@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-14 19:34",
- "count": 2,
+ "updated_utc": "2026-10-14 20:34",
+ "count": 6,
  "matches": [
   {
    "id": 2824341,
@@ -34,6 +34,78 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 2865950,
+   "home": "UD Santarem",
+   "away": "Gil Vicente Barcelos",
+   "league": "Taca de Portugal",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-10-14 21:00",
+   "kickoff_utc": "2026-10-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 2859450,
+   "home": "Resende FC RJ",
+   "away": "Americano RJ",
+   "league": "U20 Carioca, Serie A2",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-14 21:00",
+   "kickoff_utc": "2026-10-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance",
+    "over_under_0_5"
+   ]
+  },
+  {
+   "id": 2859451,
+   "home": "America FC RJ",
+   "away": "Serrano FC RJ",
+   "league": "U20 Carioca, Serie A2",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-14 21:00",
+   "kickoff_utc": "2026-10-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 2859454,
+   "home": "Bonsucesso FC RJ",
+   "away": "Olaria AC RJ",
+   "league": "U20 Carioca, Serie A2",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-14 21:00",
+   "kickoff_utc": "2026-10-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
    ]
   }
  ]

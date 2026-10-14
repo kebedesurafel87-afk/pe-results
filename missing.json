@@ -1,23 +1,5 @@
 {
- "updated_utc": "2026-10-14 12:33",
- "count": 1,
- "matches": [
-  {
-   "id": 2863639,
-   "home": "Nagoya Grampus",
-   "away": "Fagiano Okayama",
-   "league": "J.League Cup",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 13:00",
-   "kickoff_utc": "2026-10-14 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-14 13:03",
+ "count": 0,
+ "matches": []
 }

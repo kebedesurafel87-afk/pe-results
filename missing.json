@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-15 20:11",
- "count": 3,
+ "updated_utc": "2026-10-15 21:11",
+ "count": 2,
  "matches": [
   {
    "id": 2878127,
@@ -16,7 +16,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -36,33 +35,6 @@
    "markets": [
     "dc",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 2770674,
-   "home": "Union Saint-Gilloise",
-   "away": "Real Sociedad San Sebastian",
-   "league": "UEFA Europa League",
-   "country": "International Clubs",
-   "sport": "football",
-   "kickoff_eat": "2026-10-15 19:45",
-   "kickoff_utc": "2026-10-15 16:45",
-   "status": "no_result",
-   "needs": [
-    "cards",
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "10_minutes_3_way_from_from_to_to",
-    "1x2",
-    "2nd_half_over_under_2_5",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_4_5",
-    "pb_y_iou_t2_1_5"
    ]
   }
  ]

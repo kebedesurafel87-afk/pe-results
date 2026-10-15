@@ -1,40 +1,5 @@
 {
- "updated_utc": "2026-10-15 14:10",
- "count": 2,
- "matches": [
-  {
-   "id": 2859352,
-   "home": "Als Omonia",
-   "away": "Aep Polemidion",
-   "league": "Cyprus Cup",
-   "country": "Cyprus",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 20:00",
-   "kickoff_utc": "2026-10-14 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 2859451,
-   "home": "America FC RJ",
-   "away": "Serrano FC RJ",
-   "league": "U20 Carioca, Serie A2",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-14 21:00",
-   "kickoff_utc": "2026-10-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-15 14:25",
+ "count": 0,
+ "matches": []
 }

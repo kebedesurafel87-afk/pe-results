@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-15 17:40",
- "count": 3,
+ "updated_utc": "2026-10-15 18:10",
+ "count": 2,
  "matches": [
-  {
-   "id": 2879901,
-   "home": "Maan SC",
-   "away": "Jerash Club",
-   "league": "First Division",
-   "country": "Jordan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-15 16:00",
-   "kickoff_utc": "2026-10-15 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
   {
    "id": 2878127,
    "home": "Al Hashemehya",

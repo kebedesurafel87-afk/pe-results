@@ -1,25 +1,7 @@
 {
- "updated_utc": "2026-10-16 02:26",
- "count": 2,
+ "updated_utc": "2026-10-16 04:56",
+ "count": 1,
  "matches": [
-  {
-   "id": 2878128,
-   "home": "Sahl Horan SC",
-   "away": "Ittihad AL Ramtha",
-   "league": "First Division",
-   "country": "Jordan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-15 18:00",
-   "kickoff_utc": "2026-10-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_1_5"
-   ]
-  },
   {
    "id": 2850160,
    "home": "Dragonas IDV",

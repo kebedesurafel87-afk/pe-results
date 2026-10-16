@@ -1,23 +1,5 @@
 {
- "updated_utc": "2026-10-16 20:41",
- "count": 1,
- "matches": [
-  {
-   "id": 2785133,
-   "home": "Young Violets Wien",
-   "away": "FC Hertha Wels",
-   "league": "2. Liga",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-16 19:30",
-   "kickoff_utc": "2026-10-16 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-16 21:11",
+ "count": 0,
+ "matches": []
 }

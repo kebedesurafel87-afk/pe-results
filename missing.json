@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-17 14:42",
- "count": 4,
+ "updated_utc": "2026-10-17 15:42",
+ "count": 3,
  "matches": [
   {
    "id": 2879613,
@@ -48,23 +48,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-17 14:00",
    "kickoff_utc": "2026-10-17 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 2279702,
-   "home": "Malmo FF",
-   "away": "AIK DFF",
-   "league": "Damallsvenskan",
-   "country": "Sweden",
-   "sport": "football",
-   "kickoff_eat": "2026-10-17 15:00",
-   "kickoff_utc": "2026-10-17 12:00",
    "status": "no_result",
    "needs": [
     "ft"

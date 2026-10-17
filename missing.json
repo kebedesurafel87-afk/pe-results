@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-17 00:42",
- "count": 1,
+ "updated_utc": "2026-10-17 01:12",
+ "count": 2,
  "matches": [
   {
    "id": 2879613,
@@ -18,6 +18,25 @@
    ],
    "markets": [
     "1st_half_over_under_2_5"
+   ]
+  },
+  {
+   "id": 2279584,
+   "home": "AA Ponte Preta SP",
+   "away": "AC Goianiense GO",
+   "league": "Brasileiro Serie B",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-17 01:30",
+   "kickoff_utc": "2026-10-16 22:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_1_5",
+    "1x2"
    ]
   }
  ]

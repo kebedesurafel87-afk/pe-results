@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-17 23:42",
- "count": 3,
+ "updated_utc": "2026-10-17 23:57",
+ "count": 2,
  "matches": [
   {
    "id": 2879613,
@@ -36,25 +36,6 @@
    ],
    "markets": [
     "1st_half_over_under_1_5",
-    "1x2"
-   ]
-  },
-  {
-   "id": 2279799,
-   "home": "Botafogo FR RJ",
-   "away": "Chapecoense SC",
-   "league": "Brasileiro Serie A",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-18 00:00",
-   "kickoff_utc": "2026-10-17 21:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
     "1x2"
    ]
   }

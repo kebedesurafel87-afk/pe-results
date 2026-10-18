@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-18 00:12",
- "count": 3,
+ "updated_utc": "2026-10-18 13:43",
+ "count": 4,
  "matches": [
   {
    "id": 2879613,
@@ -55,6 +55,23 @@
    ],
    "markets": [
     "1st_half_both_teams_to_score"
+   ]
+  },
+  {
+   "id": 2279696,
+   "home": "Hacken Gothenburg",
+   "away": "Hammarby IF",
+   "league": "Damallsvenskan",
+   "country": "Sweden",
+   "sport": "football",
+   "kickoff_eat": "2026-10-18 14:00",
+   "kickoff_utc": "2026-10-18 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

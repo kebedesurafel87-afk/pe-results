@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-18 13:43",
- "count": 4,
+ "updated_utc": "2026-10-18 14:43",
+ "count": 6,
  "matches": [
   {
    "id": 2879613,
@@ -71,6 +71,41 @@
     "ft"
    ],
    "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 2279697,
+   "home": "Djurgardens IF DFF",
+   "away": "Piteaa IF DFF",
+   "league": "Damallsvenskan",
+   "country": "Sweden",
+   "sport": "football",
+   "kickoff_eat": "2026-10-18 15:00",
+   "kickoff_utc": "2026-10-18 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 2790566,
+   "home": "Kuopion Palloseura",
+   "away": "Vaasan Palloseura",
+   "league": "Veikkausliiga",
+   "country": "Finland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-18 15:00",
+   "kickoff_utc": "2026-10-18 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
     "dc"
    ]
   }

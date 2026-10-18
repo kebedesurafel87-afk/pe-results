@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-18 16:37",
- "count": 7,
+ "updated_utc": "2026-10-18 16:52",
+ "count": 5,
  "matches": [
   {
    "id": 2879613,
@@ -37,24 +37,6 @@
    "markets": [
     "1st_half_over_under_1_5",
     "1x2"
-   ]
-  },
-  {
-   "id": 2279807,
-   "home": "Atletico Mineiro MG",
-   "away": "Coritiba FC PR",
-   "league": "Brasileiro Serie A",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-18 00:30",
-   "kickoff_utc": "2026-10-17 21:30",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score"
    ]
   },
   {
@@ -106,23 +88,6 @@
    ],
    "markets": [
     "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 2675710,
-   "home": "Hammarby Talang Ff",
-   "away": "IF Karlstad Fotbol",
-   "league": "Ettan",
-   "country": "Sweden",
-   "sport": "football",
-   "kickoff_eat": "2026-10-18 17:00",
-   "kickoff_utc": "2026-10-18 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "dc"
    ]
   }

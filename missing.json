@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-18 14:43",
- "count": 6,
+ "updated_utc": "2026-10-18 16:37",
+ "count": 7,
  "matches": [
   {
    "id": 2879613,
@@ -106,6 +106,23 @@
    ],
    "markets": [
     "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 2675710,
+   "home": "Hammarby Talang Ff",
+   "away": "IF Karlstad Fotbol",
+   "league": "Ettan",
+   "country": "Sweden",
+   "sport": "football",
+   "kickoff_eat": "2026-10-18 17:00",
+   "kickoff_utc": "2026-10-18 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

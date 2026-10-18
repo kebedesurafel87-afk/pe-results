@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-18 16:52",
- "count": 5,
+ "updated_utc": "2026-10-18 18:37",
+ "count": 6,
  "matches": [
   {
    "id": 2879613,
@@ -88,6 +88,23 @@
    ],
    "markets": [
     "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 2832672,
+   "home": "Als Omonia",
+   "away": "Anorthosis Famagusta",
+   "league": "1st Division",
+   "country": "Cyprus",
+   "sport": "football",
+   "kickoff_eat": "2026-10-18 19:00",
+   "kickoff_utc": "2026-10-18 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

@@ -1,27 +1,5 @@
 {
- "updated_utc": "2026-10-20 17:34",
- "count": 1,
- "matches": [
-  {
-   "id": 2795422,
-   "home": "Wadi Degla SC",
-   "away": "National Bank of Egypt SC",
-   "league": "Premier League",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-20 18:00",
-   "kickoff_utc": "2026-10-20 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "double_chance_over_under_3_5",
-    "over_under_3_5"
-   ]
-  }
- ]
+ "updated_utc": "2026-10-20 19:19",
+ "count": 0,
+ "matches": []
 }

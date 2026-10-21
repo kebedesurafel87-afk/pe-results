@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:50",
- "count": 11,
+ "updated_utc": "2026-10-21 21:05",
+ "count": 10,
  "matches": [
   {
    "id": 902496344,
@@ -169,25 +169,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "handicap_hcp_4_0"
-   ]
-  },
-  {
-   "id": 902499665,
-   "home": "Hope International U20",
-   "away": "Fanatico U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 21:00",
-   "kickoff_utc": "2026-10-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
+    "1x2"
    ]
   }
  ]

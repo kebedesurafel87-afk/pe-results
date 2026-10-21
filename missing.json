@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:05",
- "count": 10,
+ "updated_utc": "2026-10-21 20:20",
+ "count": 12,
  "matches": [
   {
    "id": 902496344,
@@ -170,6 +170,41 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902496598,
+   "home": "Lugano (W)",
+   "away": "Rot-Schwarz Thun (W)",
+   "league": "Nationalliga B Women",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-21 20:45",
+   "kickoff_utc": "2026-10-21 17:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "handicap_hcp_4_0"
+   ]
+  },
+  {
+   "id": 902496213,
+   "home": "Pachuca U19",
+   "away": "Cruz Azul U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-21 20:45",
+   "kickoff_utc": "2026-10-21 17:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

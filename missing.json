@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 20:20",
- "count": 12,
+ "updated_utc": "2026-10-21 20:35",
+ "count": 13,
  "matches": [
   {
    "id": 902496344,
@@ -122,23 +122,6 @@
    ]
   },
   {
-   "id": 902496778,
-   "home": "Jerez",
-   "away": "UP Plasencia",
-   "league": "Tercera Div. RFEF Group 14",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 20:00",
-   "kickoff_utc": "2026-10-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902496215,
    "home": "Toluca U19",
    "away": "Tijuana U19",
@@ -199,6 +182,40 @@
    "sport": "football",
    "kickoff_eat": "2026-10-21 20:45",
    "kickoff_utc": "2026-10-21 17:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902499665,
+   "home": "Hope International U20",
+   "away": "Fanatico U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-21 21:00",
+   "kickoff_utc": "2026-10-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902496116,
+   "home": "Yverdon Sport FC II",
+   "away": "Grenchen",
+   "league": "2 Liga Interregional",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-21 21:00",
+   "kickoff_utc": "2026-10-21 18:00",
    "status": "no_result",
    "needs": [
     "ft"

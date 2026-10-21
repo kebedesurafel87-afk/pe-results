@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 16:35",
- "count": 5,
+ "updated_utc": "2026-10-21 16:50",
+ "count": 4,
  "matches": [
   {
    "id": 902496344,
@@ -62,23 +62,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-21 15:30",
    "kickoff_utc": "2026-10-21 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902497418,
-   "home": "AEK Larnaca",
-   "away": "Akritas Chlorakas",
-   "league": "Cyprus Cup",
-   "country": "Cyprus",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 17:00",
-   "kickoff_utc": "2026-10-21 14:00",
    "status": "no_result",
    "needs": [
     "ft"

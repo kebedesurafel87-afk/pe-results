@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 23:35",
- "count": 12,
+ "updated_utc": "2026-10-21 23:50",
+ "count": 9,
  "matches": [
   {
    "id": 902496344,
@@ -88,23 +88,6 @@
    ]
   },
   {
-   "id": 902500970,
-   "home": "Ballerup-Skovlunde (W)",
-   "away": "Odense BK (W)",
-   "league": "Danish Cup Women",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 20:00",
-   "kickoff_utc": "2026-10-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902496780,
    "home": "Necaxa U19 (W)",
    "away": "Atlas U19 (W)",
@@ -156,23 +139,6 @@
    ]
   },
   {
-   "id": 902496598,
-   "home": "Lugano (W)",
-   "away": "Rot-Schwarz Thun (W)",
-   "league": "Nationalliga B Women",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 20:45",
-   "kickoff_utc": "2026-10-21 17:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902458673,
    "home": "Sporting Lisbon",
    "away": "LASK Linz",
@@ -198,23 +164,6 @@
     "pb_cor_1x2",
     "pbx_1x2_10m",
     "pbx_ou_0_15_0_5"
-   ]
-  },
-  {
-   "id": 902501758,
-   "home": "22 de Julio",
-   "away": "LDU Portoviejo",
-   "league": "Serie B",
-   "country": "Ecuador",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 23:00",
-   "kickoff_utc": "2026-10-21 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

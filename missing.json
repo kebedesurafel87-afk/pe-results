@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-21 18:05",
- "count": 6,
+ "updated_utc": "2026-10-21 18:50",
+ "count": 5,
  "matches": [
   {
    "id": 902496344,
@@ -85,23 +85,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902496235,
-   "home": "Acassuso (R)",
-   "away": "Estudiantes Caseros (R)",
-   "league": "Reserve League",
-   "country": "Argentina",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 18:30",
-   "kickoff_utc": "2026-10-21 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   }
  ]

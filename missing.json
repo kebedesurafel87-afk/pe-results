@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-21 14:05",
- "count": 2,
+ "updated_utc": "2026-10-21 14:20",
+ "count": 1,
  "matches": [
-  {
-   "id": 902495195,
-   "home": "Rasi Salai United",
-   "away": "Port FC",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 14:00",
-   "kickoff_utc": "2026-10-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902495380,
    "home": "Lion City Sailors",

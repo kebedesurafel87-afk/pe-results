@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 23:03",
- "count": 12,
+ "updated_utc": "2026-10-22 23:33",
+ "count": 11,
  "matches": [
   {
    "id": 902493852,
@@ -188,24 +188,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902505781,
-   "home": "Libertad Asuncion (W)",
-   "away": "Nacional De Football (W)",
-   "league": "Copa Libertadores Women",
-   "country": "South America",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 23:00",
-   "kickoff_utc": "2026-10-22 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 16:03",
- "count": 14,
+ "updated_utc": "2026-10-22 16:18",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -193,25 +193,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902500100,
-   "home": "Al Wasl SC",
-   "away": "Al Ittihad Kalba",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 16:00",
-   "kickoff_utc": "2026-10-22 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   },
   {

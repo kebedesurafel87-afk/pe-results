@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 16:18",
- "count": 13,
+ "updated_utc": "2026-10-22 16:48",
+ "count": 14,
  "matches": [
   {
    "id": 902493852,
@@ -227,6 +227,23 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902496940,
+   "home": "Muscat",
+   "away": "Al-Wehda Sur",
+   "league": "1st Division",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 17:05",
+   "kickoff_utc": "2026-10-22 14:05",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
    ]
   }
  ]

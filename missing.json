@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 18:48",
- "count": 12,
+ "updated_utc": "2026-10-22 19:03",
+ "count": 10,
  "matches": [
   {
    "id": 902493852,
@@ -173,42 +173,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902500098,
-   "home": "KCCA",
-   "away": "UPDF",
-   "league": "Premier League",
-   "country": "Uganda",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 19:00",
-   "kickoff_utc": "2026-10-22 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902500101,
-   "home": "Shabab Al Ahli Dubai",
-   "away": "Al Ain",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 19:00",
-   "kickoff_utc": "2026-10-22 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "over_under_1_5"
    ]
   }
  ]

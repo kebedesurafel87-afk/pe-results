@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 19:48",
- "count": 10,
+ "updated_utc": "2026-10-22 20:33",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -173,6 +173,62 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902490829,
+   "home": "Al Ahli Jeddah",
+   "away": "Al Khaleej Saihat",
+   "league": "Professional League",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 21:00",
+   "kickoff_utc": "2026-10-22 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902503192,
+   "home": "M10 Rio Largo U20",
+   "away": "CS Alagoano U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 21:00",
+   "kickoff_utc": "2026-10-22 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902503193,
+   "home": "Cs Esportiva AL U20",
+   "away": "CRB U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 21:00",
+   "kickoff_utc": "2026-10-22 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

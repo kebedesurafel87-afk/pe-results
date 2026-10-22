@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 15:03",
- "count": 7,
+ "updated_utc": "2026-10-22 15:33",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -122,6 +122,113 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902500104,
+   "home": "Al Fujairah U21",
+   "away": "Al Jazira U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 15:55",
+   "kickoff_utc": "2026-10-22 12:55",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902500606,
+   "home": "Al Orooba U21",
+   "away": "Al-Shahama FC U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 15:55",
+   "kickoff_utc": "2026-10-22 12:55",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902500103,
+   "home": "Emirates U21",
+   "away": "Al Sharjah U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 15:55",
+   "kickoff_utc": "2026-10-22 12:55",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902500102,
+   "home": "Shabab Al Ahli Dubai U21",
+   "away": "Al Arabi Umm Al Quwain U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 15:55",
+   "kickoff_utc": "2026-10-22 12:55",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902500100,
+   "home": "Al Wasl SC",
+   "away": "Al Ittihad Kalba",
+   "league": "President Cup",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 16:00",
+   "kickoff_utc": "2026-10-22 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902496343,
+   "home": "Majees",
+   "away": "Bidiyah",
+   "league": "1st Division",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 16:00",
+   "kickoff_utc": "2026-10-22 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
    ]
   }
  ]

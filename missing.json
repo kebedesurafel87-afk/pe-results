@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 15:33",
- "count": 13,
+ "updated_utc": "2026-10-22 16:03",
+ "count": 14,
  "matches": [
   {
    "id": 902493852,
@@ -229,6 +229,23 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902502352,
+   "home": "Rosenborg U19",
+   "away": "Stabaek U19",
+   "league": "Youth Cup",
+   "country": "Norway",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 16:30",
+   "kickoff_utc": "2026-10-22 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

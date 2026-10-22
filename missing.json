@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 01:51",
- "count": 10,
+ "updated_utc": "2026-10-22 03:36",
+ "count": 9,
  "matches": [
   {
    "id": 902496344,
@@ -108,23 +108,6 @@
    "id": 902496215,
    "home": "Toluca U19",
    "away": "Tijuana U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 20:30",
-   "kickoff_utc": "2026-10-21 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902496214,
-   "home": "Puebla U19",
-   "away": "Monterrey U19",
    "league": "Liga MX U19",
    "country": "Mexico",
    "sport": "football",

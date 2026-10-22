@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 16:48",
- "count": 14,
+ "updated_utc": "2026-10-22 18:03",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -193,23 +193,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902496343,
-   "home": "Majees",
-   "away": "Bidiyah",
-   "league": "1st Division",
-   "country": "Oman",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 16:00",
-   "kickoff_utc": "2026-10-22 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {

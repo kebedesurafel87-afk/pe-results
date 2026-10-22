@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 18:33",
- "count": 16,
+ "updated_utc": "2026-10-22 18:48",
+ "count": 12,
  "matches": [
   {
    "id": 902493852,
@@ -103,44 +103,7 @@
    ],
    "markets": [
     "1st_half_3_way",
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902500246,
-   "home": "Gia Dinh",
-   "away": "PVF-CAND",
-   "league": "V-League 2",
-   "country": "Vietnam",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 14:00",
-   "kickoff_utc": "2026-10-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902500104,
-   "home": "Al Fujairah U21",
-   "away": "Al Jazira U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 15:55",
-   "kickoff_utc": "2026-10-22 12:55",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "pbx_iou_t1_h1_0_5"
+    "1x2"
    ]
   },
   {
@@ -179,9 +142,9 @@
    ]
   },
   {
-   "id": 902500102,
-   "home": "Shabab Al Ahli Dubai U21",
-   "away": "Al Arabi Umm Al Quwain U21",
+   "id": 902500104,
+   "home": "Al Fujairah U21",
+   "away": "Al Jazira U21",
    "league": "League U21",
    "country": "United Arab Emirates",
    "sport": "football",
@@ -213,23 +176,6 @@
    ]
   },
   {
-   "id": 902496940,
-   "home": "Muscat",
-   "away": "Al-Wehda Sur",
-   "league": "1st Division",
-   "country": "Oman",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 17:05",
-   "kickoff_utc": "2026-10-22 14:05",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902500098,
    "home": "KCCA",
    "away": "UPDF",
@@ -243,26 +189,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902497134,
-   "home": "Tallinna FC Flora II",
-   "away": "Nomme United 2",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 19:00",
-   "kickoff_utc": "2026-10-22 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
+    "1x2"
    ]
   },
   {
@@ -281,7 +208,6 @@
    "markets": [
     "1x2",
     "btts",
-    "dc",
     "over_under_1_5"
    ]
   }

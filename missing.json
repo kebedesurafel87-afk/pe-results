@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 18:03",
- "count": 13,
+ "updated_utc": "2026-10-22 18:33",
+ "count": 16,
  "matches": [
   {
    "id": 902493852,
@@ -227,6 +227,62 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902500098,
+   "home": "KCCA",
+   "away": "UPDF",
+   "league": "Premier League",
+   "country": "Uganda",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 19:00",
+   "kickoff_utc": "2026-10-22 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902497134,
+   "home": "Tallinna FC Flora II",
+   "away": "Nomme United 2",
+   "league": "Esiliiga",
+   "country": "Estonia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 19:00",
+   "kickoff_utc": "2026-10-22 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902500101,
+   "home": "Shabab Al Ahli Dubai",
+   "away": "Al Ain",
+   "league": "President Cup",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 19:00",
+   "kickoff_utc": "2026-10-22 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "over_under_1_5"
    ]
   }
  ]

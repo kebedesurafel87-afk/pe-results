@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 13:33",
- "count": 7,
+ "updated_utc": "2026-10-22 14:33",
+ "count": 8,
  "matches": [
   {
    "id": 902493852,
@@ -124,6 +124,29 @@
    "markets": [
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902499673,
+   "home": "Kedus Giorgis",
+   "away": "Adama City",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 15:00",
+   "kickoff_utc": "2026-10-22 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "pbx_rtgnlu_t1_2_5"
    ]
   }
  ]

@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-22 04:47",
- "count": 8,
+ "updated_utc": "2026-10-22 06:33",
+ "count": 4,
  "matches": [
-  {
-   "id": 902496344,
-   "home": "Real Succes (W)",
-   "away": "Dacia Buiucani (w)",
-   "league": "National Division Women",
-   "country": "Moldova",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 15:00",
-   "kickoff_utc": "2026-10-21 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902493852,
    "home": "El Olympi",
@@ -54,23 +37,6 @@
    ]
   },
   {
-   "id": 902493857,
-   "home": "El Alameen",
-   "away": "Al Shahaniya",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 15:30",
-   "kickoff_utc": "2026-10-21 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902496599,
    "home": "Cruz Azul U19 (W)",
    "away": "Atlante U19 (W)",
@@ -85,51 +51,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902496780,
-   "home": "Necaxa U19 (W)",
-   "away": "Atlas U19 (W)",
-   "league": "Liga MX U19 Femenil",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 20:00",
-   "kickoff_utc": "2026-10-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902458673,
-   "home": "Sporting Lisbon",
-   "away": "LASK Linz",
-   "league": "UEFA Champions League",
-   "country": "International Clubs",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 22:00",
-   "kickoff_utc": "2026-10-21 19:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "over_under_4_5",
-    "pb_cor_1x2",
-    "pbx_1x2_10m",
-    "pbx_ou_0_15_0_5"
    ]
   },
   {

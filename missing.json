@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 11:18",
- "count": 5,
+ "updated_utc": "2026-10-22 13:03",
+ "count": 6,
  "matches": [
   {
    "id": 902493852,
@@ -85,6 +85,27 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902500039,
+   "home": "FC Bengaluru United",
+   "away": "Kodagu FC",
+   "league": "Bangalore Super Division",
+   "country": "India",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 13:30",
+   "kickoff_utc": "2026-10-22 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-22 00:21",
- "count": 10,
+ "updated_utc": "2026-10-22 00:36",
+ "count": 11,
  "matches": [
   {
    "id": 902496344,
@@ -175,6 +175,23 @@
    "sport": "football",
    "kickoff_eat": "2026-10-22 00:45",
    "kickoff_utc": "2026-10-21 21:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902421187,
+   "home": "Universidad de Chile",
+   "away": "Antofagasta",
+   "league": "Chile Cup",
+   "country": "Chile",
+   "sport": "football",
+   "kickoff_eat": "2026-10-22 01:00",
+   "kickoff_utc": "2026-10-21 22:00",
    "status": "no_result",
    "needs": [
     "ft"

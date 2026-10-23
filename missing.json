@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 20:35",
- "count": 26,
+ "updated_utc": "2026-10-23 20:50",
+ "count": 24,
  "matches": [
   {
    "id": 902493852,
@@ -292,23 +292,6 @@
    ]
   },
   {
-   "id": 902513944,
-   "home": "Gaborone United",
-   "away": "Nico United",
-   "league": "Botswana Cup",
-   "country": "Botswana",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 20:00",
-   "kickoff_utc": "2026-10-23 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902506720,
    "home": "SC/ESV Parndorf",
    "away": "USV Scheiblingkirchen",
@@ -343,11 +326,11 @@
    ]
   },
   {
-   "id": 902506723,
-   "home": "Dornbirn 1913",
-   "away": "SCR Altach Juniors",
-   "league": "Regionalliga West",
-   "country": "Austria",
+   "id": 902513944,
+   "home": "Gaborone United",
+   "away": "Nico United",
+   "league": "Botswana Cup",
+   "country": "Botswana",
    "sport": "football",
    "kickoff_eat": "2026-10-23 20:00",
    "kickoff_utc": "2026-10-23 17:00",
@@ -360,32 +343,14 @@
    ]
   },
   {
-   "id": 902473035,
-   "home": "AZ II",
-   "away": "Helmond Sport",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
+   "id": 902506723,
+   "home": "Dornbirn 1913",
+   "away": "SCR Altach Juniors",
+   "league": "Regionalliga West",
+   "country": "Austria",
    "sport": "football",
-   "kickoff_eat": "2026-10-23 21:00",
-   "kickoff_utc": "2026-10-23 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902488439,
-   "home": "Anderlecht II",
-   "away": "Lierse Kempenzonen",
-   "league": "First Division B",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 21:00",
-   "kickoff_utc": "2026-10-23 18:00",
+   "kickoff_eat": "2026-10-23 20:00",
+   "kickoff_utc": "2026-10-23 17:00",
    "status": "no_result",
    "needs": [
     "ft"

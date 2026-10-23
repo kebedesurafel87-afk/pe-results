@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 20:50",
- "count": 24,
+ "updated_utc": "2026-10-23 21:05",
+ "count": 23,
  "matches": [
   {
    "id": 902493852,
@@ -357,24 +357,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902509668,
-   "home": "Everton U21",
-   "away": "Wolverhampton U21",
-   "league": "Premier League II",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 21:00",
-   "kickoff_utc": "2026-10-23 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts"
    ]
   },
   {

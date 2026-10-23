@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 12:34",
- "count": 13,
+ "updated_utc": "2026-10-23 13:34",
+ "count": 18,
  "matches": [
   {
    "id": 902493852,
@@ -222,6 +222,91 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902509311,
+   "home": "Azam",
+   "away": "Mashujaa FC",
+   "league": "Premier League",
+   "country": "Tanzania",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 14:00",
+   "kickoff_utc": "2026-10-23 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902507180,
+   "home": "Hubei Istar U20",
+   "away": "Henan U20",
+   "league": "Championship U20",
+   "country": "China",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 14:00",
+   "kickoff_utc": "2026-10-23 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902509310,
+   "home": "Simba SC",
+   "away": "Mbeya City",
+   "league": "Premier League",
+   "country": "Tanzania",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 14:00",
+   "kickoff_utc": "2026-10-23 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902509339,
+   "home": "Dodoma Jiji FC",
+   "away": "Young Africans",
+   "league": "Premier League",
+   "country": "Tanzania",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 14:00",
+   "kickoff_utc": "2026-10-23 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902510392,
+   "home": "SQC Binh Dinh",
+   "away": "Lam Dong",
+   "league": "V-League 2",
+   "country": "Vietnam",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 14:00",
+   "kickoff_utc": "2026-10-23 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_1_5"
    ]
   }
  ]

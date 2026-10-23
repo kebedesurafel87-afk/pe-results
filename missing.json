@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-23 19:34",
+ "updated_utc": "2026-10-23 20:19",
  "count": 21,
  "matches": [
   {
@@ -322,16 +322,15 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
-   "id": 902506723,
-   "home": "Dornbirn 1913",
-   "away": "SCR Altach Juniors",
-   "league": "Regionalliga West",
-   "country": "Austria",
+   "id": 902512751,
+   "home": "Club Necaxa U19",
+   "away": "Juarez U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
    "sport": "football",
    "kickoff_eat": "2026-10-23 20:00",
    "kickoff_utc": "2026-10-23 17:00",
@@ -344,11 +343,11 @@
    ]
   },
   {
-   "id": 902512751,
-   "home": "Club Necaxa U19",
-   "away": "Juarez U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
+   "id": 902506723,
+   "home": "Dornbirn 1913",
+   "away": "SCR Altach Juniors",
+   "league": "Regionalliga West",
+   "country": "Austria",
    "sport": "football",
    "kickoff_eat": "2026-10-23 20:00",
    "kickoff_utc": "2026-10-23 17:00",

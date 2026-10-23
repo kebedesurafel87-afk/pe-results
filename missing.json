@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 15:19",
- "count": 17,
+ "updated_utc": "2026-10-23 15:34",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -207,40 +207,6 @@
    ]
   },
   {
-   "id": 902509310,
-   "home": "Simba SC",
-   "away": "Mbeya City",
-   "league": "Premier League",
-   "country": "Tanzania",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 14:00",
-   "kickoff_utc": "2026-10-23 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902509311,
-   "home": "Azam",
-   "away": "Mashujaa FC",
-   "league": "Premier League",
-   "country": "Tanzania",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 14:00",
-   "kickoff_utc": "2026-10-23 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902507871,
    "home": "FC Orenburg-D",
    "away": "MFA Moscow (youth)",
@@ -249,41 +215,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-23 15:00",
    "kickoff_utc": "2026-10-23 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902509800,
-   "home": "FCSB 2",
-   "away": "ACS Adunatii Copaceni",
-   "league": "League 3",
-   "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 15:00",
-   "kickoff_utc": "2026-10-23 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902499642,
-   "home": "Haras El Hedood",
-   "away": "Proxy SC",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 15:30",
-   "kickoff_utc": "2026-10-23 12:30",
    "status": "no_result",
    "needs": [
     "ft"

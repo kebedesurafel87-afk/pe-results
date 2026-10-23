@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 09:34",
- "count": 11,
+ "updated_utc": "2026-10-23 12:34",
+ "count": 13,
  "matches": [
   {
    "id": 902493852,
@@ -187,6 +187,41 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902509346,
+   "home": "Pelister Bitola U19",
+   "away": "Teteks U19",
+   "league": "League U19",
+   "country": "North Macedonia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 13:00",
+   "kickoff_utc": "2026-10-23 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902509622,
+   "home": "Free Agents",
+   "away": "Boipatong FC",
+   "league": "Second Division",
+   "country": "South Africa",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 13:00",
+   "kickoff_utc": "2026-10-23 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

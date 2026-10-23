@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-23 15:04",
+ "updated_utc": "2026-10-23 15:19",
  "count": 17,
  "matches": [
   {
@@ -207,9 +207,9 @@
    ]
   },
   {
-   "id": 902509311,
-   "home": "Azam",
-   "away": "Mashujaa FC",
+   "id": 902509310,
+   "home": "Simba SC",
+   "away": "Mbeya City",
    "league": "Premier League",
    "country": "Tanzania",
    "sport": "football",
@@ -224,9 +224,9 @@
    ]
   },
   {
-   "id": 902509310,
-   "home": "Simba SC",
-   "away": "Mbeya City",
+   "id": 902509311,
+   "home": "Azam",
+   "away": "Mashujaa FC",
    "league": "Premier League",
    "country": "Tanzania",
    "sport": "football",

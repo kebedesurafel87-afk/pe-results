@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 08:04",
- "count": 12,
+ "updated_utc": "2026-10-23 09:34",
+ "count": 11,
  "matches": [
   {
    "id": 902493852,
@@ -105,24 +105,6 @@
    ]
   },
   {
-   "id": 902500103,
-   "home": "Emirates U21",
-   "away": "Al Sharjah U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 15:55",
-   "kickoff_utc": "2026-10-22 12:55",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902500606,
    "home": "Al Orooba U21",
    "away": "Al-Shahama FC U21",
@@ -157,20 +139,20 @@
    ]
   },
   {
-   "id": 902502352,
-   "home": "Rosenborg U19",
-   "away": "Stabaek U19",
-   "league": "Youth Cup",
-   "country": "Norway",
+   "id": 902500103,
+   "home": "Emirates U21",
+   "away": "Al Sharjah U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
    "sport": "football",
-   "kickoff_eat": "2026-10-22 16:30",
-   "kickoff_utc": "2026-10-22 13:30",
+   "kickoff_eat": "2026-10-22 15:55",
+   "kickoff_utc": "2026-10-22 12:55",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "double_chance"
    ]
   },
   {

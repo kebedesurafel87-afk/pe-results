@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 13:34",
- "count": 18,
+ "updated_utc": "2026-10-23 14:04",
+ "count": 16,
  "matches": [
   {
    "id": 902493852,
@@ -203,25 +203,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902509622,
-   "home": "Free Agents",
-   "away": "Boipatong FC",
-   "league": "Second Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 13:00",
-   "kickoff_utc": "2026-10-23 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -290,23 +272,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902510392,
-   "home": "SQC Binh Dinh",
-   "away": "Lam Dong",
-   "league": "V-League 2",
-   "country": "Vietnam",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 14:00",
-   "kickoff_utc": "2026-10-23 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
    ]
   }
  ]

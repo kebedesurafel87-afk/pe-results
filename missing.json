@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 19:04",
- "count": 17,
+ "updated_utc": "2026-10-23 19:34",
+ "count": 21,
  "matches": [
   {
    "id": 902493852,
@@ -271,8 +271,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -284,6 +283,75 @@
    "sport": "football",
    "kickoff_eat": "2026-10-23 19:00",
    "kickoff_utc": "2026-10-23 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902513944,
+   "home": "Gaborone United",
+   "away": "Nico United",
+   "league": "Botswana Cup",
+   "country": "Botswana",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 20:00",
+   "kickoff_utc": "2026-10-23 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902506720,
+   "home": "SC/ESV Parndorf",
+   "away": "USV Scheiblingkirchen",
+   "league": "Regionalliga East",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 20:00",
+   "kickoff_utc": "2026-10-23 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902506723,
+   "home": "Dornbirn 1913",
+   "away": "SCR Altach Juniors",
+   "league": "Regionalliga West",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 20:00",
+   "kickoff_utc": "2026-10-23 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902512751,
+   "home": "Club Necaxa U19",
+   "away": "Juarez U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 20:00",
+   "kickoff_utc": "2026-10-23 17:00",
    "status": "no_result",
    "needs": [
     "ft"

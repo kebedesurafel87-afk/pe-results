@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 18:49",
- "count": 18,
+ "updated_utc": "2026-10-23 19:04",
+ "count": 17,
  "matches": [
   {
    "id": 902493852,
@@ -290,23 +290,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902509625,
-   "home": "Bidvest Wits University",
-   "away": "Doornkop Students",
-   "league": "Second Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 19:00",
-   "kickoff_utc": "2026-10-23 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   }
  ]

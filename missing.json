@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 18:34",
- "count": 20,
+ "updated_utc": "2026-10-23 18:49",
+ "count": 18,
  "matches": [
   {
    "id": 902493852,
@@ -276,46 +276,11 @@
    ]
   },
   {
-   "id": 902508666,
-   "home": "Dinamo-D Moscow",
-   "away": "FK Krasnodar (Y)",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 19:00",
-   "kickoff_utc": "2026-10-23 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902512354,
    "home": "CF Pachuca III",
    "away": "Alebrijes Teotihuacan",
    "league": "Liga TDP",
    "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 19:00",
-   "kickoff_utc": "2026-10-23 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902509782,
-   "home": "Al Nasr Dubai",
-   "away": "Baniyas",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
    "sport": "football",
    "kickoff_eat": "2026-10-23 19:00",
    "kickoff_utc": "2026-10-23 16:00",

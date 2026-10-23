@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 17:34",
- "count": 15,
+ "updated_utc": "2026-10-23 18:04",
+ "count": 16,
  "matches": [
   {
    "id": 902493852,
@@ -255,6 +255,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902506098,
+   "home": "Honka",
+   "away": "Aifk",
+   "league": "Kakkonen Play-Offs",
+   "country": "Finland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 18:30",
+   "kickoff_utc": "2026-10-23 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

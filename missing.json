@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-23 14:04",
- "count": 16,
+ "updated_utc": "2026-10-23 14:34",
+ "count": 18,
  "matches": [
   {
    "id": 902493852,
@@ -272,6 +272,42 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902507871,
+   "home": "FC Orenburg-D",
+   "away": "MFA Moscow (youth)",
+   "league": "Youth Championship. Division B",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 15:00",
+   "kickoff_utc": "2026-10-23 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902509800,
+   "home": "FCSB 2",
+   "away": "ACS Adunatii Copaceni",
+   "league": "League 3",
+   "country": "Romania",
+   "sport": "football",
+   "kickoff_eat": "2026-10-23 15:00",
+   "kickoff_utc": "2026-10-23 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
    ]
   }
  ]

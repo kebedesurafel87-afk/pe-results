@@ -1,92 +1,7 @@
 {
- "updated_utc": "2026-10-24 04:20",
- "count": 19,
+ "updated_utc": "2026-10-24 04:41",
+ "count": 10,
  "matches": [
-  {
-   "id": 902493858,
-   "home": "Markaz Shabab Al Obour",
-   "away": "RA Sporting",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 15:30",
-   "kickoff_utc": "2026-10-21 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902496599,
-   "home": "Cruz Azul U19 (W)",
-   "away": "Atlante U19 (W)",
-   "league": "Liga MX U19 Femenil",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-21 18:00",
-   "kickoff_utc": "2026-10-21 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902496782,
-   "home": "Puebla U19 (W)",
-   "away": "Queretaro U19 (W)",
-   "league": "Liga MX U19 Femenil",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 00:45",
-   "kickoff_utc": "2026-10-21 21:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902499675,
-   "home": "Kedah U20",
-   "away": "Negeri Sembilan U20",
-   "league": "President's Cup",
-   "country": "Malaysia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 11:45",
-   "kickoff_utc": "2026-10-22 08:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902500039,
-   "home": "FC Bengaluru United",
-   "away": "Kodagu FC",
-   "league": "Bangalore Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 13:30",
-   "kickoff_utc": "2026-10-22 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902500606,
    "home": "Al Orooba U21",
@@ -102,40 +17,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902500104,
-   "home": "Al Fujairah U21",
-   "away": "Al Jazira U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 15:55",
-   "kickoff_utc": "2026-10-22 12:55",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902500103,
-   "home": "Emirates U21",
-   "away": "Al Sharjah U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-10-22 15:55",
-   "kickoff_utc": "2026-10-22 12:55",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   },
   {
@@ -241,23 +122,6 @@
    ]
   },
   {
-   "id": 902512751,
-   "home": "Club Necaxa U19",
-   "away": "Juarez U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 20:00",
-   "kickoff_utc": "2026-10-23 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902513944,
    "home": "Gaborone United",
    "away": "Nico United",
@@ -306,23 +170,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902474485,
-   "home": "Kortrijk",
-   "away": "KV Mechelen",
-   "league": "Pro League",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-10-23 21:45",
-   "kickoff_utc": "2026-10-23 18:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

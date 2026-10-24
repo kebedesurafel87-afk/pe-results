@@ -1,41 +1,7 @@
 {
- "updated_utc": "2026-10-24 15:56",
- "count": 6,
+ "updated_utc": "2026-10-24 16:11",
+ "count": 2,
  "matches": [
-  {
-   "id": 902516533,
-   "home": "Yangon United",
-   "away": "Sagaing United FC",
-   "league": "National League",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 12:00",
-   "kickoff_utc": "2026-10-24 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902515591,
-   "home": "Aarau U19",
-   "away": "Basel U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 14:30",
-   "kickoff_utc": "2026-10-24 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902516595,
    "home": "Fortuna Alesund (W)",
@@ -54,48 +20,14 @@
    ]
   },
   {
-   "id": 902519250,
-   "home": "Kenya Police Bullets (W)",
-   "away": "Mathare United (W)",
-   "league": "League Women",
-   "country": "Kenya",
+   "id": 902496975,
+   "home": "Swansea University",
+   "away": "Treowen Stars",
+   "league": "Championship South",
+   "country": "Wales",
    "sport": "football",
-   "kickoff_eat": "2026-10-24 15:00",
-   "kickoff_utc": "2026-10-24 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902512753,
-   "home": "US Saint Malo (W)",
-   "away": "Paris FC (W)",
-   "league": "Feminine Division 1",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 16:00",
-   "kickoff_utc": "2026-10-24 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902481375,
-   "home": "Slovan Liberec",
-   "away": "Banik Ostrava",
-   "league": "1st League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 16:00",
-   "kickoff_utc": "2026-10-24 13:00",
+   "kickoff_eat": "2026-10-24 16:30",
+   "kickoff_utc": "2026-10-24 13:30",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 21:42",
- "count": 9,
+ "updated_utc": "2026-10-24 22:12",
+ "count": 8,
  "matches": [
   {
    "id": 902516595,
@@ -123,24 +123,6 @@
     "ft"
    ],
    "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902517050,
-   "home": "Melgar (W)",
-   "away": "Carlos Mannucci (W)",
-   "league": "Campeonato Nacional Women",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 22:00",
-   "kickoff_utc": "2026-10-24 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
     "dc"
    ]
   },

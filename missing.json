@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-24 20:42",
+ "updated_utc": "2026-10-24 21:27",
  "count": 11,
  "matches": [
   {
@@ -127,23 +127,6 @@
    ]
   },
   {
-   "id": 902520808,
-   "home": "Barra SC U20",
-   "away": "Araucaria ECR U20",
-   "league": "Copa Sul U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 21:00",
-   "kickoff_utc": "2026-10-24 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902520806,
    "home": "EC Juventude U20",
    "away": "Criciuma U20",
@@ -175,6 +158,23 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902520808,
+   "home": "Barra SC U20",
+   "away": "Araucaria ECR U20",
+   "league": "Copa Sul U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 21:00",
+   "kickoff_utc": "2026-10-24 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   },
   {

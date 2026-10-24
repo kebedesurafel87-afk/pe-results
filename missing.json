@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 18:26",
- "count": 2,
+ "updated_utc": "2026-10-24 18:42",
+ "count": 4,
  "matches": [
   {
    "id": 902516595,
@@ -36,13 +36,46 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "ou25",
     "over_under_2_5",
     "pb_cor_1x2",
     "pb_y_iou_t1_1"
+   ]
+  },
+  {
+   "id": 902522382,
+   "home": "Club Union",
+   "away": "LLO FC",
+   "league": "Liga TDP",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 19:00",
+   "kickoff_utc": "2026-10-24 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902519232,
+   "home": "Gambeta FC",
+   "away": "CAR Toros",
+   "league": "Liga TDP",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 19:00",
+   "kickoff_utc": "2026-10-24 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 15:11",
- "count": 6,
+ "updated_utc": "2026-10-24 15:41",
+ "count": 7,
  "matches": [
   {
    "id": 902516533,
@@ -88,14 +88,31 @@
    ]
   },
   {
-   "id": 902513445,
-   "home": "Rapid Psary",
-   "away": "Slovan Velvary",
-   "league": "4th League",
+   "id": 902512753,
+   "home": "US Saint Malo (W)",
+   "away": "Paris FC (W)",
+   "league": "Feminine Division 1",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 16:00",
+   "kickoff_utc": "2026-10-24 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902481375,
+   "home": "Slovan Liberec",
+   "away": "Banik Ostrava",
+   "league": "1st League",
    "country": "Czech Republic",
    "sport": "football",
-   "kickoff_eat": "2026-10-24 15:30",
-   "kickoff_utc": "2026-10-24 12:30",
+   "kickoff_eat": "2026-10-24 16:00",
+   "kickoff_utc": "2026-10-24 13:00",
    "status": "no_result",
    "needs": [
     "ft"

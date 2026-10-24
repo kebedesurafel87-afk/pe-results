@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 19:42",
- "count": 8,
+ "updated_utc": "2026-10-24 20:12",
+ "count": 7,
  "matches": [
   {
    "id": 902516595,
@@ -67,23 +67,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-24 19:00",
    "kickoff_utc": "2026-10-24 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902490424,
-   "home": "CS Sfaxien",
-   "away": "AFAD Abidjan",
-   "league": "CAF Confederation Cup",
-   "country": "Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 20:00",
-   "kickoff_utc": "2026-10-24 17:00",
    "status": "no_result",
    "needs": [
     "ft"

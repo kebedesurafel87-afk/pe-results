@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 22:27",
- "count": 7,
+ "updated_utc": "2026-10-24 22:42",
+ "count": 8,
  "matches": [
   {
    "id": 902516595,
@@ -124,6 +124,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902519226,
+   "home": "Palmeiras Sao Paulo (w)",
+   "away": "Independiente Santa Fe (W)",
+   "league": "Copa Libertadores Women",
+   "country": "South America",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 23:00",
+   "kickoff_utc": "2026-10-24 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
    ]
   }
  ]

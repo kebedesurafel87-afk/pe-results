@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 11:41",
- "count": 1,
+ "updated_utc": "2026-10-24 14:11",
+ "count": 2,
  "matches": [
   {
    "id": 902516533,
@@ -11,6 +11,23 @@
    "sport": "football",
    "kickoff_eat": "2026-10-24 12:00",
    "kickoff_utc": "2026-10-24 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902515591,
+   "home": "Aarau U19",
+   "away": "Basel U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-24 14:30",
+   "kickoff_utc": "2026-10-24 11:30",
    "status": "no_result",
    "needs": [
     "ft"

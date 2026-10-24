@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-24 18:42",
+ "updated_utc": "2026-10-24 19:12",
  "count": 4,
  "matches": [
   {
@@ -30,7 +30,6 @@
    "kickoff_utc": "2026-10-24 15:15",
    "status": "no_result",
    "needs": [
-    "cards",
     "corners",
     "ft"
    ],
@@ -39,9 +38,7 @@
     "btts",
     "dc",
     "ou25",
-    "over_under_2_5",
-    "pb_cor_1x2",
-    "pb_y_iou_t1_1"
+    "pb_cor_1x2"
    ]
   },
   {

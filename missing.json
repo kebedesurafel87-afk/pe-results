@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 15:41",
- "count": 7,
+ "updated_utc": "2026-10-24 15:56",
+ "count": 6,
  "matches": [
   {
    "id": 902516533,
@@ -59,23 +59,6 @@
    "away": "Mathare United (W)",
    "league": "League Women",
    "country": "Kenya",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 15:00",
-   "kickoff_utc": "2026-10-24 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902521193,
-   "home": "Valmiera",
-   "away": "Ventspils",
-   "league": "First League",
-   "country": "Latvia",
    "sport": "football",
    "kickoff_eat": "2026-10-24 15:00",
    "kickoff_utc": "2026-10-24 12:00",

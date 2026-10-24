@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-24 22:12",
- "count": 8,
+ "updated_utc": "2026-10-24 22:27",
+ "count": 7,
  "matches": [
   {
    "id": 902516595,
@@ -107,23 +107,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902520767,
-   "home": "Canaa EC",
-   "away": "Planaltina EC DF",
-   "league": "Brasiliense 2",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-24 21:00",
-   "kickoff_utc": "2026-10-24 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-24 17:56",
+ "updated_utc": "2026-10-24 18:26",
  "count": 2,
  "matches": [
   {
@@ -42,8 +42,7 @@
     "ou25",
     "over_under_2_5",
     "pb_cor_1x2",
-    "pb_y_iou_t1_1",
-    "pb_y_iou_t2_1_5"
+    "pb_y_iou_t1_1"
    ]
   }
  ]

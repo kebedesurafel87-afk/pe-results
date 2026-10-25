@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 00:42",
- "count": 8,
+ "updated_utc": "2026-10-25 01:12",
+ "count": 7,
  "matches": [
   {
    "id": 902516595,
@@ -118,23 +118,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-24 22:00",
    "kickoff_utc": "2026-10-24 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902519236,
-   "home": "Saltillo Soccer",
-   "away": "Canoneros Marina",
-   "league": "Liga Premier. Serie A",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 01:00",
-   "kickoff_utc": "2026-10-24 22:00",
    "status": "no_result",
    "needs": [
     "ft"

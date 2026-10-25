@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 15:43",
- "count": 11,
+ "updated_utc": "2026-10-25 15:58",
+ "count": 10,
  "matches": [
   {
    "id": 902516595,
@@ -152,23 +152,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-25 14:00",
    "kickoff_utc": "2026-10-25 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902524342,
-   "home": "ZFK Junajted Struga (W)",
-   "away": "ZFK Recica (W)",
-   "league": "Prva Liga Women",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 16:00",
-   "kickoff_utc": "2026-10-25 13:00",
    "status": "no_result",
    "needs": [
     "ft"

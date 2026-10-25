@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 13:12",
- "count": 7,
+ "updated_utc": "2026-10-25 13:42",
+ "count": 10,
  "matches": [
   {
    "id": 902516595,
@@ -118,6 +118,57 @@
    "sport": "football",
    "kickoff_eat": "2026-10-25 13:30",
    "kickoff_utc": "2026-10-25 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902522920,
+   "home": "Hawassa City Fc (W)",
+   "away": "Bahir Dar Kenema FC (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-25 14:00",
+   "kickoff_utc": "2026-10-25 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902522921,
+   "home": "Ethiopia Nigd Bank (W)",
+   "away": "Yirga Chefe Bunna (w)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-25 14:00",
+   "kickoff_utc": "2026-10-25 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902516566,
+   "home": "North District FC",
+   "away": "Kowloon City",
+   "league": "Senior Shield",
+   "country": "Hong Kong",
+   "sport": "football",
+   "kickoff_eat": "2026-10-25 14:00",
+   "kickoff_utc": "2026-10-25 11:00",
    "status": "no_result",
    "needs": [
     "ft"

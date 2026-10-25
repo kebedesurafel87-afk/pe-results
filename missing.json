@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 14:13",
- "count": 10,
+ "updated_utc": "2026-10-25 14:28",
+ "count": 9,
  "matches": [
   {
    "id": 902516595,
@@ -158,25 +158,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902523802,
-   "home": "FC Jurong",
-   "away": "Tampines Rovers",
-   "league": "S League",
-   "country": "Singapore",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 14:30",
-   "kickoff_utc": "2026-10-25 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "btts",
-    "over_under_2_5"
    ]
   }
  ]

@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-25 22:43",
- "count": 3,
+ "updated_utc": "2026-10-25 22:58",
+ "count": 1,
  "matches": [
-  {
-   "id": 902522842,
-   "home": "Partick Thistle (W)",
-   "away": "Glasgow City (W)",
-   "league": "Premier League Women",
-   "country": "Scotland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 19:10",
-   "kickoff_utc": "2026-10-25 16:10",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 2874353,
    "home": "Paris Saint-Germain",
@@ -36,29 +19,10 @@
    "markets": [
     "1x2",
     "3_way",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "ou25",
-    "over_under_1_5",
     "pb_cor_ou_t2_3_5"
-   ]
-  },
-  {
-   "id": 902520687,
-   "home": "Humble Lions",
-   "away": "Racing United",
-   "league": "Premier League",
-   "country": "Jamaica",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 23:00",
-   "kickoff_utc": "2026-10-25 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

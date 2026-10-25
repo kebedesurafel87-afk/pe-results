@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 15:58",
- "count": 10,
+ "updated_utc": "2026-10-25 17:13",
+ "count": 8,
  "matches": [
   {
    "id": 902516595,
@@ -110,23 +110,6 @@
    ]
   },
   {
-   "id": 902522859,
-   "home": "Villarreal U19",
-   "away": "Roda U19",
-   "league": "Youth League",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 13:30",
-   "kickoff_utc": "2026-10-25 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902522920,
    "home": "Hawassa City Fc (W)",
    "away": "Bahir Dar Kenema FC (W)",
@@ -152,23 +135,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-25 14:00",
    "kickoff_utc": "2026-10-25 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902522922,
-   "home": "Mechal FC (w)",
-   "away": "Bole Sub City (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 16:00",
-   "kickoff_utc": "2026-10-25 13:00",
    "status": "no_result",
    "needs": [
     "ft"

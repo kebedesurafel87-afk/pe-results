@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 13:42",
- "count": 10,
+ "updated_utc": "2026-10-25 13:58",
+ "count": 9,
  "matches": [
   {
    "id": 902516595,
@@ -149,23 +149,6 @@
    "away": "Yirga Chefe Bunna (w)",
    "league": "Premier League Women",
    "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 14:00",
-   "kickoff_utc": "2026-10-25 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902516566,
-   "home": "North District FC",
-   "away": "Kowloon City",
-   "league": "Senior Shield",
-   "country": "Hong Kong",
    "sport": "football",
    "kickoff_eat": "2026-10-25 14:00",
    "kickoff_utc": "2026-10-25 11:00",

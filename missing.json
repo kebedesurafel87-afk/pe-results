@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-25 11:42",
- "count": 7,
+ "updated_utc": "2026-10-25 12:12",
+ "count": 6,
  "matches": [
   {
    "id": 902516595,
@@ -101,23 +101,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-24 21:00",
    "kickoff_utc": "2026-10-24 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902524247,
-   "home": "Hantharwady United",
-   "away": "Yangon United",
-   "league": "National League",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-25 12:00",
-   "kickoff_utc": "2026-10-25 09:00",
    "status": "no_result",
    "needs": [
     "ft"

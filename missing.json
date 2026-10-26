@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 01:28",
- "count": 2,
+ "updated_utc": "2026-10-26 01:58",
+ "count": 1,
  "matches": [
   {
    "id": 2874353,
@@ -23,23 +23,6 @@
     "double_chance",
     "ou25",
     "pb_cor_ou_t2_3_5"
-   ]
-  },
-  {
-   "id": 902525299,
-   "home": "Tijuana U21",
-   "away": "Santos Laguna U21",
-   "league": "League U21",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 01:45",
-   "kickoff_utc": "2026-10-25 22:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

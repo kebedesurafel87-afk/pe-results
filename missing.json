@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-26 16:14",
+ "updated_utc": "2026-10-26 17:14",
  "count": 5,
  "matches": [
   {
@@ -91,8 +91,7 @@
    ],
    "markets": [
     "btts",
-    "ou25",
-    "over_under_2_5"
+    "ou25"
    ]
   }
  ]

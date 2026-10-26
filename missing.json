@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 17:44",
- "count": 6,
+ "updated_utc": "2026-10-26 18:14",
+ "count": 5,
  "matches": [
   {
    "id": 2874353,
@@ -90,27 +90,7 @@
     "ft"
    ],
    "markets": [
-    "btts",
     "ou25"
-   ]
-  },
-  {
-   "id": 902531133,
-   "home": "Al-Anwar",
-   "away": "Al Akhdoud",
-   "league": "1st Division",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 18:00",
-   "kickoff_utc": "2026-10-26 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts",
-    "dc",
-    "ou15"
    ]
   }
  ]

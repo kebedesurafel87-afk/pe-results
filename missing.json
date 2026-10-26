@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-26 18:44",
+ "updated_utc": "2026-10-26 19:14",
  "count": 8,
  "matches": [
   {
@@ -124,19 +124,18 @@
    "sport": "football",
    "kickoff_eat": "2026-10-26 19:00",
    "kickoff_utc": "2026-10-26 16:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "1x2",
     "dc",
-    "over_under_3_5",
     "pb_cor_ou_t2_2_5",
     "pbx_hsh",
     "pbx_weh_t1"
-   ]
+   ],
+   "stored_ft": "2-1"
   },
   {
    "id": 902532907,
@@ -147,10 +146,9 @@
    "sport": "football",
    "kickoff_eat": "2026-10-26 19:00",
    "kickoff_utc": "2026-10-26 16:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "1x2",
@@ -160,7 +158,8 @@
     "pb_cor_ou_t2_1_5",
     "pbx_hsh",
     "pbx_weh_t1"
-   ]
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

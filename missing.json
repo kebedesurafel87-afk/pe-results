@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-26 20:14",
+ "updated_utc": "2026-10-26 20:29",
  "count": 7,
  "matches": [
   {
@@ -134,7 +134,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "competitor1_over_under_0_5",
     "competitor2_total_1_5",
     "dc",

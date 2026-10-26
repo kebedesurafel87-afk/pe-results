@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-26 20:29",
+ "updated_utc": "2026-10-26 20:44",
  "count": 7,
  "matches": [
   {
@@ -119,30 +119,21 @@
    ]
   },
   {
-   "id": 902492440,
-   "home": "Maccabi Haifa",
-   "away": "Hapoel Beer Sheva",
-   "league": "Premier League",
-   "country": "Israel",
+   "id": 902531915,
+   "home": "CA Terremoto",
+   "away": "Deportivo Italiano",
+   "league": "Primera Division Amateur",
+   "country": "Uruguay",
    "sport": "football",
-   "kickoff_eat": "2026-10-26 20:00",
-   "kickoff_utc": "2026-10-26 17:00",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-10-26 21:00",
+   "kickoff_utc": "2026-10-26 18:00",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "over_under_3_5",
-    "pb_cor_ou_t1_4_5"
-   ],
-   "stored_ft": "2-5"
+    "ou15"
+   ]
   }
  ]
 }

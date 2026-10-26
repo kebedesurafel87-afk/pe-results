@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 19:44",
- "count": 11,
+ "updated_utc": "2026-10-26 20:14",
+ "count": 7,
  "matches": [
   {
    "id": 2874353,
@@ -77,23 +77,6 @@
    ]
   },
   {
-   "id": 902528054,
-   "home": "Silkeborg IF (R)",
-   "away": "Viborg FF (R)",
-   "league": "Future Cup",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 15:00",
-   "kickoff_utc": "2026-10-26 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "ou25"
-   ]
-  },
-  {
    "id": 2876819,
    "home": "PFC Ludogorets Razgrad II",
    "away": "PFC Dobrudzha Dobrich",
@@ -108,58 +91,32 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "over_under_1_5"
+    "handicap_hcp_0_2"
    ]
   },
   {
-   "id": 902532903,
-   "home": "Al Ain",
-   "away": "Traktor Sazi",
-   "league": "AFC Champions League",
-   "country": "ASIA",
+   "id": 902517819,
+   "home": "Floriana",
+   "away": "St Patrick",
+   "league": "Premier Division",
+   "country": "Malta",
    "sport": "football",
-   "kickoff_eat": "2026-10-26 19:00",
-   "kickoff_utc": "2026-10-26 16:00",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-10-26 20:00",
+   "kickoff_utc": "2026-10-26 17:00",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
     "1x2",
+    "both_teams_to_score",
     "dc",
-    "pb_cor_ou_t2_2_5",
-    "pbx_hsh",
-    "pbx_weh_t1"
-   ],
-   "stored_ft": "2-1"
-  },
-  {
-   "id": 902532907,
-   "home": "Al Ahli Jeddah",
-   "away": "Al Gharrafa",
-   "league": "AFC Champions League",
-   "country": "ASIA",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 19:00",
-   "kickoff_utc": "2026-10-26 16:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "dc",
-    "handicap_hcp_0_3",
-    "pb_cor_ou_t2_1_5",
-    "pbx_hsh",
-    "pbx_weh_t1"
-   ],
-   "stored_ft": "2-1"
+    "double_chance",
+    "handicap_hcp_0_2",
+    "over_under_1_5",
+    "over_under_4_5"
+   ]
   },
   {
    "id": 902492440,
@@ -183,62 +140,10 @@
     "dc",
     "double_chance",
     "handicap_hcp_0_2",
-    "handicap_hcp_2_0",
-    "ou25",
-    "over_under_2_5",
     "over_under_3_5",
     "pb_cor_ou_t1_4_5"
    ],
    "stored_ft": "2-5"
-  },
-  {
-   "id": 902517819,
-   "home": "Floriana",
-   "away": "St Patrick",
-   "league": "Premier Division",
-   "country": "Malta",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 20:00",
-   "kickoff_utc": "2026-10-26 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "over_under_1_5",
-    "over_under_4_5",
-    "pbx_hsh"
-   ]
-  },
-  {
-   "id": 902510111,
-   "home": "Viimsi MRJK",
-   "away": "Tallinna FC Flora II",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 20:00",
-   "kickoff_utc": "2026-10-26 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_5_5",
-    "pbx_hsh"
-   ]
   }
  ]
 }

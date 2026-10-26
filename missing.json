@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 13:59",
- "count": 7,
+ "updated_utc": "2026-10-26 14:14",
+ "count": 5,
  "matches": [
   {
    "id": 2874353,
@@ -92,41 +92,6 @@
    ],
    "markets": [
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902532871,
-   "home": "Proxy SC",
-   "away": "Diamond SC",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 14:00",
-   "kickoff_utc": "2026-10-26 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902532877,
-   "home": "Nasr",
-   "away": "El Seka El Hadid",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 14:00",
-   "kickoff_utc": "2026-10-26 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 13:14",
- "count": 5,
+ "updated_utc": "2026-10-26 13:44",
+ "count": 8,
  "matches": [
   {
    "id": 2874353,
@@ -92,6 +92,61 @@
    ],
    "markets": [
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902532872,
+   "home": "FC Van",
+   "away": "Gandzasar",
+   "league": "Armenian Cup",
+   "country": "Armenia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-26 14:00",
+   "kickoff_utc": "2026-10-26 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902532871,
+   "home": "Proxy SC",
+   "away": "Diamond SC",
+   "league": "Egypt Cup",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-10-26 14:00",
+   "kickoff_utc": "2026-10-26 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902532877,
+   "home": "Nasr",
+   "away": "El Seka El Hadid",
+   "league": "Egypt Cup",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-10-26 14:00",
+   "kickoff_utc": "2026-10-26 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

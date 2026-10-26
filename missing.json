@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 14:44",
- "count": 7,
+ "updated_utc": "2026-10-26 15:14",
+ "count": 6,
  "matches": [
   {
    "id": 2874353,
@@ -92,29 +92,6 @@
    ],
    "markets": [
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902529091,
-   "home": "Kedus Giorgis",
-   "away": "Sheger Ketema",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 15:00",
-   "kickoff_utc": "2026-10-26 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou15",
-    "over_under_1_5",
-    "pbx_bts_h2"
    ]
   },
   {

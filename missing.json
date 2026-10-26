@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-26 21:59",
- "count": 8,
+ "updated_utc": "2026-10-26 22:29",
+ "count": 7,
  "matches": [
   {
    "id": 2874353,
@@ -91,8 +91,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "handicap_hcp_0_2"
+    "dc"
    ]
   },
   {
@@ -112,26 +111,8 @@
     "1x2",
     "dc",
     "double_chance",
-    "handicap_hcp_0_2",
     "over_under_1_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902531915,
-   "home": "CA Terremoto",
-   "away": "Deportivo Italiano",
-   "league": "Primera Division Amateur",
-   "country": "Uruguay",
-   "sport": "football",
-   "kickoff_eat": "2026-10-26 21:00",
-   "kickoff_utc": "2026-10-26 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "ou15"
    ]
   },
   {

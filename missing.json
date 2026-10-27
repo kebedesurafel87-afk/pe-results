@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 14:30",
- "count": 8,
+ "updated_utc": "2026-10-27 14:45",
+ "count": 6,
  "matches": [
   {
    "id": 902535433,
@@ -17,26 +17,8 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "pbx_tsg_t2_h1"
-   ]
-  },
-  {
-   "id": 902537086,
-   "home": "Rayong FC U21",
-   "away": "Prachuap U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 12:00",
-   "kickoff_utc": "2026-10-27 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -95,25 +77,6 @@
     "btts",
     "dc",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902538938,
-   "home": "Ipswich Town U21",
-   "away": "PSV Eindhoven U21",
-   "league": "Premier League International Cup",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 15:00",
-   "kickoff_utc": "2026-10-27 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts",
-    "double_chance",
-    "over_under_3_5"
    ]
   },
   {

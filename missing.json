@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 17:16",
- "count": 9,
+ "updated_utc": "2026-10-27 17:31",
+ "count": 8,
  "matches": [
   {
    "id": 902535433,
@@ -145,26 +145,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902536944,
-   "home": "Al Shabab Sib",
-   "away": "Neom SC",
-   "league": "Gulf Clubs Championship",
-   "country": "ASIA",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 17:45",
-   "kickoff_utc": "2026-10-27 14:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "pbx_iou_t2_h1_0_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 22:01",
- "count": 11,
+ "updated_utc": "2026-10-27 22:16",
+ "count": 16,
  "matches": [
   {
    "id": 902535433,
@@ -130,24 +130,6 @@
    ]
   },
   {
-   "id": 902535557,
-   "home": "Atletico Tordesillas",
-   "away": "Mirandes",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:00",
-   "kickoff_utc": "2026-10-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902535545,
    "home": "Manresa",
    "away": "Sant Andreu",
@@ -182,23 +164,127 @@
    ]
   },
   {
-   "id": 902535558,
-   "home": "Don Benito",
-   "away": "Extremadura UD",
-   "league": "Copa del Rey",
-   "country": "Spain",
+   "id": 902525221,
+   "home": "Penicuik Athletic",
+   "away": "Clyde",
+   "league": "FA Cup",
+   "country": "Scotland",
    "sport": "football",
-   "kickoff_eat": "2026-10-27 22:30",
-   "kickoff_utc": "2026-10-27 19:30",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_over_under_0_5",
+    "1x2",
     "both_teams_to_score",
-    "competitor2_total_0_5"
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902530334,
+   "home": "Southport",
+   "away": "Macclesfield Town",
+   "league": "National League North",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902536691,
+   "home": "Oxford Sunnyside",
+   "away": "Knockbreda",
+   "league": "Conference Premier",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902536694,
+   "home": "Rosario FC",
+   "away": "Banbridge Town",
+   "league": "Conference Premier",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way"
+   ]
+  },
+  {
+   "id": 902531081,
+   "home": "Taunton Town",
+   "away": "Frome Town",
+   "league": "Southern Premier League South",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902536698,
+   "home": "Dergview",
+   "away": "St. James Swifts",
+   "league": "Conference Premier",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902536697,
+   "home": "Ballyclare Comrades",
+   "away": "Coagh United",
+   "league": "Conference Premier",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:45",
+   "kickoff_utc": "2026-10-27 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

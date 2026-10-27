@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-27 19:01",
+ "updated_utc": "2026-10-27 19:31",
  "count": 9,
  "matches": [
   {
@@ -148,20 +148,29 @@
    ]
   },
   {
-   "id": 902441339,
-   "home": "Motor Lublin",
-   "away": "KS Rakow Czestochowa",
-   "league": "Poland Cup",
-   "country": "Poland",
+   "id": 902534615,
+   "home": "Austria Vienna",
+   "away": "TSV Hartberg",
+   "league": "Austria Cup",
+   "country": "Austria",
    "sport": "football",
-   "kickoff_eat": "2026-10-27 19:30",
-   "kickoff_utc": "2026-10-27 16:30",
+   "kickoff_eat": "2026-10-27 20:00",
+   "kickoff_utc": "2026-10-27 17:00",
    "status": "no_result",
    "needs": [
-    "ft"
+    "ft",
+    "ht"
    ],
    "markets": [
-    "1x2"
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "dc",
+    "ou15",
+    "over_under_1_5",
+    "pbx_1x2_15m"
    ]
   }
  ]

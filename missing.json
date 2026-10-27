@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 22:16",
- "count": 16,
+ "updated_utc": "2026-10-27 22:31",
+ "count": 20,
  "matches": [
   {
    "id": 902535433,
@@ -130,23 +130,6 @@
    ]
   },
   {
-   "id": 902535545,
-   "home": "Manresa",
-   "away": "Sant Andreu",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:30",
-   "kickoff_utc": "2026-10-27 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902349804,
    "home": "GKS Piast Gliwice",
    "away": "Gornik Zabrze",
@@ -180,7 +163,6 @@
     "1x2",
     "both_teams_to_score",
     "competitor2_total_1_5",
-    "dc",
     "double_chance"
    ]
   },
@@ -286,6 +268,117 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 2814793,
+   "home": "Fleetwood Town",
+   "away": "Arsenal FC",
+   "league": "EFL Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 23:00",
+   "kickoff_utc": "2026-10-27 20:00",
+   "status": "no_result",
+   "needs": [
+    "cards",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_competitor2_over_under_0_5",
+    "1st_half_double_chance",
+    "1st_half_over_under_1",
+    "1x2",
+    "3_way_over_under_2_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_1_5",
+    "competitor2_total_2_5",
+    "competitor2_total_4_5",
+    "competitor2_total_5_5",
+    "dc",
+    "halftime_fulltime",
+    "handicap_hcp_2_0",
+    "over_under_3_5",
+    "pb_y_ou_2_5",
+    "pbx_1x2_15m",
+    "pbx_iou_t2_h1_0_5"
+   ]
+  },
+  {
+   "id": 902535548,
+   "home": "Recreativo Huelva",
+   "away": "Rayo Vallecano",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 23:00",
+   "kickoff_utc": "2026-10-27 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902536695,
+   "home": "Ballymacash Rangers",
+   "away": "Lisburn Distillery",
+   "league": "Conference Premier",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 23:00",
+   "kickoff_utc": "2026-10-27 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902535087,
+   "home": "Savoia",
+   "away": "Sorrento Calcio",
+   "league": "Serie C Cup",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 23:00",
+   "kickoff_utc": "2026-10-27 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "btts"
+   ]
+  },
+  {
+   "id": 902535550,
+   "home": "Arosa",
+   "away": "Pontevedra CF",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 23:00",
+   "kickoff_utc": "2026-10-27 20:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance"
+   ],
+   "stored_ft": "2-0"
   }
  ]
 }

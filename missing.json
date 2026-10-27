@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:46",
- "count": 9,
+ "updated_utc": "2026-10-27 22:01",
+ "count": 11,
  "matches": [
   {
    "id": 902535433,
@@ -148,23 +148,57 @@
    ]
   },
   {
-   "id": 902535544,
-   "home": "UD Llanera",
-   "away": "Ponferradina",
+   "id": 902535545,
+   "home": "Manresa",
+   "away": "Sant Andreu",
    "league": "Copa del Rey",
    "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-10-27 22:00",
-   "kickoff_utc": "2026-10-27 19:00",
+   "kickoff_eat": "2026-10-27 22:30",
+   "kickoff_utc": "2026-10-27 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902349804,
+   "home": "GKS Piast Gliwice",
+   "away": "Gornik Zabrze",
+   "league": "Poland Cup",
+   "country": "Poland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:30",
+   "kickoff_utc": "2026-10-27 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902535558,
+   "home": "Don Benito",
+   "away": "Extremadura UD",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:30",
+   "kickoff_utc": "2026-10-27 19:30",
    "status": "no_result",
    "needs": [
     "ft",
     "ht"
    ],
    "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "double_chance"
+    "1st_half_over_under_0_5",
+    "both_teams_to_score",
+    "competitor2_total_0_5"
    ]
   }
  ]

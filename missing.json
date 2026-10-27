@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 13:30",
- "count": 5,
+ "updated_utc": "2026-10-27 14:00",
+ "count": 6,
  "matches": [
   {
    "id": 902535433,
@@ -19,7 +19,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou25",
     "pbx_tsg_t2_h1"
    ]
   },
@@ -93,6 +92,25 @@
    ],
    "markets": [
     "1st_half_over_under_0_5",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902535419,
+   "home": "Twente Heracles U21",
+   "away": "PEC Zwolle U21",
+   "league": "League U21",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 14:30",
+   "kickoff_utc": "2026-10-27 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
     "double_chance"
    ]
   }

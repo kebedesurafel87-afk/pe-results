@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-27 17:01",
+ "updated_utc": "2026-10-27 17:16",
  "count": 9,
  "matches": [
   {
@@ -97,24 +97,6 @@
    ]
   },
   {
-   "id": 902535463,
-   "home": "Feyenoord U19",
-   "away": "De Graafschap U19",
-   "league": "Eredivisie U19",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 15:00",
-   "kickoff_utc": "2026-10-27 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902540282,
    "home": "Wigan Athletic (R)",
    "away": "Wrexham (R)",
@@ -163,6 +145,26 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902536944,
+   "home": "Al Shabab Sib",
+   "away": "Neom SC",
+   "league": "Gulf Clubs Championship",
+   "country": "ASIA",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 17:45",
+   "kickoff_utc": "2026-10-27 14:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "pbx_iou_t2_h1_0_5"
    ]
   }
  ]

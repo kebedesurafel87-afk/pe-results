@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-27 14:45",
+ "updated_utc": "2026-10-27 15:00",
  "count": 6,
  "matches": [
   {
@@ -36,7 +36,6 @@
    ],
    "markets": [
     "1x2",
-    "double_chance",
     "over_under_3_5"
    ]
   },
@@ -112,7 +111,6 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "dc"
    ]
   }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:16",
- "count": 8,
+ "updated_utc": "2026-10-27 21:31",
+ "count": 11,
  "matches": [
   {
    "id": 902535433,
@@ -130,14 +130,14 @@
    ]
   },
   {
-   "id": 902535555,
-   "home": "UD Castellonense",
-   "away": "UD Almeria",
+   "id": 902535541,
+   "home": "RSD Alcala",
+   "away": "Las Palmas",
    "league": "Copa del Rey",
    "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-10-27 21:45",
-   "kickoff_utc": "2026-10-27 18:45",
+   "kickoff_eat": "2026-10-27 22:00",
+   "kickoff_utc": "2026-10-27 19:00",
    "status": "no_result",
    "needs": [
     "ft",
@@ -146,13 +146,70 @@
    "markets": [
     "1st_half_double_chance",
     "1x2",
-    "2nd_half_over_under_1_5",
-    "3_way",
     "both_teams_to_score",
+    "competitor2_total_0_5",
     "competitor2_total_1_5",
     "dc",
-    "double_chance",
-    "ou25"
+    "ou25",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902535557,
+   "home": "Atletico Tordesillas",
+   "away": "Mirandes",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:00",
+   "kickoff_utc": "2026-10-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "pbx_iou_t2_h2_0_5"
+   ]
+  },
+  {
+   "id": 902535138,
+   "home": "Barendrecht",
+   "away": "RKC Waalwijk",
+   "league": "KNVB Beker",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:00",
+   "kickoff_utc": "2026-10-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902535544,
+   "home": "UD Llanera",
+   "away": "Ponferradina",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 22:00",
+   "kickoff_utc": "2026-10-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "double_chance"
    ]
   }
  ]

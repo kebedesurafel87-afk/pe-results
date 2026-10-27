@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 23:01",
- "count": 14,
+ "updated_utc": "2026-10-27 23:31",
+ "count": 13,
  "matches": [
   {
    "id": 902535433,
@@ -196,34 +196,6 @@
    "markets": [
     "1x2"
    ]
-  },
-  {
-   "id": 2814793,
-   "home": "Fleetwood Town",
-   "away": "Arsenal FC",
-   "league": "EFL Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 23:00",
-   "kickoff_utc": "2026-10-27 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1st_half_competitor2_over_under_0_5",
-    "1x2",
-    "3_way_over_under_2_5",
-    "both_teams_to_score",
-    "btts",
-    "competitor2_total_1_5",
-    "dc",
-    "handicap_hcp_2_0",
-    "pb_y_ou_2_5",
-    "pbx_1x2_15m"
-   ],
-   "stored_ft": "1-1"
   },
   {
    "id": 902536695,

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 14:00",
- "count": 6,
+ "updated_utc": "2026-10-27 14:15",
+ "count": 4,
  "matches": [
   {
    "id": 902535433,
@@ -72,46 +72,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902317104,
-   "home": "Levyy Bereg Kyiv",
-   "away": "Veres Rivne",
-   "league": "Ukraine Cup",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 14:00",
-   "kickoff_utc": "2026-10-27 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902535419,
-   "home": "Twente Heracles U21",
-   "away": "PEC Zwolle U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 14:30",
-   "kickoff_utc": "2026-10-27 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "double_chance"
+    "1x2"
    ]
   }
  ]

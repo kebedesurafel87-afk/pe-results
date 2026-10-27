@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 22:46",
- "count": 17,
+ "updated_utc": "2026-10-27 23:01",
+ "count": 14,
  "matches": [
   {
    "id": 902535433,
@@ -129,23 +129,6 @@
    ]
   },
   {
-   "id": 902530334,
-   "home": "Southport",
-   "away": "Macclesfield Town",
-   "league": "National League North",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:45",
-   "kickoff_utc": "2026-10-27 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902536691,
    "home": "Oxford Sunnyside",
    "away": "Knockbreda",
@@ -178,23 +161,6 @@
    "markets": [
     "1x2",
     "3_way"
-   ]
-  },
-  {
-   "id": 902531081,
-   "home": "Taunton Town",
-   "away": "Frome Town",
-   "league": "Southern Premier League South",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:45",
-   "kickoff_utc": "2026-10-27 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
    ]
   },
   {
@@ -251,15 +217,11 @@
     "3_way_over_under_2_5",
     "both_teams_to_score",
     "btts",
-    "competitor1_over_under_0_5",
     "competitor2_total_1_5",
-    "competitor2_total_2_5",
     "dc",
     "handicap_hcp_2_0",
-    "over_under_3_5",
     "pb_y_ou_2_5",
-    "pbx_1x2_15m",
-    "pbx_iou_t2_h1_0_5"
+    "pbx_1x2_15m"
    ],
    "stored_ft": "1-1"
   },
@@ -298,32 +260,6 @@
     "1st_half_double_chance"
    ],
    "stored_ft": "2-0"
-  },
-  {
-   "id": 902534607,
-   "home": "Sporting Lisbon",
-   "away": "CS Maritimo",
-   "league": "League Cup",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 23:15",
-   "kickoff_utc": "2026-10-27 20:15",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_1_5",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pbx_1x2_15m",
-    "pbx_tgbts_2_5"
-   ]
   }
  ]
 }

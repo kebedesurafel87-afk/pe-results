@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 16:31",
- "count": 10,
+ "updated_utc": "2026-10-27 17:01",
+ "count": 9,
  "matches": [
   {
    "id": 902535433,
@@ -163,27 +163,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902535437,
-   "home": "Sabail FC",
-   "away": "Zira IK",
-   "league": "Azerbaijan Cup",
-   "country": "Azerbaijan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 17:00",
-   "kickoff_utc": "2026-10-27 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
    ]
   }
  ]

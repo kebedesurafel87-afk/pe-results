@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 17:31",
- "count": 8,
+ "updated_utc": "2026-10-27 19:01",
+ "count": 9,
  "matches": [
   {
    "id": 902535433,
@@ -145,6 +145,23 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902441339,
+   "home": "Motor Lublin",
+   "away": "KS Rakow Czestochowa",
+   "league": "Poland Cup",
+   "country": "Poland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 19:30",
+   "kickoff_utc": "2026-10-27 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

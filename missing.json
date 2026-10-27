@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 14:15",
- "count": 4,
+ "updated_utc": "2026-10-27 14:30",
+ "count": 8,
  "matches": [
   {
    "id": 902535433,
@@ -73,6 +73,84 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902529090,
+   "home": "Ethiopian Insurance FC",
+   "away": "Mekelakeya",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 15:00",
+   "kickoff_utc": "2026-10-27 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902538938,
+   "home": "Ipswich Town U21",
+   "away": "PSV Eindhoven U21",
+   "league": "Premier League International Cup",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 15:00",
+   "kickoff_utc": "2026-10-27 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts",
+    "double_chance",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902538963,
+   "home": "Jong De Graafschap U21",
+   "away": "Feyenoord U21",
+   "league": "League U21",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 15:00",
+   "kickoff_utc": "2026-10-27 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902535463,
+   "home": "Feyenoord U19",
+   "away": "De Graafschap U19",
+   "league": "Eredivisie U19",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 15:00",
+   "kickoff_utc": "2026-10-27 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
    ]
   }
  ]

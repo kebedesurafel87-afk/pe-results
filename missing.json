@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:01",
- "count": 7,
+ "updated_utc": "2026-10-27 21:16",
+ "count": 8,
  "matches": [
   {
    "id": 902535433,
@@ -127,6 +127,32 @@
    ],
    "markets": [
     "double_chance"
+   ]
+  },
+  {
+   "id": 902535555,
+   "home": "UD Castellonense",
+   "away": "UD Almeria",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-27 21:45",
+   "kickoff_utc": "2026-10-27 18:45",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "2nd_half_over_under_1_5",
+    "3_way",
+    "both_teams_to_score",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "ou25"
    ]
   }
  ]

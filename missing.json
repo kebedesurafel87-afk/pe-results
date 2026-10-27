@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 21:31",
- "count": 11,
+ "updated_utc": "2026-10-27 21:46",
+ "count": 9,
  "matches": [
   {
    "id": 902535433,
@@ -130,31 +130,6 @@
    ]
   },
   {
-   "id": 902535541,
-   "home": "RSD Alcala",
-   "away": "Las Palmas",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:00",
-   "kickoff_utc": "2026-10-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "both_teams_to_score",
-    "competitor2_total_0_5",
-    "competitor2_total_1_5",
-    "dc",
-    "ou25",
-    "pbx_tgbts_2_5"
-   ]
-  },
-  {
    "id": 902535557,
    "home": "Atletico Tordesillas",
    "away": "Mirandes",
@@ -169,26 +144,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "pbx_iou_t2_h2_0_5"
-   ]
-  },
-  {
-   "id": 902535138,
-   "home": "Barendrecht",
-   "away": "RKC Waalwijk",
-   "league": "KNVB Beker",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 22:00",
-   "kickoff_utc": "2026-10-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
     "dc"
    ]
   },

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 14:02",
- "count": 12,
+ "updated_utc": "2026-10-28 14:17",
+ "count": 11,
  "matches": [
   {
    "id": 902539713,
@@ -67,7 +67,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "over_under_2_5",
     "over_under_4_5"
@@ -195,24 +194,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902534576,
-   "home": "Prostejov",
-   "away": "Hradec Kralove",
-   "league": "Czech Republic Cup",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:30",
-   "kickoff_utc": "2026-10-28 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   }
  ]

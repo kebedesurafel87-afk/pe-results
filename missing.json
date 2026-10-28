@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 22:33",
- "count": 37,
+ "updated_utc": "2026-10-28 22:48",
+ "count": 36,
  "matches": [
   {
    "id": 902541082,
@@ -421,8 +421,7 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
-    "over_under_1_5"
+    "double_chance"
    ]
   },
   {
@@ -547,31 +546,6 @@
    ]
   },
   {
-   "id": 2791637,
-   "home": "Holstein Kiel",
-   "away": "TSG Hoffenheim",
-   "league": "DFB Pokal",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:45",
-   "kickoff_utc": "2026-10-28 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "2nd_half_double_chance",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "competitor2_total_0_5",
-    "competitor2_total_1_5",
-    "dc"
-   ]
-  },
-  {
    "id": 902541106,
    "home": "Northampton Town (W)",
    "away": "Leafield Athletic (W)",
@@ -603,18 +577,12 @@
     "corners"
    ],
    "markets": [
-    "1st_half_double_chance",
     "1x2",
-    "2nd_half_double_chance",
     "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "competitor2_total_1_5",
     "dc",
     "double_chance",
     "handicap_hcp_2_0",
     "ou25",
-    "over_under_2_5",
     "pb_cor_dc",
     "pb_cor_ou_t1_4_5",
     "pb_y_iou_t2_1_5"
@@ -654,7 +622,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance"
    ]
   },

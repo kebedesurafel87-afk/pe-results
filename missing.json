@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 16:17",
- "count": 19,
+ "updated_utc": "2026-10-28 17:03",
+ "count": 20,
  "matches": [
   {
    "id": 902539713,
@@ -330,6 +330,24 @@
     "ft"
    ],
    "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902544584,
+   "home": "Erbil SC",
+   "away": "Al Ettifaq",
+   "league": "Gulf Clubs Championship",
+   "country": "ASIA",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 17:30",
+   "kickoff_utc": "2026-10-28 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
     "dc"
    ]
   }

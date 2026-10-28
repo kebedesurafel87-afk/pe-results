@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:48",
- "count": 19,
+ "updated_utc": "2026-10-28 19:03",
+ "count": 18,
  "matches": [
   {
    "id": 902539713,
@@ -85,7 +85,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "over_under_1_5",
     "pbx_iou_t1_h1_0_5"
    ]
@@ -123,23 +122,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902544608,
-   "home": "Istanbulspor AS U19",
-   "away": "Arkent Arnavutkoy Belediyesi U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:00",
-   "kickoff_utc": "2026-10-28 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -315,22 +297,21 @@
    ]
   },
   {
-   "id": 902533468,
-   "home": "Varazdin",
-   "away": "Lokomotiva Zagreb",
-   "league": "Croatia Cup",
-   "country": "Croatia",
+   "id": 902349805,
+   "home": "Puszcza Niepolomice",
+   "away": "Wisla Plock",
+   "league": "Poland Cup",
+   "country": "Poland",
    "sport": "football",
-   "kickoff_eat": "2026-10-28 19:00",
-   "kickoff_utc": "2026-10-28 16:00",
+   "kickoff_eat": "2026-10-28 19:30",
+   "kickoff_utc": "2026-10-28 16:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance"
+    "dc"
    ]
   }
  ]

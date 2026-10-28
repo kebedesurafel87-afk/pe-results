@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 20:48",
- "count": 20,
+ "updated_utc": "2026-10-28 21:33",
+ "count": 29,
  "matches": [
   {
    "id": 902539713,
@@ -348,6 +348,169 @@
    "sport": "football",
    "kickoff_eat": "2026-10-28 21:00",
    "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902542320,
+   "home": "Covadonga",
+   "away": "Real Valladolid",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902544726,
+   "home": "Trival Valderas",
+   "away": "Leganes",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902542533,
+   "home": "CD Alcoyano",
+   "away": "RCD Mallorca",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way_over_under_4_5",
+    "dc"
+   ]
+  },
+  {
+   "id": 902541945,
+   "home": "UE Porreres",
+   "away": "Alcudia",
+   "league": "Tercera Div. RFEF Group 11",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902542534,
+   "home": "CD Badajoz",
+   "away": "CD Tenerife",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902542374,
+   "home": "Puertollano",
+   "away": "Albacete Balompie",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902542338,
+   "home": "Amorebieta",
+   "away": "UD Logrones",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902542322,
+   "home": "CD Numancia",
+   "away": "Real Oviedo",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "draw_no_bet"
+   ]
+  },
+  {
+   "id": 902544610,
+   "home": "FC Collina d'Oro",
+   "away": "AC Taverne",
+   "league": "Erste Liga Cup",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:00",
+   "kickoff_utc": "2026-10-28 19:00",
    "status": "no_result",
    "needs": [
     "ft"

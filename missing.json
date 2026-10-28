@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 11:47",
- "count": 4,
+ "updated_utc": "2026-10-28 12:32",
+ "count": 11,
  "matches": [
   {
    "id": 902539713,
@@ -69,6 +69,137 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902542187,
+   "home": "Zemplin Michalovce U19",
+   "away": "Spartak Trnava U19",
+   "league": "League U19",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "ou25",
+    "over_under_1_5",
+    "pbx_iou_t2_h1_0_5"
+   ]
+  },
+  {
+   "id": 902541955,
+   "home": "Trencin U19",
+   "away": "Tatran Liptovsky Mikulas U19",
+   "league": "League U19",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902544767,
+   "home": "Nong Bua Pitchaya U21",
+   "away": "Kanchanaburi Power U21",
+   "league": "League U21",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541487,
+   "home": "Nagoya Grampus",
+   "away": "Urawa Red Diamonds",
+   "league": "J League Cup",
+   "country": "Japan",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "competitor2_total_0_5",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902542828,
+   "home": "Cremonese U19",
+   "away": "Benevento U19",
+   "league": "Primavera Cup",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902541804,
+   "home": "Suwon (W)",
+   "away": "Boeun Sangmu (w)",
+   "league": "WK League",
+   "country": "Korea Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "ou25"
+   ]
+  },
+  {
+   "id": 902542827,
+   "home": "Frosinone U19",
+   "away": "Virtus Entella U19",
+   "league": "Primavera Cup",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   }
  ]

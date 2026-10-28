@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-28 19:48",
+ "updated_utc": "2026-10-28 20:03",
  "count": 14,
  "matches": [
   {
@@ -228,22 +228,20 @@
    ]
   },
   {
-   "id": 902538556,
-   "home": "FC Wacker Innsbruck",
-   "away": "WSG Swarovski Tirol",
-   "league": "Austria Cup",
-   "country": "Austria",
+   "id": 902546750,
+   "home": "Bnei Yehoda",
+   "away": "FC Ashdod",
+   "league": "Israel Cup",
+   "country": "Israel",
    "sport": "football",
-   "kickoff_eat": "2026-10-28 20:00",
-   "kickoff_utc": "2026-10-28 17:00",
+   "kickoff_eat": "2026-10-28 20:30",
+   "kickoff_utc": "2026-10-28 17:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "btts",
-    "dc"
+    "over_under_1_5"
    ]
   }
  ]

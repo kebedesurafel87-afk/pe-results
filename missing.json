@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 14:32",
- "count": 15,
+ "updated_utc": "2026-10-28 14:47",
+ "count": 12,
  "matches": [
   {
    "id": 902539713,
@@ -144,9 +144,9 @@
    ]
   },
   {
-   "id": 902544519,
-   "home": "Umraniyespor",
-   "away": "Kucukcekmece Sinopspor",
+   "id": 902544518,
+   "home": "Karabuk Idmanyurdu Spor",
+   "away": "Yeni Iskenderunspor",
    "league": "Turkish Cup",
    "country": "Turkey",
    "sport": "football",
@@ -157,26 +157,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902544522,
-   "home": "Fatih Karagumruk",
-   "away": "Somaspor",
-   "league": "Turkish Cup",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:00",
-   "kickoff_utc": "2026-10-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
+    "over_under_3_5"
    ]
   },
   {
@@ -195,40 +176,6 @@
    "markets": [
     "1x2",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902544518,
-   "home": "Karabuk Idmanyurdu Spor",
-   "away": "Yeni Iskenderunspor",
-   "league": "Turkish Cup",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:00",
-   "kickoff_utc": "2026-10-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902544523,
-   "home": "Adana 1954 FK",
-   "away": "Kutahyaspor",
-   "league": "Turkish Cup",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:00",
-   "kickoff_utc": "2026-10-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {

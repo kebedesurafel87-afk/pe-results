@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 20:33",
- "count": 22,
+ "updated_utc": "2026-10-28 20:48",
+ "count": 20,
  "matches": [
   {
    "id": 902539713,
@@ -228,36 +228,6 @@
    ]
   },
   {
-   "id": 902540604,
-   "home": "Sparta Rotterdam",
-   "away": "Fortuna Sittard",
-   "league": "KNVB Beker",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 20:45",
-   "kickoff_utc": "2026-10-28 17:45",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_1_5",
-    "competitor2_total_0_5",
-    "dc",
-    "double_chance",
-    "ou25",
-    "pb_cor_1x2",
-    "pbx_tgbts_2_5",
-    "pbx_wtn_t1"
-   ]
-  },
-  {
    "id": 902540988,
    "home": "Pamplona",
    "away": "Eibar",
@@ -384,23 +354,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902542215,
-   "home": "Coruxo",
-   "away": "Zamora",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

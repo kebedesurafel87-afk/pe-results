@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 21:48",
- "count": 23,
+ "updated_utc": "2026-10-28 22:03",
+ "count": 28,
  "matches": [
   {
    "id": 902541082,
@@ -403,6 +403,98 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902538490,
+   "home": "LASK Linz",
+   "away": "Ried",
+   "league": "Austria Cup",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:30",
+   "kickoff_utc": "2026-10-28 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "competitor1_over_under_1_5",
+    "dc",
+    "pbx_dc_h2",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902542536,
+   "home": "Cieza",
+   "away": "Granada CF",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:30",
+   "kickoff_utc": "2026-10-28 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902542532,
+   "home": "Reus Reddis",
+   "away": "Barakaldo CF",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:30",
+   "kickoff_utc": "2026-10-28 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902541664,
+   "home": "Castenaso Calcio",
+   "away": "SSD Futball Cava Ronco",
+   "league": "Eccellenza",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:30",
+   "kickoff_utc": "2026-10-28 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902542677,
+   "home": "Deportiva Minera",
+   "away": "FC Cartagena",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:30",
+   "kickoff_utc": "2026-10-28 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_1_5"
    ]
   }
  ]

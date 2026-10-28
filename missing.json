@@ -1,41 +1,7 @@
 {
- "updated_utc": "2026-10-28 21:33",
- "count": 29,
+ "updated_utc": "2026-10-28 21:48",
+ "count": 23,
  "matches": [
-  {
-   "id": 902539713,
-   "home": "ASM Oran U20",
-   "away": "MC Oran U20",
-   "league": "Algeria U20 League",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 11:00",
-   "kickoff_utc": "2026-10-28 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902540764,
-   "home": "Kedah U20",
-   "away": "Penang U20",
-   "league": "President's Cup",
-   "country": "Malaysia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 11:45",
-   "kickoff_utc": "2026-10-28 08:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902541082,
    "home": "Selangor FA U20",
@@ -124,24 +90,6 @@
    ]
   },
   {
-   "id": 902542656,
-   "home": "MFK Kosice U19",
-   "away": "Skalica U19",
-   "league": "League U19",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:00",
-   "kickoff_utc": "2026-10-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902541946,
    "home": "Zeleziarne Podbrezova U19",
    "away": "Tatran Presov U19",
@@ -176,20 +124,20 @@
    ]
   },
   {
-   "id": 902542495,
-   "home": "Al Badr",
-   "away": "Abu Al Matamir",
-   "league": "2nd Division B",
-   "country": "Egypt",
+   "id": 902542656,
+   "home": "MFK Kosice U19",
+   "away": "Skalica U19",
+   "league": "League U19",
+   "country": "Slovakia",
    "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
+   "kickoff_eat": "2026-10-28 15:00",
+   "kickoff_utc": "2026-10-28 12:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "over_under_1_5"
    ]
   },
   {
@@ -255,14 +203,10 @@
    "kickoff_utc": "2026-10-28 18:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "3_way_over_under_4_5",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -317,43 +261,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902542185,
-   "home": "Portugalete",
-   "away": "Real Union Irun",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902544742,
-   "home": "CRB U20",
-   "away": "Cs Esportiva AL U20",
-   "league": "Copa Alagoas U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -370,8 +278,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -389,25 +296,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902542533,
-   "home": "CD Alcoyano",
-   "away": "RCD Mallorca",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way_over_under_4_5",
-    "dc"
    ]
   },
   {
@@ -478,8 +366,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -497,17 +384,15 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance",
-    "draw_no_bet"
+    "dc"
    ]
   },
   {
-   "id": 902544610,
-   "home": "FC Collina d'Oro",
-   "away": "AC Taverne",
-   "league": "Erste Liga Cup",
-   "country": "Switzerland",
+   "id": 902542533,
+   "home": "CD Alcoyano",
+   "away": "RCD Mallorca",
+   "league": "Copa del Rey",
+   "country": "Spain",
    "sport": "football",
    "kickoff_eat": "2026-10-28 22:00",
    "kickoff_utc": "2026-10-28 19:00",
@@ -516,7 +401,8 @@
     "ft"
    ],
    "markets": [
-    "over_under_2_5"
+    "1x2",
+    "dc"
    ]
   }
  ]

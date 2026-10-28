@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 11:32",
- "count": 5,
+ "updated_utc": "2026-10-28 11:47",
+ "count": 4,
  "matches": [
   {
    "id": 902539713,
@@ -52,25 +52,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902540958,
-   "home": "NTV Beleza (W)",
-   "away": "Cerezo Osaka (W)",
-   "league": "WE League Women",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 12:00",
-   "kickoff_utc": "2026-10-28 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5"
    ]
   },
   {

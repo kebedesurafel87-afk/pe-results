@@ -1,5 +1,23 @@
 {
- "updated_utc": "2026-10-28 05:31",
- "count": 0,
- "matches": []
+ "updated_utc": "2026-10-28 10:32",
+ "count": 1,
+ "matches": [
+  {
+   "id": 902539713,
+   "home": "ASM Oran U20",
+   "away": "MC Oran U20",
+   "league": "Algeria U20 League",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 11:00",
+   "kickoff_utc": "2026-10-28 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  }
+ ]
 }

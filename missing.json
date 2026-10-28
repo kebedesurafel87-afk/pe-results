@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-27 23:31",
- "count": 13,
+ "updated_utc": "2026-10-28 00:01",
+ "count": 11,
  "matches": [
   {
    "id": 902535433,
@@ -72,26 +72,6 @@
    "markets": [
     "btts",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902529090,
-   "home": "Ethiopian Insurance FC",
-   "away": "Mekelakeya",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 15:00",
-   "kickoff_utc": "2026-10-27 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts"
    ]
   },
   {
@@ -214,24 +194,6 @@
     "1x2",
     "dc"
    ]
-  },
-  {
-   "id": 902535550,
-   "home": "Arosa",
-   "away": "Pontevedra CF",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-27 23:00",
-   "kickoff_utc": "2026-10-27 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance"
-   ],
-   "stored_ft": "2-0"
   }
  ]
 }

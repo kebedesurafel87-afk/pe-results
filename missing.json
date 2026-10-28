@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 13:17",
- "count": 11,
+ "updated_utc": "2026-10-28 13:32",
+ "count": 15,
  "matches": [
   {
    "id": 902539713,
@@ -183,21 +183,88 @@
    ]
   },
   {
-   "id": 902543300,
-   "home": "Serik Belediyespor",
-   "away": "Hakkari Zap",
-   "league": "Turkish Cup",
+   "id": 902544605,
+   "home": "Menemen Belediyespor U19",
+   "away": "Manisa FK U19",
+   "league": "1 Liga U19",
    "country": "Turkey",
    "sport": "football",
-   "kickoff_eat": "2026-10-28 13:30",
-   "kickoff_utc": "2026-10-28 10:30",
+   "kickoff_eat": "2026-10-28 14:00",
+   "kickoff_utc": "2026-10-28 11:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "ou25"
+    "btts"
+   ]
+  },
+  {
+   "id": 902544606,
+   "home": "Erokspor U19",
+   "away": "Bursaspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:00",
+   "kickoff_utc": "2026-10-28 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902544607,
+   "home": "Sakaryaspor U19",
+   "away": "Umraniyespor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:00",
+   "kickoff_utc": "2026-10-28 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902544608,
+   "home": "Istanbulspor AS U19",
+   "away": "Arkent Arnavutkoy Belediyesi U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:00",
+   "kickoff_utc": "2026-10-28 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902544613,
+   "home": "Altay U19",
+   "away": "Utas Usakspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:00",
+   "kickoff_utc": "2026-10-28 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
    ]
   }
  ]

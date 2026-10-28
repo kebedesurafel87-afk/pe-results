@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 13:47",
- "count": 9,
+ "updated_utc": "2026-10-28 14:02",
+ "count": 12,
  "matches": [
   {
    "id": 902539713,
@@ -51,26 +51,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902542187,
-   "home": "Zemplin Michalovce U19",
-   "away": "Spartak Trnava U19",
-   "league": "League U19",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 13:00",
-   "kickoff_utc": "2026-10-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "ou25",
-    "over_under_1_5",
-    "pbx_iou_t2_h1_0_5"
    ]
   },
   {
@@ -131,6 +111,25 @@
    ]
   },
   {
+   "id": 902542187,
+   "home": "Zemplin Michalovce U19",
+   "away": "Spartak Trnava U19",
+   "league": "League U19",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "ou25",
+    "over_under_1_5",
+    "pbx_iou_t2_h1_0_5"
+   ]
+  },
+  {
    "id": 902542827,
    "home": "Frosinone U19",
    "away": "Virtus Entella U19",
@@ -162,6 +161,58 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902544638,
+   "home": "Ozd Sajovolgye",
+   "away": "Nyiregyhaza Spartacus",
+   "league": "Hungary Cup",
+   "country": "Hungary",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:30",
+   "kickoff_utc": "2026-10-28 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541489,
+   "home": "ESMTK",
+   "away": "Szombathelyi Haladas",
+   "league": "Hungary Cup",
+   "country": "Hungary",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:30",
+   "kickoff_utc": "2026-10-28 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902534576,
+   "home": "Prostejov",
+   "away": "Hradec Kralove",
+   "league": "Czech Republic Cup",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 14:30",
+   "kickoff_utc": "2026-10-28 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

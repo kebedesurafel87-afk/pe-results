@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 15:32",
- "count": 18,
+ "updated_utc": "2026-10-28 16:02",
+ "count": 21,
  "matches": [
   {
    "id": 902539713,
@@ -264,23 +264,6 @@
    ]
   },
   {
-   "id": 902541480,
-   "home": "Akademija Pandev U19",
-   "away": "TSG Hoffenheim U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 16:00",
-   "kickoff_utc": "2026-10-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902541778,
    "home": "Ethnikos Asteras",
    "away": "Ambelokipoi",
@@ -314,6 +297,74 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902542172,
+   "home": "Turris Neapolis",
+   "away": "Certosa Vigor Campagnano",
+   "league": "Serie D Cup",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:30",
+   "kickoff_utc": "2026-10-28 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902542171,
+   "home": "AS Aversa Normanna",
+   "away": "Aquila",
+   "league": "Serie D Cup",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:30",
+   "kickoff_utc": "2026-10-28 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902542336,
+   "home": "Celle Varazze FBC",
+   "away": "Gozzano",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:30",
+   "kickoff_utc": "2026-10-28 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902541457,
+   "home": "ASD Savignanese",
+   "away": "ASD Victor San Marino",
+   "league": "Eccellenza",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:30",
+   "kickoff_utc": "2026-10-28 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

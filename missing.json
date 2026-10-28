@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 19:03",
- "count": 18,
+ "updated_utc": "2026-10-28 19:18",
+ "count": 17,
  "matches": [
   {
    "id": 902539713,
@@ -293,24 +293,6 @@
     "ft"
    ],
    "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902349805,
-   "home": "Puszcza Niepolomice",
-   "away": "Wisla Plock",
-   "league": "Poland Cup",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 19:30",
-   "kickoff_utc": "2026-10-28 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
     "dc"
    ]
   }

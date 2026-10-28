@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 22:03",
- "count": 28,
+ "updated_utc": "2026-10-28 22:18",
+ "count": 33,
  "matches": [
   {
    "id": 902541082,
@@ -406,27 +406,6 @@
    ]
   },
   {
-   "id": 902538490,
-   "home": "LASK Linz",
-   "away": "Ried",
-   "league": "Austria Cup",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:30",
-   "kickoff_utc": "2026-10-28 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "competitor1_over_under_1_5",
-    "dc",
-    "pbx_dc_h2",
-    "pbx_tgbts_2_5"
-   ]
-  },
-  {
    "id": 902542536,
    "home": "Cieza",
    "away": "Granada CF",
@@ -495,6 +474,118 @@
    ],
    "markets": [
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902541077,
+   "home": "Luton (W)",
+   "away": "Milton Keynes Dons (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541102,
+   "home": "Bradford (W)",
+   "away": "Halifax (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541103,
+   "home": "Stockport County (W)",
+   "away": "Blackburn (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902541511,
+   "home": "Leeds United (W)",
+   "away": "York City (W)",
+   "league": "FA Premier Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 2791637,
+   "home": "Holstein Kiel",
+   "away": "TSG Hoffenheim",
+   "league": "DFB Pokal",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "2nd_half_double_chance",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "dc"
+   ]
+  },
+  {
+   "id": 902541106,
+   "home": "Northampton Town (W)",
+   "away": "Leafield Athletic (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 22:45",
+   "kickoff_utc": "2026-10-28 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   }
  ]

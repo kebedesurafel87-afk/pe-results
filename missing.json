@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 12:47",
- "count": 10,
+ "updated_utc": "2026-10-28 13:02",
+ "count": 12,
  "matches": [
   {
    "id": 902539713,
@@ -180,6 +180,42 @@
    ],
    "markets": [
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902543034,
+   "home": "Ankaraspor",
+   "away": "Kırklarelispor",
+   "league": "Turkish Cup",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:30",
+   "kickoff_utc": "2026-10-28 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902543300,
+   "home": "Serik Belediyespor",
+   "away": "Hakkari Zap",
+   "league": "Turkish Cup",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:30",
+   "kickoff_utc": "2026-10-28 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "ou25"
    ]
   }
  ]

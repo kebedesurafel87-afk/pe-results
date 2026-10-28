@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 13:32",
- "count": 15,
+ "updated_utc": "2026-10-28 13:47",
+ "count": 9,
  "matches": [
   {
    "id": 902539713,
@@ -50,25 +50,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902540586,
-   "home": "Young Lionesses (w)",
-   "away": "Shan United (W)",
-   "league": "League Women",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 12:00",
-   "kickoff_utc": "2026-10-28 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -89,42 +71,6 @@
     "ou25",
     "over_under_1_5",
     "pbx_iou_t2_h1_0_5"
-   ]
-  },
-  {
-   "id": 902541955,
-   "home": "Trencin U19",
-   "away": "Tatran Liptovsky Mikulas U19",
-   "league": "League U19",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 13:00",
-   "kickoff_utc": "2026-10-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5",
-    "pbx_iou_t1_h1_0_5"
-   ]
-  },
-  {
-   "id": 902544767,
-   "home": "Nong Bua Pitchaya U21",
-   "away": "Kanchanaburi Power U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 13:00",
-   "kickoff_utc": "2026-10-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -166,6 +112,25 @@
    ]
   },
   {
+   "id": 902541955,
+   "home": "Trencin U19",
+   "away": "Tatran Liptovsky Mikulas U19",
+   "league": "League U19",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
    "id": 902542827,
    "home": "Frosinone U19",
    "away": "Virtus Entella U19",
@@ -183,57 +148,6 @@
    ]
   },
   {
-   "id": 902544605,
-   "home": "Menemen Belediyespor U19",
-   "away": "Manisa FK U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:00",
-   "kickoff_utc": "2026-10-28 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902544606,
-   "home": "Erokspor U19",
-   "away": "Bursaspor U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:00",
-   "kickoff_utc": "2026-10-28 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902544607,
-   "home": "Sakaryaspor U19",
-   "away": "Umraniyespor U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:00",
-   "kickoff_utc": "2026-10-28 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
    "id": 902544608,
    "home": "Istanbulspor AS U19",
    "away": "Arkent Arnavutkoy Belediyesi U19",
@@ -248,23 +162,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902544613,
-   "home": "Altay U19",
-   "away": "Utas Usakspor U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 14:00",
-   "kickoff_utc": "2026-10-28 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
    ]
   }
  ]

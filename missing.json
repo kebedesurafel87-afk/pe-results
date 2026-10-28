@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:33",
- "count": 20,
+ "updated_utc": "2026-10-28 18:48",
+ "count": 19,
  "matches": [
   {
    "id": 902539713,
@@ -67,7 +67,6 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "over_under_2_5",
     "over_under_4_5"
    ]
@@ -278,8 +277,7 @@
    ],
    "markets": [
     "1x2",
-    "btts",
-    "dc"
+    "btts"
    ]
   },
   {
@@ -297,23 +295,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902542336,
-   "home": "Celle Varazze FBC",
-   "away": "Gozzano",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 16:30",
-   "kickoff_utc": "2026-10-28 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 16:02",
- "count": 21,
+ "updated_utc": "2026-10-28 16:17",
+ "count": 19,
  "matches": [
   {
    "id": 902539713,
@@ -297,40 +297,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902542172,
-   "home": "Turris Neapolis",
-   "away": "Certosa Vigor Campagnano",
-   "league": "Serie D Cup",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 16:30",
-   "kickoff_utc": "2026-10-28 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542171,
-   "home": "AS Aversa Normanna",
-   "away": "Aquila",
-   "league": "Serie D Cup",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 16:30",
-   "kickoff_utc": "2026-10-28 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

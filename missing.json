@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 19:18",
- "count": 17,
+ "updated_utc": "2026-10-28 19:33",
+ "count": 16,
  "matches": [
   {
    "id": 902539713,
@@ -54,24 +54,6 @@
    ]
   },
   {
-   "id": 902542828,
-   "home": "Cremonese U19",
-   "away": "Benevento U19",
-   "league": "Primavera Cup",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 13:00",
-   "kickoff_utc": "2026-10-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5",
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902541955,
    "home": "Trencin U19",
    "away": "Tatran Liptovsky Mikulas U19",
@@ -108,9 +90,9 @@
    ]
   },
   {
-   "id": 902542827,
-   "home": "Frosinone U19",
-   "away": "Virtus Entella U19",
+   "id": 902542828,
+   "home": "Cremonese U19",
+   "away": "Benevento U19",
    "league": "Primavera Cup",
    "country": "Italy",
    "sport": "football",
@@ -125,20 +107,20 @@
    ]
   },
   {
-   "id": 902544518,
-   "home": "Karabuk Idmanyurdu Spor",
-   "away": "Yeni Iskenderunspor",
-   "league": "Turkish Cup",
-   "country": "Turkey",
+   "id": 902542827,
+   "home": "Frosinone U19",
+   "away": "Virtus Entella U19",
+   "league": "Primavera Cup",
+   "country": "Italy",
    "sport": "football",
-   "kickoff_eat": "2026-10-28 15:00",
-   "kickoff_utc": "2026-10-28 12:00",
+   "kickoff_eat": "2026-10-28 13:00",
+   "kickoff_utc": "2026-10-28 10:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -194,40 +176,6 @@
    ]
   },
   {
-   "id": 902542496,
-   "home": "RA Sporting",
-   "away": "Mustaqbal Sport",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542498,
-   "home": "Levels",
-   "away": "Gomhoreyet Shepin",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902542495,
    "home": "Al Badr",
    "away": "Abu Al Matamir",
@@ -263,23 +211,6 @@
    ]
   },
   {
-   "id": 902544614,
-   "home": "Mwembe Makumbi City FC",
-   "away": "Chipukizi",
-   "league": "Premier League",
-   "country": "Zanzibar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 16:00",
-   "kickoff_utc": "2026-10-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902541457,
    "home": "ASD Savignanese",
    "away": "ASD Victor San Marino",
@@ -293,6 +224,66 @@
     "ft"
    ],
    "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902536943,
+   "home": "Pors Grenland",
+   "away": "Kongsvinger IL",
+   "league": "NM Cup",
+   "country": "Norway",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 20:00",
+   "kickoff_utc": "2026-10-28 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 2791659,
+   "home": "SSV Jeddeloh II",
+   "away": "Hertha BSC",
+   "league": "DFB Pokal",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 20:00",
+   "kickoff_utc": "2026-10-28 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_5_5"
+   ]
+  },
+  {
+   "id": 902538556,
+   "home": "FC Wacker Innsbruck",
+   "away": "WSG Swarovski Tirol",
+   "league": "Austria Cup",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 20:00",
+   "kickoff_utc": "2026-10-28 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
     "dc"
    ]
   }

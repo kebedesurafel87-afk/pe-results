@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 15:17",
- "count": 15,
+ "updated_utc": "2026-10-28 15:32",
+ "count": 18,
  "matches": [
   {
    "id": 902539713,
@@ -255,6 +255,59 @@
    "sport": "football",
    "kickoff_eat": "2026-10-28 15:30",
    "kickoff_utc": "2026-10-28 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541480,
+   "home": "Akademija Pandev U19",
+   "away": "TSG Hoffenheim U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:00",
+   "kickoff_utc": "2026-10-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902541778,
+   "home": "Ethnikos Asteras",
+   "away": "Ambelokipoi",
+   "league": "Regional Cup",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:00",
+   "kickoff_utc": "2026-10-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902544614,
+   "home": "Mwembe Makumbi City FC",
+   "away": "Chipukizi",
+   "league": "Premier League",
+   "country": "Zanzibar",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 16:00",
+   "kickoff_utc": "2026-10-28 13:00",
    "status": "no_result",
    "needs": [
     "ft"

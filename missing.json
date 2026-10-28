@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 12:32",
- "count": 11,
+ "updated_utc": "2026-10-28 12:47",
+ "count": 10,
  "matches": [
   {
    "id": 902539713,
@@ -125,26 +125,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902541487,
-   "home": "Nagoya Grampus",
-   "away": "Urawa Red Diamonds",
-   "league": "J League Cup",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 13:00",
-   "kickoff_utc": "2026-10-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "competitor2_total_0_5",
-    "dc",
-    "over_under_1_5"
    ]
   },
   {

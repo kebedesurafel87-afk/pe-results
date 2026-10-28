@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 20:18",
- "count": 14,
+ "updated_utc": "2026-10-28 20:33",
+ "count": 22,
  "matches": [
   {
    "id": 902539713,
@@ -255,6 +255,152 @@
     "pb_cor_1x2",
     "pbx_tgbts_2_5",
     "pbx_wtn_t1"
+   ]
+  },
+  {
+   "id": 902540988,
+   "home": "Pamplona",
+   "away": "Eibar",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902540989,
+   "home": "CD Tarancon",
+   "away": "Levante UD",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "3_way_over_under_4_5",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902542321,
+   "home": "Utebo",
+   "away": "CE Sabadell",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902542214,
+   "home": "Pena Sport",
+   "away": "SD Huesca",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902540986,
+   "home": "Poblense",
+   "away": "AD Ceuta FC",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902542185,
+   "home": "Portugalete",
+   "away": "Real Union Irun",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902544742,
+   "home": "CRB U20",
+   "away": "Cs Esportiva AL U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902542215,
+   "home": "Coruxo",
+   "away": "Zamora",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 21:00",
+   "kickoff_utc": "2026-10-28 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

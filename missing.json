@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 15:02",
- "count": 18,
+ "updated_utc": "2026-10-28 15:17",
+ "count": 15,
  "matches": [
   {
    "id": 902539713,
@@ -213,30 +213,9 @@
    ]
   },
   {
-   "id": 902536228,
-   "home": "Brabrand",
-   "away": "AC Horsens",
-   "league": "Danish Cup",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902542497,
-   "home": "Al Qanater Al Khayriyah",
-   "away": "Gezira",
+   "id": 902542496,
+   "home": "RA Sporting",
+   "away": "Mustaqbal Sport",
    "league": "2nd Division B",
    "country": "Egypt",
    "sport": "football",
@@ -254,40 +233,6 @@
    "id": 902542498,
    "home": "Levels",
    "away": "Gomhoreyet Shepin",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542504,
-   "home": "Ittihad Nabarouh",
-   "away": "Rabat & Lights SC",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 15:30",
-   "kickoff_utc": "2026-10-28 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542496,
-   "home": "RA Sporting",
-   "away": "Mustaqbal Sport",
    "league": "2nd Division B",
    "country": "Egypt",
    "sport": "football",

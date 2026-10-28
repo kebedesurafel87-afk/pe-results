@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:18",
- "count": 19,
+ "updated_utc": "2026-10-28 18:33",
+ "count": 20,
  "matches": [
   {
    "id": 902539713,
@@ -331,6 +331,25 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902533468,
+   "home": "Varazdin",
+   "away": "Lokomotiva Zagreb",
+   "league": "Croatia Cup",
+   "country": "Croatia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-28 19:00",
+   "kickoff_utc": "2026-10-28 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

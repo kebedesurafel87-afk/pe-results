@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 18:03",
- "count": 20,
+ "updated_utc": "2026-10-28 18:18",
+ "count": 19,
  "matches": [
   {
    "id": 902539713,
@@ -330,24 +330,6 @@
     "ft"
    ],
    "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902542508,
-   "home": "Borac Cacak",
-   "away": "Radnik Surdulica",
-   "league": "Serbian Cup",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 18:30",
-   "kickoff_utc": "2026-10-28 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
     "dc"
    ]
   }

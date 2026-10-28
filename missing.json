@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 19:33",
- "count": 16,
+ "updated_utc": "2026-10-28 19:48",
+ "count": 14,
  "matches": [
   {
    "id": 902539713,
@@ -225,47 +225,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902536943,
-   "home": "Pors Grenland",
-   "away": "Kongsvinger IL",
-   "league": "NM Cup",
-   "country": "Norway",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 20:00",
-   "kickoff_utc": "2026-10-28 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 2791659,
-   "home": "SSV Jeddeloh II",
-   "away": "Hertha BSC",
-   "league": "DFB Pokal",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 20:00",
-   "kickoff_utc": "2026-10-28 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_5_5"
    ]
   },
   {

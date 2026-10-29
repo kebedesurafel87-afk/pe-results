@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 17:49",
- "count": 16,
+ "updated_utc": "2026-10-29 18:04",
+ "count": 15,
  "matches": [
   {
    "id": 902542214,
@@ -123,8 +123,7 @@
    ],
    "markets": [
     "1x2",
-    "double_chance",
-    "over_under_1_5"
+    "double_chance"
    ]
   },
   {
@@ -250,32 +249,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902544784,
-   "home": "FC Noah",
-   "away": "FC Syunik",
-   "league": "Armenian Cup",
-   "country": "Armenia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 18:00",
-   "kickoff_utc": "2026-10-29 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "handicap_hcp_0_1",
-    "ou25",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_4_5",
-    "pbx_iou_t1_h2_2_5"
    ]
   },
   {

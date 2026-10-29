@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 21:05",
- "count": 17,
+ "updated_utc": "2026-10-29 21:35",
+ "count": 22,
  "matches": [
   {
    "id": 902542214,
@@ -139,8 +139,7 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "btts",
-    "dc"
+    "btts"
    ]
   },
   {
@@ -300,6 +299,110 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902544772,
+   "home": "ACV",
+   "away": "AFC",
+   "league": "KNVB Beker",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:00",
+   "kickoff_utc": "2026-10-29 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902545392,
+   "home": "Purmersteijn",
+   "away": "Gemert",
+   "league": "KNVB Beker",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:00",
+   "kickoff_utc": "2026-10-29 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pbx_1x2_10m"
+   ]
+  },
+  {
+   "id": 902547217,
+   "home": "Real Avila",
+   "away": "UD Salamanca",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:00",
+   "kickoff_utc": "2026-10-29 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902552127,
+   "home": "Club Olimpia de Ita",
+   "away": "Cristobal Colon JAS",
+   "league": "Primera B",
+   "country": "Paraguay",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:00",
+   "kickoff_utc": "2026-10-29 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902549603,
+   "home": "Mijas Las Lagunas",
+   "away": "Real Jaen",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:00",
+   "kickoff_utc": "2026-10-29 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

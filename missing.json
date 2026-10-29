@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 15:19",
- "count": 7,
+ "updated_utc": "2026-10-29 15:34",
+ "count": 11,
  "matches": [
   {
    "id": 902542214,
@@ -127,6 +127,78 @@
     "dc",
     "double_chance",
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902550681,
+   "home": "Phinnet City FC",
+   "away": "Mohlabile United",
+   "league": "Second Division",
+   "country": "South Africa",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:00",
+   "kickoff_utc": "2026-10-29 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902549629,
+   "home": "Mlandege",
+   "away": "Zimamoto SC",
+   "league": "Premier League",
+   "country": "Zanzibar",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:00",
+   "kickoff_utc": "2026-10-29 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902549630,
+   "home": "KMKM",
+   "away": "Uhamiaji",
+   "league": "Premier League",
+   "country": "Zanzibar",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:00",
+   "kickoff_utc": "2026-10-29 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "btts"
+   ]
+  },
+  {
+   "id": 902550682,
+   "home": "Luyando Foundation (w)",
+   "away": "ZISD (W)",
+   "league": "Zambia League Women",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:00",
+   "kickoff_utc": "2026-10-29 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

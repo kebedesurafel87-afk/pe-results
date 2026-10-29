@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-28 22:48",
- "count": 36,
+ "updated_utc": "2026-10-29 00:18",
+ "count": 34,
  "matches": [
   {
    "id": 902541082,
@@ -299,23 +299,6 @@
    ]
   },
   {
-   "id": 902541945,
-   "home": "UE Porreres",
-   "away": "Alcudia",
-   "league": "Tercera Div. RFEF Group 11",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902542534,
    "home": "CD Badajoz",
    "away": "CD Tenerife",
@@ -403,25 +386,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902542536,
-   "home": "Cieza",
-   "away": "Granada CF",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:30",
-   "kickoff_utc": "2026-10-28 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   },
   {

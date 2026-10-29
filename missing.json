@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-29 12:34",
+ "updated_utc": "2026-10-29 13:04",
  "count": 5,
  "matches": [
   {
@@ -73,22 +73,21 @@
    ]
   },
   {
-   "id": 902544045,
-   "home": "Khankendi",
-   "away": "Ganjabasar",
-   "league": "Azerbaijan Cup",
-   "country": "Azerbaijan",
+   "id": 902544512,
+   "home": "Technico FF",
+   "away": "ASC",
+   "league": "Bangalore Super Division",
+   "country": "India",
    "sport": "football",
-   "kickoff_eat": "2026-10-29 13:00",
-   "kickoff_utc": "2026-10-29 10:00",
+   "kickoff_eat": "2026-10-29 13:30",
+   "kickoff_utc": "2026-10-29 10:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
+    "1x2",
     "both_teams_to_score",
-    "dc",
-    "ou15",
     "over_under_4_5"
    ]
   }

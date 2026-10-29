@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 15:49",
- "count": 12,
+ "updated_utc": "2026-10-29 16:04",
+ "count": 13,
  "matches": [
   {
    "id": 902542214,
@@ -179,7 +179,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "btts"
    ]
   },
@@ -217,6 +216,25 @@
     "1x2",
     "over_under_1_5",
     "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902547140,
+   "home": "FC Petrzalka U19",
+   "away": "SK Slovan Bratislava U19",
+   "league": "League U19",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:30",
+   "kickoff_utc": "2026-10-29 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 14:04",
- "count": 7,
+ "updated_utc": "2026-10-29 14:19",
+ "count": 5,
  "matches": [
   {
    "id": 902542214,
@@ -87,52 +87,6 @@
     "1x2",
     "both_teams_to_score",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902544530,
-   "home": "Olympia Yerevan",
-   "away": "Ararat-Armenia",
-   "league": "Armenian Cup",
-   "country": "Armenia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 14:30",
-   "kickoff_utc": "2026-10-29 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor2_total_2_5",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "over_under_4_5",
-    "pbx_iou_t2_h2_2_5"
-   ]
-  },
-  {
-   "id": 902349799,
-   "home": "Avia Swidnik",
-   "away": "Radomiak Radom",
-   "league": "Poland Cup",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 14:30",
-   "kickoff_utc": "2026-10-29 11:30",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "pb_cor_ou_3w_11"
    ]
   }
  ]

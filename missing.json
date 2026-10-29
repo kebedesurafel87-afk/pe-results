@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 20:35",
- "count": 19,
+ "updated_utc": "2026-10-29 20:50",
+ "count": 18,
  "matches": [
   {
    "id": 902542214,
@@ -89,24 +89,6 @@
    ]
   },
   {
-   "id": 902542493,
-   "home": "Orange Sport FSI",
-   "away": "Misr Insurance FC",
-   "league": "2nd Division B",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 15:30",
-   "kickoff_utc": "2026-10-29 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902542501,
    "home": "Delphi",
    "away": "Al Majd",
@@ -122,6 +104,24 @@
    "markets": [
     "1x2",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902542493,
+   "home": "Orange Sport FSI",
+   "away": "Misr Insurance FC",
+   "league": "2nd Division B",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 15:30",
+   "kickoff_utc": "2026-10-29 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   },
   {
@@ -246,25 +246,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902547129,
-   "home": "SS Reyes",
-   "away": "CD Coria",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 21:00",
-   "kickoff_utc": "2026-10-29 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc"
    ]
   },
   {

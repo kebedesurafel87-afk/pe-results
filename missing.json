@@ -1,58 +1,7 @@
 {
- "updated_utc": "2026-10-29 21:35",
- "count": 22,
+ "updated_utc": "2026-10-29 21:50",
+ "count": 17,
  "matches": [
-  {
-   "id": 902542214,
-   "home": "Pena Sport",
-   "away": "SD Huesca",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902540986,
-   "home": "Poblense",
-   "away": "AD Ceuta FC",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902542338,
-   "home": "Amorebieta",
-   "away": "UD Logrones",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
   {
    "id": 902550469,
    "home": "RC Relizane U20",
@@ -322,48 +271,6 @@
     "double_chance",
     "ou25",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902545392,
-   "home": "Purmersteijn",
-   "away": "Gemert",
-   "league": "KNVB Beker",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:00",
-   "kickoff_utc": "2026-10-29 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pbx_1x2_10m"
-   ]
-  },
-  {
-   "id": 902547217,
-   "home": "Real Avila",
-   "away": "UD Salamanca",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:00",
-   "kickoff_utc": "2026-10-29 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
    ]
   },
   {

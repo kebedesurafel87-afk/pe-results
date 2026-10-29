@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-29 22:20",
+ "updated_utc": "2026-10-29 22:35",
  "count": 21,
  "matches": [
   {
@@ -16,8 +16,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -34,8 +33,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -70,7 +68,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "btts"
    ]
   },
@@ -175,8 +172,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -193,47 +189,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902547745,
-   "home": "Argentino Quilmes (R)",
-   "away": "CSD Flandria (R)",
-   "league": "Reserve League",
-   "country": "Argentina",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 21:00",
-   "kickoff_utc": "2026-10-29 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902544772,
-   "home": "ACV",
-   "away": "AFC",
-   "league": "KNVB Beker",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:00",
-   "kickoff_utc": "2026-10-29 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "ou25",
-    "over_under_2_5"
    ]
   },
   {
@@ -271,7 +227,6 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
     "both_teams_to_score",
     "dc",
     "double_chance",
@@ -281,9 +236,9 @@
    ]
   },
   {
-   "id": 902547108,
-   "home": "Torquay United (w)",
-   "away": "Marine Academy Plymouth (W)",
+   "id": 902547109,
+   "home": "Gwalia United (W)",
+   "away": "Bristol Rovers (W)",
    "league": "WNL",
    "country": "England",
    "sport": "football",
@@ -295,8 +250,25 @@
    ],
    "markets": [
     "1x2",
-    "over_under_3_5",
-    "pbx_dc_h2"
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902547110,
+   "home": "Wycombe Wanderers (W)",
+   "away": "Abingdon United (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:45",
+   "kickoff_utc": "2026-10-29 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   },
   {
@@ -317,43 +289,6 @@
     "both_teams_to_score",
     "double_chance",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902547109,
-   "home": "Gwalia United (W)",
-   "away": "Bristol Rovers (W)",
-   "league": "WNL",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:45",
-   "kickoff_utc": "2026-10-29 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902547110,
-   "home": "Wycombe Wanderers (W)",
-   "away": "Abingdon United (W)",
-   "league": "WNL",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:45",
-   "kickoff_utc": "2026-10-29 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
    ]
   },
   {
@@ -397,6 +332,66 @@
     "over_under_2_5",
     "pbx_dc_h2"
    ]
+  },
+  {
+   "id": 902547108,
+   "home": "Torquay United (w)",
+   "away": "Marine Academy Plymouth (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 22:45",
+   "kickoff_utc": "2026-10-29 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_3_5",
+    "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902546736,
+   "home": "Chorley (W)",
+   "away": "AFC Fylde (W)",
+   "league": "WNL",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 23:00",
+   "kickoff_utc": "2026-10-29 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5",
+    "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902524749,
+   "home": "HB Koge (W)",
+   "away": "FC Barcelona (W)",
+   "league": "UEFA Champions League Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 23:00",
+   "kickoff_utc": "2026-10-29 20:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_4_5",
+    "pb_cor_ou_t2_9_5"
+   ],
+   "stored_ft": "0-8"
   }
  ]
 }

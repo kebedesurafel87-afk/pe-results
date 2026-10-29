@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 20:05",
- "count": 14,
+ "updated_utc": "2026-10-29 20:35",
+ "count": 19,
  "matches": [
   {
    "id": 902542214,
@@ -103,8 +103,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "btts"
+    "both_teams_to_score"
    ]
   },
   {
@@ -241,6 +240,100 @@
    "sport": "football",
    "kickoff_eat": "2026-10-29 17:30",
    "kickoff_utc": "2026-10-29 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902547129,
+   "home": "SS Reyes",
+   "away": "CD Coria",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 21:00",
+   "kickoff_utc": "2026-10-29 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902547277,
+   "home": "CS Alagoano U20",
+   "away": "M10 Rio Largo U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 21:00",
+   "kickoff_utc": "2026-10-29 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902544591,
+   "home": "ISCA",
+   "away": "ASEC Mimosas",
+   "league": "League 1",
+   "country": "Ivory Coast",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 21:00",
+   "kickoff_utc": "2026-10-29 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902547757,
+   "home": "Dock Sud (R)",
+   "away": "Deportivo Merlo (R)",
+   "league": "Reserve League",
+   "country": "Argentina",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 21:00",
+   "kickoff_utc": "2026-10-29 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902547745,
+   "home": "Argentino Quilmes (R)",
+   "away": "CSD Flandria (R)",
+   "league": "Reserve League",
+   "country": "Argentina",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 21:00",
+   "kickoff_utc": "2026-10-29 18:00",
    "status": "no_result",
    "needs": [
     "ft"

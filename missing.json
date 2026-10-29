@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 15:04",
- "count": 8,
+ "updated_utc": "2026-10-29 15:19",
+ "count": 7,
  "matches": [
   {
    "id": 902542214,
@@ -127,24 +127,6 @@
     "dc",
     "double_chance",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902544550,
-   "home": "Team FC Cairo",
-   "away": "Delta United",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 15:30",
-   "kickoff_utc": "2026-10-29 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 09:49",
- "count": 3,
+ "updated_utc": "2026-10-29 11:34",
+ "count": 4,
  "matches": [
   {
    "id": 902542214,
@@ -51,6 +51,25 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902550469,
+   "home": "RC Relizane U20",
+   "away": "US Remchi U20",
+   "league": "Algeria U20 League",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 12:00",
+   "kickoff_utc": "2026-10-29 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5",
+    "pbx_oe_h1"
    ]
   }
  ]

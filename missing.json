@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 00:33",
- "count": 35,
+ "updated_utc": "2026-10-29 01:48",
+ "count": 32,
  "matches": [
   {
    "id": 902541082,
@@ -265,23 +265,6 @@
    ]
   },
   {
-   "id": 902542320,
-   "home": "Covadonga",
-   "away": "Real Valladolid",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902544726,
    "home": "Trival Valderas",
    "away": "Leganes",
@@ -338,24 +321,6 @@
    "id": 902542338,
    "home": "Amorebieta",
    "away": "UD Logrones",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902542322,
-   "home": "CD Numancia",
-   "away": "Real Oviedo",
    "league": "Copa del Rey",
    "country": "Spain",
    "sport": "football",
@@ -567,8 +532,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_5_5"
+    "1x2"
    ]
   },
   {
@@ -587,24 +551,6 @@
    "markets": [
     "1x2",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902542674,
-   "home": "Xerez CD",
-   "away": "CF Cadiz",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 23:00",
-   "kickoff_utc": "2026-10-28 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

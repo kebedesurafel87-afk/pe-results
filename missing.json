@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-29 21:50",
- "count": 17,
+ "updated_utc": "2026-10-29 22:05",
+ "count": 15,
  "matches": [
-  {
-   "id": 902550469,
-   "home": "RC Relizane U20",
-   "away": "US Remchi U20",
-   "league": "Algeria U20 League",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 12:00",
-   "kickoff_utc": "2026-10-29 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902544512,
    "home": "Technico FF",
@@ -157,8 +140,7 @@
    ],
    "markets": [
     "1x2",
-    "btts",
-    "dc"
+    "btts"
    ]
   },
   {
@@ -177,23 +159,6 @@
    "markets": [
     "1x2",
     "btts"
-   ]
-  },
-  {
-   "id": 902550680,
-   "home": "Bazar Brothers",
-   "away": "Rovers FC",
-   "league": "Premier League",
-   "country": "Seychelles",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 17:30",
-   "kickoff_utc": "2026-10-29 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -264,24 +229,22 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "btts",
     "dc",
-    "double_chance",
     "ou25",
     "over_under_2_5"
    ]
   },
   {
-   "id": 902552127,
-   "home": "Club Olimpia de Ita",
-   "away": "Cristobal Colon JAS",
-   "league": "Primera B",
-   "country": "Paraguay",
+   "id": 902465903,
+   "home": "Odra Opole",
+   "away": "Slask Wroclaw",
+   "league": "Poland Cup",
+   "country": "Poland",
    "sport": "football",
-   "kickoff_eat": "2026-10-29 22:00",
-   "kickoff_utc": "2026-10-29 19:00",
+   "kickoff_eat": "2026-10-29 22:30",
+   "kickoff_utc": "2026-10-29 19:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -289,19 +252,18 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "pbx_dc_h2"
+    "btts"
    ]
   },
   {
-   "id": 902549603,
-   "home": "Mijas Las Lagunas",
-   "away": "Real Jaen",
+   "id": 902549607,
+   "home": "Gimnastica Torrelavega",
+   "away": "UD Ourense",
    "league": "Copa del Rey",
    "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-10-29 22:00",
-   "kickoff_utc": "2026-10-29 19:00",
+   "kickoff_eat": "2026-10-29 22:30",
+   "kickoff_utc": "2026-10-29 19:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -309,6 +271,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_2_5",
     "dc"
    ]
   }

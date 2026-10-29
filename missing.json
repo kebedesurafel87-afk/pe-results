@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 16:34",
- "count": 13,
+ "updated_utc": "2026-10-29 17:04",
+ "count": 14,
  "matches": [
   {
    "id": 902542214,
@@ -234,6 +234,23 @@
    "markets": [
     "1x2",
     "btts"
+   ]
+  },
+  {
+   "id": 902550680,
+   "home": "Bazar Brothers",
+   "away": "Rovers FC",
+   "league": "Premier League",
+   "country": "Seychelles",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 17:30",
+   "kickoff_utc": "2026-10-29 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

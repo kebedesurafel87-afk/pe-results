@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 19:35",
- "count": 17,
+ "updated_utc": "2026-10-29 20:05",
+ "count": 14,
  "matches": [
   {
    "id": 902542214,
@@ -247,71 +247,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902524273,
-   "home": "Concordia Chiajna",
-   "away": "Sepsi OSK",
-   "league": "Romanian Cup",
-   "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 18:00",
-   "kickoff_utc": "2026-10-29 15:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "ou25",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
-   "id": 902549605,
-   "home": "CD Numancia",
-   "away": "Real Oviedo",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 20:00",
-   "kickoff_utc": "2026-10-29 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_2_0",
-    "ou15",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902549628,
-   "home": "Township Rollers",
-   "away": "Tonota",
-   "league": "Premier League",
-   "country": "Botswana",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 20:00",
-   "kickoff_utc": "2026-10-29 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
    ]
   }
  ]

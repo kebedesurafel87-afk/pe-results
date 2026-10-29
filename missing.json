@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 18:34",
- "count": 15,
+ "updated_utc": "2026-10-29 19:05",
+ "count": 16,
  "matches": [
   {
    "id": 902542214,
@@ -85,8 +85,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "over_under_4_5"
+    "both_teams_to_score"
    ]
   },
   {
@@ -140,7 +139,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "btts",
     "dc"
@@ -273,6 +271,29 @@
     "pb_cor_ou_9_5"
    ],
    "stored_ft": "1-1"
+  },
+  {
+   "id": 902496575,
+   "home": "NK Brinje Grosuplje",
+   "away": "NK Bravo",
+   "league": "Prva Liga",
+   "country": "Slovenia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 19:30",
+   "kickoff_utc": "2026-10-29 16:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "pb_cor_ou_t2_4",
+    "pbx_tsg_t2"
+   ],
+   "stored_ft": "0-0"
   }
  ]
 }

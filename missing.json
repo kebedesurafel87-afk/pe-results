@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 15:34",
- "count": 11,
+ "updated_utc": "2026-10-29 15:49",
+ "count": 12,
  "matches": [
   {
    "id": 902542214,
@@ -123,7 +123,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_1_5"
@@ -199,6 +198,25 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902536223,
+   "home": "Fajr Sepasi",
+   "away": "Traktor Sazi",
+   "league": "Pro League",
+   "country": "Iran",
+   "sport": "football",
+   "kickoff_eat": "2026-10-29 16:15",
+   "kickoff_utc": "2026-10-29 13:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5",
+    "pbx_iou_t1_h1_0_5"
    ]
   }
  ]

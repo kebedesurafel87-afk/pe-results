@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 01:48",
- "count": 32,
+ "updated_utc": "2026-10-29 02:03",
+ "count": 22,
  "matches": [
   {
    "id": 902541082,
@@ -176,59 +176,6 @@
    ]
   },
   {
-   "id": 902540988,
-   "home": "Pamplona",
-   "away": "Eibar",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902540989,
-   "home": "CD Tarancon",
-   "away": "Levante UD",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542321,
-   "home": "Utebo",
-   "away": "CE Sabadell",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 21:00",
-   "kickoff_utc": "2026-10-28 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902542214,
    "home": "Pena Sport",
    "away": "SD Huesca",
@@ -242,7 +189,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -260,7 +206,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -282,42 +227,6 @@
    ]
   },
   {
-   "id": 902542534,
-   "home": "CD Badajoz",
-   "away": "CD Tenerife",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902542374,
-   "home": "Puertollano",
-   "away": "Albacete Balompie",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902542338,
    "home": "Amorebieta",
    "away": "UD Logrones",
@@ -326,42 +235,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-28 22:00",
    "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902542533,
-   "home": "CD Alcoyano",
-   "away": "RCD Mallorca",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:00",
-   "kickoff_utc": "2026-10-28 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902542532,
-   "home": "Reus Reddis",
-   "away": "Barakaldo CF",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:30",
-   "kickoff_utc": "2026-10-28 19:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -385,23 +258,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902542677,
-   "home": "Deportiva Minera",
-   "away": "FC Cartagena",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 22:30",
-   "kickoff_utc": "2026-10-28 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
    ]
   },
   {
@@ -453,7 +309,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "over_under_3_5"
    ]
   },
@@ -506,10 +361,8 @@
     "corners"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "handicap_hcp_2_0",
     "ou25",
     "pb_cor_dc",
@@ -517,41 +370,6 @@
     "pb_y_iou_t2_1_5"
    ],
    "stored_ft": "1-1"
-  },
-  {
-   "id": 902542676,
-   "home": "Navalcarnero",
-   "away": "Real Betis",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 23:00",
-   "kickoff_utc": "2026-10-28 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902542675,
-   "home": "Salamanca CF UDS",
-   "away": "Celta Vigo",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 23:00",
-   "kickoff_utc": "2026-10-28 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
   },
   {
    "id": 902545277,

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 02:03",
- "count": 22,
+ "updated_utc": "2026-10-29 07:49",
+ "count": 20,
  "matches": [
   {
    "id": 902541082,
@@ -344,48 +344,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 2814794,
-   "home": "Liverpool FC",
-   "away": "Chelsea FC",
-   "league": "EFL Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-28 23:00",
-   "kickoff_utc": "2026-10-28 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards",
-    "corners"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "handicap_hcp_2_0",
-    "ou25",
-    "pb_cor_dc",
-    "pb_cor_ou_t1_4_5",
-    "pb_y_iou_t2_1_5"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
-   "id": 902545277,
-   "home": "Real Animas Sayula",
-   "away": "CD El Grullo",
-   "league": "Liga TDP",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 01:00",
-   "kickoff_utc": "2026-10-28 22:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 19:51",
- "count": 15,
+ "updated_utc": "2026-10-30 20:06",
+ "count": 16,
  "matches": [
   {
    "id": 902547124,
@@ -104,24 +104,6 @@
     "1x2",
     "3_way",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902551392,
-   "home": "Arsenal-D Tula",
-   "away": "Chornomorets Novorossiysk (Y)",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 13:00",
-   "kickoff_utc": "2026-10-30 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -264,8 +246,42 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance"
+    "dc"
+   ]
+  },
+  {
+   "id": 902553732,
+   "home": "Juarez U19",
+   "away": "Queretaro U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 20:30",
+   "kickoff_utc": "2026-10-30 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902553731,
+   "home": "Puebla U19",
+   "away": "Pumas UNAM U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 20:30",
+   "kickoff_utc": "2026-10-30 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
    ]
   }
  ]

@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-10-30 02:35",
- "count": 20,
+ "updated_utc": "2026-10-30 09:50",
+ "count": 18,
  "matches": [
-  {
-   "id": 902544512,
-   "home": "Technico FF",
-   "away": "ASC",
-   "league": "Bangalore Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 13:30",
-   "kickoff_utc": "2026-10-29 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902542493,
    "home": "Orange Sport FSI",
@@ -275,26 +258,6 @@
    ]
   },
   {
-   "id": 902546735,
-   "home": "Chester Le Street (W)",
-   "away": "Durham Cestria (W)",
-   "league": "WNL",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 22:45",
-   "kickoff_utc": "2026-10-29 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902546739,
    "home": "Keynsham Town (W)",
    "away": "Bridgwater United (W)",
@@ -350,7 +313,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "over_under_2_5",
     "pbx_dc_h2"

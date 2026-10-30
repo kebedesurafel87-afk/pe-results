@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 14:51",
- "count": 10,
+ "updated_utc": "2026-10-30 15:06",
+ "count": 11,
  "matches": [
   {
    "id": 902547124,
@@ -104,7 +104,6 @@
    "markets": [
     "1x2",
     "3_way",
-    "double_chance",
     "over_under_4_5"
    ]
   },
@@ -176,8 +175,24 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
+   ]
+  },
+  {
+   "id": 902550098,
+   "home": "Pharco FC",
+   "away": "Telecom Egypt",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 15:30",
+   "kickoff_utc": "2026-10-30 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

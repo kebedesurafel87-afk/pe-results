@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 22:52",
- "count": 19,
+ "updated_utc": "2026-10-30 23:37",
+ "count": 20,
  "matches": [
   {
    "id": 902547124,
@@ -350,6 +350,23 @@
     "pbx_1x2_10m"
    ],
    "stored_ft": "0-2"
+  },
+  {
+   "id": 902552126,
+   "home": "Octubre",
+   "away": "1 Marzo",
+   "league": "Primera B",
+   "country": "Paraguay",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 00:00",
+   "kickoff_utc": "2026-10-30 21:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

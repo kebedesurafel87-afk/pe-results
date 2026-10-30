@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 15:06",
- "count": 11,
+ "updated_utc": "2026-10-30 15:21",
+ "count": 10,
  "matches": [
   {
    "id": 902547124,
@@ -159,23 +159,6 @@
    "markets": [
     "both_teams_to_score",
     "ou35"
-   ]
-  },
-  {
-   "id": 902549579,
-   "home": "Al Salt U21",
-   "away": "Al Jazeera U21",
-   "league": "Jordan Shield Cup",
-   "country": "Jordan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 15:00",
-   "kickoff_utc": "2026-10-30 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 00:20",
- "count": 21,
+ "updated_utc": "2026-10-30 02:05",
+ "count": 20,
  "matches": [
   {
    "id": 902544512,
@@ -164,23 +164,6 @@
    "away": "M10 Rio Largo U20",
    "league": "Copa Alagoas U20",
    "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 21:00",
-   "kickoff_utc": "2026-10-29 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902547757,
-   "home": "Dock Sud (R)",
-   "away": "Deportivo Merlo (R)",
-   "league": "Reserve League",
-   "country": "Argentina",
    "sport": "football",
    "kickoff_eat": "2026-10-29 21:00",
    "kickoff_utc": "2026-10-29 18:00",

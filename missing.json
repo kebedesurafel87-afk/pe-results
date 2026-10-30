@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 12:06",
- "count": 5,
+ "updated_utc": "2026-10-30 12:36",
+ "count": 7,
  "matches": [
   {
    "id": 902547124,
@@ -87,6 +87,46 @@
    ],
    "markets": [
     "handicap_hcp_2_0"
+   ]
+  },
+  {
+   "id": 902551392,
+   "home": "Arsenal-D Tula",
+   "away": "Chornomorets Novorossiysk (Y)",
+   "league": "Youth Championship. Division B",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 13:00",
+   "kickoff_utc": "2026-10-30 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902551387,
+   "home": "FK Sochi 04-D",
+   "away": "Master-Saturn Youth",
+   "league": "Youth Championship. Division B",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 13:00",
+   "kickoff_utc": "2026-10-30 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "dc",
+    "double_chance",
+    "over_under_4_5"
    ]
   }
  ]

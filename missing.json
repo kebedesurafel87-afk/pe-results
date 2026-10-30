@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 18:36",
- "count": 16,
+ "updated_utc": "2026-10-30 19:06",
+ "count": 17,
  "matches": [
   {
    "id": 902547124,
@@ -33,8 +33,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -284,6 +283,25 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902544746,
+   "home": "Al Shorta SC",
+   "away": "Newroz FC",
+   "league": "Stars League",
+   "country": "Iraq",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 19:30",
+   "kickoff_utc": "2026-10-30 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

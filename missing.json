@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 17:21",
- "count": 13,
+ "updated_utc": "2026-10-30 17:36",
+ "count": 14,
  "matches": [
   {
    "id": 902547124,
@@ -232,6 +232,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902553517,
+   "home": "Juarez FC U21",
+   "away": "Queretaro U21",
+   "league": "League U21",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 18:00",
+   "kickoff_utc": "2026-10-30 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

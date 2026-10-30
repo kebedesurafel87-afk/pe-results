@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 20:21",
- "count": 16,
+ "updated_utc": "2026-10-30 20:36",
+ "count": 17,
  "matches": [
   {
    "id": 902547124,
@@ -281,6 +281,24 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902552795,
+   "home": "Avai U20",
+   "away": "Sao Jose RS U20",
+   "league": "Copa Sul U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 21:00",
+   "kickoff_utc": "2026-10-30 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

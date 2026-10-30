@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 10:50",
- "count": 2,
+ "updated_utc": "2026-10-30 11:05",
+ "count": 3,
  "matches": [
   {
    "id": 902547124,
@@ -35,6 +35,23 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902549649,
+   "home": "CR Belouizdad (W)",
+   "away": "MC Oran (W)",
+   "league": "Championship Women",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 11:30",
+   "kickoff_utc": "2026-10-30 08:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

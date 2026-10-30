@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 15:36",
- "count": 15,
+ "updated_utc": "2026-10-30 15:51",
+ "count": 14,
  "matches": [
   {
    "id": 902547124,
@@ -232,23 +232,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902553230,
-   "home": "29 de Septiembre",
-   "away": "Atletico Colegiales",
-   "league": "Primera B",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 16:00",
-   "kickoff_utc": "2026-10-30 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {

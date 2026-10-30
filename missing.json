@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 17:06",
- "count": 14,
+ "updated_utc": "2026-10-30 17:21",
+ "count": 13,
  "matches": [
   {
    "id": 902547124,
@@ -232,23 +232,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902549644,
-   "home": "El Bayadh",
-   "away": "ASM Oran",
-   "league": "2nd Division",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 17:00",
-   "kickoff_utc": "2026-10-30 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

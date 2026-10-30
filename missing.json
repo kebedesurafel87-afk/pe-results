@@ -1,59 +1,7 @@
 {
- "updated_utc": "2026-10-30 10:05",
- "count": 5,
+ "updated_utc": "2026-10-30 10:20",
+ "count": 2,
  "matches": [
-  {
-   "id": 902549629,
-   "home": "Mlandege",
-   "away": "Zimamoto SC",
-   "league": "Premier League",
-   "country": "Zanzibar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 16:00",
-   "kickoff_utc": "2026-10-29 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902549630,
-   "home": "KMKM",
-   "away": "Uhamiaji",
-   "league": "Premier League",
-   "country": "Zanzibar",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 16:00",
-   "kickoff_utc": "2026-10-29 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902547140,
-   "home": "FC Petrzalka U19",
-   "away": "SK Slovan Bratislava U19",
-   "league": "League U19",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-29 16:30",
-   "kickoff_utc": "2026-10-29 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts"
-   ]
-  },
   {
    "id": 902547743,
    "home": "Deportivo Camioneros (R)",

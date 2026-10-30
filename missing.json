@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 19:06",
- "count": 17,
+ "updated_utc": "2026-10-30 19:36",
+ "count": 16,
  "matches": [
   {
    "id": 902547124,
@@ -238,25 +238,6 @@
    "away": "Carpati Covasna",
    "league": "League 3",
    "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 19:00",
-   "kickoff_utc": "2026-10-30 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2"
-   ]
-  },
-  {
-   "id": 902551389,
-   "home": "Baltika Kaliningrad (Y)",
-   "away": "Akhmat-D Grozny",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
    "sport": "football",
    "kickoff_eat": "2026-10-30 19:00",
    "kickoff_utc": "2026-10-30 16:00",

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 22:07",
- "count": 19,
+ "updated_utc": "2026-10-30 22:37",
+ "count": 18,
  "matches": [
   {
    "id": 902547124,
@@ -102,7 +102,6 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
     "over_under_4_5"
    ]
   },
@@ -120,7 +119,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "over_under_4_5"
    ]
   },
@@ -213,23 +211,6 @@
    ]
   },
   {
-   "id": 902553737,
-   "home": "Bidvest Wits University",
-   "away": "Orlando Pirates (R)",
-   "league": "Second Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 19:00",
-   "kickoff_utc": "2026-10-30 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902544746,
    "home": "Al Shorta SC",
    "away": "Newroz FC",
@@ -243,8 +224,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -298,7 +278,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
@@ -324,8 +303,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -342,8 +320,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   }
  ]

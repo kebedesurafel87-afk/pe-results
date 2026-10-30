@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 11:05",
- "count": 3,
+ "updated_utc": "2026-10-30 11:36",
+ "count": 5,
  "matches": [
   {
    "id": 902547124,
@@ -53,6 +53,41 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902549647,
+   "home": "Afak Relizane (W)",
+   "away": "ASEAC (W)",
+   "league": "Championship Women",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 12:00",
+   "kickoff_utc": "2026-10-30 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts"
+   ]
+  },
+  {
+   "id": 902549648,
+   "home": "Constantine (W)",
+   "away": "CF Akbou (W)",
+   "league": "Championship Women",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 12:00",
+   "kickoff_utc": "2026-10-30 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "handicap_hcp_2_0"
    ]
   }
  ]

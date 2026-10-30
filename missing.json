@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 21:22",
- "count": 17,
+ "updated_utc": "2026-10-30 21:37",
+ "count": 18,
  "matches": [
   {
    "id": 902547124,
@@ -283,20 +283,50 @@
    ]
   },
   {
-   "id": 902552795,
-   "home": "Avai U20",
-   "away": "Sao Jose RS U20",
-   "league": "Copa Sul U20",
-   "country": "Brazil",
+   "id": 902519296,
+   "home": "Roda JC",
+   "away": "AZ II",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
    "sport": "football",
-   "kickoff_eat": "2026-10-30 21:00",
-   "kickoff_utc": "2026-10-30 18:00",
+   "kickoff_eat": "2026-10-30 22:00",
+   "kickoff_utc": "2026-10-30 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "pb_cor_1x2",
+    "pb_cor_ou_t1_4_5",
+    "pbx_1x2_10m",
+    "pbx_dc_h2",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902552044,
+   "home": "Leicester U21",
+   "away": "Sporting U21",
+   "league": "Premier League International Cup",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 22:00",
+   "kickoff_utc": "2026-10-30 19:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "both_teams_to_score"
+    "1x2",
+    "both_teams_to_score",
+    "btts"
    ]
   }
  ]

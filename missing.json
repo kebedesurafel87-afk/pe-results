@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 21:52",
- "count": 18,
+ "updated_utc": "2026-10-30 22:07",
+ "count": 19,
  "matches": [
   {
    "id": 902547124,
@@ -326,6 +326,24 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902550882,
+   "home": "Valletta (W)",
+   "away": "Swieqi Utd (W)",
+   "league": "1st Division Women",
+   "country": "Malta",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 22:30",
+   "kickoff_utc": "2026-10-30 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

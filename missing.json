@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-30 17:36",
- "count": 14,
+ "updated_utc": "2026-10-30 18:06",
+ "count": 13,
  "matches": [
   {
    "id": 902547124,
@@ -162,6 +162,25 @@
    ]
   },
   {
+   "id": 902536218,
+   "home": "Nassaji Mazandaran",
+   "away": "Perspolis",
+   "league": "Pro League",
+   "country": "Iran",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 16:00",
+   "kickoff_utc": "2026-10-30 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou15"
+   ]
+  },
+  {
    "id": 902551189,
    "home": "Polonia Warsaw U19",
    "away": "Bialystok U19",
@@ -198,26 +217,6 @@
    ]
   },
   {
-   "id": 902536218,
-   "home": "Nassaji Mazandaran",
-   "away": "Perspolis",
-   "league": "Pro League",
-   "country": "Iran",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 16:00",
-   "kickoff_utc": "2026-10-30 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "odd_even",
-    "ou15"
-   ]
-  },
-  {
    "id": 902551390,
    "home": "Rotor-D",
    "away": "SKA Khabarovsk-D",
@@ -232,24 +231,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902553517,
-   "home": "Juarez FC U21",
-   "away": "Queretaro U21",
-   "league": "League U21",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 18:00",
-   "kickoff_utc": "2026-10-30 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   }
  ]

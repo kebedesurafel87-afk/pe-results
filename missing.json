@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-29 22:35",
- "count": 21,
+ "updated_utc": "2026-10-30 00:05",
+ "count": 22,
  "matches": [
   {
    "id": 902544512,
@@ -392,6 +392,23 @@
     "pb_cor_ou_t2_9_5"
    ],
    "stored_ft": "0-8"
+  },
+  {
+   "id": 902547276,
+   "home": "Palmeiras U20",
+   "away": "Paysandu U20",
+   "league": "Copa do Brasil U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-10-30 00:30",
+   "kickoff_utc": "2026-10-29 21:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

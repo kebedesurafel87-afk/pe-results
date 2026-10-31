@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-31 21:13",
+ "updated_utc": "2026-10-31 21:28",
  "count": 13,
  "matches": [
   {
@@ -105,9 +105,9 @@
    ]
   },
   {
-   "id": 902555596,
-   "home": "ASPTT Dijon",
-   "away": "Lyon II",
+   "id": 902555635,
+   "home": "Lannion",
+   "away": "Stade Rennes II",
    "league": "National 2",
    "country": "France",
    "sport": "football",
@@ -118,14 +118,13 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
-   "id": 902555635,
-   "home": "Lannion",
-   "away": "Stade Rennes II",
+   "id": 902555596,
+   "home": "ASPTT Dijon",
+   "away": "Lyon II",
    "league": "National 2",
    "country": "France",
    "sport": "football",

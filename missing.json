@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 12:23",
- "count": 7,
+ "updated_utc": "2026-10-31 12:38",
+ "count": 9,
  "matches": [
   {
    "id": 902551189,
@@ -113,6 +113,40 @@
    "sport": "football",
    "kickoff_eat": "2026-10-31 12:45",
    "kickoff_utc": "2026-10-31 09:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902560024,
+   "home": "Tembisa Destroyers FC",
+   "away": "Leruma United",
+   "league": "Second Division",
+   "country": "South Africa",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 13:00",
+   "kickoff_utc": "2026-10-31 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902559138,
+   "home": "PAOK U19",
+   "away": "Asteras Tripolis FC U19",
+   "league": "Super League U19",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 13:00",
+   "kickoff_utc": "2026-10-31 10:00",
    "status": "no_result",
    "needs": [
     "ft"

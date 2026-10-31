@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 21:43",
- "count": 17,
+ "updated_utc": "2026-10-31 21:58",
+ "count": 15,
  "matches": [
   {
    "id": 902551189,
@@ -122,23 +122,6 @@
    ]
   },
   {
-   "id": 902555596,
-   "home": "ASPTT Dijon",
-   "away": "Lyon II",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 20:00",
-   "kickoff_utc": "2026-10-31 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902561991,
    "home": "Santos Laguna U19(W)",
    "away": "Tijuana U19 (W)",
@@ -239,25 +222,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902556148,
-   "home": "Oud Heverlee Leuven (W)",
-   "away": "Standard Liege (W)",
-   "league": "Belgium Cup Women",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 22:00",
-   "kickoff_utc": "2026-10-31 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 19:08",
- "count": 10,
+ "updated_utc": "2026-10-31 19:38",
+ "count": 16,
  "matches": [
   {
    "id": 902551189,
@@ -170,6 +170,112 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902559734,
+   "home": "Yverdon Sport FC II",
+   "away": "FC Ajoie-Monterri",
+   "league": "2 Liga Interregional",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts"
+   ]
+  },
+  {
+   "id": 902552742,
+   "home": "Tallinna FC Flora II",
+   "away": "Tartu Welco",
+   "league": "Esiliiga",
+   "country": "Estonia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902555596,
+   "home": "ASPTT Dijon",
+   "away": "Lyon II",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902555635,
+   "home": "Lannion",
+   "away": "Stade Rennes II",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902557656,
+   "home": "Las Palmas III",
+   "away": "AD Anaza",
+   "league": "Tercera Div. RFEF Group 12",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902561991,
+   "home": "Santos Laguna U19(W)",
+   "away": "Tijuana U19 (W)",
+   "league": "Liga MX U19 Femenil",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 20:00",
+   "kickoff_utc": "2026-10-31 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
    ]
   }
  ]

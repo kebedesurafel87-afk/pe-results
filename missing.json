@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 10:37",
- "count": 5,
+ "updated_utc": "2026-10-31 11:37",
+ "count": 6,
  "matches": [
   {
    "id": 902551189,
@@ -85,6 +85,23 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902557707,
+   "home": "Bregalnica Stip U19",
+   "away": "Rabotnicki Skopje U19",
+   "league": "League U19",
+   "country": "North Macedonia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 12:00",
+   "kickoff_utc": "2026-10-31 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

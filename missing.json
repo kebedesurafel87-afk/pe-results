@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 17:38",
- "count": 12,
+ "updated_utc": "2026-10-31 18:08",
+ "count": 14,
  "matches": [
   {
    "id": 902551189,
@@ -198,6 +198,40 @@
    "sport": "football",
    "kickoff_eat": "2026-10-31 18:00",
    "kickoff_utc": "2026-10-31 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902563110,
+   "home": "Thonon Evian (w)",
+   "away": "Nice (W)",
+   "league": "Feminine Division 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 18:30",
+   "kickoff_utc": "2026-10-31 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902559505,
+   "home": "Bray Wanderers U20",
+   "away": "Shamrock Rovers U20",
+   "league": "League U20",
+   "country": "Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 18:30",
+   "kickoff_utc": "2026-10-31 15:30",
    "status": "no_result",
    "needs": [
     "ft"

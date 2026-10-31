@@ -1,110 +1,7 @@
 {
- "updated_utc": "2026-10-31 07:22",
- "count": 11,
+ "updated_utc": "2026-10-31 07:37",
+ "count": 5,
  "matches": [
-  {
-   "id": 902549649,
-   "home": "CR Belouizdad (W)",
-   "away": "MC Oran (W)",
-   "league": "Championship Women",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 11:30",
-   "kickoff_utc": "2026-10-30 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902549647,
-   "home": "Afak Relizane (W)",
-   "away": "ASEAC (W)",
-   "league": "Championship Women",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 12:00",
-   "kickoff_utc": "2026-10-30 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902549648,
-   "home": "Constantine (W)",
-   "away": "CF Akbou (W)",
-   "league": "Championship Women",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 12:00",
-   "kickoff_utc": "2026-10-30 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "handicap_hcp_2_0"
-   ]
-  },
-  {
-   "id": 902551399,
-   "home": "Academy Konopleva-D",
-   "away": "Spartak-D Moscow",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 15:00",
-   "kickoff_utc": "2026-10-30 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "ou35"
-   ]
-  },
-  {
-   "id": 902536218,
-   "home": "Nassaji Mazandaran",
-   "away": "Perspolis",
-   "league": "Pro League",
-   "country": "Iran",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 16:00",
-   "kickoff_utc": "2026-10-30 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou15"
-   ]
-  },
-  {
-   "id": 902551388,
-   "home": "Vityaz Podolsk (Youth)",
-   "away": "Krylya Sovetov-D Samara",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 16:00",
-   "kickoff_utc": "2026-10-30 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "ou25"
-   ]
-  },
   {
    "id": 902551189,
    "home": "Polonia Warsaw U19",
@@ -119,8 +16,7 @@
     "ft"
    ],
    "markets": [
-    "dc",
-    "ou25"
+    "dc"
    ]
   },
   {
@@ -176,20 +72,20 @@
    ]
   },
   {
-   "id": 902552044,
-   "home": "Leicester U21",
-   "away": "Sporting U21",
-   "league": "Premier League International Cup",
-   "country": "Europe",
+   "id": 902528098,
+   "home": "Blaublitz Akita",
+   "away": "Fujieda MYFC",
+   "league": "J2 League",
+   "country": "Japan",
    "sport": "football",
-   "kickoff_eat": "2026-10-30 22:00",
-   "kickoff_utc": "2026-10-30 19:00",
+   "kickoff_eat": "2026-10-31 08:00",
+   "kickoff_utc": "2026-10-31 05:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "over_under_3_5"
    ]
   }
  ]

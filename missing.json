@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-31 12:38",
+ "updated_utc": "2026-10-31 13:38",
  "count": 9,
  "matches": [
   {
@@ -122,23 +122,6 @@
    ]
   },
   {
-   "id": 902560024,
-   "home": "Tembisa Destroyers FC",
-   "away": "Leruma United",
-   "league": "Second Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 13:00",
-   "kickoff_utc": "2026-10-31 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902559138,
    "home": "PAOK U19",
    "away": "Asteras Tripolis FC U19",
@@ -153,6 +136,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902559499,
+   "home": "FC Badalona B (W)",
+   "away": "Elche (W)",
+   "league": "Segunda Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 14:00",
+   "kickoff_utc": "2026-10-31 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

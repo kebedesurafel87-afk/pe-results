@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-31 01:37",
+ "updated_utc": "2026-10-31 02:07",
  "count": 20,
  "matches": [
   {
@@ -352,14 +352,14 @@
    "stored_ft": "0-2"
   },
   {
-   "id": 902531148,
-   "home": "Charleston Battery",
-   "away": "Rhode Island College",
+   "id": 902531147,
+   "home": "Tampa Bay Rowdies",
+   "away": "Miami FC",
    "league": "USL Championship",
    "country": "USA",
    "sport": "football",
-   "kickoff_eat": "2026-10-31 02:00",
-   "kickoff_utc": "2026-10-30 23:00",
+   "kickoff_eat": "2026-10-31 02:30",
+   "kickoff_utc": "2026-10-30 23:30",
    "status": "no_result",
    "needs": [
     "ft"

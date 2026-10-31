@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 19:38",
- "count": 16,
+ "updated_utc": "2026-10-31 19:53",
+ "count": 15,
  "matches": [
   {
    "id": 902551189,
@@ -241,24 +241,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902557656,
-   "home": "Las Palmas III",
-   "away": "AD Anaza",
-   "league": "Tercera Div. RFEF Group 12",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 20:00",
-   "kickoff_utc": "2026-10-31 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

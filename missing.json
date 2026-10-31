@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 22:29",
- "count": 14,
+ "updated_utc": "2026-10-31 22:44",
+ "count": 16,
  "matches": [
   {
    "id": 902551189,
@@ -241,6 +241,46 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902490340,
+   "home": "Cambuur Leeuwarden",
+   "away": "GO Ahead Eagles",
+   "league": "Eredivisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 23:00",
+   "kickoff_utc": "2026-10-31 20:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_2_5",
+    "pb_y_iou_t1_1_5"
+   ],
+   "stored_ft": "4-0"
+  },
+  {
+   "id": 902550459,
+   "home": "Independiente Santa Fe (W)",
+   "away": "Club Olimpia (W)",
+   "league": "Copa Libertadores Women",
+   "country": "South America",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 23:00",
+   "kickoff_utc": "2026-10-31 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
    ]
   }
  ]

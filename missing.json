@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-31 18:38",
+ "updated_utc": "2026-10-31 19:08",
  "count": 10,
  "matches": [
   {
@@ -139,14 +139,14 @@
    ]
   },
   {
-   "id": 902552857,
-   "home": "AZ Alkmaar U19",
-   "away": "Sparta Rotterdam U19",
-   "league": "Eredivisie U19",
-   "country": "Netherlands",
+   "id": 902555610,
+   "home": "Hasaacas (W)",
+   "away": "Jonina (W)",
+   "league": "Premier League Women",
+   "country": "Ghana",
    "sport": "football",
-   "kickoff_eat": "2026-10-31 17:00",
-   "kickoff_utc": "2026-10-31 14:00",
+   "kickoff_eat": "2026-10-31 18:00",
+   "kickoff_utc": "2026-10-31 15:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -156,14 +156,14 @@
    ]
   },
   {
-   "id": 902555610,
-   "home": "Hasaacas (W)",
-   "away": "Jonina (W)",
-   "league": "Premier League Women",
-   "country": "Ghana",
+   "id": 902558304,
+   "home": "Al Wehdat U21",
+   "away": "Al-Arabi Irbid U21",
+   "league": "Jordan Shield Cup",
+   "country": "Jordan",
    "sport": "football",
-   "kickoff_eat": "2026-10-31 18:00",
-   "kickoff_utc": "2026-10-31 15:00",
+   "kickoff_eat": "2026-10-31 19:30",
+   "kickoff_utc": "2026-10-31 16:30",
    "status": "no_result",
    "needs": [
     "ft"

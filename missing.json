@@ -1,41 +1,7 @@
 {
- "updated_utc": "2026-10-31 02:52",
- "count": 19,
+ "updated_utc": "2026-10-31 07:22",
+ "count": 11,
  "matches": [
-  {
-   "id": 902547124,
-   "home": "Somaiya FC",
-   "away": "Charkop FC",
-   "league": "Mumbai Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 10:30",
-   "kickoff_utc": "2026-10-30 07:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902553519,
-   "home": "Shanghai Port U20",
-   "away": "Shandong Taishan U20",
-   "league": "Championship U20",
-   "country": "China",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 11:00",
-   "kickoff_utc": "2026-10-30 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902549649,
    "home": "CR Belouizdad (W)",
@@ -88,41 +54,6 @@
    ]
   },
   {
-   "id": 902551387,
-   "home": "FK Sochi 04-D",
-   "away": "Master-Saturn Youth",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 13:00",
-   "kickoff_utc": "2026-10-30 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902551391,
-   "home": "FC Orenburg-D",
-   "away": "Shinnik Yaroslavl (Y)",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 14:30",
-   "kickoff_utc": "2026-10-30 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902551399,
    "home": "Academy Konopleva-D",
    "away": "Spartak-D Moscow",
@@ -136,7 +67,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "ou35"
    ]
   },
@@ -194,23 +124,6 @@
    ]
   },
   {
-   "id": 902551390,
-   "home": "Rotor-D",
-   "away": "SKA Khabarovsk-D",
-   "league": "Youth Championship. Division B",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 16:00",
-   "kickoff_utc": "2026-10-30 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902544746,
    "home": "Al Shorta SC",
    "away": "Newroz FC",
@@ -263,33 +176,6 @@
    ]
   },
   {
-   "id": 902519296,
-   "home": "Roda JC",
-   "away": "AZ II",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 22:00",
-   "kickoff_utc": "2026-10-30 19:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "pb_cor_1x2",
-    "pb_cor_ou_t1_4_5",
-    "pbx_1x2_10m",
-    "pbx_dc_h2",
-    "pbx_iou_t1_h1_0_5"
-   ]
-  },
-  {
    "id": 902552044,
    "home": "Leicester U21",
    "away": "Sporting U21",
@@ -305,51 +191,6 @@
    "markets": [
     "1x2"
    ]
-  },
-  {
-   "id": 902550882,
-   "home": "Valletta (W)",
-   "away": "Swieqi Utd (W)",
-   "league": "1st Division Women",
-   "country": "Malta",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 22:30",
-   "kickoff_utc": "2026-10-30 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902532948,
-   "home": "Casa Pia",
-   "away": "Sporting Lisbon",
-   "league": "Primeira Liga",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-10-30 23:15",
-   "kickoff_utc": "2026-10-30 20:15",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "competitor2_to_win_either_half",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "over_under_4_5",
-    "pb_cor_1x2",
-    "pb_cor_ou_t1_2_5",
-    "pbx_1x2_10m"
-   ],
-   "stored_ft": "0-2"
   }
  ]
 }

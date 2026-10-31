@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 15:08",
- "count": 8,
+ "updated_utc": "2026-10-31 15:38",
+ "count": 12,
  "matches": [
   {
    "id": 902551189,
@@ -137,6 +137,74 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902562003,
+   "home": "Ethio Electric (W)",
+   "away": "Mechal FC (w)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 16:00",
+   "kickoff_utc": "2026-10-31 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902562002,
+   "home": "Yirga Chefe Bunna (w)",
+   "away": "Hawassa City Fc (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 16:00",
+   "kickoff_utc": "2026-10-31 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902559147,
+   "home": "Sport Colombia",
+   "away": "12 De Octubre San Domingo",
+   "league": "Primera B",
+   "country": "Paraguay",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 16:00",
+   "kickoff_utc": "2026-10-31 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902560039,
+   "home": "Chitoliro Heroines (w)",
+   "away": "Ntopwa FC (W)",
+   "league": "League Women",
+   "country": "Malawi",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 16:00",
+   "kickoff_utc": "2026-10-31 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
    ]
   }
  ]

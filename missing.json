@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 22:14",
- "count": 15,
+ "updated_utc": "2026-10-31 22:29",
+ "count": 14,
  "matches": [
   {
    "id": 902551189,
@@ -189,23 +189,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902559501,
-   "home": "CE Europa (W)",
-   "away": "Levante B (W)",
-   "league": "Segunda Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 21:30",
-   "kickoff_utc": "2026-10-31 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

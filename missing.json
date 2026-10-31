@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 07:37",
- "count": 5,
+ "updated_utc": "2026-10-31 07:52",
+ "count": 4,
  "matches": [
   {
    "id": 902551189,
@@ -69,23 +69,6 @@
    "markets": [
     "1x2",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902528098,
-   "home": "Blaublitz Akita",
-   "away": "Fujieda MYFC",
-   "league": "J2 League",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 08:00",
-   "kickoff_utc": "2026-10-31 05:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_3_5"
    ]
   }
  ]

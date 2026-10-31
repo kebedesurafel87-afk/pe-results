@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 18:08",
- "count": 14,
+ "updated_utc": "2026-10-31 18:23",
+ "count": 11,
  "matches": [
   {
    "id": 902551189,
@@ -88,23 +88,6 @@
    ]
   },
   {
-   "id": 902559138,
-   "home": "PAOK U19",
-   "away": "Asteras Tripolis FC U19",
-   "league": "Super League U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 13:00",
-   "kickoff_utc": "2026-10-31 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902559499,
    "home": "FC Badalona B (W)",
    "away": "Elche (W)",
@@ -173,23 +156,6 @@
    ]
   },
   {
-   "id": 902559136,
-   "home": "Kifisias U19",
-   "away": "Olympiacos U19",
-   "league": "Super League U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 17:00",
-   "kickoff_utc": "2026-10-31 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902555610,
    "home": "Hasaacas (W)",
    "away": "Jonina (W)",
@@ -221,23 +187,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902559505,
-   "home": "Bray Wanderers U20",
-   "away": "Shamrock Rovers U20",
-   "league": "League U20",
-   "country": "Ireland",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 18:30",
-   "kickoff_utc": "2026-10-31 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 18:23",
- "count": 11,
+ "updated_utc": "2026-10-31 18:38",
+ "count": 10,
  "matches": [
   {
    "id": 902551189,
@@ -170,23 +170,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902563110,
-   "home": "Thonon Evian (w)",
-   "away": "Nice (W)",
-   "league": "Feminine Division 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 18:30",
-   "kickoff_utc": "2026-10-31 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

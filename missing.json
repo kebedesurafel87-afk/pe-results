@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 14:53",
- "count": 9,
+ "updated_utc": "2026-10-31 15:08",
+ "count": 8,
  "matches": [
   {
    "id": 902551189,
@@ -137,23 +137,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902556125,
-   "home": "Laktasi",
-   "away": "Zvijezda 09",
-   "league": "RS",
-   "country": "Bosnia and Herzegovina",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 15:00",
-   "kickoff_utc": "2026-10-31 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

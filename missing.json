@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 00:07",
- "count": 19,
+ "updated_utc": "2026-10-31 01:07",
+ "count": 20,
  "matches": [
   {
    "id": 902547124,
@@ -350,6 +350,23 @@
     "pbx_1x2_10m"
    ],
    "stored_ft": "0-2"
+  },
+  {
+   "id": 902531150,
+   "home": "Louisville City",
+   "away": "Pittsburgh Riverhounds",
+   "league": "USL Championship",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 01:30",
+   "kickoff_utc": "2026-10-30 22:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 17:08",
- "count": 11,
+ "updated_utc": "2026-10-31 17:38",
+ "count": 12,
  "matches": [
   {
    "id": 902551189,
@@ -181,6 +181,23 @@
    "sport": "football",
    "kickoff_eat": "2026-10-31 17:00",
    "kickoff_utc": "2026-10-31 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902555610,
+   "home": "Hasaacas (W)",
+   "away": "Jonina (W)",
+   "league": "Premier League Women",
+   "country": "Ghana",
+   "sport": "football",
+   "kickoff_eat": "2026-10-31 18:00",
+   "kickoff_utc": "2026-10-31 15:00",
    "status": "no_result",
    "needs": [
     "ft"

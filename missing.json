@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-10-31 16:38",
- "count": 17,
+ "updated_utc": "2026-10-31 17:08",
+ "count": 11,
  "matches": [
   {
    "id": 902551189,
@@ -71,23 +71,6 @@
    ]
   },
   {
-   "id": 902556121,
-   "home": "Persijap Jepara U20",
-   "away": "Samarinda Borneo U20",
-   "league": "League U20",
-   "country": "Indonesia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 11:00",
-   "kickoff_utc": "2026-10-31 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902557118,
    "home": "Fredensborg (W)",
    "away": "Olstykke (W)",
@@ -135,59 +118,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902562003,
-   "home": "Ethio Electric (W)",
-   "away": "Mechal FC (w)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 16:00",
-   "kickoff_utc": "2026-10-31 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902562002,
-   "home": "Yirga Chefe Bunna (w)",
-   "away": "Hawassa City Fc (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 16:00",
-   "kickoff_utc": "2026-10-31 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902560039,
-   "home": "Chitoliro Heroines (w)",
-   "away": "Ntopwa FC (W)",
-   "league": "League Women",
-   "country": "Malawi",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 16:00",
-   "kickoff_utc": "2026-10-31 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   },
   {
@@ -205,23 +136,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902555335,
-   "home": "Dijon U19",
-   "away": "Clermont U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 16:30",
-   "kickoff_utc": "2026-10-31 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -274,25 +188,6 @@
    "markets": [
     "1x2"
    ]
-  },
-  {
-   "id": 902556153,
-   "home": "RSC Anderlecht (W)",
-   "away": "Mechelen (W)",
-   "league": "Belgium Cup Women",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 17:00",
-   "kickoff_utc": "2026-10-31 14:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2"
-   ],
-   "stored_ft": "1-0"
   }
  ]
 }

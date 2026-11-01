@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 21:30",
+ "updated_utc": "2026-11-01 22:00",
  "count": 32,
  "matches": [
   {
@@ -333,7 +333,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "ou25",
     "over_under_2_5"
    ]
@@ -407,23 +406,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902562036,
-   "home": "Al Faisaly Amman U21",
-   "away": "Al-Hussein U21",
-   "league": "Jordan Shield Cup",
-   "country": "Jordan",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 19:30",
-   "kickoff_utc": "2026-11-01 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -571,6 +553,23 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902564374,
+   "home": "Zamora Barinas II",
+   "away": "Deportivo Lara",
+   "league": "Segunda Division",
+   "country": "Venezuela",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 22:30",
+   "kickoff_utc": "2026-11-01 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

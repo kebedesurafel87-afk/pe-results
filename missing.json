@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 17:45",
- "count": 27,
+ "updated_utc": "2026-11-01 18:00",
+ "count": 26,
  "matches": [
   {
    "id": 902562273,
@@ -440,8 +440,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -461,23 +460,6 @@
     "1x2",
     "both_teams_to_score",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902564200,
-   "home": "Cruz Azul U21",
-   "away": "Leon U21",
-   "league": "League U21",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 18:00",
-   "kickoff_utc": "2026-11-01 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 22:15",
+ "updated_utc": "2026-11-01 22:30",
  "count": 31,
  "matches": [
   {
@@ -409,26 +409,6 @@
    ]
   },
   {
-   "id": 902559183,
-   "home": "Nomme United 2",
-   "away": "FC Tallinn",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 20:00",
-   "kickoff_utc": "2026-11-01 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902568923,
    "home": "Nautico Capibaribe U19",
    "away": "Botafogo RJ U19",
@@ -462,6 +442,26 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902559183,
+   "home": "Nomme United 2",
+   "away": "FC Tallinn",
+   "league": "Esiliiga",
+   "country": "Estonia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 20:00",
+   "kickoff_utc": "2026-11-01 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance"
    ]
   },
   {
@@ -537,20 +537,41 @@
    ]
   },
   {
-   "id": 902564374,
-   "home": "Zamora Barinas II",
-   "away": "Deportivo Lara",
-   "league": "Segunda Division",
-   "country": "Venezuela",
+   "id": 902486599,
+   "home": "Athletic Bilbao",
+   "away": "Real Sociedad",
+   "league": "LaLiga",
+   "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-01 22:30",
-   "kickoff_utc": "2026-11-01 19:30",
+   "kickoff_eat": "2026-11-01 23:00",
+   "kickoff_utc": "2026-11-01 20:00",
    "status": "no_result",
    "needs": [
+    "cards",
     "ft"
    ],
    "markets": [
-    "dc"
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "handicap_hcp_0_3",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_y_dc",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t2_3_5",
+    "pbx_fls_ou_t2_13_5",
+    "pbx_rtgnlu_t1_4_5",
+    "pbx_rtgwo_t1_1_5"
    ]
   }
  ]

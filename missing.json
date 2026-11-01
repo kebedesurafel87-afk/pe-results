@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 22:30",
+ "updated_utc": "2026-11-01 22:45",
  "count": 31,
  "matches": [
   {
@@ -492,11 +492,9 @@
    "kickoff_utc": "2026-11-01 19:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "over_under_3_5"
    ]
@@ -545,10 +543,9 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 23:00",
    "kickoff_utc": "2026-11-01 20:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "cards",
-    "ft"
+    "cards"
    ],
    "markets": [
     "1x2",
@@ -560,10 +557,7 @@
     "competitor2_total_0_5",
     "dc",
     "double_chance",
-    "draw_no_bet",
-    "handicap_hcp_0_3",
     "over_under_1_5",
-    "over_under_2_5",
     "over_under_3_5",
     "over_under_4_5",
     "pb_y_dc",
@@ -572,7 +566,8 @@
     "pbx_fls_ou_t2_13_5",
     "pbx_rtgnlu_t1_4_5",
     "pbx_rtgwo_t1_1_5"
-   ]
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

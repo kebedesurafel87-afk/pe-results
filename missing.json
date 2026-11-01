@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 18:30",
- "count": 26,
+ "updated_utc": "2026-11-01 18:45",
+ "count": 24,
  "matches": [
   {
    "id": 902562273,
@@ -171,8 +171,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -330,40 +329,6 @@
    "markets": [
     "1x2",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902562384,
-   "home": "Racing Strasbourg II",
-   "away": "Drancy JA",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902568282,
-   "home": "AFC Fylde (W)",
-   "away": "Hull City (W)",
-   "league": "FA League Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

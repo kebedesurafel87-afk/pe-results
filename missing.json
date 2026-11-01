@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 15:44",
- "count": 21,
+ "updated_utc": "2026-11-01 15:59",
+ "count": 17,
  "matches": [
   {
    "id": 902562044,
@@ -161,23 +161,6 @@
    ]
   },
   {
-   "id": 902564700,
-   "home": "Lillestrom (W)",
-   "away": "Brann (W)",
-   "league": "Toppserien",
-   "country": "Norway",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 14:00",
-   "kickoff_utc": "2026-11-01 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_6_5"
-   ]
-  },
-  {
    "id": 902564752,
    "home": "Bakirkoy Kadin (W)",
    "away": "Yuksekova Belediyespor (W)",
@@ -229,23 +212,6 @@
    ]
   },
   {
-   "id": 902564116,
-   "home": "Polanka",
-   "away": "Vrchovina",
-   "league": "3rd League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
    "id": 902550798,
    "home": "Selangor",
    "away": "Imigresen FC",
@@ -260,42 +226,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902562680,
-   "home": "1. FC Nurnberg (W)",
-   "away": "Eintracht Frankfurt (W)",
-   "league": "DFB-Pokal Women",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "pbx_rbts"
-   ]
-  },
-  {
-   "id": 902562681,
-   "home": "1. FSV Mainz 05 (W)",
-   "away": "Werder Bremen (W)",
-   "league": "DFB-Pokal Women",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_4_5",
-    "pbx_rbts"
    ]
   },
   {

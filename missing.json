@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 22:45",
+ "updated_utc": "2026-11-01 23:00",
  "count": 31,
  "matches": [
   {
@@ -549,22 +549,14 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
     "both_teams_to_score",
     "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_2_5",
-    "competitor2_total_0_5",
     "dc",
     "double_chance",
-    "over_under_1_5",
-    "over_under_3_5",
-    "over_under_4_5",
     "pb_y_dc",
     "pb_y_iou_t1_1_5",
     "pb_y_iou_t2_3_5",
     "pbx_fls_ou_t2_13_5",
-    "pbx_rtgnlu_t1_4_5",
     "pbx_rtgwo_t1_1_5"
    ],
    "stored_ft": "2-1"

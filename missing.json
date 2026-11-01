@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-01 17:00",
- "count": 30,
+ "updated_utc": "2026-11-01 17:15",
+ "count": 24,
  "matches": [
-  {
-   "id": 902562044,
-   "home": "ES Ben Aknoun U20",
-   "away": "USM Alger U20",
-   "league": "Algeria U20 League",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 12:00",
-   "kickoff_utc": "2026-11-01 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902562273,
    "home": "Monaco U19",
@@ -51,40 +34,6 @@
    ],
    "markets": [
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902564378,
-   "home": "ZFK Vardar (W)",
-   "away": "ZFK Junajted Struga (W)",
-   "league": "Prva Liga Women",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:00",
-   "kickoff_utc": "2026-11-01 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902564026,
-   "home": "USC Landhaus (W)",
-   "away": "FC Wacker Innsbruck (W)",
-   "league": "League 2 Women",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:00",
-   "kickoff_utc": "2026-11-01 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -227,23 +176,6 @@
    ]
   },
   {
-   "id": 902564371,
-   "home": "Velez Mostar U19",
-   "away": "FK Radnik Bijeljina U19",
-   "league": "Premier League U19",
-   "country": "Bosnia and Herzegovina",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902562004,
    "home": "Bole Sub City (W)",
    "away": "Ethiopia Nigd Bank (W)",
@@ -292,7 +224,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "over_under_1_5"
    ]
   },
@@ -480,40 +411,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 17:00",
    "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902565879,
-   "home": "Kidderminster (W)",
-   "away": "Stevenage (W)",
-   "league": "FA Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902562037,
-   "home": "Melbourne City (W)",
-   "away": "Nasaf (w)",
-   "league": "AFC Champions League Women",
-   "country": "ASIA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:30",
-   "kickoff_utc": "2026-11-01 14:30",
    "status": "no_result",
    "needs": [
     "ft"

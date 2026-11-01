@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 18:45",
+ "updated_utc": "2026-11-01 19:00",
  "count": 24,
  "matches": [
   {
@@ -87,23 +87,6 @@
    ],
    "markets": [
     "over_under_0_5"
-   ]
-  },
-  {
-   "id": 902564752,
-   "home": "Bakirkoy Kadin (W)",
-   "away": "Yuksekova Belediyespor (W)",
-   "league": "SuperLeague Women",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 14:00",
-   "kickoff_utc": "2026-11-01 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -424,6 +407,24 @@
     "ft"
    ],
    "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902562036,
+   "home": "Al Faisaly Amman U21",
+   "away": "Al-Hussein U21",
+   "league": "Jordan Shield Cup",
+   "country": "Jordan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 19:30",
+   "kickoff_utc": "2026-11-01 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
     "over_under_2_5"
    ]
   }

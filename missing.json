@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 00:14",
- "count": 14,
+ "updated_utc": "2026-11-01 04:29",
+ "count": 8,
  "matches": [
   {
    "id": 902551189,
@@ -105,58 +105,6 @@
    ]
   },
   {
-   "id": 902555635,
-   "home": "Lannion",
-   "away": "Stade Rennes II",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 20:00",
-   "kickoff_utc": "2026-10-31 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902561991,
-   "home": "Santos Laguna U19(W)",
-   "away": "Tijuana U19 (W)",
-   "league": "Liga MX U19 Femenil",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 20:00",
-   "kickoff_utc": "2026-10-31 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902559471,
-   "home": "Atletico Goianiense U20",
-   "away": "Sao Luiz U20",
-   "league": "Copa Goias U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 21:00",
-   "kickoff_utc": "2026-10-31 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902559473,
    "home": "Gremio Anapolis XI U20",
    "away": "Goias EC U20",
@@ -165,41 +113,6 @@
    "sport": "football",
    "kickoff_eat": "2026-10-31 21:00",
    "kickoff_utc": "2026-10-31 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902561389,
-   "home": "S.L. Benfica II (W)",
-   "away": "EFF Setubal (W)",
-   "league": "Campeonato Nacional II Women",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 21:30",
-   "kickoff_utc": "2026-10-31 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902562752,
-   "home": "Palmeiras U19",
-   "away": "Cruzeiro U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 22:00",
-   "kickoff_utc": "2026-10-31 19:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -224,29 +137,6 @@
    "markets": [
     "dc"
    ]
-  },
-  {
-   "id": 902490340,
-   "home": "Cambuur Leeuwarden",
-   "away": "GO Ahead Eagles",
-   "league": "Eredivisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-10-31 23:00",
-   "kickoff_utc": "2026-10-31 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "over_under_2_5",
-    "pb_y_iou_t1_1_5"
-   ],
-   "stored_ft": "4-0"
   }
  ]
 }

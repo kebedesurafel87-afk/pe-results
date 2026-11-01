@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 22:00",
- "count": 32,
+ "updated_utc": "2026-11-01 22:15",
+ "count": 31,
  "matches": [
   {
    "id": 902562273,
@@ -479,25 +479,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902533480,
-   "home": "Lexington",
-   "away": "Colorado Springs",
-   "league": "USL Championship",
-   "country": "USA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 22:00",
-   "kickoff_utc": "2026-11-01 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "pbx_wtn_t1"
    ]
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-01 18:00",
+ "updated_utc": "2026-11-01 18:30",
  "count": 26,
  "matches": [
   {
@@ -279,10 +279,10 @@
    ]
   },
   {
-   "id": 902568282,
-   "home": "AFC Fylde (W)",
-   "away": "Hull City (W)",
-   "league": "FA League Cup Women",
+   "id": 902565863,
+   "home": "AFC Wimbledon (W)",
+   "away": "Bournemouth (W)",
+   "league": "FA Cup Women",
    "country": "England",
    "sport": "football",
    "kickoff_eat": "2026-11-01 17:00",
@@ -292,8 +292,8 @@
     "ft"
    ],
    "markets": [
-    "btts",
-    "dc"
+    "1x2",
+    "over_under_2_5"
    ]
   },
   {
@@ -333,58 +333,6 @@
    ]
   },
   {
-   "id": 902562280,
-   "home": "St Etienne 2",
-   "away": "Espaly",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902562282,
-   "home": "Chateauroux II",
-   "away": "SO Romorantin",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902565863,
-   "home": "AFC Wimbledon (W)",
-   "away": "Bournemouth (W)",
-   "league": "FA Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902562384,
    "home": "Racing Strasbourg II",
    "away": "Drancy JA",
@@ -399,6 +347,23 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902568282,
+   "home": "AFC Fylde (W)",
+   "away": "Hull City (W)",
+   "league": "FA League Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   },
   {
@@ -460,6 +425,41 @@
     "1x2",
     "both_teams_to_score",
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902565850,
+   "home": "CFF Cartagena (W)",
+   "away": "Alhama CF B (w)",
+   "league": "Tercera Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 19:00",
+   "kickoff_utc": "2026-11-01 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902564249,
+   "home": "Juarez FC U19 (W)",
+   "away": "Queretaro U19 (W)",
+   "league": "Liga MX U19 Femenil",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 19:00",
+   "kickoff_utc": "2026-11-01 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   }
  ]

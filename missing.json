@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 15:14",
- "count": 13,
+ "updated_utc": "2026-11-01 15:44",
+ "count": 21,
  "matches": [
   {
    "id": 902562044,
@@ -226,6 +226,145 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902564116,
+   "home": "Polanka",
+   "away": "Vrchovina",
+   "league": "3rd League",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902550798,
+   "home": "Selangor",
+   "away": "Imigresen FC",
+   "league": "Super League",
+   "country": "Malaysia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902562680,
+   "home": "1. FC Nurnberg (W)",
+   "away": "Eintracht Frankfurt (W)",
+   "league": "DFB-Pokal Women",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "pbx_rbts"
+   ]
+  },
+  {
+   "id": 902562681,
+   "home": "1. FSV Mainz 05 (W)",
+   "away": "Werder Bremen (W)",
+   "league": "DFB-Pokal Women",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "over_under_4_5",
+    "pbx_rbts"
+   ]
+  },
+  {
+   "id": 902564701,
+   "home": "Vernier",
+   "away": "Concordia Lausanne",
+   "league": "2 Liga Interregional",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902565556,
+   "home": "Widnau",
+   "away": "St. Gallen II",
+   "league": "Promotion League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902564371,
+   "home": "Velez Mostar U19",
+   "away": "FK Radnik Bijeljina U19",
+   "league": "Premier League U19",
+   "country": "Bosnia and Herzegovina",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902562004,
+   "home": "Bole Sub City (W)",
+   "away": "Ethiopia Nigd Bank (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 16:00",
+   "kickoff_utc": "2026-11-01 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
    ]
   }
  ]

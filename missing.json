@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 20:30",
- "count": 29,
+ "updated_utc": "2026-11-01 21:15",
+ "count": 28,
  "matches": [
   {
    "id": 902562273,
@@ -497,23 +497,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902557153,
-   "home": "Gzira United",
-   "away": "Marsaxlokk",
-   "league": "Premier Division",
-   "country": "Malta",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 21:00",
-   "kickoff_utc": "2026-11-01 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

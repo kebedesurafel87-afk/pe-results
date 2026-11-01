@@ -1,5 +1,23 @@
 {
- "updated_utc": "2026-11-01 04:44",
- "count": 0,
- "matches": []
+ "updated_utc": "2026-11-01 11:44",
+ "count": 1,
+ "matches": [
+  {
+   "id": 902562044,
+   "home": "ES Ben Aknoun U20",
+   "away": "USM Alger U20",
+   "league": "Algeria U20 League",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 12:00",
+   "kickoff_utc": "2026-11-01 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  }
+ ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 16:14",
- "count": 23,
+ "updated_utc": "2026-11-01 16:30",
+ "count": 30,
  "matches": [
   {
    "id": 902562044,
@@ -383,20 +383,144 @@
    ]
   },
   {
-   "id": 902552689,
-   "home": "Maceratese",
-   "away": "Angelana 1930",
-   "league": "Serie D",
-   "country": "Italy",
+   "id": 902568282,
+   "home": "AFC Fylde (W)",
+   "away": "Hull City (W)",
+   "league": "FA League Cup Women",
+   "country": "England",
    "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902565877,
+   "home": "Stockport County (W)",
+   "away": "Chesterfield (W)",
+   "league": "FA Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902565891,
+   "home": "Portsmouth (W)",
+   "away": "Fulham (w)",
+   "league": "FA Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902562280,
+   "home": "St Etienne 2",
+   "away": "Espaly",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902562282,
+   "home": "Chateauroux II",
+   "away": "SO Romorantin",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902565863,
+   "home": "AFC Wimbledon (W)",
+   "away": "Bournemouth (W)",
+   "league": "FA Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902562384,
+   "home": "Racing Strasbourg II",
+   "away": "Drancy JA",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902565879,
+   "home": "Kidderminster (W)",
+   "away": "Stevenage (W)",
+   "league": "FA Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 17:00",
+   "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
    ]
   }
  ]

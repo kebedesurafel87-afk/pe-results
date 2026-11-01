@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 21:15",
- "count": 28,
+ "updated_utc": "2026-11-01 21:30",
+ "count": 32,
  "matches": [
   {
    "id": 902562273,
@@ -491,6 +491,80 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 20:00",
    "kickoff_utc": "2026-11-01 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902533480,
+   "home": "Lexington",
+   "away": "Colorado Springs",
+   "league": "USL Championship",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 22:00",
+   "kickoff_utc": "2026-11-01 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "pbx_wtn_t1"
+   ]
+  },
+  {
+   "id": 902549583,
+   "home": "The Strongest",
+   "away": "Gualberto Villarroel",
+   "league": "Primera Division",
+   "country": "Bolivia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 22:00",
+   "kickoff_utc": "2026-11-01 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902568925,
+   "home": "Retro FC Brasil U19",
+   "away": "Cruzeiro U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 22:00",
+   "kickoff_utc": "2026-11-01 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902568942,
+   "home": "CRB  U19",
+   "away": "Atletico Mineiro U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 22:00",
+   "kickoff_utc": "2026-11-01 19:00",
    "status": "no_result",
    "needs": [
     "ft"

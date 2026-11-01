@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 14:44",
- "count": 15,
+ "updated_utc": "2026-11-01 15:14",
+ "count": 13,
  "matches": [
   {
    "id": 902562044,
@@ -54,23 +54,6 @@
    ]
   },
   {
-   "id": 902562018,
-   "home": "ASD Salaria FC",
-   "away": "SS Romulea",
-   "league": "Eccellenza",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:00",
-   "kickoff_utc": "2026-11-01 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902564378,
    "home": "ZFK Vardar (W)",
    "away": "ZFK Junajted Struga (W)",
@@ -102,23 +85,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902562019,
-   "home": "Real Casoria Calcio",
-   "away": "ASD Real Grazzanise",
-   "league": "Eccellenza",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:30",
-   "kickoff_utc": "2026-11-01 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {
@@ -229,33 +195,6 @@
    ]
   },
   {
-   "id": 902561949,
-   "home": "EEPCO FC",
-   "away": "Kedus Giorgis",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 15:00",
-   "kickoff_utc": "2026-11-01 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou15",
-    "ou25",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902543010,
    "home": "TG FF",
    "away": "Laholms",
@@ -264,6 +203,23 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 15:00",
    "kickoff_utc": "2026-11-01 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902562789,
+   "home": "Steenvoorde",
+   "away": "SC Bastia II",
+   "league": "National 2",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 15:30",
+   "kickoff_utc": "2026-11-01 12:30",
    "status": "no_result",
    "needs": [
     "ft"

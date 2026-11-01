@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-01 17:15",
- "count": 24,
+ "updated_utc": "2026-11-01 17:30",
+ "count": 27,
  "matches": [
   {
    "id": 902562273,
@@ -147,23 +147,6 @@
    "away": "Imigresen FC",
    "league": "Super League",
    "country": "Malaysia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902564701,
-   "home": "Vernier",
-   "away": "Concordia Lausanne",
-   "league": "2 Liga Interregional",
-   "country": "Switzerland",
    "sport": "football",
    "kickoff_eat": "2026-11-01 16:00",
    "kickoff_utc": "2026-11-01 13:00",
@@ -411,6 +394,85 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 17:00",
    "kickoff_utc": "2026-11-01 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902561951,
+   "home": "Sidama Bunna",
+   "away": "Mekelakeya",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 18:00",
+   "kickoff_utc": "2026-11-01 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_correct_score",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902562277,
+   "home": "Nice U19",
+   "away": "Cavigal Nice SF U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 18:00",
+   "kickoff_utc": "2026-11-01 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902553541,
+   "home": "Viimsi MRJK",
+   "away": "Levadia Tallinn 2",
+   "league": "Esiliiga",
+   "country": "Estonia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 18:00",
+   "kickoff_utc": "2026-11-01 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902564200,
+   "home": "Cruz Azul U21",
+   "away": "Leon U21",
+   "league": "League U21",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-01 18:00",
+   "kickoff_utc": "2026-11-01 15:00",
    "status": "no_result",
    "needs": [
     "ft"

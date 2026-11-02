@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 15:46",
- "count": 30,
+ "updated_utc": "2026-11-02 16:31",
+ "count": 32,
  "matches": [
   {
    "id": 902562273,
@@ -530,6 +530,42 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902568934,
+   "home": "KF 2 Korriku U19",
+   "away": "KF Dinamo Ferizaj U19",
+   "league": "Superleague U19",
+   "country": "Kosovo",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 17:00",
+   "kickoff_utc": "2026-11-02 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902574093,
+   "home": "Nacional Potosi U19",
+   "away": "San Antonio Bulo Bulo U19",
+   "league": "Liga Nacional U19",
+   "country": "Bolivia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 17:00",
+   "kickoff_utc": "2026-11-02 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

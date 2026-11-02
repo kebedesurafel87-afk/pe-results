@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 21:47",
- "count": 35,
+ "updated_utc": "2026-11-02 22:32",
+ "count": 38,
  "matches": [
   {
    "id": 902562273,
@@ -434,7 +434,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
@@ -620,6 +619,59 @@
    ],
    "markets": [
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902570671,
+   "home": "Linfield Swifts (R)",
+   "away": "Bangor Reserves (R)",
+   "league": "Reserve League",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 23:00",
+   "kickoff_utc": "2026-11-02 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902571190,
+   "home": "Coleraine (R)",
+   "away": "Ballymena United (R)",
+   "league": "Reserve League",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 23:00",
+   "kickoff_utc": "2026-11-02 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902570669,
+   "home": "Limavady United (R)",
+   "away": "Cliftonville Olympic (R)",
+   "league": "Reserve League",
+   "country": "Northern Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 23:00",
+   "kickoff_utc": "2026-11-02 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

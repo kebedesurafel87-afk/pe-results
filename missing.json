@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 13:31",
- "count": 29,
+ "updated_utc": "2026-11-02 14:01",
+ "count": 27,
  "matches": [
   {
    "id": 902562273,
@@ -477,40 +477,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902574056,
-   "home": "Quinho FC U19",
-   "away": "CA Piauiense U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 14:00",
-   "kickoff_utc": "2026-11-02 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
-   "id": 902574058,
-   "home": "Sport Recife U19",
-   "away": "Gremio U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 14:00",
-   "kickoff_utc": "2026-11-02 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
    ]
   }
  ]

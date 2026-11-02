@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 18:01",
- "count": 33,
+ "updated_utc": "2026-11-02 18:46",
+ "count": 32,
  "matches": [
   {
    "id": 902562273,
@@ -566,25 +566,6 @@
     "dc",
     "double_chance",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902536689,
-   "home": "Dobrudzha Dobrich",
-   "away": "FC Fratria",
-   "league": "Second Professional League",
-   "country": "Bulgaria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 18:30",
-   "kickoff_utc": "2026-11-02 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou35"
    ]
   }
  ]

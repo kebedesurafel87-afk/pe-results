@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-02 19:32",
+ "updated_utc": "2026-11-02 20:17",
  "count": 36,
  "matches": [
   {
@@ -605,31 +605,6 @@
    ]
   },
   {
-   "id": 902536468,
-   "home": "Radnicki Nis",
-   "away": "Zeljeznicar Pancevo",
-   "league": "Super Liga",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 20:00",
-   "kickoff_utc": "2026-11-02 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1x2",
-    "2nd_half_over_under_0_5",
-    "competitor1_over_under_0_5",
-    "competitor2_total_2_5",
-    "dc",
-    "handicap_hcp_0_2",
-    "over_under_0_5",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902574079,
    "home": "America PE U19",
    "away": "Nautico Capibaribe U19",
@@ -646,6 +621,29 @@
     "1x2",
     "dc"
    ]
+  },
+  {
+   "id": 902536468,
+   "home": "Radnicki Nis",
+   "away": "Zeljeznicar Pancevo",
+   "league": "Super Liga",
+   "country": "Serbia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 20:00",
+   "kickoff_utc": "2026-11-02 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "competitor2_total_2_5",
+    "dc",
+    "handicap_hcp_0_2",
+    "over_under_0_5"
+   ],
+   "stored_ft": "-1--1"
   }
  ]
 }

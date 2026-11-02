@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 20:17",
- "count": 36,
+ "updated_utc": "2026-11-02 21:17",
+ "count": 35,
  "matches": [
   {
    "id": 902562273,
@@ -531,23 +531,6 @@
    ]
   },
   {
-   "id": 902574093,
-   "home": "Nacional Potosi U19",
-   "away": "San Antonio Bulo Bulo U19",
-   "league": "Liga Nacional U19",
-   "country": "Bolivia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 17:00",
-   "kickoff_utc": "2026-11-02 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902568931,
    "home": "Al Shabab",
    "away": "Al Tadamun Buri",
@@ -581,7 +564,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance"
    ]
   },
@@ -599,27 +581,8 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902574079,
-   "home": "America PE U19",
-   "away": "Nautico Capibaribe U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 20:00",
-   "kickoff_utc": "2026-11-02 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -640,10 +603,27 @@
     "2nd_half_over_under_0_5",
     "competitor2_total_2_5",
     "dc",
-    "handicap_hcp_0_2",
-    "over_under_0_5"
+    "handicap_hcp_0_2"
    ],
    "stored_ft": "-1--1"
+  },
+  {
+   "id": 902574079,
+   "home": "America PE U19",
+   "away": "Nautico Capibaribe U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 20:00",
+   "kickoff_utc": "2026-11-02 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
   }
  ]
 }

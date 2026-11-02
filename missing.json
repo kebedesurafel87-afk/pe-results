@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 17:31",
- "count": 33,
+ "updated_utc": "2026-11-02 17:46",
+ "count": 32,
  "matches": [
   {
    "id": 902562273,
@@ -510,9 +510,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc",
-    "ou25"
+    "1x2"
    ]
   },
   {
@@ -529,9 +527,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -549,26 +545,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902569498,
-   "home": "Dormaa Unity SC",
-   "away": "Yapei United",
-   "league": "1st Division",
-   "country": "Ghana",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 18:00",
-   "kickoff_utc": "2026-11-02 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2"
    ]
   },
   {

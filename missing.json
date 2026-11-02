@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 21:32",
- "count": 36,
+ "updated_utc": "2026-11-02 21:47",
+ "count": 35,
  "matches": [
   {
    "id": 902562273,
@@ -545,44 +545,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902574081,
-   "home": "Ipojuca AC U19",
-   "away": "Botafogo RJ U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 20:00",
-   "kickoff_utc": "2026-11-02 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902574080,
-   "home": "EC Vitoria U19",
-   "away": "Brasiliense U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 20:00",
-   "kickoff_utc": "2026-11-02 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -626,24 +589,37 @@
    ]
   },
   {
-   "id": 902571645,
-   "home": "Independiente Yumbo",
-   "away": "Boca Juniors De Cali",
-   "league": "Primera B",
-   "country": "Colombia",
+   "id": 902574081,
+   "home": "Ipojuca AC U19",
+   "away": "Botafogo RJ U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
    "sport": "football",
-   "kickoff_eat": "2026-11-02 22:00",
-   "kickoff_utc": "2026-11-02 19:00",
+   "kickoff_eat": "2026-11-02 20:00",
+   "kickoff_utc": "2026-11-02 17:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "over_under_1_5",
-    "pbx_dc_h2"
+    "1x2"
+   ]
+  },
+  {
+   "id": 902574080,
+   "home": "EC Vitoria U19",
+   "away": "Brasiliense U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-02 20:00",
+   "kickoff_utc": "2026-11-02 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   }
  ]

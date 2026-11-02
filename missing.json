@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-02 12:31",
- "count": 28,
+ "updated_utc": "2026-11-02 13:01",
+ "count": 27,
  "matches": [
   {
    "id": 902562273,
@@ -478,28 +478,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "pbx_iou_t1_h1_0_5"
-   ]
-  },
-  {
-   "id": 902547999,
-   "home": "Kolos Kovalivka II",
-   "away": "FC Metalist Kharkiv",
-   "league": "1st League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 13:00",
-   "kickoff_utc": "2026-11-02 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "ou25"
+    "both_teams_to_score"
    ]
   }
  ]

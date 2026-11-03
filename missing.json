@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 11:33",
- "count": 4,
+ "updated_utc": "2026-11-03 11:48",
+ "count": 3,
  "matches": [
   {
    "id": 902547231,
@@ -35,25 +35,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902536468,
-   "home": "Radnicki Nis",
-   "away": "Zeljeznicar Pancevo",
-   "league": "Super Liga",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 20:00",
-   "kickoff_utc": "2026-11-02 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "handicap_hcp_0_2"
    ]
   },
   {

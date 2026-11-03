@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 02:32",
- "count": 39,
+ "updated_utc": "2026-11-03 06:32",
+ "count": 36,
  "matches": [
   {
    "id": 902562273,
@@ -62,23 +62,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-01 15:00",
    "kickoff_utc": "2026-11-01 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902562789,
-   "home": "Steenvoorde",
-   "away": "SC Bastia II",
-   "league": "National 2",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 15:30",
-   "kickoff_utc": "2026-11-01 12:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -278,25 +261,6 @@
    ]
   },
   {
-   "id": 902553541,
-   "home": "Viimsi MRJK",
-   "away": "Levadia Tallinn 2",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 18:00",
-   "kickoff_utc": "2026-11-01 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902565850,
    "home": "CFF Cartagena (W)",
    "away": "Alhama CF B (w)",
@@ -418,31 +382,6 @@
    "markets": [
     "1x2"
    ]
-  },
-  {
-   "id": 902486599,
-   "home": "Athletic Bilbao",
-   "away": "Real Sociedad",
-   "league": "LaLiga",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 23:00",
-   "kickoff_utc": "2026-11-01 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "pb_y_dc",
-    "pb_y_iou_t1_1_5",
-    "pb_y_iou_t2_3_5",
-    "pbx_rtgwo_t1_1_5"
-   ],
-   "stored_ft": "2-1"
   },
   {
    "id": 902571649,

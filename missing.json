@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 22:34",
- "count": 14,
+ "updated_utc": "2026-11-03 22:49",
+ "count": 13,
  "matches": [
   {
    "id": 902547231,
@@ -236,24 +236,6 @@
    ],
    "markets": [
     "double_chance"
-   ]
-  },
-  {
-   "id": 902578286,
-   "home": "Sporting Cristal (W)",
-   "away": "Alianza Lima (W)",
-   "league": "Campeonato Nacional Women",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 23:00",
-   "kickoff_utc": "2026-11-03 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
    ]
   }
  ]

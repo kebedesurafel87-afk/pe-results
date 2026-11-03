@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 15:03",
- "count": 3,
+ "updated_utc": "2026-11-03 15:33",
+ "count": 6,
  "matches": [
   {
    "id": 902547231,
@@ -56,6 +56,70 @@
     "1x2",
     "btts",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902576434,
+   "home": "Groningen U21",
+   "away": "Cambuur U21",
+   "league": "League U21",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-03 16:00",
+   "kickoff_utc": "2026-11-03 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902576928,
+   "home": "Wigan Athletic U21",
+   "away": "Sheffield United U21",
+   "league": "Prof. Development League",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-03 16:00",
+   "kickoff_utc": "2026-11-03 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "ou35",
+    "over_under_4_5",
+    "pbx_iou_t2_h1_0_5"
+   ]
+  },
+  {
+   "id": 902576415,
+   "home": "Baía de Pemba F.C",
+   "away": "Ferroviario Maputo",
+   "league": "Mocambola",
+   "country": "Mozambique",
+   "sport": "football",
+   "kickoff_eat": "2026-11-03 16:00",
+   "kickoff_utc": "2026-11-03 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "dc",
+    "ou25"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03 21:49",
+ "updated_utc": "2026-11-03 22:04",
  "count": 12,
  "matches": [
   {
@@ -190,8 +190,7 @@
     "handicap_hcp_3_0",
     "over_under_4_5",
     "pb_cor_ou_9_5",
-    "pbx_iou_t2_h1_1_5",
-    "pbx_rtgnlo_t2_h1_1_5"
+    "pbx_iou_t2_h1_1_5"
    ]
   },
   {
@@ -214,8 +213,7 @@
     "1x2",
     "competitor2_total_1_5",
     "dc",
-    "pb_cor_ou_8_5",
-    "pbx_rtgnlo_t2_h1_1_5"
+    "pb_cor_ou_8_5"
    ]
   },
   {

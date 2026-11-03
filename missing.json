@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 11:48",
- "count": 3,
+ "updated_utc": "2026-11-03 12:18",
+ "count": 2,
  "matches": [
   {
    "id": 902547231,
@@ -35,25 +35,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902577956,
-   "home": "Henan U20",
-   "away": "Wuhan Three Towns U20",
-   "league": "Championship U20",
-   "country": "China",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 11:00",
-   "kickoff_utc": "2026-11-03 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "odd_even",
-    "over_under_2_5"
    ]
   }
  ]

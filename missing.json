@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 21:34",
- "count": 13,
+ "updated_utc": "2026-11-03 21:49",
+ "count": 12,
  "matches": [
   {
    "id": 902547231,
@@ -95,26 +95,6 @@
    ]
   },
   {
-   "id": 902581456,
-   "home": "Celta Vigo (W)",
-   "away": "Espanyol (W)",
-   "league": "Spain Cup Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 20:00",
-   "kickoff_utc": "2026-11-03 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902578273,
    "home": "Leones de Rosario (R)",
    "away": "Sportivo Barracas (R)",
@@ -131,6 +111,24 @@
     "dc",
     "over_under_2_5",
     "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902581456,
+   "home": "Celta Vigo (W)",
+   "away": "Espanyol (W)",
+   "league": "Spain Cup Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-03 20:00",
+   "kickoff_utc": "2026-11-03 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   },
   {
@@ -235,24 +233,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902577992,
-   "home": "Middlesbrough U21",
-   "away": "Valencia U21",
-   "league": "Premier League International Cup",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 22:00",
-   "kickoff_utc": "2026-11-03 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "btts"
    ]
   }
  ]

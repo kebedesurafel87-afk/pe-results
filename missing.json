@@ -1,41 +1,7 @@
 {
- "updated_utc": "2026-11-03 06:32",
- "count": 36,
+ "updated_utc": "2026-11-03 08:02",
+ "count": 19,
  "matches": [
-  {
-   "id": 902562273,
-   "home": "Monaco U19",
-   "away": "Saint-Etienne U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:00",
-   "kickoff_utc": "2026-11-01 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902562272,
-   "home": "Strasbourg U19",
-   "away": "Lyon U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 13:00",
-   "kickoff_utc": "2026-11-01 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
-   ]
-  },
   {
    "id": 902562276,
    "home": "Colomiers U19",
@@ -71,114 +37,11 @@
    ]
   },
   {
-   "id": 902562004,
-   "home": "Bole Sub City (W)",
-   "away": "Ethiopia Nigd Bank (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:00",
-   "kickoff_utc": "2026-11-01 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902547231,
    "home": "Esperance ST",
    "away": "US Monastir",
    "league": "Ligue 1",
    "country": "Tunisia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902562270,
-   "home": "Troyes U19",
-   "away": "Auxerre U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902562271,
-   "home": "Stade Rennes U19",
-   "away": "Angers U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902562274,
-   "home": "Orleans U19",
-   "away": "Versailles U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902562275,
-   "home": "Racing Paris U19",
-   "away": "Rouen U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 16:30",
-   "kickoff_utc": "2026-11-01 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902562278,
-   "home": "Nantes U19",
-   "away": "Stade Poitevin U19",
-   "league": "League U19",
-   "country": "France",
    "sport": "football",
    "kickoff_eat": "2026-11-01 16:30",
    "kickoff_utc": "2026-11-01 13:30",
@@ -204,95 +67,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902565877,
-   "home": "Stockport County (W)",
-   "away": "Chesterfield (W)",
-   "league": "FA Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902565891,
-   "home": "Portsmouth (W)",
-   "away": "Fulham (w)",
-   "league": "FA Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 17:00",
-   "kickoff_utc": "2026-11-01 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902562277,
-   "home": "Nice U19",
-   "away": "Cavigal Nice SF U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 18:00",
-   "kickoff_utc": "2026-11-01 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902565850,
-   "home": "CFF Cartagena (W)",
-   "away": "Alhama CF B (w)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 19:00",
-   "kickoff_utc": "2026-11-01 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902564249,
-   "home": "Juarez FC U19 (W)",
-   "away": "Queretaro U19 (W)",
-   "league": "Liga MX U19 Femenil",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 19:00",
-   "kickoff_utc": "2026-11-01 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   },
   {
@@ -384,40 +159,6 @@
    ]
   },
   {
-   "id": 902571649,
-   "home": "Chainat Hornbill U21",
-   "away": "Port U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 11:30",
-   "kickoff_utc": "2026-11-02 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902571648,
-   "home": "Bangkok United U21",
-   "away": "Khonkaen United U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 12:00",
-   "kickoff_utc": "2026-11-02 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902574059,
    "home": "Fortaleza U19",
    "away": "Vila Real CE U19",
@@ -432,40 +173,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902569596,
-   "home": "Ballkani U19",
-   "away": "Drita KF U19",
-   "league": "Superleague U19",
-   "country": "Kosovo",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 16:00",
-   "kickoff_utc": "2026-11-02 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902568934,
-   "home": "KF 2 Korriku U19",
-   "away": "KF Dinamo Ferizaj U19",
-   "league": "Superleague U19",
-   "country": "Kosovo",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 17:00",
-   "kickoff_utc": "2026-11-02 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {

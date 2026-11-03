@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-03 17:18",
+ "updated_utc": "2026-11-03 17:34",
  "count": 5,
  "matches": [
   {
@@ -54,7 +54,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "btts",
     "over_under_4_5"
    ]
   },
@@ -82,24 +81,21 @@
    ]
   },
   {
-   "id": 902577996,
-   "home": "Al Shabab Sib",
-   "away": "Shab Hadramawt",
-   "league": "Gulf Clubs Championship",
-   "country": "ASIA",
+   "id": 902578285,
+   "home": "Guabira U19",
+   "away": "Bolivar U19",
+   "league": "Liga Nacional U19",
+   "country": "Bolivia",
    "sport": "football",
-   "kickoff_eat": "2026-11-03 17:45",
-   "kickoff_utc": "2026-11-03 14:45",
+   "kickoff_eat": "2026-11-03 18:00",
+   "kickoff_utc": "2026-11-03 15:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
-    "btts",
-    "double_chance"
+    "both_teams_to_score"
    ]
   }
  ]

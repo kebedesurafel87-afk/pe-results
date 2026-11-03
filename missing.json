@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 15:48",
- "count": 5,
+ "updated_utc": "2026-11-03 16:33",
+ "count": 4,
  "matches": [
   {
    "id": 902547231,
@@ -79,27 +79,6 @@
     "ou35",
     "over_under_4_5",
     "pbx_iou_t2_h1_0_5"
-   ]
-  },
-  {
-   "id": 902576415,
-   "home": "Baía de Pemba F.C",
-   "away": "Ferroviario Maputo",
-   "league": "Mocambola",
-   "country": "Mozambique",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 16:00",
-   "kickoff_utc": "2026-11-03 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "dc",
-    "ou25"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 13:33",
- "count": 4,
+ "updated_utc": "2026-11-03 14:03",
+ "count": 3,
  "matches": [
   {
    "id": 902547231,
@@ -57,28 +57,6 @@
     "btts",
     "over_under_3_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902576447,
-   "home": "Ljuboten (W)",
-   "away": "ZFK Skopje 2014 (W)",
-   "league": "Prva Liga Women",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 14:00",
-   "kickoff_utc": "2026-11-03 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5"
    ]
   }
  ]

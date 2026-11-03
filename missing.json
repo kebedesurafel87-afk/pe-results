@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 20:34",
- "count": 11,
+ "updated_utc": "2026-11-03 21:04",
+ "count": 12,
  "matches": [
   {
    "id": 902547231,
@@ -131,7 +131,6 @@
    ],
    "markets": [
     "dc",
-    "ou35",
     "over_under_2_5",
     "pbx_dc_h2"
    ]
@@ -222,6 +221,23 @@
     "dc",
     "pb_cor_ou_8_5",
     "pbx_rtgnlo_t2_h1_1_5"
+   ]
+  },
+  {
+   "id": 902578259,
+   "home": "Abadia U20",
+   "away": "CA Pontalinense U20",
+   "league": "Copa Goiano U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-03 21:30",
+   "kickoff_utc": "2026-11-03 18:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

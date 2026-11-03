@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 08:18",
- "count": 18,
+ "updated_utc": "2026-11-03 08:48",
+ "count": 16,
  "matches": [
   {
    "id": 902562276,
@@ -17,23 +17,6 @@
    ],
    "markets": [
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902543010,
-   "home": "TG FF",
-   "away": "Laholms",
-   "league": "1st Division Sodra",
-   "country": "Sweden",
-   "sport": "football",
-   "kickoff_eat": "2026-11-01 15:00",
-   "kickoff_utc": "2026-11-01 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -156,24 +139,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902568931,
-   "home": "Al Shabab",
-   "away": "Al Tadamun Buri",
-   "league": "King's Cup",
-   "country": "Bahrain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-02 18:00",
-   "kickoff_utc": "2026-11-02 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

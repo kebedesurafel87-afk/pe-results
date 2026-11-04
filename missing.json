@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 15:22",
- "count": 23,
+ "updated_utc": "2026-11-04 15:37",
+ "count": 25,
  "matches": [
   {
    "id": 902583665,
@@ -399,23 +399,6 @@
    ]
   },
   {
-   "id": 902582929,
-   "home": "Ayeyawady United (W)",
-   "away": "INAC Leonessa (W)",
-   "league": "AFC Champions League Women",
-   "country": "ASIA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 15:30",
-   "kickoff_utc": "2026-11-04 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902584617,
    "home": "Petrolina U19",
    "away": "Santa Cruz PE U19",
@@ -431,6 +414,59 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902568402,
+   "home": "KCCA",
+   "away": "Maroons",
+   "league": "Premier League",
+   "country": "Uganda",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 16:00",
+   "kickoff_utc": "2026-11-04 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902582763,
+   "home": "Shkendija Tetovo U19",
+   "away": "Teteks U19",
+   "league": "League U19",
+   "country": "North Macedonia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 16:00",
+   "kickoff_utc": "2026-11-04 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902584665,
+   "home": "KVZ",
+   "away": "Uhamiaji",
+   "league": "Premier League",
+   "country": "Zanzibar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 16:00",
+   "kickoff_utc": "2026-11-04 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

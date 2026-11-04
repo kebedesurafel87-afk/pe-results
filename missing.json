@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 15:37",
- "count": 25,
+ "updated_utc": "2026-11-04 15:52",
+ "count": 24,
  "matches": [
   {
    "id": 902583665,
@@ -213,42 +213,6 @@
    ]
   },
   {
-   "id": 902583011,
-   "home": "Manisa FK U19",
-   "away": "Somaspor U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
-   "id": 902583314,
-   "home": "Pendikspor U19",
-   "away": "Bursa Yildirimspor U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902584612,
    "home": "Santos U19",
    "away": "Serrano Petropolis U19",
@@ -264,6 +228,24 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583011,
+   "home": "Manisa FK U19",
+   "away": "Somaspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc"
    ]
   },
   {
@@ -393,7 +375,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "ou25"
    ]

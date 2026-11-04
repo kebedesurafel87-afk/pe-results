@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 21:22",
- "count": 32,
+ "updated_utc": "2026-11-04 21:38",
+ "count": 40,
  "matches": [
   {
    "id": 902583023,
@@ -602,8 +602,154 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
-    "over_under_2_5"
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902583839,
+   "home": "San Gabriel (W)",
+   "away": "Girona FC (W)",
+   "league": "Copa Catalunya Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583753,
+   "home": "CD Bunol",
+   "away": "JS Hercules II",
+   "league": "Tercera Div. RFEF Group 6",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902584435,
+   "home": "FC Mamer 32 (W)",
+   "away": "Swift Hesperange (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902582921,
+   "home": "Olimpico Totana",
+   "away": "CD Algar",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902582926,
+   "home": "Atletico Pulpileno",
+   "away": "Deportivo Maritimo",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902584434,
+   "home": "Racing FC Union Luxembourg (W)",
+   "away": "Bettembourg (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2"
+   ]
+  },
+  {
+   "id": 902584912,
+   "home": "CS Norte America U19",
+   "away": "Retro FC Brasil U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902584913,
+   "home": "LS Valen SC U19",
+   "away": "Palmeiras U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

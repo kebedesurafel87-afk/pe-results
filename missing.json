@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 14:05",
- "count": 19,
+ "updated_utc": "2026-11-04 14:20",
+ "count": 17,
  "matches": [
   {
    "id": 902583665,
@@ -118,44 +118,6 @@
     "btts",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902588450,
-   "home": "Zanaco FC (W)",
-   "away": "Green Buffaloes (W)",
-   "league": "Zambia League Women",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 13:00",
-   "kickoff_utc": "2026-11-04 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou25",
-    "pbx_ou_h2_0_5"
-   ]
-  },
-  {
-   "id": 902583009,
-   "home": "Karsiyaka SK U19",
-   "away": "Aliaga FK U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 13:00",
-   "kickoff_utc": "2026-11-04 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

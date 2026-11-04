@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-04 16:22",
+ "updated_utc": "2026-11-04 16:37",
  "count": 22,
  "matches": [
-  {
-   "id": 902583665,
-   "home": "Bengaluru II",
-   "away": "Bangalore Dream United",
-   "league": "Bangalore Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 08:30",
-   "kickoff_utc": "2026-11-04 05:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902583023,
    "home": "Singburi Warriors",
@@ -171,7 +154,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "ou35"
    ]
   },
@@ -244,8 +226,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -262,7 +243,6 @@
     "ft"
    ],
    "markets": [
-    "btts",
     "dc"
    ]
   },
@@ -280,8 +260,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -356,8 +335,7 @@
     "ft"
    ],
    "markets": [
-    "dc",
-    "ou25"
+    "dc"
    ]
   },
   {
@@ -411,6 +389,25 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902586168,
+   "home": "Sporting Cabinda",
+   "away": "Kabuscorp",
+   "league": "Premier League",
+   "country": "Angola",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 17:00",
+   "kickoff_utc": "2026-11-04 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "ou15"
    ]
   }
  ]

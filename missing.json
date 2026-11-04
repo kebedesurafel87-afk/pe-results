@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 20:07",
- "count": 26,
+ "updated_utc": "2026-11-04 20:37",
+ "count": 29,
  "matches": [
   {
    "id": 902583023,
@@ -486,6 +486,62 @@
    "markets": [
     "1x2",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902587809,
+   "home": "Fanatico U20",
+   "away": "Parana U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 21:00",
+   "kickoff_utc": "2026-11-04 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583756,
+   "home": "UD Vall De Uxo",
+   "away": "Torrent",
+   "league": "Tercera Div. RFEF Group 6",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 21:00",
+   "kickoff_utc": "2026-11-04 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902584616,
+   "home": "Cruzeiro U19",
+   "away": "CRB  U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 21:00",
+   "kickoff_utc": "2026-11-04 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 18:22",
- "count": 25,
+ "updated_utc": "2026-11-04 18:37",
+ "count": 26,
  "matches": [
   {
    "id": 902583023,
@@ -457,6 +457,32 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902584126,
+   "home": "Sheriff U19",
+   "away": "Farul Constanta U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 19:00",
+   "kickoff_utc": "2026-11-04 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "correct_score",
+    "dc",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "pbx_iou_t1_h1_0_5",
+    "pbx_iou_t1_h2_0_5"
    ]
   }
  ]

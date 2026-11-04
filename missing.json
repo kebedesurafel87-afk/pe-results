@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 16:37",
- "count": 22,
+ "updated_utc": "2026-11-04 17:37",
+ "count": 23,
  "matches": [
   {
    "id": 902583023,
@@ -75,7 +75,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]
@@ -94,7 +93,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
@@ -153,8 +151,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "ou35"
+    "1x2"
    ]
   },
   {
@@ -172,8 +169,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "ou25"
+    "dc"
    ]
   },
   {
@@ -279,7 +275,6 @@
    "markets": [
     "1x2",
     "dc",
-    "ou25",
     "pbx_iou_t1_h1_0_5"
    ]
   },
@@ -408,6 +403,26 @@
     "1x2",
     "btts",
     "ou15"
+   ]
+  },
+  {
+   "id": 902585238,
+   "home": "Al Naser (W)",
+   "away": "Etihad Club (W)",
+   "league": "Jordan Cup Women",
+   "country": "Jordan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 18:00",
+   "kickoff_utc": "2026-11-04 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25",
+    "over_under_2_5"
    ]
   }
  ]

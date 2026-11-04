@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04 21:38",
+ "updated_utc": "2026-11-04 21:53",
  "count": 40,
  "matches": [
   {
@@ -21,26 +21,6 @@
    ]
   },
   {
-   "id": 902583024,
-   "home": "Udon Banchan United",
-   "away": "Police Tero",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 11:00",
-   "kickoff_utc": "2026-11-04 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "pbx_tgbts_2_5"
-   ]
-  },
-  {
    "id": 902508660,
    "home": "FK Yenisey",
    "away": "FC Nizhny Novgorod",
@@ -55,10 +35,27 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "pb_cor_ou_t1_2_5"
    ],
    "stored_ft": "1-2"
+  },
+  {
+   "id": 902583024,
+   "home": "Udon Banchan United",
+   "away": "Police Tero",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 11:00",
+   "kickoff_utc": "2026-11-04 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "pbx_tgbts_2_5"
+   ]
   },
   {
    "id": 902583992,
@@ -111,7 +108,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]
@@ -201,8 +197,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "pbx_iou_t1_h1_0_5"
+    "dc"
    ]
   },
   {
@@ -220,8 +215,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "pbx_iou_t1_h1_0_5"
+    "dc"
    ]
   },
   {
@@ -373,7 +367,6 @@
     "over_under_3_5",
     "pb_cor_ou_10",
     "pbx_iou_t1_h1_0_5",
-    "pbx_iou_t1_h1_1_5",
     "pbx_tsg_t1_h1"
    ],
    "stored_ft": "9-0"
@@ -389,11 +382,9 @@
    "kickoff_utc": "2026-11-04 17:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "dc",
     "double_chance",
@@ -645,24 +636,6 @@
    ]
   },
   {
-   "id": 902584435,
-   "home": "FC Mamer 32 (W)",
-   "away": "Swift Hesperange (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902582921,
    "home": "Olimpico Totana",
    "away": "CD Algar",
@@ -716,6 +689,24 @@
    "markets": [
     "1st_half_3_way",
     "1x2"
+   ]
+  },
+  {
+   "id": 902584435,
+   "home": "FC Mamer 32 (W)",
+   "away": "Swift Hesperange (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   },
   {

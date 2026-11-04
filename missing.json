@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 17:37",
- "count": 23,
+ "updated_utc": "2026-11-04 17:52",
+ "count": 25,
  "matches": [
   {
    "id": 902583023,
@@ -423,6 +423,43 @@
     "dc",
     "ou25",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902588451,
+   "home": "AS UAM",
+   "away": "Tahoua",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 18:15",
+   "kickoff_utc": "2026-11-04 15:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902588452,
+   "home": "ASGNN",
+   "away": "Urana",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 18:15",
+   "kickoff_utc": "2026-11-04 15:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

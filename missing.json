@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04 22:08",
+ "updated_utc": "2026-11-04 22:38",
  "count": 43,
  "matches": [
   {
@@ -34,7 +34,6 @@
     "corners"
    ],
    "markets": [
-    "1x2",
     "pb_cor_ou_t1_2_5"
    ],
    "stored_ft": "1-2"
@@ -53,7 +52,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "pbx_tgbts_2_5"
    ]
   },
@@ -90,7 +88,6 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "dc",
     "over_under_3_5"
    ]
   },
@@ -127,24 +124,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902583773,
-   "home": "Nakhon Si United",
-   "away": "Phichit United",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -201,6 +180,24 @@
    ]
   },
   {
+   "id": 902583773,
+   "home": "Nakhon Si United",
+   "away": "Phichit United",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
    "id": 902583772,
    "home": "Bangkok FC",
    "away": "Chainat FC",
@@ -233,8 +230,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -362,7 +358,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "over_under_2_5"
    ]
@@ -417,27 +412,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902587809,
-   "home": "Fanatico U20",
-   "away": "Parana U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:00",
-   "kickoff_utc": "2026-11-04 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -458,6 +433,25 @@
     "dc",
     "ou25",
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902587809,
+   "home": "Fanatico U20",
+   "away": "Parana U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 21:00",
+   "kickoff_utc": "2026-11-04 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
    ]
   },
   {
@@ -573,25 +567,6 @@
    ]
   },
   {
-   "id": 902583839,
-   "home": "San Gabriel (W)",
-   "away": "Girona FC (W)",
-   "league": "Copa Catalunya Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902583753,
    "home": "CD Bunol",
    "away": "JS Hercules II",
@@ -612,6 +587,24 @@
    ]
   },
   {
+   "id": 902584435,
+   "home": "FC Mamer 32 (W)",
+   "away": "Swift Hesperange (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
    "id": 902582921,
    "home": "Olimpico Totana",
    "away": "CD Algar",
@@ -626,25 +619,6 @@
    ],
    "markets": [
     "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902582926,
-   "home": "Atletico Pulpileno",
-   "away": "Deportivo Maritimo",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
     "dc"
    ]
   },
@@ -668,11 +642,30 @@
    ]
   },
   {
-   "id": 902584435,
-   "home": "FC Mamer 32 (W)",
-   "away": "Swift Hesperange (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
+   "id": 902582926,
+   "home": "Atletico Pulpileno",
+   "away": "Deportivo Maritimo",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:00",
+   "kickoff_utc": "2026-11-04 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583839,
+   "home": "San Gabriel (W)",
+   "away": "Girona FC (W)",
+   "league": "Copa Catalunya Women",
+   "country": "Spain",
    "sport": "football",
    "kickoff_eat": "2026-11-04 22:00",
    "kickoff_utc": "2026-11-04 19:00",
@@ -703,23 +696,6 @@
    ]
   },
   {
-   "id": 902584913,
-   "home": "LS Valen SC U19",
-   "away": "Palmeiras U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902584331,
    "home": "Ronin FC",
    "away": "CF San Cristobal",
@@ -734,7 +710,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc"
    ]
@@ -774,8 +749,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -795,6 +769,23 @@
     "1x2",
     "dc",
     "ou25"
+   ]
+  },
+  {
+   "id": 902560209,
+   "home": "CD Badajoz",
+   "away": "CD Tenerife",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 23:00",
+   "kickoff_utc": "2026-11-04 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

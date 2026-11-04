@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 14:51",
- "count": 21,
+ "updated_utc": "2026-11-04 15:22",
+ "count": 23,
  "matches": [
   {
    "id": 902583665,
@@ -34,7 +34,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance"
    ]
   },
@@ -54,7 +53,6 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance_over_under_4_5",
     "pb_cor_ou_t1_2_5"
    ],
    "stored_ft": "1-2"
@@ -136,8 +134,7 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "over_under_2_5",
-    "pbx_iou_t1_h2_0_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -156,7 +153,6 @@
    "markets": [
     "1x2",
     "dc",
-    "pbx_hsh",
     "pbx_iou_t1_h1_0_5"
    ]
   },
@@ -323,8 +319,7 @@
     "1x2",
     "dc",
     "ou25",
-    "pbx_iou_t1_h1_0_5",
-    "pbx_iou_t2_h2_0_5"
+    "pbx_iou_t1_h1_0_5"
    ]
   },
   {
@@ -401,6 +396,41 @@
     "1x2",
     "dc",
     "ou25"
+   ]
+  },
+  {
+   "id": 902582929,
+   "home": "Ayeyawady United (W)",
+   "away": "INAC Leonessa (W)",
+   "league": "AFC Champions League Women",
+   "country": "ASIA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:30",
+   "kickoff_utc": "2026-11-04 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902584617,
+   "home": "Petrolina U19",
+   "away": "Santa Cruz PE U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:50",
+   "kickoff_utc": "2026-11-04 12:50",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

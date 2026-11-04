@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 08:05",
- "count": 1,
+ "updated_utc": "2026-11-04 10:35",
+ "count": 5,
  "matches": [
   {
    "id": 902583665,
@@ -17,6 +17,85 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902583023,
+   "home": "Singburi Warriors",
+   "away": "Nakhon Pathom",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 11:00",
+   "kickoff_utc": "2026-11-04 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902508660,
+   "home": "FK Yenisey",
+   "away": "FC Nizhny Novgorod",
+   "league": "Russian Cup. Regions Path",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 11:00",
+   "kickoff_utc": "2026-11-04 08:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance_over_under_4_5",
+    "pb_cor_ou_t1_2_5"
+   ],
+   "stored_ft": "1-2"
+  },
+  {
+   "id": 902583024,
+   "home": "Udon Banchan United",
+   "away": "Police Tero",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 11:00",
+   "kickoff_utc": "2026-11-04 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902583664,
+   "home": "Real Bengaluru",
+   "away": "Stride Sports FC",
+   "league": "Bangalore Super Division",
+   "country": "India",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 11:00",
+   "kickoff_utc": "2026-11-04 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
    ]
   }
  ]

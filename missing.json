@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-04 17:52",
+ "updated_utc": "2026-11-04 18:22",
  "count": 25,
  "matches": [
   {
@@ -173,24 +173,6 @@
    ]
   },
   {
-   "id": 902584618,
-   "home": "CA Piauiense U19",
-   "away": "Sport Recife U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902584612,
    "home": "Santos U19",
    "away": "Serrano Petropolis U19",
@@ -240,6 +222,23 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902584618,
+   "home": "CA Piauiense U19",
+   "away": "Sport Recife U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   },
   {
@@ -298,25 +297,6 @@
    ]
   },
   {
-   "id": 902583012,
-   "home": "Bursaspor U19",
-   "away": "Istanbulspor AS U19",
-   "league": "1 Liga U19",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 15:00",
-   "kickoff_utc": "2026-11-04 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902583008,
    "home": "Fatih Karagumruk U19",
    "away": "Bandirmaspor U19",
@@ -334,6 +314,24 @@
    ]
   },
   {
+   "id": 902583012,
+   "home": "Bursaspor U19",
+   "away": "Istanbulspor AS U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:00",
+   "kickoff_utc": "2026-11-04 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
    "id": 902584617,
    "home": "Petrolina U19",
    "away": "Santa Cruz PE U19",
@@ -347,8 +345,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {

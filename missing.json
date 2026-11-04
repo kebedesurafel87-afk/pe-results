@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-03 22:49",
- "count": 13,
+ "updated_utc": "2026-11-04 00:04",
+ "count": 9,
  "matches": [
   {
    "id": 902547231,
@@ -113,23 +113,6 @@
    ]
   },
   {
-   "id": 902581456,
-   "home": "Celta Vigo (W)",
-   "away": "Espanyol (W)",
-   "league": "Spain Cup Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 20:00",
-   "kickoff_utc": "2026-11-03 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902580049,
    "home": "Los Andes (R)",
    "away": "Tristan Suarez (R)",
@@ -165,46 +148,6 @@
    ]
   },
   {
-   "id": 902574084,
-   "home": "Pamplona",
-   "away": "Eibar",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 21:00",
-   "kickoff_utc": "2026-11-03 18:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "pb_cor_ou_8_5"
-   ]
-  },
-  {
-   "id": 902575033,
-   "home": "Anaitasuna FT",
-   "away": "CD Alaves",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 21:00",
-   "kickoff_utc": "2026-11-03 18:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "pb_cor_ou_9_5"
-   ]
-  },
-  {
    "id": 902578259,
    "home": "Abadia U20",
    "away": "CA Pontalinense U20",
@@ -219,23 +162,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902570616,
-   "home": "Worcester City",
-   "away": "Bishop s Stortford",
-   "league": "Southern Premier League Central",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-03 22:45",
-   "kickoff_utc": "2026-11-03 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   }
  ]

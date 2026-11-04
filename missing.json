@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 19:07",
- "count": 23,
+ "updated_utc": "2026-11-04 19:37",
+ "count": 29,
  "matches": [
   {
    "id": 902583023,
@@ -403,21 +403,145 @@
    ]
   },
   {
-   "id": 902588451,
-   "home": "AS UAM",
-   "away": "Tahoua",
-   "league": "Super League",
-   "country": "Niger",
+   "id": 902582920,
+   "home": "Mazarron",
+   "away": "UD Los Garres",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-04 18:15",
-   "kickoff_utc": "2026-11-04 15:15",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902584919,
+   "home": "TSG Hoffenheim U19",
+   "away": "Akademija Pandev U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "ou35",
+    "over_under_3_5",
+    "pb_cor_ou_10",
+    "pbx_iou_t1_h1_0_5",
+    "pbx_iou_t1_h1_1_5",
+    "pbx_tsg_t1_h1"
+   ]
+  },
+  {
+   "id": 902582795,
+   "home": "Espanyol B",
+   "away": "Naxara",
+   "league": "Segunda Division RFEF. Group 2",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "dc",
+    "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583963,
+   "home": "CD Roda",
+   "away": "Atletico Torrellano",
+   "league": "Tercera Div. RFEF Group 6",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou15"
+   ]
+  },
+  {
+   "id": 902584647,
+   "home": "Nautico Capibaribe U19",
+   "away": "Ipojuca AC U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902584614,
+   "home": "Brasiliense U19",
+   "away": "America PE U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902584613,
+   "home": "Botafogo RJ U19",
+   "away": "Porto Vitoria U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 20:00",
+   "kickoff_utc": "2026-11-04 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

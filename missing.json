@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 14:20",
- "count": 17,
+ "updated_utc": "2026-11-04 14:51",
+ "count": 21,
  "matches": [
   {
    "id": 902583665,
@@ -115,7 +115,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "over_under_3_5"
    ]
@@ -326,6 +325,82 @@
     "ou25",
     "pbx_iou_t1_h1_0_5",
     "pbx_iou_t2_h2_0_5"
+   ]
+  },
+  {
+   "id": 902582927,
+   "home": "Rabotnicki Skopje U19",
+   "away": "FK Shkupi U19",
+   "league": "League U19",
+   "country": "North Macedonia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:00",
+   "kickoff_utc": "2026-11-04 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583771,
+   "home": "Yala",
+   "away": "Chiangmai United",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:00",
+   "kickoff_utc": "2026-11-04 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583012,
+   "home": "Bursaspor U19",
+   "away": "Istanbulspor AS U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:00",
+   "kickoff_utc": "2026-11-04 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583008,
+   "home": "Fatih Karagumruk U19",
+   "away": "Bandirmaspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 15:00",
+   "kickoff_utc": "2026-11-04 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25"
    ]
   }
  ]

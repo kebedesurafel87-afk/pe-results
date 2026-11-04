@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 11:05",
- "count": 6,
+ "updated_utc": "2026-11-04 11:20",
+ "count": 5,
  "matches": [
   {
    "id": 902583665,
@@ -96,23 +96,6 @@
     "1x2",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902586161,
-   "home": "Bam Khatoon (W)",
-   "away": "Naegohyang FC (W)",
-   "league": "AFC Champions League Women",
-   "country": "ASIA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 11:30",
-   "kickoff_utc": "2026-11-04 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

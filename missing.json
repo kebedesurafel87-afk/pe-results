@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 12:35",
- "count": 8,
+ "updated_utc": "2026-11-04 13:35",
+ "count": 18,
  "matches": [
   {
    "id": 902583665,
@@ -149,6 +149,193 @@
    "sport": "football",
    "kickoff_eat": "2026-11-04 13:00",
    "kickoff_utc": "2026-11-04 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583025,
+   "home": "Padriew City",
+   "away": "Songkla FC",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5",
+    "pbx_iou_t1_h2_0_5"
+   ]
+  },
+  {
+   "id": 902583026,
+   "home": "Chiangmai FC",
+   "away": "Pattaya Dolphins United",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "pbx_hsh",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902582931,
+   "home": "Energetik Mingechevir",
+   "away": "Sahdag Qusar",
+   "league": "1st Division",
+   "country": "Azerbaijan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902583773,
+   "home": "Nakhon Si United",
+   "away": "Phichit United",
+   "league": "League Cup",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25"
+   ]
+  },
+  {
+   "id": 902584618,
+   "home": "CA Piauiense U19",
+   "away": "Sport Recife U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902583011,
+   "home": "Manisa FK U19",
+   "away": "Somaspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583314,
+   "home": "Pendikspor U19",
+   "away": "Bursa Yildirimspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902584612,
+   "home": "Santos U19",
+   "away": "Serrano Petropolis U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902583316,
+   "home": "Umraniyespor U19",
+   "away": "Inegol Kafkasspor U19",
+   "league": "1 Liga U19",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902584615,
+   "home": "Gremio U19",
+   "away": "Veracruz U19",
+   "league": "Copa Atlantico U19",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 14:00",
+   "kickoff_utc": "2026-11-04 11:00",
    "status": "no_result",
    "needs": [
     "ft"

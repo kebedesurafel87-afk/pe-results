@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 21:53",
- "count": 40,
+ "updated_utc": "2026-11-04 22:08",
+ "count": 43,
  "matches": [
   {
    "id": 902583023,
@@ -346,30 +346,6 @@
     "double_chance",
     "ou35"
    ]
-  },
-  {
-   "id": 902584919,
-   "home": "TSG Hoffenheim U19",
-   "away": "Akademija Pandev U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "ou35",
-    "over_under_3_5",
-    "pb_cor_ou_10",
-    "pbx_iou_t1_h1_0_5",
-    "pbx_tsg_t1_h1"
-   ],
-   "stored_ft": "9-0"
   },
   {
    "id": 902582795,
@@ -741,6 +717,84 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902584331,
+   "home": "Ronin FC",
+   "away": "CF San Cristobal",
+   "league": "Regional Cup",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:30",
+   "kickoff_utc": "2026-11-04 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902582925,
+   "home": "Alcantarilla",
+   "away": "SFC Minerva",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:30",
+   "kickoff_utc": "2026-11-04 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902582922,
+   "home": "Mar Menor CF",
+   "away": "Bullas Deportivo",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:30",
+   "kickoff_utc": "2026-11-04 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902582924,
+   "home": "Aguilas B",
+   "away": "UCAM Murcia CF II",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-04 22:30",
+   "kickoff_utc": "2026-11-04 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25"
    ]
   }
  ]

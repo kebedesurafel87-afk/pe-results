@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 21:09",
- "count": 38,
+ "updated_utc": "2026-11-05 22:09",
+ "count": 36,
  "matches": [
   {
    "id": 902508660,
@@ -488,45 +488,6 @@
    ]
   },
   {
-   "id": 902590802,
-   "home": "Chachoengsao",
-   "away": "Nong Bua Pitchaya",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 14:00",
-   "kickoff_utc": "2026-11-05 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902589772,
-   "home": "Al Fujairah U21",
-   "away": "Al Dhaid U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 15:45",
-   "kickoff_utc": "2026-11-05 12:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "ou25",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902587797,
    "home": "Olimpija Ljubljana (W)",
    "away": "ZNK Radomlje (W)",
@@ -580,25 +541,6 @@
    ]
   },
   {
-   "id": 902587860,
-   "home": "Al-Sadd SC U20",
-   "away": "Al-Rayyan SC U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 17:05",
-   "kickoff_utc": "2026-11-05 14:05",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902562071,
    "home": "Abha",
    "away": "Al Shabab Riyadh",
@@ -630,7 +572,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "ou25",
@@ -652,7 +593,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
@@ -695,6 +635,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902590790,
+   "home": "CE Seagull (W)",
+   "away": "Espanyol B (W)",
+   "league": "Copa Catalunya Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 22:30",
+   "kickoff_utc": "2026-11-05 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

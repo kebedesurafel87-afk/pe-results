@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 20:24",
- "count": 37,
+ "updated_utc": "2026-11-05 20:39",
+ "count": 38,
  "matches": [
   {
    "id": 902508660,
@@ -679,6 +679,23 @@
     "1st_half_over_under_0_5",
     "1x2",
     "competitor1_over_under_1_5"
+   ]
+  },
+  {
+   "id": 902574087,
+   "home": "CD Tarancon",
+   "away": "Levante UD",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 21:00",
+   "kickoff_utc": "2026-11-05 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

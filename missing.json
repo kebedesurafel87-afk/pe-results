@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 19:54",
- "count": 36,
+ "updated_utc": "2026-11-05 20:09",
+ "count": 37,
  "matches": [
   {
    "id": 902508660,
@@ -484,8 +484,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -662,6 +661,26 @@
     "ou25",
     "over_under_3_5",
     "pb_cor_ou_8_5"
+   ]
+  },
+  {
+   "id": 902565699,
+   "home": "Al Qadsiah",
+   "away": "Al Fayha",
+   "league": "Professional League",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 20:30",
+   "kickoff_utc": "2026-11-05 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "competitor1_over_under_1_5"
    ]
   }
  ]

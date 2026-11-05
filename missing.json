@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 16:24",
- "count": 36,
+ "updated_utc": "2026-11-05 16:39",
+ "count": 38,
  "matches": [
   {
    "id": 902508660,
@@ -671,6 +671,53 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902587860,
+   "home": "Al-Sadd SC U20",
+   "away": "Al-Rayyan SC U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 17:05",
+   "kickoff_utc": "2026-11-05 14:05",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902587859,
+   "home": "Al Duhail U20",
+   "away": "Al-Wakrah SC U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 17:05",
+   "kickoff_utc": "2026-11-05 14:05",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5"
    ]
   }
  ]

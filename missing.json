@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05 19:39",
+ "updated_utc": "2026-11-05 19:54",
  "count": 36,
  "matches": [
   {
@@ -502,8 +502,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -524,10 +523,8 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "double_chance",
     "ou25",
-    "over_under_2_5",
-    "pbx_ou_h2_0_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -546,8 +543,7 @@
    "markets": [
     "1x2",
     "dc",
-    "ou15",
-    "over_under_1_5"
+    "ou15"
    ]
   },
   {
@@ -564,8 +560,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -600,11 +595,8 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5"
+    "double_chance"
    ]
   },
   {
@@ -622,32 +614,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902587861,
-   "home": "Al-Arabi Doha U20",
-   "away": "Al-Ahli Doha U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 19:15",
-   "kickoff_utc": "2026-11-05 16:15",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_8_5"
    ]
   },
   {
@@ -671,6 +637,31 @@
     "double_chance",
     "ou25",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902587861,
+   "home": "Al-Arabi Doha U20",
+   "away": "Al-Ahli Doha U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 19:15",
+   "kickoff_utc": "2026-11-05 16:15",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_3_5",
+    "pb_cor_ou_8_5"
    ]
   }
  ]

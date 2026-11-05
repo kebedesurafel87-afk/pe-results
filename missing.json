@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 10:08",
- "count": 27,
+ "updated_utc": "2026-11-05 10:38",
+ "count": 28,
  "matches": [
   {
    "id": 902508660,
@@ -486,6 +486,23 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902591491,
+   "home": "Green Eagles (W)",
+   "away": "Luyando Foundation (w)",
+   "league": "Zambia League Women",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 11:00",
+   "kickoff_utc": "2026-11-05 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

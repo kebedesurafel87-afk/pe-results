@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 15:09",
- "count": 28,
+ "updated_utc": "2026-11-05 15:24",
+ "count": 33,
  "matches": [
   {
    "id": 902508660,
@@ -504,6 +504,117 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902590782,
+   "home": "Emirates U21",
+   "away": "Al Arabi Umm Al Quwain U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 15:45",
+   "kickoff_utc": "2026-11-05 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902589772,
+   "home": "Al Fujairah U21",
+   "away": "Al Dhaid U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 15:45",
+   "kickoff_utc": "2026-11-05 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5",
+    "pbx_ou_h2_0_5"
+   ]
+  },
+  {
+   "id": 902590007,
+   "home": "Al Orooba U21",
+   "away": "Al Wasl U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 15:45",
+   "kickoff_utc": "2026-11-05 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance_both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902590008,
+   "home": "Shabab Al Ahli Dubai U21",
+   "away": "Baniyas U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 15:50",
+   "kickoff_utc": "2026-11-05 12:50",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance_over_under_3_5",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_5_5"
+   ]
+  },
+  {
+   "id": 902589969,
+   "home": "Al Jazira U21",
+   "away": "Al Sharjah U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 15:50",
+   "kickoff_utc": "2026-11-05 12:50",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "dc",
+    "odd_even",
+    "ou35",
+    "over_under_3_5"
    ]
   }
  ]

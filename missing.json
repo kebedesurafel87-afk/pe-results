@@ -1,25 +1,7 @@
 {
- "updated_utc": "2026-11-05 02:53",
- "count": 31,
+ "updated_utc": "2026-11-05 09:38",
+ "count": 26,
  "matches": [
-  {
-   "id": 902583023,
-   "home": "Singburi Warriors",
-   "away": "Nakhon Pathom",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 11:00",
-   "kickoff_utc": "2026-11-04 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
   {
    "id": 902508660,
    "home": "FK Yenisey",
@@ -37,23 +19,6 @@
     "pb_cor_ou_t1_2_5"
    ],
    "stored_ft": "1-2"
-  },
-  {
-   "id": 902583024,
-   "home": "Udon Banchan United",
-   "away": "Police Tero",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 11:00",
-   "kickoff_utc": "2026-11-04 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "pbx_tgbts_2_5"
-   ]
   },
   {
    "id": 902583992,
@@ -142,60 +107,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902583026,
-   "home": "Chiangmai FC",
-   "away": "Pattaya Dolphins United",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902583773,
-   "home": "Nakhon Si United",
-   "away": "Phichit United",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902583772,
-   "home": "Bangkok FC",
-   "away": "Chainat FC",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:30",
-   "kickoff_utc": "2026-11-04 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

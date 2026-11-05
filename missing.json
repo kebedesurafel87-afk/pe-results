@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 22:09",
- "count": 36,
+ "updated_utc": "2026-11-05 22:25",
+ "count": 34,
  "matches": [
   {
    "id": 902508660,
@@ -326,25 +326,6 @@
    ]
   },
   {
-   "id": 902583966,
-   "home": "CF Can Vidalet",
-   "away": "Cornella",
-   "league": "Regional Cup",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:45",
-   "kickoff_utc": "2026-11-04 18:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902584435,
    "home": "FC Mamer 32 (W)",
    "away": "Swift Hesperange (W)",
@@ -471,23 +452,6 @@
    ]
   },
   {
-   "id": 902587814,
-   "home": "KSA Juniors",
-   "away": "Mumbai Striker",
-   "league": "Mumbai Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 10:30",
-   "kickoff_utc": "2026-11-05 07:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902587797,
    "home": "Olimpija Ljubljana (W)",
    "away": "ZNK Radomlje (W)",
@@ -502,7 +466,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "ou15"
    ]
   },
@@ -572,9 +535,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
-    "ou25",
     "over_under_3_5"
    ]
   },
@@ -594,9 +555,7 @@
    "markets": [
     "1x2",
     "btts",
-    "dc",
     "double_chance",
-    "ou25",
     "over_under_3_5"
    ]
   },

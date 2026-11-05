@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 02:08",
- "count": 32,
+ "updated_utc": "2026-11-05 02:53",
+ "count": 31,
  "matches": [
   {
    "id": 902583023,
@@ -557,23 +557,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902553929,
-   "home": "Cucuta",
-   "away": "Independiente Santa Fe",
-   "league": "Primera A",
-   "country": "Colombia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 02:30",
-   "kickoff_utc": "2026-11-04 23:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   }
  ]

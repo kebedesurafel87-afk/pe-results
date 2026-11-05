@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 22:25",
- "count": 34,
+ "updated_utc": "2026-11-05 22:40",
+ "count": 32,
  "matches": [
   {
    "id": 902508660,
@@ -34,7 +34,6 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "over_under_2_5"
    ]
   },
@@ -141,7 +140,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -217,23 +215,6 @@
    ]
   },
   {
-   "id": 902584614,
-   "home": "Brasiliense U19",
-   "away": "America PE U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902584613,
    "home": "Botafogo RJ U19",
    "away": "Porto Vitoria U19",
@@ -267,23 +248,6 @@
     "1x2",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902584616,
-   "home": "Cruzeiro U19",
-   "away": "CRB  U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:00",
-   "kickoff_utc": "2026-11-04 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

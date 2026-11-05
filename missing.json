@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 15:24",
- "count": 33,
+ "updated_utc": "2026-11-05 15:39",
+ "count": 35,
  "matches": [
   {
    "id": 902508660,
@@ -615,6 +615,45 @@
     "odd_even",
     "ou35",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902587797,
+   "home": "Olimpija Ljubljana (W)",
+   "away": "ZNK Radomlje (W)",
+   "league": "Slovenia Cup Women",
+   "country": "Slovenia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 16:00",
+   "kickoff_utc": "2026-11-05 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou15",
+    "over_under_1_5",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902591976,
+   "home": "NK Lucko U19",
+   "away": "Solin U19",
+   "league": "League U19",
+   "country": "Costa Rica",
+   "sport": "football",
+   "kickoff_eat": "2026-11-05 16:00",
+   "kickoff_utc": "2026-11-05 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
    ]
   }
  ]

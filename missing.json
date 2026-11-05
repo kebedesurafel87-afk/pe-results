@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-04 22:38",
- "count": 43,
+ "updated_utc": "2026-11-05 00:08",
+ "count": 31,
  "matches": [
   {
    "id": 902583023,
@@ -107,23 +107,6 @@
    "markets": [
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902582931,
-   "home": "Energetik Mingechevir",
-   "away": "Sahdag Qusar",
-   "league": "1st Division",
-   "country": "Azerbaijan",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -323,65 +306,6 @@
    ]
   },
   {
-   "id": 902582920,
-   "home": "Mazarron",
-   "away": "UD Los Garres",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "ou35"
-   ]
-  },
-  {
-   "id": 902582795,
-   "home": "Espanyol B",
-   "away": "Naxara",
-   "league": "Segunda Division RFEF. Group 2",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902583963,
-   "home": "CD Roda",
-   "away": "Atletico Torrellano",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou15"
-   ]
-  },
-  {
    "id": 902584614,
    "home": "Brasiliense U19",
    "away": "America PE U19",
@@ -413,26 +337,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902583756,
-   "home": "UD Vall De Uxo",
-   "away": "Torrent",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:00",
-   "kickoff_utc": "2026-11-04 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou25",
-    "over_under_1_5"
    ]
   },
   {
@@ -490,43 +394,6 @@
    ]
   },
   {
-   "id": 902584018,
-   "home": "Soneja",
-   "away": "Atzeneta",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:30",
-   "kickoff_utc": "2026-11-04 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902582923,
-   "home": "Bala Azul",
-   "away": "EF Santa Cruz",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 21:30",
-   "kickoff_utc": "2026-11-04 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902583754,
    "home": "Ontinyent Club De Futbol",
    "away": "CD Utiel",
@@ -567,49 +434,11 @@
    ]
   },
   {
-   "id": 902583753,
-   "home": "CD Bunol",
-   "away": "JS Hercules II",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou25",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902584435,
    "home": "FC Mamer 32 (W)",
    "away": "Swift Hesperange (W)",
    "league": "Ligue 1 Women",
    "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902582921,
-   "home": "Olimpico Totana",
-   "away": "CD Algar",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
    "sport": "football",
    "kickoff_eat": "2026-11-04 22:00",
    "kickoff_utc": "2026-11-04 19:00",
@@ -639,25 +468,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2"
-   ]
-  },
-  {
-   "id": 902582926,
-   "home": "Atletico Pulpileno",
-   "away": "Deportivo Maritimo",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:00",
-   "kickoff_utc": "2026-11-04 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
    ]
   },
   {
@@ -715,26 +525,6 @@
    ]
   },
   {
-   "id": 902582925,
-   "home": "Alcantarilla",
-   "away": "SFC Minerva",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:30",
-   "kickoff_utc": "2026-11-04 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902582922,
    "home": "Mar Menor CF",
    "away": "Bullas Deportivo",
@@ -750,25 +540,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902582924,
-   "home": "Aguilas B",
-   "away": "UCAM Murcia CF II",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 22:30",
-   "kickoff_utc": "2026-11-04 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou25"
    ]
   },
   {

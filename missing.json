@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-05 13:24",
+ "updated_utc": "2026-11-05 13:39",
  "count": 28,
  "matches": [
   {
@@ -489,27 +489,22 @@
    ]
   },
   {
-   "id": 902586162,
-   "home": "Lion City Sailors",
-   "away": "Adelaide United",
-   "league": "AFC Champions League 2",
-   "country": "ASIA",
+   "id": 902590802,
+   "home": "Chachoengsao",
+   "away": "Nong Bua Pitchaya",
+   "league": "League Cup",
+   "country": "Thailand",
    "sport": "football",
-   "kickoff_eat": "2026-11-05 13:00",
-   "kickoff_utc": "2026-11-05 10:00",
+   "kickoff_eat": "2026-11-05 14:00",
+   "kickoff_utc": "2026-11-05 11:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_both_teams_to_score",
     "1x2",
     "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25"
+    "dc"
    ]
   }
  ]

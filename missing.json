@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 18:09",
- "count": 35,
+ "updated_utc": "2026-11-05 18:39",
+ "count": 34,
  "matches": [
   {
    "id": 902508660,
@@ -547,8 +547,7 @@
     "1x2",
     "dc",
     "ou15",
-    "over_under_1_5",
-    "over_under_2_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -605,28 +604,6 @@
     "dc",
     "double_chance",
     "ou25",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902587859,
-   "home": "Al Duhail U20",
-   "away": "Al-Wakrah SC U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 17:05",
-   "kickoff_utc": "2026-11-05 14:05",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
     "over_under_2_5"
    ]
   },

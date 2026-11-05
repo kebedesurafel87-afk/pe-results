@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 13:08",
- "count": 29,
+ "updated_utc": "2026-11-05 13:24",
+ "count": 28,
  "matches": [
   {
    "id": 902508660,
@@ -486,25 +486,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902592537,
-   "home": "Rakhine United",
-   "away": "VUE Nay Pyi Taw",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 12:00",
-   "kickoff_utc": "2026-11-05 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "ou25"
    ]
   },
   {

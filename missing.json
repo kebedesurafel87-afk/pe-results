@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 15:41",
- "count": 5,
+ "updated_utc": "2026-11-06 17:11",
+ "count": 6,
  "matches": [
   {
    "id": 902560209,
@@ -91,9 +91,30 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "pb_cor_1x2"
+   ]
+  },
+  {
+   "id": 902596809,
+   "home": "Al Adala",
+   "away": "Al Orouba",
+   "league": "1st Division",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 17:35",
+   "kickoff_utc": "2026-11-06 14:35",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_1_5",
+    "over_under_2_5"
    ]
   }
  ]

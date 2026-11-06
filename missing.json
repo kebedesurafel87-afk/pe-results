@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-05 22:40",
- "count": 32,
+ "updated_utc": "2026-11-06 00:10",
+ "count": 29,
  "matches": [
   {
    "id": 902508660,
@@ -451,40 +451,6 @@
    ]
   },
   {
-   "id": 902557169,
-   "home": "Al Kholood",
-   "away": "Al Khaleej Saihat",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 16:25",
-   "kickoff_utc": "2026-11-05 13:25",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902562071,
-   "home": "Abha",
-   "away": "Al Shabab Riyadh",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 18:10",
-   "kickoff_utc": "2026-11-05 15:10",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902588448,
    "home": "Al Mesaimeer SC U20",
    "away": "Al-Khor SC U20",
@@ -521,26 +487,6 @@
     "btts",
     "double_chance",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902565699,
-   "home": "Al Qadsiah",
-   "away": "Al Fayha",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 20:30",
-   "kickoff_utc": "2026-11-05 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "competitor1_over_under_1_5"
    ]
   },
   {

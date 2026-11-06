@@ -1,95 +1,7 @@
 {
- "updated_utc": "2026-11-06 04:10",
- "count": 25,
+ "updated_utc": "2026-11-06 05:10",
+ "count": 19,
  "matches": [
-  {
-   "id": 902583992,
-   "home": "Nongkrem SC",
-   "away": "Mawpat",
-   "league": "Shillong Champions Cup",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 12:00",
-   "kickoff_utc": "2026-11-04 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902582764,
-   "home": "Makedonija Gj. P U19",
-   "away": "Bregalnica Stip U19",
-   "league": "League U19",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 13:00",
-   "kickoff_utc": "2026-11-04 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902583025,
-   "home": "Padriew City",
-   "away": "Songkla FC",
-   "league": "League Cup",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902584612,
-   "home": "Santos U19",
-   "away": "Serrano Petropolis U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902584618,
-   "home": "CA Piauiense U19",
-   "away": "Sport Recife U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 14:00",
-   "kickoff_utc": "2026-11-04 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902582927,
    "home": "Rabotnicki Skopje U19",
@@ -143,24 +55,6 @@
    ]
   },
   {
-   "id": 902582763,
-   "home": "Shkendija Tetovo U19",
-   "away": "Teteks U19",
-   "league": "League U19",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 16:00",
-   "kickoff_utc": "2026-11-04 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902584665,
    "home": "KVZ",
    "away": "Uhamiaji",
@@ -192,7 +86,6 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "ou15"
    ]
   },

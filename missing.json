@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 12:40",
- "count": 3,
+ "updated_utc": "2026-11-06 13:40",
+ "count": 4,
  "matches": [
   {
    "id": 902560209,
@@ -54,6 +54,27 @@
     "dc",
     "ou15",
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902595855,
+   "home": "Rodina-M",
+   "away": "Academy Konopleva-D",
+   "league": "Youth Championship",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 14:00",
+   "kickoff_utc": "2026-11-06 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou35"
    ]
   }
  ]

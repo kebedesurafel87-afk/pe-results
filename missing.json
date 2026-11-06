@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 14:41",
- "count": 7,
+ "updated_utc": "2026-11-06 14:56",
+ "count": 6,
  "matches": [
   {
    "id": 902560209,
@@ -114,23 +114,6 @@
     "dc",
     "double_chance",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902596448,
-   "home": "Dinamo Bucuresti 2",
-   "away": "FCSB 2",
-   "league": "League 3",
-   "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 15:00",
-   "kickoff_utc": "2026-11-06 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

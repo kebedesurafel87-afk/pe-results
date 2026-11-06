@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06 20:11",
+ "updated_utc": "2026-11-06 20:41",
  "count": 7,
  "matches": [
   {
@@ -91,23 +91,6 @@
    ]
   },
   {
-   "id": 902598844,
-   "home": "Club Necaxa U19",
-   "away": "Tijuana U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 20:30",
-   "kickoff_utc": "2026-11-06 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902562077,
    "home": "Al Ittihad Jeddah",
    "away": "Neom SC",
@@ -122,6 +105,23 @@
    ],
    "markets": [
     "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902605374,
+   "home": "Favoritner AC",
+   "away": "SV Mattersburg",
+   "league": "Regionalliga East",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 21:10",
+   "kickoff_utc": "2026-11-06 18:10",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

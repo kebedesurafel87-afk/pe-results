@@ -1,25 +1,7 @@
 {
- "updated_utc": "2026-11-06 05:10",
- "count": 19,
+ "updated_utc": "2026-11-06 05:25",
+ "count": 17,
  "matches": [
-  {
-   "id": 902582927,
-   "home": "Rabotnicki Skopje U19",
-   "away": "FK Shkupi U19",
-   "league": "League U19",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 15:00",
-   "kickoff_utc": "2026-11-04 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
   {
    "id": 902583012,
    "home": "Bursaspor U19",
@@ -87,23 +69,6 @@
    "markets": [
     "1x2",
     "ou15"
-   ]
-  },
-  {
-   "id": 902584613,
-   "home": "Botafogo RJ U19",
-   "away": "Porto Vitoria U19",
-   "league": "Copa Atlantico U19",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 20:00",
-   "kickoff_utc": "2026-11-04 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

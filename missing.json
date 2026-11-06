@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 22:12",
- "count": 8,
+ "updated_utc": "2026-11-06 22:42",
+ "count": 7,
  "matches": [
   {
    "id": 902560209,
@@ -54,23 +54,6 @@
    ]
   },
   {
-   "id": 902596809,
-   "home": "Al Adala",
-   "away": "Al Orouba",
-   "league": "1st Division",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 17:35",
-   "kickoff_utc": "2026-11-06 14:35",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
    "id": 902559817,
    "home": "Al Hazem",
    "away": "Al-Nassr Riyadh",
@@ -117,17 +100,13 @@
    "kickoff_utc": "2026-11-06 19:00",
    "status": "no_result",
    "needs": [
-    "corners",
-    "corners_h1",
     "ft"
    ],
    "markets": [
     "1x2",
     "both_teams_to_score",
     "btts",
-    "dc",
-    "double_chance",
-    "pb_cor_ou_t2_h2_2_5"
+    "double_chance"
    ]
   },
   {

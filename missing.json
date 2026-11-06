@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 17:26",
- "count": 7,
+ "updated_utc": "2026-11-06 17:41",
+ "count": 8,
  "matches": [
   {
    "id": 902560209,
@@ -113,8 +113,7 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "over_under_1_5",
-    "over_under_2_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -133,6 +132,25 @@
    "markets": [
     "1x2",
     "competitor2_total_1_5"
+   ]
+  },
+  {
+   "id": 902595851,
+   "home": "Dynamo Makhachkala (Youth)",
+   "away": "Almaz-Antey (Youth)",
+   "league": "Youth Championship",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 18:00",
+   "kickoff_utc": "2026-11-06 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "pbx_dc_h2"
    ]
   }
  ]

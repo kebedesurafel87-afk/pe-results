@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 03:55",
- "count": 28,
+ "updated_utc": "2026-11-06 04:10",
+ "count": 25,
  "matches": [
   {
    "id": 902583992,
@@ -398,41 +398,6 @@
    ]
   },
   {
-   "id": 902587797,
-   "home": "Olimpija Ljubljana (W)",
-   "away": "ZNK Radomlje (W)",
-   "league": "Slovenia Cup Women",
-   "country": "Slovenia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 16:00",
-   "kickoff_utc": "2026-11-05 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou15"
-   ]
-  },
-  {
-   "id": 902591976,
-   "home": "NK Lucko U19",
-   "away": "Solin U19",
-   "league": "League U19",
-   "country": "Costa Rica",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 16:00",
-   "kickoff_utc": "2026-11-05 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902588448,
    "home": "Al Mesaimeer SC U20",
    "away": "Al-Khor SC U20",
@@ -447,26 +412,6 @@
    ],
    "markets": [
     "1x2",
-    "double_chance",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902587861,
-   "home": "Al-Arabi Doha U20",
-   "away": "Al-Ahli Doha U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 19:15",
-   "kickoff_utc": "2026-11-05 16:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
     "double_chance",
     "over_under_3_5"
    ]

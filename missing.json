@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 14:56",
- "count": 6,
+ "updated_utc": "2026-11-06 15:11",
+ "count": 5,
  "matches": [
   {
    "id": 902560209,
@@ -91,29 +91,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902595861,
-   "home": "Lampun Warrior",
-   "away": "Sukhothai FC",
-   "league": "Thai League I",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 15:00",
-   "kickoff_utc": "2026-11-06 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "competitor2_total_0_5",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
    ]
   }
  ]

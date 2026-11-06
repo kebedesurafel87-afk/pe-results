@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 17:11",
- "count": 6,
+ "updated_utc": "2026-11-06 17:26",
+ "count": 7,
  "matches": [
   {
    "id": 902560209,
@@ -115,6 +115,24 @@
     "dc",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902559817,
+   "home": "Al Hazem",
+   "away": "Al-Nassr Riyadh",
+   "league": "Professional League",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 17:55",
+   "kickoff_utc": "2026-11-06 14:55",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "competitor2_total_1_5"
    ]
   }
  ]

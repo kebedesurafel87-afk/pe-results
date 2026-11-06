@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06 14:11",
+ "updated_utc": "2026-11-06 14:26",
  "count": 5,
  "matches": [
   {
@@ -50,7 +50,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "ou15",
     "over_under_1_5"

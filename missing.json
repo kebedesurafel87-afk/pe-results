@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06 18:11",
+ "updated_utc": "2026-11-06 18:41",
  "count": 7,
  "matches": [
   {
@@ -83,16 +83,16 @@
    "sport": "football",
    "kickoff_eat": "2026-11-06 16:00",
    "kickoff_utc": "2026-11-06 13:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "1x2",
     "double_chance",
     "pb_cor_1x2"
-   ]
+   ],
+   "stored_ft": "1-0"
   },
   {
    "id": 902596809,
@@ -111,7 +111,6 @@
     "1x2",
     "both_teams_to_score",
     "btts",
-    "dc",
     "over_under_1_5"
    ]
   },

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 20:41",
- "count": 7,
+ "updated_utc": "2026-11-06 20:56",
+ "count": 6,
  "matches": [
   {
    "id": 902560209,
@@ -105,23 +105,6 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
-   "id": 902605374,
-   "home": "Favoritner AC",
-   "away": "SV Mattersburg",
-   "league": "Regionalliga East",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 21:10",
-   "kickoff_utc": "2026-11-06 18:10",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "dc"
    ]
   }

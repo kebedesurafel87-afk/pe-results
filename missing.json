@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06 19:11",
+ "updated_utc": "2026-11-06 19:26",
  "count": 7,
  "matches": [
   {
@@ -68,7 +68,6 @@
    ],
    "markets": [
     "btts",
-    "dc",
     "ou35"
    ]
   },

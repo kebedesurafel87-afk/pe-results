@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 19:26",
- "count": 7,
+ "updated_utc": "2026-11-06 19:41",
+ "count": 6,
  "matches": [
   {
    "id": 902560209,
@@ -72,26 +72,6 @@
    ]
   },
   {
-   "id": 902582960,
-   "home": "Newroz FC",
-   "away": "Karbala FC",
-   "league": "Stars League",
-   "country": "Iraq",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 16:00",
-   "kickoff_utc": "2026-11-06 13:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "pb_cor_1x2"
-   ],
-   "stored_ft": "1-0"
-  },
-  {
    "id": 902596809,
    "home": "Al Adala",
    "away": "Al Orouba",
@@ -106,7 +86,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "over_under_1_5"
    ]

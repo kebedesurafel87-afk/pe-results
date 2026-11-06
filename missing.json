@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 19:41",
- "count": 6,
+ "updated_utc": "2026-11-06 19:56",
+ "count": 5,
  "matches": [
   {
    "id": 902560209,
@@ -34,23 +34,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902595909,
-   "home": "Inhulets",
-   "away": "FK Kulykiv-Bilka",
-   "league": "Premier League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 12:30",
-   "kickoff_utc": "2026-11-06 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
    ]
   },
   {

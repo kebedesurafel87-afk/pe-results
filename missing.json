@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-06 21:57",
+ "updated_utc": "2026-11-06 22:12",
  "count": 8,
  "matches": [
   {
@@ -107,24 +107,6 @@
    ]
   },
   {
-   "id": 902605326,
-   "home": "Santanyi",
-   "away": "Binissalem",
-   "league": "Tercera Div. RFEF Group 11",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 22:00",
-   "kickoff_utc": "2026-11-06 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902561420,
    "home": "AZ II",
    "away": "Almere",
@@ -146,6 +128,28 @@
     "dc",
     "double_chance",
     "pb_cor_ou_t2_h2_2_5"
+   ]
+  },
+  {
+   "id": 902565197,
+   "home": "CD Castellon",
+   "away": "Eibar",
+   "league": "Segunda Division",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-06 22:30",
+   "kickoff_utc": "2026-11-06 19:30",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "double_chance",
+    "pb_cor_ou_9_5"
    ]
   }
  ]

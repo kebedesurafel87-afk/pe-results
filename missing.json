@@ -1,25 +1,7 @@
 {
- "updated_utc": "2026-11-06 00:10",
- "count": 29,
+ "updated_utc": "2026-11-06 03:55",
+ "count": 28,
  "matches": [
-  {
-   "id": 902508660,
-   "home": "FK Yenisey",
-   "away": "FC Nizhny Novgorod",
-   "league": "Russian Cup. Regions Path",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 11:00",
-   "kickoff_utc": "2026-11-04 08:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_ou_t1_2_5"
-   ],
-   "stored_ft": "1-2"
-  },
   {
    "id": 902583992,
    "home": "Nongkrem SC",

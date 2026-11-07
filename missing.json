@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 21:14",
- "count": 13,
+ "updated_utc": "2026-11-07 21:44",
+ "count": 14,
  "matches": [
   {
    "id": 902560209,
@@ -135,9 +135,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
-    "dc",
-    "over_under_1_5"
+    "dc"
    ]
   },
   {
@@ -175,23 +173,6 @@
    ]
   },
   {
-   "id": 902605081,
-   "home": "FC Mamer 32 (W)",
-   "away": "SC Ell (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:00",
-   "kickoff_utc": "2026-11-07 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902605656,
    "home": "Parana U20",
    "away": "Fanatico U20",
@@ -217,6 +198,40 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 21:30",
    "kickoff_utc": "2026-11-07 18:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902593622,
+   "home": "R AEC Mons",
+   "away": "Standard Liege II",
+   "league": "First Amateur Division",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:00",
+   "kickoff_utc": "2026-11-07 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902580053,
+   "home": "Gualberto Villarroel",
+   "away": "Real Oruro",
+   "league": "Primera Division",
+   "country": "Bolivia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:00",
+   "kickoff_utc": "2026-11-07 19:00",
    "status": "no_result",
    "needs": [
     "ft"

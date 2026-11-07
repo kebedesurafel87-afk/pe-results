@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 19:13",
- "count": 16,
+ "updated_utc": "2026-11-07 19:28",
+ "count": 12,
  "matches": [
   {
    "id": 902560209,
@@ -51,23 +51,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902552887,
-   "home": "Sparta Rotterdam U19",
-   "away": "De Graafschap U19",
-   "league": "Eredivisie U19",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 13:30",
-   "kickoff_utc": "2026-11-07 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -157,23 +140,6 @@
    ]
   },
   {
-   "id": 902595929,
-   "home": "Escola Varsovia U19",
-   "away": "Slask Wroclaw U19",
-   "league": "Youth League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 18:00",
-   "kickoff_utc": "2026-11-07 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902572817,
    "home": "Nacional Madeira",
    "away": "Academico Viseu",
@@ -214,45 +180,11 @@
    ]
   },
   {
-   "id": 902609798,
-   "home": "Durango",
-   "away": "Eibar III",
-   "league": "Tercera Div. RFEF Group 4",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 19:00",
-   "kickoff_utc": "2026-11-07 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902609797,
    "home": "Lagun Onak",
    "away": "Pasaia KE",
    "league": "Tercera Div. RFEF Group 4",
    "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 19:15",
-   "kickoff_utc": "2026-11-07 16:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902603053,
-   "home": "Mighty Blackpool",
-   "away": "Star Sport Academy",
-   "league": "Premier League",
-   "country": "Sierra Leone",
    "sport": "football",
    "kickoff_eat": "2026-11-07 19:15",
    "kickoff_utc": "2026-11-07 16:15",

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 21:44",
- "count": 14,
+ "updated_utc": "2026-11-07 22:14",
+ "count": 17,
  "matches": [
   {
    "id": 902560209,
@@ -238,6 +238,81 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902572189,
+   "home": "Grasshoppers Zürich",
+   "away": "FC Lausanne Sport",
+   "league": "Super League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:30",
+   "kickoff_utc": "2026-11-07 19:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "ou35",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_t2_3_5"
+   ],
+   "stored_ft": "1-1"
+  },
+  {
+   "id": 902568349,
+   "home": "Hertha BSC",
+   "away": "Wolfsburg",
+   "league": "2 Bundesliga",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:30",
+   "kickoff_utc": "2026-11-07 19:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "pb_cor_1x2_h1"
+   ],
+   "stored_ft": "2-1"
+  },
+  {
+   "id": 902604001,
+   "home": "Lugano (W)",
+   "away": "Kussnacht (W)",
+   "league": "Nationalliga B Women",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:30",
+   "kickoff_utc": "2026-11-07 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 14:13",
- "count": 8,
+ "updated_utc": "2026-11-07 14:28",
+ "count": 7,
  "matches": [
   {
    "id": 902560209,
@@ -106,23 +106,6 @@
     "1x2",
     "both_teams_to_score",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902604650,
-   "home": "Rigas Futbola Skola II",
-   "away": "FK Tukums 2000/TSS II",
-   "league": "First League",
-   "country": "Latvia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 14:00",
-   "kickoff_utc": "2026-11-07 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

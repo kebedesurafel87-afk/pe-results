@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 17:58",
- "count": 13,
+ "updated_utc": "2026-11-07 18:13",
+ "count": 11,
  "matches": [
   {
    "id": 902560209,
@@ -157,42 +157,6 @@
    ]
   },
   {
-   "id": 902566151,
-   "home": "AFC Hornchurch",
-   "away": "Blackpool",
-   "league": "FA Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 18:00",
-   "kickoff_utc": "2026-11-07 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902587821,
-   "home": "Anderlecht II",
-   "away": "Club Brugge II",
-   "league": "First Division B",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 18:00",
-   "kickoff_utc": "2026-11-07 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902595929,
    "home": "Escola Varsovia U19",
    "away": "Slask Wroclaw U19",
@@ -210,20 +174,27 @@
    ]
   },
   {
-   "id": 902605447,
-   "home": "Brora Rangers FC",
-   "away": "Formartine United",
-   "league": "Regional Cup",
-   "country": "Scotland",
+   "id": 902572817,
+   "home": "Nacional Madeira",
+   "away": "Academico Viseu",
+   "league": "Primeira Liga",
+   "country": "Portugal",
    "sport": "football",
-   "kickoff_eat": "2026-11-07 18:00",
-   "kickoff_utc": "2026-11-07 15:00",
+   "kickoff_eat": "2026-11-07 18:30",
+   "kickoff_utc": "2026-11-07 15:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "ou25",
+    "over_under_1_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pbx_1x2_10m"
    ]
   }
  ]

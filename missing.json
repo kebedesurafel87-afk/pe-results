@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-07 12:28",
+ "updated_utc": "2026-11-07 12:43",
  "count": 5,
  "matches": [
   {
@@ -72,14 +72,14 @@
    ]
   },
   {
-   "id": 902594255,
-   "home": "Benesov",
-   "away": "Dukla Praha B U20",
-   "league": "3rd League",
-   "country": "Czech Republic",
+   "id": 902603645,
+   "home": "Mersin Idman Yurdu",
+   "away": "Bitlis Ozguzeldere Spor",
+   "league": "TFF 3 League",
+   "country": "Turkey",
    "sport": "football",
-   "kickoff_eat": "2026-11-07 12:15",
-   "kickoff_utc": "2026-11-07 09:15",
+   "kickoff_eat": "2026-11-07 13:00",
+   "kickoff_utc": "2026-11-07 10:00",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-06 22:42",
- "count": 7,
+ "updated_utc": "2026-11-07 00:12",
+ "count": 4,
  "matches": [
   {
    "id": 902560209,
@@ -54,42 +54,6 @@
    ]
   },
   {
-   "id": 902559817,
-   "home": "Al Hazem",
-   "away": "Al-Nassr Riyadh",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 17:55",
-   "kickoff_utc": "2026-11-06 14:55",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "competitor2_total_1_5"
-   ]
-  },
-  {
-   "id": 902562077,
-   "home": "Al Ittihad Jeddah",
-   "away": "Neom SC",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 20:30",
-   "kickoff_utc": "2026-11-06 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902561420,
    "home": "AZ II",
    "away": "Almere",
@@ -107,28 +71,6 @@
     "both_teams_to_score",
     "btts",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902565197,
-   "home": "CD Castellon",
-   "away": "Eibar",
-   "league": "Segunda Division",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 22:30",
-   "kickoff_utc": "2026-11-06 19:30",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "pb_cor_ou_9_5"
    ]
   }
  ]

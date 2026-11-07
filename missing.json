@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 14:28",
- "count": 7,
+ "updated_utc": "2026-11-07 14:43",
+ "count": 10,
  "matches": [
   {
    "id": 902560209,
@@ -85,8 +85,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -104,28 +103,79 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "over_under_4_5"
+    "both_teams_to_score"
    ]
   },
   {
-   "id": 902598877,
-   "home": "Uthai Thani Forest",
-   "away": "Chiangrai United",
-   "league": "Thai League I",
-   "country": "Thailand",
+   "id": 902576968,
+   "home": "Babrungas",
+   "away": "FK Siauliai II",
+   "league": "I Lyga",
+   "country": "Lithuania",
    "sport": "football",
-   "kickoff_eat": "2026-11-07 14:30",
-   "kickoff_utc": "2026-11-07 11:30",
+   "kickoff_eat": "2026-11-07 15:00",
+   "kickoff_utc": "2026-11-07 12:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_over_under_1_5",
+    "1x2"
+   ]
+  },
+  {
+   "id": 902597680,
+   "home": "Honefoss BK (W)",
+   "away": "Lillestrom (W)",
+   "league": "Toppserien",
+   "country": "Norway",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 15:00",
+   "kickoff_utc": "2026-11-07 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "both_teams_to_score",
-    "ou15"
+    "ou25",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902596807,
+   "home": "Cordoba II",
+   "away": "Recreativo Huelva II",
+   "league": "Tercera Div. RFEF Group 10",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 15:00",
+   "kickoff_utc": "2026-11-07 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902601537,
+   "home": "Juventus U20",
+   "away": "Empoli U20",
+   "league": "Primavera 1",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 15:00",
+   "kickoff_utc": "2026-11-07 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_3_5"
    ]
   }
  ]

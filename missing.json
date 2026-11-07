@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 16:13",
- "count": 12,
+ "updated_utc": "2026-11-07 16:43",
+ "count": 10,
  "matches": [
   {
    "id": 902560209,
@@ -158,51 +158,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902533226,
-   "home": "FC Akhmat Grozny",
-   "away": "Rodina Moscow",
-   "league": "Premier League",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 16:30",
-   "kickoff_utc": "2026-11-07 13:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "dc",
-    "double_chance",
-    "pb_cor_1x2_h1",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t2_h1_1"
-   ],
-   "stored_ft": "1-0"
-  },
-  {
-   "id": 902603358,
-   "home": "Leicesterford City",
-   "away": "Real Native",
-   "league": "First Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 16:30",
-   "kickoff_utc": "2026-11-07 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

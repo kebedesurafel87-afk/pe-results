@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 18:43",
- "count": 17,
+ "updated_utc": "2026-11-07 18:58",
+ "count": 18,
  "matches": [
   {
    "id": 902560209,
@@ -193,7 +193,6 @@
     "ou25",
     "over_under_1_5",
     "over_under_3_5",
-    "over_under_4_5",
     "pbx_1x2_10m"
    ]
   },
@@ -332,21 +331,38 @@
    ]
   },
   {
-   "id": 902603201,
-   "home": "Hanacka",
-   "away": "Trinec",
-   "league": "2nd League",
-   "country": "Czech Republic",
+   "id": 902609797,
+   "home": "Lagun Onak",
+   "away": "Pasaia KE",
+   "league": "Tercera Div. RFEF Group 4",
+   "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-07 19:00",
-   "kickoff_utc": "2026-11-07 16:00",
+   "kickoff_eat": "2026-11-07 19:15",
+   "kickoff_utc": "2026-11-07 16:15",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "dc",
-    "double_chance"
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902603053,
+   "home": "Mighty Blackpool",
+   "away": "Star Sport Academy",
+   "league": "Premier League",
+   "country": "Sierra Leone",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 19:15",
+   "kickoff_utc": "2026-11-07 16:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

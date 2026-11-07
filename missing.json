@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 12:12",
- "count": 7,
+ "updated_utc": "2026-11-07 12:28",
+ "count": 5,
  "matches": [
   {
    "id": 902560209,
@@ -86,41 +86,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902597812,
-   "home": "Karlsruher U19",
-   "away": "TSG Hoffenheim U19",
-   "league": "Bundesliga U19",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 12:30",
-   "kickoff_utc": "2026-11-07 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou35"
-   ]
-  },
-  {
-   "id": 902604581,
-   "home": "Barletta U19",
-   "away": "Grosseto U19",
-   "league": "Primavera 4",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 12:30",
-   "kickoff_utc": "2026-11-07 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   }
  ]

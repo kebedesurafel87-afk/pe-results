@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 10:42",
- "count": 3,
+ "updated_utc": "2026-11-07 11:42",
+ "count": 4,
  "matches": [
   {
    "id": 902560209,
@@ -52,6 +52,23 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902584454,
+   "home": "FC Chernigiv",
+   "away": "Kolos Kovalivka II",
+   "league": "1st League",
+   "country": "Ukraine",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 12:00",
+   "kickoff_utc": "2026-11-07 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

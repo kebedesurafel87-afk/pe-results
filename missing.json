@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 17:43",
- "count": 14,
+ "updated_utc": "2026-11-07 17:58",
+ "count": 13,
  "matches": [
   {
    "id": 902560209,
@@ -154,26 +154,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902566159,
-   "home": "Fleetwood Town",
-   "away": "Rochdale",
-   "league": "FA Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 18:00",
-   "kickoff_utc": "2026-11-07 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor2_total_0_5",
-    "dc"
    ]
   },
   {

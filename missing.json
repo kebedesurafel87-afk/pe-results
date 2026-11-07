@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 20:29",
- "count": 13,
+ "updated_utc": "2026-11-07 20:44",
+ "count": 15,
  "matches": [
   {
    "id": 902560209,
@@ -135,27 +135,9 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902585228,
-   "home": "CF Intercity",
-   "away": "Elche II",
-   "league": "Segunda Division RFEF. Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 19:00",
-   "kickoff_utc": "2026-11-07 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -167,23 +149,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 20:00",
    "kickoff_utc": "2026-11-07 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902605082,
-   "home": "Rodange",
-   "away": "Koeppchen Wormeldange",
-   "league": "Luxembourg Cup",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 20:30",
-   "kickoff_utc": "2026-11-07 17:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -224,6 +189,81 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902605272,
+   "home": "America PE",
+   "away": "Ipojuca AC",
+   "league": "Pernambucano",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:00",
+   "kickoff_utc": "2026-11-07 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902605081,
+   "home": "FC Mamer 32 (W)",
+   "away": "SC Ell (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:00",
+   "kickoff_utc": "2026-11-07 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "pbx_bts_h2"
+   ]
+  },
+  {
+   "id": 902577645,
+   "home": "Forge FC",
+   "away": "Atletico Ottawa",
+   "league": "Premier League",
+   "country": "Canada",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:00",
+   "kickoff_utc": "2026-11-07 18:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5",
+    "pb_cor_ou_8"
+   ],
+   "stored_ft": "2-3"
+  },
+  {
+   "id": 902605220,
+   "home": "Red Black Red Star Luxembourg (W)",
+   "away": "Kelen (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:00",
+   "kickoff_utc": "2026-11-07 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 22:14",
- "count": 17,
+ "updated_utc": "2026-11-07 22:29",
+ "count": 20,
  "matches": [
   {
    "id": 902560209,
@@ -259,7 +259,6 @@
     "both_teams_to_score",
     "btts",
     "competitor1_over_under_0_5",
-    "competitor2_total_0_5",
     "dc",
     "double_chance",
     "ou25",
@@ -289,7 +288,6 @@
     "both_teams_to_score",
     "btts",
     "competitor1_over_under_0_5",
-    "competitor1_over_under_2_5",
     "competitor2_total_0_5",
     "competitor2_total_2_5",
     "dc",
@@ -314,6 +312,111 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 902561409,
+   "home": "Roma",
+   "away": "Sassuolo",
+   "league": "Serie A",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:45",
+   "kickoff_utc": "2026-11-07 19:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_both_teams_to_score",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "3_way",
+    "3_way_over_under_1_5",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_3_5",
+    "competitor1_over_under_4_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_4",
+    "handicap_hcp_1_0",
+    "highest_scoring_half",
+    "ou25",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ah_4_5",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_2_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_y_dc",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t2_1_5",
+    "pb_y_iou_t2_2",
+    "pb_y_ou_1_5",
+    "pbx_1x2_15m",
+    "pbx_fls_ou_t2_10_5",
+    "pbx_fls_ou_t2_8_5",
+    "pbx_fls_ou_t2_9_5",
+    "pbx_ou_0_10_0_5",
+    "pbx_rbts",
+    "pbx_rtgwo_t1_2_5"
+   ],
+   "stored_ft": "3-0"
+  },
+  {
+   "id": 902569166,
+   "home": "Royal Antwerp",
+   "away": "KVSK United Overpelt-Lommel",
+   "league": "First Division A",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:45",
+   "kickoff_utc": "2026-11-07 19:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "pb_cor_1x2"
+   ],
+   "stored_ft": "2-2"
+  },
+  {
+   "id": 902569164,
+   "home": "RAAL La Louviere",
+   "away": "Cercle Brugge",
+   "league": "First Division A",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 22:45",
+   "kickoff_utc": "2026-11-07 19:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_2_5",
+    "1x2",
+    "dc",
+    "ou35",
+    "over_under_1_5",
+    "pb_cor_dc",
+    "pb_cor_ou_t2_3_5",
+    "pb_y_dc"
+   ],
+   "stored_ft": "0-1"
   }
  ]
 }

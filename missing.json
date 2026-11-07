@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 00:12",
- "count": 4,
+ "updated_utc": "2026-11-07 01:12",
+ "count": 3,
  "matches": [
   {
    "id": 902560209,
@@ -51,26 +51,6 @@
    ],
    "markets": [
     "ou35"
-   ]
-  },
-  {
-   "id": 902561420,
-   "home": "AZ II",
-   "away": "Almere",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-06 22:00",
-   "kickoff_utc": "2026-11-06 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "double_chance"
    ]
   }
  ]

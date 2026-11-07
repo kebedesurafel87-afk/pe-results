@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 20:59",
- "count": 12,
+ "updated_utc": "2026-11-07 21:14",
+ "count": 13,
  "matches": [
   {
    "id": 902560209,
@@ -175,24 +175,6 @@
    ]
   },
   {
-   "id": 902605272,
-   "home": "America PE",
-   "away": "Ipojuca AC",
-   "league": "Pernambucano",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:00",
-   "kickoff_utc": "2026-11-07 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902605081,
    "home": "FC Mamer 32 (W)",
    "away": "SC Ell (W)",
@@ -201,6 +183,40 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 21:00",
    "kickoff_utc": "2026-11-07 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902605656,
+   "home": "Parana U20",
+   "away": "Fanatico U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:30",
+   "kickoff_utc": "2026-11-07 18:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902605444,
+   "home": "Cerrado EC U20",
+   "away": "Goias EC U20",
+   "league": "Copa Goias U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 21:30",
+   "kickoff_utc": "2026-11-07 18:30",
    "status": "no_result",
    "needs": [
     "ft"

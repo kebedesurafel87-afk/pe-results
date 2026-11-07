@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-07 16:43",
+ "updated_utc": "2026-11-07 17:13",
  "count": 10,
  "matches": [
   {
@@ -50,25 +50,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902584454,
-   "home": "FC Chernigiv",
-   "away": "Kolos Kovalivka II",
-   "league": "1st League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 12:00",
-   "kickoff_utc": "2026-11-07 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -120,26 +102,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
-    "ou25",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902596807,
-   "home": "Cordoba II",
-   "away": "Recreativo Huelva II",
-   "league": "Tercera Div. RFEF Group 10",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 15:00",
-   "kickoff_utc": "2026-11-07 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -169,6 +132,40 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 16:30",
    "kickoff_utc": "2026-11-07 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902603548,
+   "home": "Basel U21",
+   "away": "Schaffhausen",
+   "league": "Promotion League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 17:30",
+   "kickoff_utc": "2026-11-07 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902568384,
+   "home": "Al Ettifaq",
+   "away": "Al Hilal Riyadh",
+   "league": "Professional League",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 17:30",
+   "kickoff_utc": "2026-11-07 14:30",
    "status": "no_result",
    "needs": [
     "ft"

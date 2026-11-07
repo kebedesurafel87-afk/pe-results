@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 13:13",
- "count": 5,
+ "updated_utc": "2026-11-07 13:43",
+ "count": 9,
  "matches": [
   {
    "id": 902560209,
@@ -80,6 +80,79 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 13:30",
    "kickoff_utc": "2026-11-07 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902604095,
+   "home": "FC Zurich U19",
+   "away": "Basel U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 14:00",
+   "kickoff_utc": "2026-11-07 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902598847,
+   "home": "Ayutthaya United",
+   "away": "Pattani FC",
+   "league": "Thai League I",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 14:00",
+   "kickoff_utc": "2026-11-07 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902604650,
+   "home": "Rigas Futbola Skola II",
+   "away": "FK Tukums 2000/TSS II",
+   "league": "First League",
+   "country": "Latvia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 14:00",
+   "kickoff_utc": "2026-11-07 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902604141,
+   "home": "Muang Thong United",
+   "away": "Pattaya Dolphins United",
+   "league": "Division 2",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 14:00",
+   "kickoff_utc": "2026-11-07 11:00",
    "status": "no_result",
    "needs": [
     "ft"

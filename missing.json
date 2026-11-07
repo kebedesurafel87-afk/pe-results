@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 12:43",
- "count": 5,
+ "updated_utc": "2026-11-07 12:58",
+ "count": 4,
  "matches": [
   {
    "id": 902560209,
@@ -69,23 +69,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902603645,
-   "home": "Mersin Idman Yurdu",
-   "away": "Bitlis Ozguzeldere Spor",
-   "league": "TFF 3 League",
-   "country": "Turkey",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 13:00",
-   "kickoff_utc": "2026-11-07 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   }
  ]

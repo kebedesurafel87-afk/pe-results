@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 23:29",
- "count": 16,
+ "updated_utc": "2026-11-07 23:44",
+ "count": 14,
  "matches": [
   {
    "id": 902560209,
@@ -88,23 +88,6 @@
    ]
   },
   {
-   "id": 902603917,
-   "home": "Aarau U19",
-   "away": "Grasshopper U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 15:30",
-   "kickoff_utc": "2026-11-07 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902568384,
    "home": "Al Ettifaq",
    "away": "Al Hilal Riyadh",
@@ -136,23 +119,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902604973,
-   "home": "Atlas Guadalajara U19",
-   "away": "Pachuca U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 20:30",
-   "kickoff_utc": "2026-11-07 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

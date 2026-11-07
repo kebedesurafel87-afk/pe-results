@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 20:44",
- "count": 15,
+ "updated_utc": "2026-11-07 20:59",
+ "count": 12,
  "matches": [
   {
    "id": 902560209,
@@ -141,23 +141,6 @@
    ]
   },
   {
-   "id": 902603916,
-   "home": "Etoile-Carouge (w)",
-   "away": "Rot-Schwarz Thun (W)",
-   "league": "Nationalliga B Women",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 20:00",
-   "kickoff_utc": "2026-11-07 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902604973,
    "home": "Atlas Guadalajara U19",
    "away": "Pachuca U19",
@@ -223,47 +206,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "pbx_bts_h2"
-   ]
-  },
-  {
-   "id": 902577645,
-   "home": "Forge FC",
-   "away": "Atletico Ottawa",
-   "league": "Premier League",
-   "country": "Canada",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:00",
-   "kickoff_utc": "2026-11-07 18:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5",
-    "pb_cor_ou_8"
-   ],
-   "stored_ft": "2-3"
-  },
-  {
-   "id": 902605220,
-   "home": "Red Black Red Star Luxembourg (W)",
-   "away": "Kelen (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:00",
-   "kickoff_utc": "2026-11-07 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
+    "both_teams_to_score"
    ]
   }
  ]

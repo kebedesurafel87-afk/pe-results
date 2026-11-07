@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 19:28",
- "count": 12,
+ "updated_utc": "2026-11-07 19:43",
+ "count": 13,
  "matches": [
   {
    "id": 902560209,
@@ -67,8 +67,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -97,23 +96,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-07 15:30",
    "kickoff_utc": "2026-11-07 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902598494,
-   "home": "Napoli U19",
-   "away": "Frosinone U20",
-   "league": "Primavera 2",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 16:30",
-   "kickoff_utc": "2026-11-07 13:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -156,9 +138,7 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou25",
     "over_under_1_5",
-    "over_under_3_5",
     "pbx_1x2_10m"
    ]
   },
@@ -177,23 +157,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902609797,
-   "home": "Lagun Onak",
-   "away": "Pasaia KE",
-   "league": "Tercera Div. RFEF Group 4",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 19:15",
-   "kickoff_utc": "2026-11-07 16:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {
@@ -216,6 +179,118 @@
     "pb_cor_1x2"
    ],
    "stored_ft": "3-0"
+  },
+  {
+   "id": 902561408,
+   "home": "Parma",
+   "away": "Bologna",
+   "league": "Serie A",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:00",
+   "kickoff_utc": "2026-11-07 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "3_way_both_teams_to_score",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "handicap_hcp_0_2",
+    "handicap_hcp_3_0",
+    "highest_scoring_half",
+    "ou15",
+    "ou25",
+    "over_under_0_5",
+    "over_under_1_5",
+    "over_under_3_5",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_8_5",
+    "pb_cor_ou_t1_3_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_h1_1_5",
+    "pb_y_dc",
+    "pb_y_iou_t2_1_5",
+    "pbx_1x2_15m",
+    "pbx_fls_ou_25_5",
+    "pbx_fls_ou_h2_11_5",
+    "pbx_gm_0_15",
+    "pbx_ou_0_15_0_5",
+    "pbx_tgbts_2_5",
+    "pbx_y_iou_t2_h1_0_5"
+   ],
+   "stored_ft": "1-2"
+  },
+  {
+   "id": 902572182,
+   "home": "FC Luzern",
+   "away": "BSC Young Boys",
+   "league": "Super League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:00",
+   "kickoff_utc": "2026-11-07 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_10_5",
+    "pb_cor_ou_t1_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_6_5",
+    "pb_cor_ou_t2_h1_1_5",
+    "pb_cor_ou_t2_h1_2_5",
+    "pb_cor_ou_t2_h2_1_5",
+    "pbx_1x2_10m",
+    "pbx_hsh"
+   ],
+   "stored_ft": "2-3"
+  },
+  {
+   "id": 902603916,
+   "home": "Etoile-Carouge (w)",
+   "away": "Rot-Schwarz Thun (W)",
+   "league": "Nationalliga B Women",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:00",
+   "kickoff_utc": "2026-11-07 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

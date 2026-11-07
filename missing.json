@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 19:58",
- "count": 14,
+ "updated_utc": "2026-11-07 20:13",
+ "count": 23,
  "matches": [
   {
    "id": 902560209,
@@ -255,7 +255,6 @@
     "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_0_1",
     "over_under_3_5",
     "over_under_4_5",
     "pb_cor_1x2",
@@ -303,16 +302,307 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
     "ou15",
     "ou35",
-    "over_under_1_5",
     "pb_cor_ou_t2_3_5"
    ],
    "stored_ft": "2-0"
+  },
+  {
+   "id": 902490412,
+   "home": "Aris Saloniki",
+   "away": "Panetolikos",
+   "league": "Superleague",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "competitor1_over_under_0_5",
+    "dc",
+    "pb_cor_1x2"
+   ],
+   "stored_ft": "3-0"
+  },
+  {
+   "id": 902531896,
+   "home": "VfB Stuttgart",
+   "away": "Werder Bremen",
+   "league": "Bundesliga",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_over_under_1",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_handicap_hcp_0_2",
+    "3_way",
+    "3_way_both_teams_to_score",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_3_5",
+    "competitor1_over_under_4_5",
+    "competitor2_total_0_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_3",
+    "ou25",
+    "over_under_2_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_10_5",
+    "pb_cor_ou_t1_5_5",
+    "pb_cor_ou_t2_2_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_y_dc",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t2_1_5",
+    "pb_y_ou_3_5",
+    "pbx_fls_ou_19_5",
+    "pbx_fls_ou_h2_9_5",
+    "pbx_y_iou_t1_h1_0_5"
+   ],
+   "stored_ft": "1-0"
+  },
+  {
+   "id": 902525496,
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "league": "Premier League",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "3_way",
+    "3_way_over_under_3_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "competitor2_total_3_5",
+    "correct_score",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "double_chance_over_under_1_5",
+    "double_chance_over_under_4_5",
+    "handicap_hcp_3_0",
+    "highest_scoring_half",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "over_under_both_teams_to_score_2_5",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_1x2_h2",
+    "pb_cor_ou_3w_11",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_2_5",
+    "pb_cor_ou_t1_4_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_5_5",
+    "pb_cor_ou_t2_6_5",
+    "pb_cor_ou_t2_h1_2_5",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t1_2",
+    "pb_y_iou_t2_1_5",
+    "pb_y_ou_2_5",
+    "pb_y_ou_3",
+    "pb_y_ou_3_5",
+    "pbx_1x2_15m",
+    "pbx_btst2d",
+    "pbx_fls_ou_20_5",
+    "pbx_fls_ou_24_5",
+    "pbx_fls_ou_h2_10_5",
+    "pbx_fls_ou_t2_8_5",
+    "pbx_fls_ou_t2_9_5",
+    "pbx_hsh",
+    "pbx_rtgwo_t2_1_5",
+    "pbx_y_iou_t2_h1_0_5"
+   ],
+   "stored_ft": "3-1"
+  },
+  {
+   "id": 902566116,
+   "home": "Altrincham",
+   "away": "Notts County",
+   "league": "FA Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "dc",
+    "double_chance",
+    "ou25",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902568382,
+   "home": "Ironi Tiberias",
+   "away": "Beitar Jerusalem",
+   "league": "Premier League",
+   "country": "Israel",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "double_chance",
+    "pb_cor_1x2"
+   ],
+   "stored_ft": "1-1"
+  },
+  {
+   "id": 902531905,
+   "home": "Osasuna",
+   "away": "Athletic Bilbao",
+   "league": "La Liga",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1x2",
+    "3_way_both_teams_to_score",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_2",
+    "handicap_hcp_2_0",
+    "highest_scoring_half",
+    "ou25",
+    "ou35",
+    "over_under_0_5",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_9",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_y_dc",
+    "pb_y_iou_t2_2_5",
+    "pbx_btst2d",
+    "pbx_fls_ou_t1_12_5",
+    "pbx_rtgnlo_t2_1_5"
+   ],
+   "stored_ft": "1-1"
+  },
+  {
+   "id": 902605082,
+   "home": "Rodange",
+   "away": "Koeppchen Wormeldange",
+   "league": "Luxembourg Cup",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902604973,
+   "home": "Atlas Guadalajara U19",
+   "away": "Pachuca U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902568383,
+   "home": "Al Ahli Jeddah",
+   "away": "Al-Taawoun Buraidah",
+   "league": "Professional League",
+   "country": "Saudi Arabia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-07 20:30",
+   "kickoff_utc": "2026-11-07 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

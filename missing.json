@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 18:31",
- "count": 29,
+ "updated_utc": "2026-11-08 18:46",
+ "count": 26,
  "matches": [
   {
    "id": 902574087,
@@ -136,40 +136,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902585230,
-   "home": "Real Betis B",
-   "away": "CD Tenerife B",
-   "league": "Tercera Div. RFEF Group 4",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 13:30",
-   "kickoff_utc": "2026-11-08 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902597441,
-   "home": "Elva",
-   "away": "Nomme United 2",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 13:30",
-   "kickoff_utc": "2026-11-08 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -479,23 +445,6 @@
    "away": "Ararat-Armenia",
    "league": "Premier League",
    "country": "Armenia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 19:00",
-   "kickoff_utc": "2026-11-08 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902611929,
-   "home": "Alhama CF (W)",
-   "away": "Athletic Bilbao B (W)",
-   "league": "Primera Federacion Women",
-   "country": "Spain",
    "sport": "football",
    "kickoff_eat": "2026-11-08 19:00",
    "kickoff_utc": "2026-11-08 16:00",

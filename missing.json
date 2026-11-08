@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-07 23:44",
- "count": 14,
+ "updated_utc": "2026-11-08 00:14",
+ "count": 11,
  "matches": [
   {
    "id": 902560209,
@@ -105,40 +105,6 @@
    ]
   },
   {
-   "id": 902572817,
-   "home": "Nacional Madeira",
-   "away": "Academico Viseu",
-   "league": "Primeira Liga",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 18:30",
-   "kickoff_utc": "2026-11-07 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902568383,
-   "home": "Al Ahli Jeddah",
-   "away": "Al-Taawoun Buraidah",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 20:30",
-   "kickoff_utc": "2026-11-07 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902605656,
    "home": "Parana U20",
    "away": "Fanatico U20",
@@ -190,23 +156,6 @@
    ]
   },
   {
-   "id": 902580053,
-   "home": "Gualberto Villarroel",
-   "away": "Real Oruro",
-   "league": "Primera Division",
-   "country": "Bolivia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 22:00",
-   "kickoff_utc": "2026-11-07 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902604001,
    "home": "Lugano (W)",
    "away": "Kussnacht (W)",
@@ -224,20 +173,20 @@
    ]
   },
   {
-   "id": 902568351,
-   "home": "Granada CF",
-   "away": "CD Tenerife",
-   "league": "Segunda Division",
-   "country": "Spain",
+   "id": 902593221,
+   "home": "Caracas",
+   "away": "Academia Puerto Cabello",
+   "league": "Primera Division",
+   "country": "Venezuela",
    "sport": "football",
-   "kickoff_eat": "2026-11-07 23:00",
-   "kickoff_utc": "2026-11-07 20:00",
+   "kickoff_eat": "2026-11-08 00:30",
+   "kickoff_utc": "2026-11-07 21:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "dc"
+    "both_teams_to_score"
    ]
   }
  ]

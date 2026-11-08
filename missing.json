@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 17:46",
- "count": 25,
+ "updated_utc": "2026-11-08 18:01",
+ "count": 26,
  "matches": [
   {
    "id": 902574087,
@@ -435,6 +435,25 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902572288,
+   "home": "Estoril Praia",
+   "away": "CS Maritimo",
+   "league": "Primeira Liga",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 18:30",
+   "kickoff_utc": "2026-11-08 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_4_5"
    ]
   }
  ]

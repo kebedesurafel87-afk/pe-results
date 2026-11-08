@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 16:15",
- "count": 32,
+ "updated_utc": "2026-11-08 16:30",
+ "count": 34,
  "matches": [
   {
    "id": 902560209,
@@ -325,7 +325,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]
@@ -408,11 +407,9 @@
    "sport": "football",
    "kickoff_eat": "2026-11-08 16:30",
    "kickoff_utc": "2026-11-08 13:30",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft",
-    "ht"
+    "corners"
    ],
    "markets": [
     "1st_half_over_under_0_5",
@@ -420,12 +417,10 @@
     "1x2",
     "3_way",
     "3_way_over_under_4_5",
-    "both_teams_to_score",
     "competitor2_total_1_5",
     "competitor2_total_3_5",
     "dc",
     "double_chance",
-    "double_chance_over_under_2_5",
     "handicap_hcp_3_0",
     "ou25",
     "ou35",
@@ -433,7 +428,8 @@
     "pb_cor_1x2",
     "pb_cor_ou_t1_2_5",
     "pbx_rbts"
-   ]
+   ],
+   "stored_ft": "0-2"
   },
   {
    "id": 902608407,
@@ -581,6 +577,40 @@
     "both_teams_to_score",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902610767,
+   "home": "Huddersfield (W)",
+   "away": "Wythenshawe (w)",
+   "league": "FA League Cup Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 17:00",
+   "kickoff_utc": "2026-11-08 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902601529,
+   "home": "Aquila",
+   "away": "ASD K-Sport Montecchio",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 17:00",
+   "kickoff_utc": "2026-11-08 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

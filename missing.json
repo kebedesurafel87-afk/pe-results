@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 00:59",
- "count": 10,
+ "updated_utc": "2026-11-08 03:14",
+ "count": 11,
  "matches": [
   {
    "id": 902560209,
@@ -170,6 +170,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902576443,
+   "home": "Charleston Battery",
+   "away": "Hartford Athletic",
+   "league": "USL Championship",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 03:30",
+   "kickoff_utc": "2026-11-08 00:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

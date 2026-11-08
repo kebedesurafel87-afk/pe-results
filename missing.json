@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 13:15",
- "count": 17,
+ "updated_utc": "2026-11-08 13:30",
+ "count": 25,
  "matches": [
   {
    "id": 902560209,
@@ -279,14 +279,176 @@
    ]
   },
   {
-   "id": 902600374,
-   "home": "Burgos Promesas",
-   "away": "Turegano CF",
-   "league": "Tercera Div. RFEF Group 8",
+   "id": 902572242,
+   "home": "FC Copenhagen",
+   "away": "Brondby",
+   "league": "Superligaen",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "handicap_hcp_1_0",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_1x2",
+    "pb_cor_dc",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_2_5"
+   ],
+   "stored_ft": "1-0"
+  },
+  {
+   "id": 902533229,
+   "home": "Krylya Sovetov Samara",
+   "away": "Orenburg",
+   "league": "Premier League",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "both_teams_to_score",
+    "dc",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "2-0"
+  },
+  {
+   "id": 902595928,
+   "home": "Miedz Legnica U19",
+   "away": "Polonia Warsaw U19",
+   "league": "Youth League",
+   "country": "Poland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902583998,
+   "home": "FC Riga",
+   "away": "Rigas FS",
+   "league": "Latvia Virsliga",
+   "country": "Latvia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "btts",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902611824,
+   "home": "Sporting Lisbon U23",
+   "away": "Sporting Braga U23",
+   "league": "League U23",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902611521,
+   "home": "Chattanooga FC",
+   "away": "Los Angeles 2",
+   "league": "MLS Next Pro",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902608540,
+   "home": "Vejle(W)",
+   "away": "AC Silkeborg (W)",
+   "league": "2nd Division Women",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902598455,
+   "home": "Atletico Torrellano",
+   "away": "Ontinyent Club De Futbol",
+   "league": "Tercera Div. RFEF Group 6",
    "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-08 13:45",
-   "kickoff_utc": "2026-11-08 10:45",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902612129,
+   "home": "Ethiopian Sports Academy (W)",
+   "away": "Fasil Kenema (w)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:00",
+   "kickoff_utc": "2026-11-08 11:00",
    "status": "no_result",
    "needs": [
     "ft"

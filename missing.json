@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08 19:46",
+ "updated_utc": "2026-11-08 20:01",
  "count": 24,
  "matches": [
   {
@@ -406,22 +406,20 @@
    ]
   },
   {
-   "id": 902566156,
-   "home": "Oldham Athletic",
-   "away": "Sheffield Wednesday",
-   "league": "FA Cup",
-   "country": "England",
+   "id": 902612252,
+   "home": "Leon U19",
+   "away": "C.D. Guadalajara U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
    "sport": "football",
-   "kickoff_eat": "2026-11-08 20:15",
-   "kickoff_utc": "2026-11-08 17:15",
+   "kickoff_eat": "2026-11-08 20:30",
+   "kickoff_utc": "2026-11-08 17:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5"
+    "1x2"
    ]
   }
  ]

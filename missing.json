@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 20:01",
- "count": 24,
+ "updated_utc": "2026-11-08 20:31",
+ "count": 28,
  "matches": [
   {
    "id": 902574087,
@@ -153,23 +153,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902611521,
-   "home": "Chattanooga FC",
-   "away": "Los Angeles 2",
-   "league": "MLS Next Pro",
-   "country": "USA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -420,6 +403,95 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902593632,
+   "home": "Canuelas",
+   "away": "Central Cordoba Rosarion",
+   "league": "Primera C Metropolitana",
+   "country": "Argentina",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 21:00",
+   "kickoff_utc": "2026-11-08 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902593633,
+   "home": "Deportivo Espaniol",
+   "away": "Estrella del Sur Alejandro Korn",
+   "league": "Primera C Metropolitana",
+   "country": "Argentina",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 21:00",
+   "kickoff_utc": "2026-11-08 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902612554,
+   "home": "Paranavai",
+   "away": "Athletico Paranaense B",
+   "league": "Copa Paranaense",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 21:00",
+   "kickoff_utc": "2026-11-08 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902593631,
+   "home": "Leones de Rosario",
+   "away": "Sportivo Barracas",
+   "league": "Primera C Metropolitana",
+   "country": "Argentina",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 21:00",
+   "kickoff_utc": "2026-11-08 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902612588,
+   "home": "Montaneses",
+   "away": "Los Cabos United",
+   "league": "Primera Premier",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 21:00",
+   "kickoff_utc": "2026-11-08 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

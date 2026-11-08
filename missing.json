@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 11:45",
- "count": 12,
+ "updated_utc": "2026-11-08 12:00",
+ "count": 11,
  "matches": [
   {
    "id": 902560209,
@@ -187,24 +187,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902608465,
-   "home": "Meteor VIII",
-   "away": "Ujezd Praha 4",
-   "league": "4th League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 12:15",
-   "kickoff_utc": "2026-11-08 09:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5",
-    "over_under_4_5"
    ]
   }
  ]

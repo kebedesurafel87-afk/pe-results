@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 15:30",
- "count": 25,
+ "updated_utc": "2026-11-08 15:45",
+ "count": 24,
  "matches": [
   {
    "id": 902560209,
@@ -363,25 +363,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902610426,
-   "home": "Renfrew (W)",
-   "away": "Hamilton Academical (W)",
-   "league": "Premier League Women 2",
-   "country": "Scotland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:00",
-   "kickoff_utc": "2026-11-08 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -402,23 +384,6 @@
    ]
   },
   {
-   "id": 902615319,
-   "home": "Svitavy",
-   "away": "Pencin Turnov",
-   "league": "4th League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 16:00",
-   "kickoff_utc": "2026-11-08 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902608507,
    "home": "USC Landhaus (W)",
    "away": "FSK St. Polten (W)",
@@ -427,6 +392,23 @@
    "sport": "football",
    "kickoff_eat": "2026-11-08 16:00",
    "kickoff_utc": "2026-11-08 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902608534,
+   "home": "Gor Mahia",
+   "away": "Nairobi United",
+   "league": "KPL",
+   "country": "Kenya",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 16:15",
+   "kickoff_utc": "2026-11-08 13:15",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 15:15",
- "count": 23,
+ "updated_utc": "2026-11-08 15:30",
+ "count": 25,
  "matches": [
   {
    "id": 902560209,
@@ -393,6 +393,40 @@
    "sport": "football",
    "kickoff_eat": "2026-11-08 15:30",
    "kickoff_utc": "2026-11-08 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902615319,
+   "home": "Svitavy",
+   "away": "Pencin Turnov",
+   "league": "4th League",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 16:00",
+   "kickoff_utc": "2026-11-08 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902608507,
+   "home": "USC Landhaus (W)",
+   "away": "FSK St. Polten (W)",
+   "league": "Austria Cup Women",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 16:00",
+   "kickoff_utc": "2026-11-08 13:00",
    "status": "no_result",
    "needs": [
     "ft"

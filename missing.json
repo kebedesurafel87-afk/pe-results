@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 15:00",
- "count": 29,
+ "updated_utc": "2026-11-08 15:15",
+ "count": 23,
  "matches": [
   {
    "id": 902560209,
@@ -173,23 +173,6 @@
    ]
   },
   {
-   "id": 902595927,
-   "home": "Bialystok U19",
-   "away": "Zaglebie Lubin U19",
-   "league": "Youth League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 13:00",
-   "kickoff_utc": "2026-11-08 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902585230,
    "home": "Real Betis B",
    "away": "CD Tenerife B",
@@ -256,7 +239,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -280,23 +262,6 @@
    ]
   },
   {
-   "id": 902611824,
-   "home": "Sporting Lisbon U23",
-   "away": "Sporting Braga U23",
-   "league": "League U23",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902611521,
    "home": "Chattanooga FC",
    "away": "Los Angeles 2",
@@ -314,11 +279,11 @@
    ]
   },
   {
-   "id": 902608540,
-   "home": "Vejle(W)",
-   "away": "AC Silkeborg (W)",
-   "league": "2nd Division Women",
-   "country": "Denmark",
+   "id": 902611824,
+   "home": "Sporting Lisbon U23",
+   "away": "Sporting Braga U23",
+   "league": "League U23",
+   "country": "Portugal",
    "sport": "football",
    "kickoff_eat": "2026-11-08 14:00",
    "kickoff_utc": "2026-11-08 11:00",
@@ -327,7 +292,7 @@
     "ft"
    ],
    "markets": [
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -420,85 +385,6 @@
    ]
   },
   {
-   "id": 902572702,
-   "home": "Club Brugge",
-   "away": "Anderlecht",
-   "league": "First Division A",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:30",
-   "kickoff_utc": "2026-11-08 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1x2",
-    "2nd_half_both_teams_to_score",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "competitor1_over_under_3_5",
-    "competitor1_to_win_either_half",
-    "dc",
-    "double_chance",
-    "double_chance_over_under_2_5",
-    "handicap_hcp_0_3",
-    "handicap_hcp_1_0",
-    "handicap_hcp_2_0",
-    "ou25",
-    "ou35",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_4_5",
-    "over_under_5_5",
-    "pb_cor_1x2",
-    "pb_cor_1x2_h1",
-    "pb_cor_ou_10",
-    "pb_cor_ou_t1_5_5",
-    "pb_cor_ou_t2_3_5",
-    "pbx_1x2_10m",
-    "pbx_dnb_h1",
-    "pbx_weh"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
-   "id": 902572255,
-   "home": "VfL Bochum",
-   "away": "Karlsruher SC",
-   "league": "2 Bundesliga",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:30",
-   "kickoff_utc": "2026-11-08 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_2_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "dc",
-    "double_chance",
-    "ou35",
-    "pb_cor_ou_10_5",
-    "pbx_1x2_10m"
-   ],
-   "stored_ft": "3-2"
-  },
-  {
    "id": 902610626,
    "home": "Sloboda Tuzla (W)",
    "away": "Sloga Doboj (W)",
@@ -513,57 +399,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902572253,
-   "home": "FC Heidenheim 1846",
-   "away": "Hannover 96",
-   "league": "2 Bundesliga",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:30",
-   "kickoff_utc": "2026-11-08 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "competitor2_total_0_5",
-    "dc",
-    "handicap_hcp_0_2",
-    "ou25",
-    "ou35",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_10"
-   ],
-   "stored_ft": "2-2"
-  },
-  {
-   "id": 902603918,
-   "home": "Petrojet",
-   "away": "Delphi",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:30",
-   "kickoff_utc": "2026-11-08 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "over_under_1_5"
    ]
   }
  ]

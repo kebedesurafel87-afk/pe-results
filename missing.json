@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 17:31",
- "count": 26,
+ "updated_utc": "2026-11-08 17:46",
+ "count": 25,
  "matches": [
   {
    "id": 902574087,
@@ -203,7 +203,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "over_under_2_5"
    ]
   },
@@ -349,45 +348,9 @@
    ]
   },
   {
-   "id": 902608410,
-   "home": "Montfermeil FC U19",
-   "away": "Stade de Reims U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 16:30",
-   "kickoff_utc": "2026-11-08 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902608420,
    "home": "Sochaux U19",
    "away": "Troyes U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 16:30",
-   "kickoff_utc": "2026-11-08 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902608421,
-   "home": "Metz U19",
-   "away": "Strasbourg U19",
    "league": "League U19",
    "country": "France",
    "sport": "football",
@@ -455,6 +418,23 @@
     "both_teams_to_score",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902611101,
+   "home": "USGN",
+   "away": "Liberte FC",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 18:15",
+   "kickoff_utc": "2026-11-08 15:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

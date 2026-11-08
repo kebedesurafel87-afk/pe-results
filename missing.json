@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 14:15",
- "count": 22,
+ "updated_utc": "2026-11-08 14:30",
+ "count": 26,
  "matches": [
   {
    "id": 902560209,
@@ -382,6 +382,82 @@
    ],
    "markets": [
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902566153,
+   "home": "Stafford Rangers",
+   "away": "Grimsby Town",
+   "league": "FA Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 15:00",
+   "kickoff_utc": "2026-11-08 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "pbx_ou_0_10_0_5"
+   ]
+  },
+  {
+   "id": 902608408,
+   "home": "Gazelec Ajaccio U19",
+   "away": "Nice U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 15:00",
+   "kickoff_utc": "2026-11-08 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902610719,
+   "home": "Winterthur (W)",
+   "away": "FC Sion (W)",
+   "league": "Nationalliga B Women",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 15:00",
+   "kickoff_utc": "2026-11-08 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902610426,
+   "home": "Renfrew (W)",
+   "away": "Hamilton Academical (W)",
+   "league": "Premier League Women 2",
+   "country": "Scotland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 15:00",
+   "kickoff_utc": "2026-11-08 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

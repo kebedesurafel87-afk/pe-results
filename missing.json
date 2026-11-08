@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 16:00",
- "count": 33,
+ "updated_utc": "2026-11-08 16:15",
+ "count": 32,
  "matches": [
   {
    "id": 902560209,
@@ -257,7 +257,6 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "btts",
     "over_under_2_5"
    ]
   },
@@ -401,23 +400,6 @@
    ]
   },
   {
-   "id": 902608534,
-   "home": "Gor Mahia",
-   "away": "Nairobi United",
-   "league": "KPL",
-   "country": "Kenya",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 16:15",
-   "kickoff_utc": "2026-11-08 13:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902572679,
    "home": "Tromso IL",
    "away": "Bodo/Glimt",
@@ -439,8 +421,6 @@
     "3_way",
     "3_way_over_under_4_5",
     "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
     "competitor2_total_1_5",
     "competitor2_total_3_5",
     "dc",

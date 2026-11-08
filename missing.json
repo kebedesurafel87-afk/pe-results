@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 13:30",
- "count": 25,
+ "updated_utc": "2026-11-08 13:45",
+ "count": 23,
  "matches": [
   {
    "id": 902560209,
@@ -279,62 +279,6 @@
    ]
   },
   {
-   "id": 902572242,
-   "home": "FC Copenhagen",
-   "away": "Brondby",
-   "league": "Superligaen",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "handicap_hcp_1_0",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_1x2",
-    "pb_cor_dc",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t2_2_5"
-   ],
-   "stored_ft": "1-0"
-  },
-  {
-   "id": 902533229,
-   "home": "Krylya Sovetov Samara",
-   "away": "Orenburg",
-   "league": "Premier League",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_2_5",
-    "1x2",
-    "2nd_half_over_under_0_5",
-    "both_teams_to_score",
-    "dc",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "2-0"
-  },
-  {
    "id": 902595928,
    "home": "Miedz Legnica U19",
    "away": "Polonia Warsaw U19",
@@ -424,23 +368,6 @@
    ]
   },
   {
-   "id": 902598455,
-   "home": "Atletico Torrellano",
-   "away": "Ontinyent Club De Futbol",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902612129,
    "home": "Ethiopian Sports Academy (W)",
    "away": "Fasil Kenema (w)",
@@ -455,6 +382,26 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902577938,
+   "home": "Vitesse",
+   "away": "De Graafschap",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-08 14:15",
+   "kickoff_utc": "2026-11-08 11:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

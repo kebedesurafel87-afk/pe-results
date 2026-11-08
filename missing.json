@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 22:31",
- "count": 27,
+ "updated_utc": "2026-11-08 22:46",
+ "count": 24,
  "matches": [
   {
    "id": 902574087,
@@ -419,60 +419,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902611903,
-   "home": "Transvaal",
-   "away": "Broki",
-   "league": "Championship",
-   "country": "Suriname",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 22:30",
-   "kickoff_utc": "2026-11-08 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902611543,
-   "home": "Humble Lions",
-   "away": "Cavalier",
-   "league": "Premier League",
-   "country": "Jamaica",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 23:00",
-   "kickoff_utc": "2026-11-08 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902574293,
-   "home": "Vasco da Gama Cape Town",
-   "away": "Palmeiras",
-   "league": "Copa do Brasil",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 23:00",
-   "kickoff_utc": "2026-11-08 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5",
-    "over_under_2_5"
    ]
   }
  ]

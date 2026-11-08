@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-08 20:31",
+ "updated_utc": "2026-11-08 21:01",
  "count": 28,
  "matches": [
   {
@@ -477,20 +477,20 @@
    ]
   },
   {
-   "id": 902612588,
-   "home": "Montaneses",
-   "away": "Los Cabos United",
-   "league": "Primera Premier",
-   "country": "Mexico",
+   "id": 902583668,
+   "home": "SP Zawisza Bydgoszcz",
+   "away": "GKS Tychy 71",
+   "league": "2nd League",
+   "country": "Poland",
    "sport": "football",
-   "kickoff_eat": "2026-11-08 21:00",
-   "kickoff_utc": "2026-11-08 18:00",
+   "kickoff_eat": "2026-11-08 21:30",
+   "kickoff_utc": "2026-11-08 18:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
+    "both_teams_to_score",
     "dc"
    ]
   }

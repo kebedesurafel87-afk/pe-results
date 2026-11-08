@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 18:46",
- "count": 26,
+ "updated_utc": "2026-11-08 19:16",
+ "count": 23,
  "matches": [
   {
    "id": 902574087,
@@ -242,23 +242,6 @@
    ]
   },
   {
-   "id": 902610719,
-   "home": "Winterthur (W)",
-   "away": "FC Sion (W)",
-   "league": "Nationalliga B Women",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 15:00",
-   "kickoff_utc": "2026-11-08 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902608407,
    "home": "Quevilly U19",
    "away": "Lens U19",
@@ -370,23 +353,6 @@
    ]
   },
   {
-   "id": 902611101,
-   "home": "USGN",
-   "away": "Liberte FC",
-   "league": "Super League",
-   "country": "Niger",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 18:15",
-   "kickoff_utc": "2026-11-08 15:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902572288,
    "home": "Estoril Praia",
    "away": "CS Maritimo",
@@ -414,23 +380,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-08 18:45",
    "kickoff_utc": "2026-11-08 15:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902617283,
-   "home": "CD Barquereno",
-   "away": "Tropezon",
-   "league": "Tercera Div. RFEF Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 19:00",
-   "kickoff_utc": "2026-11-08 16:00",
    "status": "no_result",
    "needs": [
     "ft"

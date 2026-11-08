@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 22:01",
- "count": 29,
+ "updated_utc": "2026-11-08 22:16",
+ "count": 28,
  "matches": [
   {
    "id": 902574087,
@@ -455,26 +455,6 @@
    "markets": [
     "both_teams_to_score",
     "dc"
-   ]
-  },
-  {
-   "id": 902612556,
-   "home": "Club Guarani (W)",
-   "away": "Libertad Asuncion (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 22:00",
-   "kickoff_utc": "2026-11-08 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
    ]
   },
   {

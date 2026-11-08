@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-08 17:16",
- "count": 29,
+ "updated_utc": "2026-11-08 17:31",
+ "count": 26,
  "matches": [
-  {
-   "id": 902560209,
-   "home": "CD Badajoz",
-   "away": "CD Tenerife",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-04 23:00",
-   "kickoff_utc": "2026-11-04 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
   {
    "id": 902574087,
    "home": "CD Tarancon",
@@ -169,7 +152,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -187,25 +169,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902597443,
-   "home": "Tallinna FC Flora II",
-   "away": "Levadia Tallinn 2",
-   "league": "Esiliiga",
-   "country": "Estonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 13:30",
-   "kickoff_utc": "2026-11-08 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -491,23 +455,6 @@
     "both_teams_to_score",
     "over_under_1_5",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902610767,
-   "home": "Huddersfield (W)",
-   "away": "Wythenshawe (w)",
-   "league": "FA League Cup Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 17:00",
-   "kickoff_utc": "2026-11-08 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 14:00",
- "count": 24,
+ "updated_utc": "2026-11-08 14:15",
+ "count": 22,
  "matches": [
   {
    "id": 902560209,
@@ -68,23 +68,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902597680,
-   "home": "Honefoss BK (W)",
-   "away": "Lillestrom (W)",
-   "league": "Toppserien",
-   "country": "Norway",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 15:00",
-   "kickoff_utc": "2026-11-07 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -207,25 +190,6 @@
    ]
   },
   {
-   "id": 902608423,
-   "home": "Paris U19",
-   "away": "Annecy U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 13:00",
-   "kickoff_utc": "2026-11-08 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "double_chance",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902585230,
    "home": "Real Betis B",
    "away": "CD Tenerife B",
@@ -329,8 +293,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_2_5"
+    "1x2"
    ]
   },
   {
@@ -405,20 +368,20 @@
    ]
   },
   {
-   "id": 902604143,
-   "home": "Nong Bua Pitchaya",
-   "away": "Chainat FC",
-   "league": "Division 2",
-   "country": "Thailand",
+   "id": 902610869,
+   "home": "Kuching FA",
+   "away": "Selangor",
+   "league": "Malaysia Cup",
+   "country": "Malaysia",
    "sport": "football",
-   "kickoff_eat": "2026-11-08 14:30",
-   "kickoff_utc": "2026-11-08 11:30",
+   "kickoff_eat": "2026-11-08 14:45",
+   "kickoff_utc": "2026-11-08 11:45",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "over_under_1_5"
    ]
   }
  ]

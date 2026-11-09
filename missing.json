@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-08 23:31",
- "count": 25,
+ "updated_utc": "2026-11-09 00:01",
+ "count": 24,
  "matches": [
   {
    "id": 902574087,
@@ -419,23 +419,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902612557,
-   "home": "Sportivo Trinidense (W)",
-   "away": "Sportivo Luqueno (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 00:00",
-   "kickoff_utc": "2026-11-08 21:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

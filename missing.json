@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 15:47",
- "count": 6,
+ "updated_utc": "2026-11-09 16:02",
+ "count": 5,
  "matches": [
   {
    "id": 902619238,
@@ -60,7 +60,6 @@
     "dc",
     "double_chance",
     "ou35",
-    "over_under_0_5",
     "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
@@ -104,31 +103,7 @@
    "markets": [
     "both_teams_to_score",
     "dc",
-    "ou15",
     "ou25"
-   ]
-  },
-  {
-   "id": 902592539,
-   "home": "Foolad Khuzestan B",
-   "away": "Ario Eslamshahr",
-   "league": "Azadegan League",
-   "country": "Iran",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 16:15",
-   "kickoff_utc": "2026-11-09 13:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "ou15",
-    "over_under_1_5",
-    "over_under_2_5",
-    "pbx_tsg_t1"
    ]
   }
  ]

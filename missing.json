@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 17:32",
- "count": 4,
+ "updated_utc": "2026-11-09 17:47",
+ "count": 2,
  "matches": [
   {
    "id": 902619238,
@@ -35,45 +35,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902617071,
-   "home": "ZFK Moscow (W)",
-   "away": "ZFK Prave Dame (W)",
-   "league": "First League Women",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 16:00",
-   "kickoff_utc": "2026-11-09 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "pbx_bts_h2"
-   ]
-  },
-  {
-   "id": 902621704,
-   "home": "Akaki Kality (w)",
-   "away": "Lemi Kura (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 16:00",
-   "kickoff_utc": "2026-11-09 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "ou25"
    ]
   }
  ]

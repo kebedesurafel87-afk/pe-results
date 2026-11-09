@@ -1,92 +1,7 @@
 {
- "updated_utc": "2026-11-09 03:16",
- "count": 20,
+ "updated_utc": "2026-11-09 04:32",
+ "count": 13,
  "matches": [
-  {
-   "id": 902574087,
-   "home": "CD Tarancon",
-   "away": "Levante UD",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-05 21:00",
-   "kickoff_utc": "2026-11-05 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902603302,
-   "home": "Panionios FC U19",
-   "away": "Marko U19",
-   "league": "Super League 2 U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 11:00",
-   "kickoff_utc": "2026-11-07 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902568384,
-   "home": "Al Ettifaq",
-   "away": "Al Hilal Riyadh",
-   "league": "Professional League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 17:30",
-   "kickoff_utc": "2026-11-07 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902605656,
-   "home": "Parana U20",
-   "away": "Fanatico U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:30",
-   "kickoff_utc": "2026-11-07 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902605444,
-   "home": "Cerrado EC U20",
-   "away": "Goias EC U20",
-   "league": "Copa Goias U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-07 21:30",
-   "kickoff_utc": "2026-11-07 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
   {
    "id": 902593622,
    "home": "R AEC Mons",
@@ -283,25 +198,6 @@
    ]
   },
   {
-   "id": 902608486,
-   "home": "Guingamp U19",
-   "away": "Stade Rennes U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 16:30",
-   "kickoff_utc": "2026-11-08 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902611927,
    "home": "Actur Pablo Iglesias (W)",
    "away": "Next Level Teruel (W)",
@@ -333,23 +229,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902612554,
-   "home": "Paranavai",
-   "away": "Athletico Paranaense B",
-   "league": "Copa Paranaense",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 21:00",
-   "kickoff_utc": "2026-11-08 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   }
  ]

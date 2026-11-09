@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 17:02",
- "count": 5,
+ "updated_utc": "2026-11-09 17:32",
+ "count": 4,
  "matches": [
   {
    "id": 902619238,
@@ -36,32 +36,6 @@
     "1x2",
     "both_teams_to_score"
    ]
-  },
-  {
-   "id": 902615002,
-   "home": "Wadi Degla SC",
-   "away": "Kahraba Ismailia",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 15:30",
-   "kickoff_utc": "2026-11-09 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "both_teams_to_score",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5"
-   ],
-   "stored_ft": "0-0"
   },
   {
    "id": 902617071,

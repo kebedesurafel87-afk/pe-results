@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-09 16:02",
+ "updated_utc": "2026-11-09 17:02",
  "count": 5,
  "matches": [
   {
@@ -16,8 +16,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -35,8 +34,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "over_under_2_5"
+    "both_teams_to_score"
    ]
   },
   {
@@ -59,7 +57,6 @@
     "competitor2_total_1_5",
     "dc",
     "double_chance",
-    "ou35",
     "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
@@ -102,7 +99,6 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "dc",
     "ou25"
    ]
   }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 15:02",
- "count": 3,
+ "updated_utc": "2026-11-09 15:32",
+ "count": 5,
  "matches": [
   {
    "id": 902619238,
@@ -48,25 +48,64 @@
    "sport": "football",
    "kickoff_eat": "2026-11-09 15:30",
    "kickoff_utc": "2026-11-09 12:30",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "ft",
     "ht"
    ],
    "markets": [
     "1st_half_double_chance",
     "1x2",
     "both_teams_to_score",
-    "competitor1_over_under_0_5",
     "competitor2_total_1_5",
     "dc",
     "double_chance",
-    "ou15",
     "ou35",
     "over_under_0_5",
     "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
+   ],
+   "stored_ft": "0-0"
+  },
+  {
+   "id": 902617071,
+   "home": "ZFK Moscow (W)",
+   "away": "ZFK Prave Dame (W)",
+   "league": "First League Women",
+   "country": "Serbia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-09 16:00",
+   "kickoff_utc": "2026-11-09 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "pbx_bts_h2"
+   ]
+  },
+  {
+   "id": 902621704,
+   "home": "Akaki Kality (w)",
+   "away": "Lemi Kura (W)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-09 16:00",
+   "kickoff_utc": "2026-11-09 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "ou15",
+    "ou25"
    ]
   }
  ]

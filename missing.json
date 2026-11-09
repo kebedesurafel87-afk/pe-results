@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 00:01",
- "count": 24,
+ "updated_utc": "2026-11-09 00:16",
+ "count": 21,
  "matches": [
   {
    "id": 902574087,
@@ -319,24 +319,6 @@
    ]
   },
   {
-   "id": 902572288,
-   "home": "Estoril Praia",
-   "away": "CS Maritimo",
-   "league": "Primeira Liga",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 18:30",
-   "kickoff_utc": "2026-11-08 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902611927,
    "home": "Actur Pablo Iglesias (W)",
    "away": "Next Level Teruel (W)",
@@ -345,23 +327,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-08 18:45",
    "kickoff_utc": "2026-11-08 15:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902610238,
-   "home": "Urartu FC",
-   "away": "Ararat-Armenia",
-   "league": "Premier League",
-   "country": "Armenia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 19:00",
-   "kickoff_utc": "2026-11-08 16:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -402,23 +367,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902583668,
-   "home": "SP Zawisza Bydgoszcz",
-   "away": "GKS Tychy 71",
-   "league": "2nd League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 21:30",
-   "kickoff_utc": "2026-11-08 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   }
  ]

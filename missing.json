@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-09 11:02",
+ "updated_utc": "2026-11-09 15:02",
  "count": 3,
  "matches": [
-  {
-   "id": 902619239,
-   "home": "Bombay YMCA",
-   "away": "Oscar Foundation FC",
-   "league": "Mumbai Super Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 08:30",
-   "kickoff_utc": "2026-11-09 05:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902619238,
    "home": "Mumbai Warriors",
@@ -34,7 +17,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc"
    ]
   },
@@ -54,6 +36,35 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902615002,
+   "home": "Wadi Degla SC",
+   "away": "Kahraba Ismailia",
+   "league": "Egypt Cup",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-09 15:30",
+   "kickoff_utc": "2026-11-09 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "ou15",
+    "ou35",
+    "over_under_0_5",
+    "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
    ]

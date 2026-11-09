@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 00:16",
- "count": 21,
+ "updated_utc": "2026-11-09 00:31",
+ "count": 22,
  "matches": [
   {
    "id": 902574087,
@@ -367,6 +367,23 @@
    ],
    "markets": [
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902612110,
+   "home": "Deportivo Lara",
+   "away": "Zamora Barinas II",
+   "league": "Segunda Division",
+   "country": "Venezuela",
+   "sport": "football",
+   "kickoff_eat": "2026-11-09 01:00",
+   "kickoff_utc": "2026-11-08 22:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

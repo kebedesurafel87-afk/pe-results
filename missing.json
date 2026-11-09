@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 00:31",
- "count": 22,
+ "updated_utc": "2026-11-09 02:46",
+ "count": 21,
  "matches": [
   {
    "id": 902574087,
@@ -136,23 +136,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902583998,
-   "home": "FC Riga",
-   "away": "Rigas FS",
-   "league": "Latvia Virsliga",
-   "country": "Latvia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-08 14:00",
-   "kickoff_utc": "2026-11-08 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   },
   {

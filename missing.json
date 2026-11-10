@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-10 02:33",
- "count": 5,
+ "updated_utc": "2026-11-10 04:18",
+ "count": 4,
  "matches": [
   {
    "id": 902619238,
@@ -78,23 +78,6 @@
     "dc",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902619974,
-   "home": "Corinthians U20 (W)",
-   "away": "Palmeiras U20 (W)",
-   "league": "Paulista U20 Women",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 03:00",
-   "kickoff_utc": "2026-11-10 00:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

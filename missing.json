@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-10 17:34",
+ "updated_utc": "2026-11-10 18:04",
  "count": 3,
  "matches": [
   {
@@ -40,7 +40,6 @@
    "markets": [
     "1st_half_double_chance",
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "handicap_hcp_2_0",
@@ -51,33 +50,22 @@
    ]
   },
   {
-   "id": 902621043,
-   "home": "Al Mokawloon Al Arab",
-   "away": "Telecom Egypt",
-   "league": "Egypt Cup",
-   "country": "Egypt",
+   "id": 902625512,
+   "home": "LYS Sassandra",
+   "away": "Atlantis FC de Dimbokro",
+   "league": "League 2",
+   "country": "Ivory Coast",
    "sport": "football",
-   "kickoff_eat": "2026-11-10 18:00",
-   "kickoff_utc": "2026-11-10 15:00",
+   "kickoff_eat": "2026-11-10 18:30",
+   "kickoff_utc": "2026-11-10 15:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
-    "double_chance",
-    "ou15",
-    "ou35",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5",
-    "over_under_5_5",
-    "pbx_dc_h2",
-    "pbx_iou_t2_h1_0_5",
-    "pbx_tgbts_2_5",
-    "pbx_weh"
+    "double_chance"
    ]
   }
  ]

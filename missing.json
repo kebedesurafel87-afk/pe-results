@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-10 18:04",
- "count": 3,
+ "updated_utc": "2026-11-10 18:19",
+ "count": 2,
  "matches": [
   {
    "id": 902620267,
@@ -47,25 +47,6 @@
     "ou35",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902625512,
-   "home": "LYS Sassandra",
-   "away": "Atlantis FC de Dimbokro",
-   "league": "League 2",
-   "country": "Ivory Coast",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 18:30",
-   "kickoff_utc": "2026-11-10 15:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   }
  ]

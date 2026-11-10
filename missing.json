@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-10 22:19",
+ "updated_utc": "2026-11-10 22:34",
  "count": 8,
  "matches": [
   {
@@ -127,7 +127,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou35",
     "over_under_2_5"
    ]
   },
@@ -168,7 +167,6 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "ou35",
     "over_under_2_5",
     "over_under_3_5"
    ]

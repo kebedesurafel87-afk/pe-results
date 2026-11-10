@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-09 22:48",
- "count": 4,
+ "updated_utc": "2026-11-10 02:33",
+ "count": 5,
  "matches": [
   {
    "id": 902619238,
@@ -38,6 +38,27 @@
    ]
   },
   {
+   "id": 902617056,
+   "home": "Redbridge",
+   "away": "Southall",
+   "league": "Isthmian League Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-09 22:45",
+   "kickoff_utc": "2026-11-09 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_3_5"
+   ]
+  },
+  {
    "id": 902620267,
    "home": "Swindon Supermarine",
    "away": "Westbury United",
@@ -60,24 +81,20 @@
    ]
   },
   {
-   "id": 902617056,
-   "home": "Redbridge",
-   "away": "Southall",
-   "league": "Isthmian League Cup",
-   "country": "England",
+   "id": 902619974,
+   "home": "Corinthians U20 (W)",
+   "away": "Palmeiras U20 (W)",
+   "league": "Paulista U20 Women",
+   "country": "Brazil",
    "sport": "football",
-   "kickoff_eat": "2026-11-09 22:45",
-   "kickoff_utc": "2026-11-09 19:45",
+   "kickoff_eat": "2026-11-10 03:00",
+   "kickoff_utc": "2026-11-10 00:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
+    "1x2"
    ]
   }
  ]

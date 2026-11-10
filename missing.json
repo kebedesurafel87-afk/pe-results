@@ -1,46 +1,7 @@
 {
- "updated_utc": "2026-11-10 06:33",
- "count": 3,
+ "updated_utc": "2026-11-10 06:48",
+ "count": 1,
  "matches": [
-  {
-   "id": 902619956,
-   "home": "Kasem Bundit University (W)",
-   "away": "BGC of Asian Scholars Women",
-   "league": "League Women",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 11:30",
-   "kickoff_utc": "2026-11-09 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902617056,
-   "home": "Redbridge",
-   "away": "Southall",
-   "league": "Isthmian League Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-09 22:45",
-   "kickoff_utc": "2026-11-09 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
-   ]
-  },
   {
    "id": 902620267,
    "home": "Swindon Supermarine",
@@ -59,8 +20,7 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   }
  ]

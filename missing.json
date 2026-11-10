@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-10 11:03",
- "count": 2,
+ "updated_utc": "2026-11-10 12:33",
+ "count": 3,
  "matches": [
   {
    "id": 902620267,
@@ -42,6 +42,33 @@
     "dc",
     "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902627218,
+   "home": "Gabon (W)",
+   "away": "Chad (w)",
+   "league": "Club Friendlies Women",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-10 13:00",
+   "kickoff_utc": "2026-11-10 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "handicap_hcp_2_0",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5"
    ]
   }
  ]

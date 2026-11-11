@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 13:20",
- "count": 9,
+ "updated_utc": "2026-11-11 13:35",
+ "count": 12,
  "matches": [
   {
    "id": 902620267,
@@ -196,6 +196,73 @@
     "ou25",
     "over_under_2_5",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902632262,
+   "home": "Green Buffaloes (W)",
+   "away": "National Assembly FC (W)",
+   "league": "Zambia League Women",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 14:00",
+   "kickoff_utc": "2026-11-11 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902628726,
+   "home": "Villarreal (W)",
+   "away": "Albacete (W)",
+   "league": "Primera Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 14:00",
+   "kickoff_utc": "2026-11-11 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_cor_ou_7_5"
+   ],
+   "stored_ft": "2-0"
+  },
+  {
+   "id": 902631637,
+   "home": "Bridge Star",
+   "away": "Kipanga FC",
+   "league": "Zanzibar Cup",
+   "country": "Zanzibar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 14:00",
+   "kickoff_utc": "2026-11-11 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "pbx_iou_t2_h2_0_5"
    ]
   }
  ]

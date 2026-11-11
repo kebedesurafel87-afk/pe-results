@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11 13:35",
+ "updated_utc": "2026-11-11 14:20",
  "count": 12,
  "matches": [
   {
@@ -171,7 +171,6 @@
     "double_chance",
     "ou25",
     "over_under_2_5",
-    "over_under_3_5",
     "pb_cor_ou_3w_9"
    ]
   },
@@ -194,8 +193,7 @@
     "dc",
     "double_chance",
     "ou25",
-    "over_under_2_5",
-    "over_under_4_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -214,8 +212,7 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   },
   {

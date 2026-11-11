@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 19:51",
- "count": 18,
+ "updated_utc": "2026-11-11 20:36",
+ "count": 23,
  "matches": [
   {
    "id": 902620267,
@@ -381,6 +381,132 @@
     "double_chance",
     "ou35",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902630141,
+   "home": "Malmo FF (W)",
+   "away": "Ajax (W)",
+   "league": "UEFA Europa Cup Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 21:00",
+   "kickoff_utc": "2026-11-11 18:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "odd_even",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_9_5",
+    "pbx_ou_h2_1_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "0-2"
+  },
+  {
+   "id": 902630146,
+   "home": "SCU Torreense (W)",
+   "away": "Sparta Praha (W)",
+   "league": "UEFA Europa Cup Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 21:00",
+   "kickoff_utc": "2026-11-11 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pbx_iou_t1_h2_1_5"
+   ]
+  },
+  {
+   "id": 902630144,
+   "home": "Hammarby IF Dff (W)",
+   "away": "Spartak Myjava Women",
+   "league": "UEFA Europa Cup Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 21:00",
+   "kickoff_utc": "2026-11-11 18:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "3_way",
+    "3_way_over_under_1_5",
+    "both_teams_to_score",
+    "btts",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_10_5"
+   ],
+   "stored_ft": "4-0"
+  },
+  {
+   "id": 902615299,
+   "home": "Parana U20",
+   "away": "Fanatico U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 21:00",
+   "kickoff_utc": "2026-11-11 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902631797,
+   "home": "CS Alagoano U20",
+   "away": "CRB U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 21:00",
+   "kickoff_utc": "2026-11-11 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "ou25",
+    "pbx_iou_t2_h2_0_5"
    ]
   }
  ]

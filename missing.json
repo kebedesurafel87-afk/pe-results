@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 09:35",
- "count": 7,
+ "updated_utc": "2026-11-11 10:20",
+ "count": 6,
  "matches": [
   {
    "id": 902620267,
@@ -126,24 +126,6 @@
     "double_chance",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902631642,
-   "home": "Seila Sap FCC",
-   "away": "Sohryngkham",
-   "league": "Shillong Champions Cup",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 10:00",
-   "kickoff_utc": "2026-11-11 07:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
    ]
   }
  ]

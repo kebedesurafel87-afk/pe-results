@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 13:05",
- "count": 10,
+ "updated_utc": "2026-11-11 13:20",
+ "count": 9,
  "matches": [
   {
    "id": 902620267,
@@ -129,33 +129,6 @@
    ]
   },
   {
-   "id": 902628732,
-   "home": "Rayong FC U21",
-   "away": "Port U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 12:00",
-   "kickoff_utc": "2026-11-11 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "ou35",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pbx_dc_h2"
-   ]
-  },
-  {
    "id": 902630211,
    "home": "FC Chernigiv",
    "away": "Inhulets",
@@ -174,7 +147,6 @@
     "dc",
     "double_chance",
     "over_under_1_5",
-    "over_under_2_5",
     "over_under_3_5"
    ]
   },

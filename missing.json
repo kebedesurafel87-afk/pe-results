@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11 21:21",
+ "updated_utc": "2026-11-11 21:36",
  "count": 22,
  "matches": [
   {
@@ -231,28 +231,6 @@
    ]
   },
   {
-   "id": 902628726,
-   "home": "Villarreal (W)",
-   "away": "Albacete (W)",
-   "league": "Primera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 14:00",
-   "kickoff_utc": "2026-11-11 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "pb_cor_ou_7_5"
-   ],
-   "stored_ft": "2-0"
-  },
-  {
    "id": 902628111,
    "home": "HK Rangers FC U22",
    "away": "Eastern Sports Club U22",
@@ -284,8 +262,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_1_5"
+    "dc"
    ]
   },
   {
@@ -346,28 +323,6 @@
    ]
   },
   {
-   "id": 902627273,
-   "home": "Kvk Tienen",
-   "away": "Sint-Truidense II",
-   "league": "Amateur Cup",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 20:00",
-   "kickoff_utc": "2026-11-11 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
-   ]
-  },
-  {
    "id": 902630146,
    "home": "SCU Torreense (W)",
    "away": "Sparta Praha (W)",
@@ -403,10 +358,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "ou25",
-    "ou35",
     "over_under_2_5"
    ]
   },
@@ -426,7 +379,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
     "ou25",
     "pbx_iou_t2_h2_0_5"
    ]
@@ -448,8 +400,46 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou35",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902628877,
+   "home": "Kelen (W)",
+   "away": "FC Mamer 32 (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 22:00",
+   "kickoff_utc": "2026-11-11 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902628878,
+   "home": "Bettembourg (W)",
+   "away": "SC Ell (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 22:00",
+   "kickoff_utc": "2026-11-11 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_3_5"
    ]
   }
  ]

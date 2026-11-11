@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11 18:50",
+ "updated_utc": "2026-11-11 19:05",
  "count": 18,
  "matches": [
   {
@@ -197,11 +197,11 @@
    ]
   },
   {
-   "id": 902632262,
-   "home": "Green Buffaloes (W)",
-   "away": "National Assembly FC (W)",
-   "league": "Zambia League Women",
-   "country": "Zambia",
+   "id": 902631637,
+   "home": "Bridge Star",
+   "away": "Kipanga FC",
+   "league": "Zanzibar Cup",
+   "country": "Zanzibar",
    "sport": "football",
    "kickoff_eat": "2026-11-11 14:00",
    "kickoff_utc": "2026-11-11 11:00",
@@ -211,8 +211,8 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "over_under_2_5"
+    "dc",
+    "double_chance"
    ]
   },
   {
@@ -230,7 +230,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
@@ -241,11 +240,11 @@
    "stored_ft": "2-0"
   },
   {
-   "id": 902631637,
-   "home": "Bridge Star",
-   "away": "Kipanga FC",
-   "league": "Zanzibar Cup",
-   "country": "Zanzibar",
+   "id": 902632262,
+   "home": "Green Buffaloes (W)",
+   "away": "National Assembly FC (W)",
+   "league": "Zambia League Women",
+   "country": "Zambia",
    "sport": "football",
    "kickoff_eat": "2026-11-11 14:00",
    "kickoff_utc": "2026-11-11 11:00",
@@ -255,8 +254,8 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance"
+    "both_teams_to_score",
+    "over_under_2_5"
    ]
   },
   {
@@ -358,35 +357,34 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "ou25",
     "ou35"
    ]
   },
   {
-   "id": 902627252,
-   "home": "Rwanda U23",
-   "away": "Cameroon U23",
-   "league": "African Cup of Nations U23",
-   "country": "Africa",
+   "id": 902628838,
+   "home": "Babrungas",
+   "away": "Minija",
+   "league": "I Lyga",
+   "country": "Lithuania",
    "sport": "football",
-   "kickoff_eat": "2026-11-11 19:00",
-   "kickoff_utc": "2026-11-11 16:00",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-11 19:30",
+   "kickoff_utc": "2026-11-11 16:30",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft",
+    "ht"
    ],
    "markets": [
+    "1st_half_double_chance",
     "1x2",
     "both_teams_to_score",
+    "btts",
     "dc",
     "double_chance",
-    "ou15",
-    "ou25",
     "over_under_1_5",
     "over_under_2_5",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "0-3"
+    "over_under_both_teams_to_score_2_5"
+   ]
   }
  ]
 }

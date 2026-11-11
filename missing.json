@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 22:21",
- "count": 25,
+ "updated_utc": "2026-11-11 22:36",
+ "count": 26,
  "matches": [
   {
    "id": 902620267,
@@ -440,27 +440,6 @@
    ]
   },
   {
-   "id": 902629570,
-   "home": "Coventry United",
-   "away": "Rushden & Diamonds",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 22:45",
-   "kickoff_utc": "2026-11-11 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5",
-    "pbx_tsg_t1_h1"
-   ]
-  },
-  {
    "id": 902629569,
    "home": "Grays Athletic",
    "away": "Newmarket Town",
@@ -499,6 +478,64 @@
     "both_teams_to_score",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902605229,
+   "home": "SL Benfica (W)",
+   "away": "FK Austria Vienna (W)",
+   "league": "UEFA Champions League Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 23:00",
+   "kickoff_utc": "2026-11-11 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902605163,
+   "home": "Juventus (W)",
+   "away": "Lyon (W)",
+   "league": "UEFA Champions League Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 23:00",
+   "kickoff_utc": "2026-11-11 20:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_double_chance",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance_over_under_2_5",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_9_5",
+    "pbx_tgbts_2_5"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11 15:35",
+ "updated_utc": "2026-11-11 16:35",
  "count": 17,
  "matches": [
   {
@@ -263,26 +263,6 @@
    ]
   },
   {
-   "id": 902629540,
-   "home": "KS Vllaznia Pozheran",
-   "away": "KF Rilindja 1995",
-   "league": "Division 2",
-   "country": "Kosovo",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 15:00",
-   "kickoff_utc": "2026-11-11 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902628111,
    "home": "HK Rangers FC U22",
    "away": "Eastern Sports Club U22",
@@ -361,6 +341,28 @@
     "1x2",
     "dc",
     "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902627257,
+   "home": "Zulte Waregem II",
+   "away": "Zelzate",
+   "league": "Amateur Cup",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 17:00",
+   "kickoff_utc": "2026-11-11 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "ou35",
     "over_under_2_5"
    ]
   }

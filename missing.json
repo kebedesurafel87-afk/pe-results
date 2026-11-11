@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-11 15:05",
+ "updated_utc": "2026-11-11 15:20",
  "count": 15,
  "matches": [
   {
@@ -283,36 +283,6 @@
    ]
   },
   {
-   "id": 902627239,
-   "home": "Latvia U19",
-   "away": "Moldova U19",
-   "league": "UEFA Championship U19 Qualification",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 15:30",
-   "kickoff_utc": "2026-11-11 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards",
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "2nd_half_over_under_0_5",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_9",
-    "pb_y_1x2",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "3-1"
-  },
-  {
    "id": 902628111,
    "home": "HK Rangers FC U22",
    "away": "Eastern Sports Club U22",
@@ -329,6 +299,27 @@
     "1x2",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902629196,
+   "home": "Olympiakos Neon Liosion",
+   "away": "Ilisiakos",
+   "league": "Amateur Cup",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 15:45",
+   "kickoff_utc": "2026-11-11 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "ou35",
+    "pbx_dc_h2"
    ]
   }
  ]

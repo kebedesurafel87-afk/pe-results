@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 14:20",
- "count": 12,
+ "updated_utc": "2026-11-11 14:35",
+ "count": 13,
  "matches": [
   {
    "id": 902620267,
@@ -260,6 +260,26 @@
     "double_chance",
     "over_under_1_5",
     "pbx_iou_t2_h2_0_5"
+   ]
+  },
+  {
+   "id": 902629540,
+   "home": "KS Vllaznia Pozheran",
+   "away": "KF Rilindja 1995",
+   "league": "Division 2",
+   "country": "Kosovo",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 15:00",
+   "kickoff_utc": "2026-11-11 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-11 19:05",
- "count": 18,
+ "updated_utc": "2026-11-11 19:36",
+ "count": 23,
  "matches": [
   {
    "id": 902620267,
@@ -361,30 +361,189 @@
    ]
   },
   {
-   "id": 902628838,
-   "home": "Babrungas",
-   "away": "Minija",
-   "league": "I Lyga",
-   "country": "Lithuania",
+   "id": 902630143,
+   "home": "Brondby IF (W)",
+   "away": "Rosenborg (W)",
+   "league": "UEFA Europa Cup Women",
+   "country": "Europe",
    "sport": "football",
-   "kickoff_eat": "2026-11-11 19:30",
-   "kickoff_utc": "2026-11-11 16:30",
-   "status": "no_result",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "ft",
-    "ht"
+    "corners"
    ],
    "markets": [
-    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
     "1x2",
     "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
-    "over_under_1_5",
+    "ou35",
     "over_under_2_5",
-    "over_under_both_teams_to_score_2_5"
+    "over_under_3_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "2-0"
+  },
+  {
+   "id": 902630142,
+   "home": "Fenerbahce (W)",
+   "away": "Real Sociedad (W)",
+   "league": "UEFA Europa Cup Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_4_5",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_8_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "0-2"
+  },
+  {
+   "id": 902627228,
+   "home": "France U19",
+   "away": "Norway U19",
+   "league": "UEFA Championship U19 Qualification",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way",
+    "3_way_both_teams_to_score",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_4_5",
+    "handicap_hcp_0_2",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_both_teams_to_score_2_5",
+    "pb_cor_ou_8_5",
+    "pbx_tgbts_2_5",
+    "pbx_weh_t1"
+   ],
+   "stored_ft": "6-0"
+  },
+  {
+   "id": 902627273,
+   "home": "Kvk Tienen",
+   "away": "Sint-Truidense II",
+   "league": "Amateur Cup",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou35",
+    "over_under_3_5"
    ]
+  },
+  {
+   "id": 902628717,
+   "home": "Austria U19",
+   "away": "Belarus U19",
+   "league": "UEFA Championship U19 Qualification",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way_over_under_1_5",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_4_5",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_5_5"
+   ],
+   "stored_ft": "0-1"
+  },
+  {
+   "id": 902627274,
+   "home": "Artis Brno",
+   "away": "FK Jablonec",
+   "league": "Czech Republic Cup",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-11-11 20:00",
+   "kickoff_utc": "2026-11-11 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_competitor1_over_under_0_5",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "dnb",
+    "double_chance",
+    "over_under_2_5",
+    "pb_y_ou_2_5",
+    "pbx_rtg_1_5",
+    "pbx_rtg_2_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

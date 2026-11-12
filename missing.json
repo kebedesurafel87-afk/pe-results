@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-12 15:52",
+ "updated_utc": "2026-11-12 16:07",
  "count": 28,
  "matches": [
   {
@@ -484,27 +484,6 @@
    ]
   },
   {
-   "id": 902638160,
-   "home": "Nifas Silk Lafto Sub City (W)",
-   "away": "Arba Minch (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 14:00",
-   "kickoff_utc": "2026-11-12 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902636723,
    "home": "Viborg FF (R)",
    "away": "Vejle Kolding (R)",
@@ -519,7 +498,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "btts",
     "dc",
     "double_chance",
@@ -545,7 +523,6 @@
     "both_teams_to_score",
     "dc",
     "ou15",
-    "ou35",
     "pbx_bts_h2"
    ]
   },
@@ -569,6 +546,39 @@
     "over_under_1_5",
     "over_under_2_5"
    ]
+  },
+  {
+   "id": 902574167,
+   "home": "Wolfsburg",
+   "away": "FC Union Berlin",
+   "league": "Club Friendlies",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 16:30",
+   "kickoff_utc": "2026-11-12 13:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "handicap_hcp_2_0",
+    "over_under_2_5",
+    "pb_cor_ou_3w_9",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_4_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pbx_ah_h1_0_5"
+   ],
+   "stored_ft": "2-0"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 16:52",
- "count": 21,
+ "updated_utc": "2026-11-12 17:07",
+ "count": 14,
  "matches": [
   {
    "id": 902627218,
@@ -94,24 +94,6 @@
    ]
   },
   {
-   "id": 902627256,
-   "home": "Lyra",
-   "away": "Voorde Appelterre",
-   "league": "Amateur Cup",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 19:00",
-   "kickoff_utc": "2026-11-11 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902630146,
    "home": "SCU Torreense (W)",
    "away": "Sparta Praha (W)",
@@ -132,62 +114,6 @@
    ]
   },
   {
-   "id": 902631797,
-   "home": "CS Alagoano U20",
-   "away": "CRB U20",
-   "league": "Copa Alagoas U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 21:00",
-   "kickoff_utc": "2026-11-11 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902628877,
-   "home": "Kelen (W)",
-   "away": "FC Mamer 32 (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 22:00",
-   "kickoff_utc": "2026-11-11 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902628878,
-   "home": "Bettembourg (W)",
-   "away": "SC Ell (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 22:00",
-   "kickoff_utc": "2026-11-11 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_3_5"
-   ]
-  },
-  {
    "id": 902629569,
    "home": "Grays Athletic",
    "away": "Newmarket Town",
@@ -202,10 +128,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5",
-    "pbx_iou_t2_h1_0_5"
+    "dc"
    ]
   },
   {
@@ -229,30 +152,6 @@
     "double_chance",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902605163,
-   "home": "Juventus (W)",
-   "away": "Lyon (W)",
-   "league": "UEFA Champions League Women",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 23:00",
-   "kickoff_utc": "2026-11-11 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "3_way",
-    "competitor2_total_2_5",
-    "double_chance_over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "0-6"
   },
   {
    "id": 902631349,
@@ -308,28 +207,6 @@
    ]
   },
   {
-   "id": 902636723,
-   "home": "Viborg FF (R)",
-   "away": "Vejle Kolding (R)",
-   "league": "Future Cup",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 15:00",
-   "kickoff_utc": "2026-11-12 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou35",
-    "pbx_iou_t2_h1_0_5"
-   ]
-  },
-  {
    "id": 902640033,
    "home": "CA San Miguel (R)",
    "away": "Club Atletico Atlanta (R)",
@@ -370,39 +247,6 @@
     "over_under_1_5",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902574167,
-   "home": "Wolfsburg",
-   "away": "FC Union Berlin",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:30",
-   "kickoff_utc": "2026-11-12 13:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "handicap_hcp_2_0",
-    "over_under_2_5",
-    "pb_cor_ou_3w_9",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t1_4_5",
-    "pb_cor_ou_t2_3_5",
-    "pb_cor_ou_t2_4_5",
-    "pbx_ah_h1_0_5"
-   ],
-   "stored_ft": "2-0"
   },
   {
    "id": 902640101,

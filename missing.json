@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:53",
- "count": 6,
+ "updated_utc": "2026-11-12 22:10",
+ "count": 5,
  "matches": [
   {
    "id": 902627218,
@@ -94,27 +94,6 @@
     "dc",
     "over_under_3_5"
    ]
-  },
-  {
-   "id": 902629572,
-   "home": "SO Chambery Foot",
-   "away": "Grenoble",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 21:00",
-   "kickoff_utc": "2026-11-12 18:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "pb_cor_ou_3w_9",
-    "pb_cor_ou_t2_7",
-    "pbx_bts_h2"
-   ],
-   "stored_ft": "0-2"
   }
  ]
 }

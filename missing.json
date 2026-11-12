@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 15:37",
- "count": 37,
+ "updated_utc": "2026-11-12 15:52",
+ "count": 28,
  "matches": [
   {
    "id": 902627218,
@@ -528,142 +528,6 @@
    ]
   },
   {
-   "id": 902629158,
-   "home": "El Entag El Harby",
-   "away": "Baladeyet Al-Mahalla",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 15:30",
-   "kickoff_utc": "2026-11-12 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor2_total_1_5",
-    "dc",
-    "over_under_1_5",
-    "over_under_2_5",
-    "pb_cor_ou_7_5",
-    "pbx_bts_h2"
-   ],
-   "stored_ft": "2-0"
-  },
-  {
-   "id": 902629193,
-   "home": "FC Masar",
-   "away": "Tersana",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 15:30",
-   "kickoff_utc": "2026-11-12 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "ou25",
-    "pb_cor_ou_8_5",
-    "pbx_bts_h2",
-    "pbx_hsh"
-   ],
-   "stored_ft": "0-0"
-  },
-  {
-   "id": 902627231,
-   "home": "Germany U19",
-   "away": "Sweden U19",
-   "league": "UEFA Championship U19 Qualification",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards",
-    "corners"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_0_5",
-    "1x2",
-    "2nd_half_over_under_1_5",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "handicap_hcp_1_0",
-    "ou25",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_t2_3_5",
-    "pb_y_ou_2_5",
-    "pbx_iou_t1_h2_0_5",
-    "pbx_rtg_2_5",
-    "pbx_weh_t1"
-   ],
-   "stored_ft": "2-1"
-  },
-  {
-   "id": 902636722,
-   "home": "Serbia U21",
-   "away": "Republic of North Macedonia U21",
-   "league": "Friendly Internationals U21",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_0_5",
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou35",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_8_5",
-    "pb_cor_ou_t1_5",
-    "pb_cor_ou_t2_3_5"
-   ],
-   "stored_ft": "2-0"
-  },
-  {
-   "id": 902636311,
-   "home": "FC St Gallen",
-   "away": "Wil 1900",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902640033,
    "home": "CA San Miguel (R)",
    "away": "Club Atletico Atlanta (R)",
@@ -686,46 +550,6 @@
    ]
   },
   {
-   "id": 902628093,
-   "home": "FC Ingolstadt",
-   "away": "FC Wacker Innsbruck",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902628099,
-   "home": "Holstein Kiel",
-   "away": "Odense",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902640106,
    "home": "Fasil Kenema (w)",
    "away": "Kirkos FC (W)",
@@ -745,66 +569,6 @@
     "over_under_1_5",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902630805,
-   "home": "Iceland U21",
-   "away": "Greece U21",
-   "league": "UEFA Championship U21",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_0_5",
-    "1x2",
-    "2nd_half_over_under_0_5",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pb_cor_ou_3w_10",
-    "pb_cor_ou_3w_6",
-    "pb_cor_ou_9",
-    "pbx_rtgnlo_t2_1_5",
-    "pbx_weh_t1"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
-   "id": 902605387,
-   "home": "Scotland U21",
-   "away": "Ukraine U21",
-   "league": "Friendly Internationals U21",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_ou_8_5",
-    "pbx_weh"
-   ],
-   "stored_ft": "4-0"
   }
  ]
 }

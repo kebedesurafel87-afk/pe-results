@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-12 21:08",
+ "updated_utc": "2026-11-12 21:38",
  "count": 7,
  "matches": [
   {
@@ -131,13 +131,11 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "handicap_hcp_3_0",
     "pb_cor_ou_3w_9",
     "pb_cor_ou_t2_7",
-    "pbx_bts_h2",
-    "pbx_iou_t2_h1_1_5"
+    "pbx_bts_h2"
    ],
    "stored_ft": "0-2"
   }

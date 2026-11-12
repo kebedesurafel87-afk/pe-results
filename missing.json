@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 12:22",
- "count": 24,
+ "updated_utc": "2026-11-12 12:37",
+ "count": 25,
  "matches": [
   {
    "id": 902627218,
@@ -482,6 +482,33 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 902608743,
+   "home": "RB Leipzig",
+   "away": "Mlada Boleslav",
+   "league": "Club Friendlies",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 13:00",
+   "kickoff_utc": "2026-11-12 10:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_10_5",
+    "pbx_iou_t2_h1_0_5",
+    "pbx_tsg_t2"
+   ],
+   "stored_ft": "4-5"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 01:36",
- "count": 25,
+ "updated_utc": "2026-11-12 03:06",
+ "count": 26,
  "matches": [
   {
    "id": 902620267,
@@ -507,6 +507,25 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902631578,
+   "home": "Flamengo (W)",
+   "away": "Internacional (W)",
+   "league": "Copa do Brasil Women",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 03:30",
+   "kickoff_utc": "2026-11-12 00:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

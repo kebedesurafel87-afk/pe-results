@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 21:38",
- "count": 7,
+ "updated_utc": "2026-11-12 21:53",
+ "count": 6,
  "matches": [
   {
    "id": 902627218,
@@ -71,8 +71,6 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_2_5"
@@ -98,25 +96,6 @@
    ]
   },
   {
-   "id": 902640101,
-   "home": "Al Oruba",
-   "away": "Muscat",
-   "league": "1st Division",
-   "country": "Oman",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:50",
-   "kickoff_utc": "2026-11-12 13:50",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902629572,
    "home": "SO Chambery Foot",
    "away": "Grenoble",
@@ -131,8 +110,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "handicap_hcp_3_0",
     "pb_cor_ou_3w_9",
     "pb_cor_ou_t2_7",
     "pbx_bts_h2"

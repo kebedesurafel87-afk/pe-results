@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 13:37",
- "count": 26,
+ "updated_utc": "2026-11-12 14:37",
+ "count": 27,
  "matches": [
   {
    "id": 902627218,
@@ -528,6 +528,30 @@
     "double_chance",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902636723,
+   "home": "Viborg FF (R)",
+   "away": "Vejle Kolding (R)",
+   "league": "Future Cup",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 15:00",
+   "kickoff_utc": "2026-11-12 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou35",
+    "pbx_1x2_h2",
+    "pbx_iou_t2_h1_0_5"
    ]
   }
  ]

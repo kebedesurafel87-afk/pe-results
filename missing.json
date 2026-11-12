@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-12 16:07",
+ "updated_utc": "2026-11-12 16:22",
  "count": 28,
  "matches": [
   {
@@ -18,50 +18,8 @@
    ],
    "markets": [
     "1st_half_double_chance",
-    "1x2",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902623248,
-   "home": "Dessel Sport",
-   "away": "Oudenaarde SV",
-   "league": "Amateur Cup",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 22:00",
-   "kickoff_utc": "2026-11-10 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
     "1x2"
    ]
-  },
-  {
-   "id": 902613772,
-   "home": "Boston River",
-   "away": "Torque",
-   "league": "Uruguay Cup",
-   "country": "Uruguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 22:30",
-   "kickoff_utc": "2026-11-10 19:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "dc",
-    "over_under_1_5",
-    "pb_cor_ou_7_5"
-   ],
-   "stored_ft": "1-2"
   },
   {
    "id": 902623241,
@@ -579,6 +537,48 @@
     "pbx_ah_h1_0_5"
    ],
    "stored_ft": "2-0"
+  },
+  {
+   "id": 902638157,
+   "home": "FC Oman",
+   "away": "Al Nasr",
+   "league": "Federation Cup",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 16:50",
+   "kickoff_utc": "2026-11-12 13:50",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "pbx_bts_h2"
+   ]
+  },
+  {
+   "id": 902640101,
+   "home": "Al Oruba",
+   "away": "Muscat",
+   "league": "1st Division",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 16:50",
+   "kickoff_utc": "2026-11-12 13:50",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_1_5"
+   ]
   }
  ]
 }

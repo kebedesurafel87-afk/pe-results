@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 18:53",
- "count": 8,
+ "updated_utc": "2026-11-12 19:08",
+ "count": 7,
  "matches": [
   {
    "id": 902627218,
@@ -34,26 +34,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902630146,
-   "home": "SCU Torreense (W)",
-   "away": "Sparta Praha (W)",
-   "league": "UEFA Europa Cup Women",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 21:00",
-   "kickoff_utc": "2026-11-11 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]

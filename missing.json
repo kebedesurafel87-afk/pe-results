@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 00:06",
- "count": 23,
+ "updated_utc": "2026-11-12 01:06",
+ "count": 24,
  "matches": [
   {
    "id": 902620267,
@@ -472,6 +472,24 @@
     "pb_cor_ou_9_5"
    ],
    "stored_ft": "0-6"
+  },
+  {
+   "id": 902631349,
+   "home": "Sao Gabriel",
+   "away": "AA Portuguesa",
+   "league": "Sul-Matogrossense",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 01:30",
+   "kickoff_utc": "2026-11-11 22:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance",
+    "over_under_2_5"
+   ]
   }
  ]
 }

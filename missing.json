@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 20:53",
- "count": 9,
+ "updated_utc": "2026-11-12 21:08",
+ "count": 7,
  "matches": [
   {
    "id": 902627218,
@@ -134,94 +134,12 @@
     "both_teams_to_score",
     "dc",
     "handicap_hcp_3_0",
-    "ou35",
-    "over_under_3_5",
     "pb_cor_ou_3w_9",
     "pb_cor_ou_t2_7",
     "pbx_bts_h2",
     "pbx_iou_t2_h1_1_5"
    ],
    "stored_ft": "0-2"
-  },
-  {
-   "id": 902560211,
-   "home": "Navalcarnero",
-   "away": "Real Betis",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 21:00",
-   "kickoff_utc": "2026-11-12 18:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_3",
-    "1x2",
-    "2nd_half_3_way",
-    "2nd_half_over_under_0_5",
-    "2nd_half_over_under_1_5",
-    "2nd_half_over_under_2",
-    "3_way_over_under_1_5",
-    "3_way_over_under_4_5",
-    "both_teams_to_score",
-    "btts",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "over_under_3_5",
-    "pb_cor_ou_3w_7",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t1_1_5",
-    "pb_cor_ou_t2_6_5",
-    "pbx_iou_t2_h1_1_5",
-    "pbx_iou_t2_h2_0_5",
-    "pbx_rtgnlo_t2_2_5"
-   ],
-   "stored_ft": "2-2"
-  },
-  {
-   "id": 902605377,
-   "home": "CD Tarancon",
-   "away": "Levante UD",
-   "league": "Copa del Rey",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 21:00",
-   "kickoff_utc": "2026-11-12 18:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards",
-    "corners"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1st_half_both_teams_to_score",
-    "1st_half_competitor2_over_under_0_5",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_3",
-    "1x2",
-    "2nd_half_double_chance",
-    "2nd_half_over_under_2_5",
-    "3_way_over_under_1_5",
-    "3_way_over_under_2_5",
-    "both_teams_to_score",
-    "btts",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "halftime_fulltime",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t2_5_5",
-    "pb_y_ou_3_5"
-   ],
-   "stored_ft": "1-1"
   }
  ]
 }

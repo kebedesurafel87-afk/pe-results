@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 14:37",
- "count": 27,
+ "updated_utc": "2026-11-12 15:07",
+ "count": 28,
  "matches": [
   {
    "id": 902627218,
@@ -484,32 +484,6 @@
    ]
   },
   {
-   "id": 902608743,
-   "home": "RB Leipzig",
-   "away": "Mlada Boleslav",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 13:00",
-   "kickoff_utc": "2026-11-12 10:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "ou35",
-    "over_under_3_5",
-    "pb_cor_ou_10_5",
-    "pbx_iou_t2_h1_0_5",
-    "pbx_tsg_t2"
-   ],
-   "stored_ft": "4-5"
-  },
-  {
    "id": 902638160,
    "home": "Nifas Silk Lafto Sub City (W)",
    "away": "Arba Minch (W)",
@@ -550,9 +524,57 @@
     "dc",
     "double_chance",
     "ou35",
-    "pbx_1x2_h2",
     "pbx_iou_t2_h1_0_5"
    ]
+  },
+  {
+   "id": 902629158,
+   "home": "El Entag El Harby",
+   "away": "Baladeyet Al-Mahalla",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 15:30",
+   "kickoff_utc": "2026-11-12 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_1_5",
+    "dc",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_cor_ou_7_5",
+    "pbx_bts_h2"
+   ],
+   "stored_ft": "2-0"
+  },
+  {
+   "id": 902629193,
+   "home": "FC Masar",
+   "away": "Tersana",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 15:30",
+   "kickoff_utc": "2026-11-12 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou25",
+    "pb_cor_ou_8_5",
+    "pbx_bts_h2",
+    "pbx_hsh"
+   ],
+   "stored_ft": "0-0"
   }
  ]
 }

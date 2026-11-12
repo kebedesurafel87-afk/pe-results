@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 16:37",
- "count": 23,
+ "updated_utc": "2026-11-12 16:52",
+ "count": 21,
  "matches": [
   {
    "id": 902627218,
@@ -132,26 +132,6 @@
    ]
   },
   {
-   "id": 902615299,
-   "home": "Parana U20",
-   "away": "Fanatico U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 21:00",
-   "kickoff_utc": "2026-11-11 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902631797,
    "home": "CS Alagoano U20",
    "away": "CRB U20",
@@ -239,17 +219,14 @@
    "kickoff_utc": "2026-11-11 20:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_over_under_0_5",
     "1x2",
     "3_way",
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "ou25",
     "over_under_2_5"
    ]
   },
@@ -267,12 +244,9 @@
     "corners"
    ],
    "markets": [
-    "1st_half_3_way",
     "1st_half_double_chance",
-    "1st_half_over_under_1_5",
     "1x2",
     "3_way",
-    "both_teams_to_score",
     "competitor2_total_2_5",
     "double_chance_over_under_2_5",
     "over_under_3_5",
@@ -429,28 +403,6 @@
     "pbx_ah_h1_0_5"
    ],
    "stored_ft": "2-0"
-  },
-  {
-   "id": 902638157,
-   "home": "FC Oman",
-   "away": "Al Nasr",
-   "league": "Federation Cup",
-   "country": "Oman",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:50",
-   "kickoff_utc": "2026-11-12 13:50",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "pbx_bts_h2"
-   ]
   },
   {
    "id": 902640101,

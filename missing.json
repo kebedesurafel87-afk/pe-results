@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 16:22",
- "count": 28,
+ "updated_utc": "2026-11-12 16:37",
+ "count": 23,
  "matches": [
   {
    "id": 902627218,
@@ -13,58 +13,10 @@
    "kickoff_utc": "2026-11-10 10:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2"
-   ]
-  },
-  {
-   "id": 902623241,
-   "home": "Merstham",
-   "away": "Broadbridge Heath",
-   "league": "Isthmian League Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 22:45",
-   "kickoff_utc": "2026-11-10 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_2_5",
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902628020,
-   "home": "Lyngby (R)",
-   "away": "Koge U21",
-   "league": "Future Cup",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 13:00",
-   "kickoff_utc": "2026-11-11 10:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_3w_9"
+    "1x2"
    ]
   },
   {
@@ -83,44 +35,7 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
-    "ou25",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902631637,
-   "home": "Bridge Star",
-   "away": "Kipanga FC",
-   "league": "Zanzibar Cup",
-   "country": "Zanzibar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 14:00",
-   "kickoff_utc": "2026-11-11 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902632262,
-   "home": "Green Buffaloes (W)",
-   "away": "National Assembly FC (W)",
-   "league": "Zambia League Women",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 14:00",
-   "kickoff_utc": "2026-11-11 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -138,24 +53,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902631636,
-   "home": "Urafiki FC",
-   "away": "Mlandege",
-   "league": "Zanzibar Cup",
-   "country": "Zanzibar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 16:00",
-   "kickoff_utc": "2026-11-11 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
    ]
   },
   {
@@ -251,7 +148,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou25",
     "over_under_2_5"
    ]
   },
@@ -270,9 +166,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "ou25",
-    "pbx_iou_t2_h2_0_5"
+    "both_teams_to_score"
    ]
   },
   {
@@ -356,8 +250,7 @@
     "dc",
     "double_chance",
     "ou25",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -383,7 +276,6 @@
     "competitor2_total_2_5",
     "double_chance_over_under_2_5",
     "over_under_3_5",
-    "over_under_4_5",
     "pb_cor_ou_9_5"
    ],
    "stored_ft": "0-6"
@@ -574,7 +466,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
     "over_under_1_5"

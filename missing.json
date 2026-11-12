@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 08:52",
- "count": 25,
+ "updated_utc": "2026-11-12 09:07",
+ "count": 24,
  "matches": [
   {
    "id": 902627218,
@@ -83,28 +83,6 @@
     "both_teams_to_score",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902623572,
-   "home": "Loughborough Univesity",
-   "away": "Rugby Borough",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 22:45",
-   "kickoff_utc": "2026-11-10 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "over_under_3_5"
    ]
   },
   {

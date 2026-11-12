@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 17:07",
- "count": 14,
+ "updated_utc": "2026-11-12 17:23",
+ "count": 7,
  "matches": [
   {
    "id": 902627218,
@@ -36,61 +36,6 @@
     "1x2",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902628111,
-   "home": "HK Rangers FC U22",
-   "away": "Eastern Sports Club U22",
-   "league": "Premier League U22",
-   "country": "Hong Kong",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 15:30",
-   "kickoff_utc": "2026-11-11 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902632261,
-   "home": "Zanaco FC (W)",
-   "away": "Green Eagles (W)",
-   "league": "Zambia League Women",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 16:00",
-   "kickoff_utc": "2026-11-11 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902627257,
-   "home": "Zulte Waregem II",
-   "away": "Zelzate",
-   "league": "Amateur Cup",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 17:00",
-   "kickoff_utc": "2026-11-11 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
    ]
   },
   {
@@ -154,23 +99,6 @@
    ]
   },
   {
-   "id": 902631349,
-   "home": "Sao Gabriel",
-   "away": "AA Portuguesa",
-   "league": "Sul-Matogrossense",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 01:30",
-   "kickoff_utc": "2026-11-11 22:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902622313,
    "home": "Morelia",
    "away": "Universidad De Guadalajara",
@@ -187,65 +115,6 @@
     "1x2",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902640114,
-   "home": "NorthEast United U21",
-   "away": "Mawlai U21",
-   "league": "RFDL U21",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 09:15",
-   "kickoff_utc": "2026-11-12 06:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902640033,
-   "home": "CA San Miguel (R)",
-   "away": "Club Atletico Atlanta (R)",
-   "league": "Primera B Nacional",
-   "country": "Argentina",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "ou15",
-    "pbx_bts_h2"
-   ]
-  },
-  {
-   "id": 902640106,
-   "home": "Fasil Kenema (w)",
-   "away": "Kirkos FC (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-12 16:00",
-   "kickoff_utc": "2026-11-12 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_1_5",
-    "over_under_2_5"
    ]
   },
   {

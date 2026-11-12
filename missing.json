@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 13:22",
- "count": 25,
+ "updated_utc": "2026-11-12 13:37",
+ "count": 26,
  "matches": [
   {
    "id": 902627218,
@@ -508,6 +508,27 @@
     "pbx_tsg_t2"
    ],
    "stored_ft": "4-5"
+  },
+  {
+   "id": 902638160,
+   "home": "Nifas Silk Lafto Sub City (W)",
+   "away": "Arba Minch (W)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 14:00",
+   "kickoff_utc": "2026-11-12 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5"
+   ]
   }
  ]
 }

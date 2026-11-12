@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-12 03:36",
- "count": 24,
+ "updated_utc": "2026-11-12 04:36",
+ "count": 25,
  "matches": [
   {
    "id": 902620267,
@@ -488,6 +488,25 @@
    ],
    "markets": [
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902622313,
+   "home": "Morelia",
+   "away": "Universidad De Guadalajara",
+   "league": "Liga de Expansion",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-12 05:00",
+   "kickoff_utc": "2026-11-12 02:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_3_5"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13 20:42",
+ "updated_utc": "2026-11-13 21:27",
  "count": 9,
  "matches": [
   {
@@ -58,25 +58,6 @@
    ]
   },
   {
-   "id": 902629450,
-   "home": "Ismaily",
-   "away": "El Mansoura",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 15:30",
-   "kickoff_utc": "2026-11-13 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902629192,
    "home": "Telecom Egypt",
    "away": "Kahraba Ismailia",
@@ -93,6 +74,25 @@
     "1x2",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902629450,
+   "home": "Ismaily",
+   "away": "El Mansoura",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 15:30",
+   "kickoff_utc": "2026-11-13 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   },
   {

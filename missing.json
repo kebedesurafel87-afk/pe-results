@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 15:11",
- "count": 7,
+ "updated_utc": "2026-11-13 15:26",
+ "count": 8,
  "matches": [
   {
    "id": 902627218,
@@ -135,6 +135,28 @@
     "btts",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902642841,
+   "home": "Dibba Al Hisn",
+   "away": "Al Urooba",
+   "league": "President Cup",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 15:45",
+   "kickoff_utc": "2026-11-13 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_1_5",
+    "pbx_weh"
    ]
   }
  ]

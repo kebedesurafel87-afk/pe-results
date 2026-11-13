@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 18:41",
- "count": 8,
+ "updated_utc": "2026-11-13 18:56",
+ "count": 9,
  "matches": [
   {
    "id": 902627218,
@@ -155,6 +155,37 @@
     "over_under_2_5",
     "pbx_tgbts_2_5"
    ]
+  },
+  {
+   "id": 902630806,
+   "home": "Finland U21",
+   "away": "Ireland U21",
+   "league": "UEFA Championship U21",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 19:15",
+   "kickoff_utc": "2026-11-13 16:15",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_2",
+    "handicap_hcp_1_0",
+    "ou25",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_cor_ou_t1_5",
+    "pb_cor_ou_t2_3_5",
+    "pbx_weh"
+   ],
+   "stored_ft": "1-0"
   }
  ]
 }

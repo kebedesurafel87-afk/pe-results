@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 01:40",
- "count": 6,
+ "updated_utc": "2026-11-13 01:55",
+ "count": 5,
  "matches": [
   {
    "id": 902627218,
@@ -93,24 +93,6 @@
     "1x2",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902620294,
-   "home": "Estudiantes",
-   "away": "Independiente Rivadavia",
-   "league": "Super Cup",
-   "country": "Argentina",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 02:00",
-   "kickoff_utc": "2026-11-12 23:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   }
  ]

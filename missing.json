@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-13 21:42",
- "count": 9,
+ "updated_utc": "2026-11-13 21:57",
+ "count": 8,
  "matches": [
-  {
-   "id": 902627218,
-   "home": "Gabon (W)",
-   "away": "Chad (w)",
-   "league": "Club Friendlies Women",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-10 13:00",
-   "kickoff_utc": "2026-11-10 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902629569,
    "home": "Grays Athletic",
@@ -52,7 +35,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "over_under_2_5"
    ]
@@ -109,7 +91,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "pbx_weh"
    ]
@@ -128,7 +109,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
     "over_under_2_5"
@@ -151,13 +131,7 @@
     "1st_half_over_under_0_5",
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_t1_5",
-    "pb_cor_ou_t2_3_5",
-    "pbx_weh"
+    "dc"
    ],
    "stored_ft": "1-0"
   },
@@ -176,9 +150,6 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
     "over_under_2_5"
    ]
   }

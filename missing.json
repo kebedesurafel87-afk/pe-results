@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 15:41",
- "count": 9,
+ "updated_utc": "2026-11-13 16:11",
+ "count": 8,
  "matches": [
   {
    "id": 902627218,
@@ -111,7 +111,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
     "over_under_1_5"
@@ -132,7 +131,6 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "dc",
     "double_chance"
    ]
@@ -153,30 +151,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
-    "over_under_1_5",
     "pbx_weh"
-   ]
-  },
-  {
-   "id": 902647794,
-   "home": "Jahn Regensburg",
-   "away": "Blau Weiss Linz",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 16:00",
-   "kickoff_utc": "2026-11-13 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc"
    ]
   }
  ]

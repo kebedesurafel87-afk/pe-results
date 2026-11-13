@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-13 19:41",
+ "updated_utc": "2026-11-13 19:56",
  "count": 10,
  "matches": [
   {
@@ -133,8 +133,7 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "over_under_2_5",
-    "pbx_tgbts_2_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -167,6 +166,25 @@
    "stored_ft": "1-0"
   },
   {
+   "id": 902628103,
+   "home": "Rapid Wien II",
+   "away": "Donau Wien",
+   "league": "Club Friendlies",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 20:00",
+   "kickoff_utc": "2026-11-13 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2"
+   ]
+  },
+  {
    "id": 902620298,
    "home": "Resovia Rzeszow",
    "away": "OKS Swit Skolwin",
@@ -186,28 +204,8 @@
     "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_1_0",
     "over_under_2_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902628103,
-   "home": "Rapid Wien II",
-   "away": "Donau Wien",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 20:00",
-   "kickoff_utc": "2026-11-13 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2"
    ]
   }
  ]

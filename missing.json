@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 19:56",
- "count": 10,
+ "updated_utc": "2026-11-13 20:12",
+ "count": 9,
  "matches": [
   {
    "id": 902627218,
@@ -73,8 +73,7 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "over_under_1_5"
+    "dc"
    ]
   },
   {
@@ -155,34 +154,13 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "handicap_hcp_1_0",
     "ou25",
-    "over_under_1_5",
     "over_under_2_5",
     "pb_cor_ou_t1_5",
     "pb_cor_ou_t2_3_5",
     "pbx_weh"
    ],
    "stored_ft": "1-0"
-  },
-  {
-   "id": 902628103,
-   "home": "Rapid Wien II",
-   "away": "Donau Wien",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 20:00",
-   "kickoff_utc": "2026-11-13 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2"
-   ]
   },
   {
    "id": 902620298,
@@ -202,8 +180,6 @@
     "3_way",
     "both_teams_to_score",
     "btts",
-    "dc",
-    "double_chance",
     "over_under_2_5",
     "over_under_4_5"
    ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 19:26",
- "count": 8,
+ "updated_utc": "2026-11-13 19:41",
+ "count": 10,
  "matches": [
   {
    "id": 902627218,
@@ -165,6 +165,50 @@
     "pbx_weh"
    ],
    "stored_ft": "1-0"
+  },
+  {
+   "id": 902620298,
+   "home": "Resovia Rzeszow",
+   "away": "OKS Swit Skolwin",
+   "league": "2nd League",
+   "country": "Poland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 20:00",
+   "kickoff_utc": "2026-11-13 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_1_0",
+    "over_under_2_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902628103,
+   "home": "Rapid Wien II",
+   "away": "Donau Wien",
+   "league": "Club Friendlies",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-13 20:00",
+   "kickoff_utc": "2026-11-13 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2"
+   ]
   }
  ]
 }

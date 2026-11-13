@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 18:56",
- "count": 9,
+ "updated_utc": "2026-11-13 19:11",
+ "count": 8,
  "matches": [
   {
    "id": 902627218,
@@ -118,24 +118,6 @@
    ]
   },
   {
-   "id": 902650580,
-   "home": "USGN",
-   "away": "Tagour",
-   "league": "Super League",
-   "country": "Niger",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 18:15",
-   "kickoff_utc": "2026-11-13 15:15",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_correct_score"
-   ]
-  },
-  {
    "id": 902642840,
    "home": "Baynounah SC",
    "away": "Forte Virtus FC",
@@ -176,7 +158,6 @@
     "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_0_2",
     "handicap_hcp_1_0",
     "ou25",
     "over_under_1_5",

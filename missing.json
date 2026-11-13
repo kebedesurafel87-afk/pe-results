@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 14:41",
- "count": 6,
+ "updated_utc": "2026-11-13 14:56",
+ "count": 5,
  "matches": [
   {
    "id": 902627218,
@@ -93,25 +93,6 @@
     "1x2",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902648176,
-   "home": "Istra 1961",
-   "away": "Radomlje",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 15:00",
-   "kickoff_utc": "2026-11-13 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc"
    ]
   }
  ]

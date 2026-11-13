@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-13 12:41",
- "count": 6,
+ "updated_utc": "2026-11-13 13:11",
+ "count": 5,
  "matches": [
   {
    "id": 902627218,
@@ -93,24 +93,6 @@
     "1x2",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902628097,
-   "home": "SC Bregenz",
-   "away": "SCR Altach",
-   "league": "Club Friendlies",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 13:00",
-   "kickoff_utc": "2026-11-13 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
    ]
   }
  ]

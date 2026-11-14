@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 18:36",
- "count": 42,
+ "updated_utc": "2026-11-14 18:51",
+ "count": 43,
  "matches": [
   {
    "id": 902629192,
@@ -372,6 +372,24 @@
    ]
   },
   {
+   "id": 902648156,
+   "home": "Stade Laval U19",
+   "away": "TA Rennes U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5"
+   ]
+  },
+  {
    "id": 902648717,
    "home": "Stade Rennes U19",
    "away": "Stade Poitevin U19",
@@ -388,24 +406,6 @@
     "1x2",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902648156,
-   "home": "Stade Laval U19",
-   "away": "TA Rennes U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
    ]
   },
   {
@@ -533,24 +533,6 @@
    ],
    "markets": [
     "double_chance"
-   ]
-  },
-  {
-   "id": 902651383,
-   "home": "Roda U21",
-   "away": "Kloetinge U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:30",
-   "kickoff_utc": "2026-11-14 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -717,8 +699,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "double_chance"
+    "1x2"
    ]
   },
   {
@@ -757,14 +738,14 @@
    ]
   },
   {
-   "id": 902650531,
-   "home": "Atletico Madrid II (W)",
-   "away": "Villarreal (W)",
-   "league": "Primera Federacion Women",
-   "country": "Spain",
+   "id": 902651822,
+   "home": "Wilberforce Strikers",
+   "away": "FC Kallon",
+   "league": "Premier League",
+   "country": "Sierra Leone",
    "sport": "football",
-   "kickoff_eat": "2026-11-14 19:00",
-   "kickoff_utc": "2026-11-14 16:00",
+   "kickoff_eat": "2026-11-14 19:20",
+   "kickoff_utc": "2026-11-14 16:20",
    "status": "no_result",
    "needs": [
     "ft"
@@ -772,8 +753,44 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
+    "btts"
+   ]
+  },
+  {
+   "id": 902649897,
+   "home": "BAI Bureh Warriors",
+   "away": "East End Lions",
+   "league": "Premier League",
+   "country": "Sierra Leone",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:20",
+   "kickoff_utc": "2026-11-14 16:20",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902651823,
+   "home": "Wusum Stars",
+   "away": "Ports Authority FC",
+   "league": "Premier League",
+   "country": "Sierra Leone",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:20",
+   "kickoff_utc": "2026-11-14 16:20",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

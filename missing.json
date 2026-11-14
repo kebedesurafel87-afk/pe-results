@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 16:20",
- "count": 31,
+ "updated_utc": "2026-11-14 16:36",
+ "count": 34,
  "matches": [
   {
    "id": 902629569,
@@ -446,28 +446,6 @@
    ]
   },
   {
-   "id": 902648625,
-   "home": "CA Boulay",
-   "away": "Sochaux",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902648717,
    "home": "Stade Rennes U19",
    "away": "Stade Poitevin U19",
@@ -549,6 +527,80 @@
    "sport": "football",
    "kickoff_eat": "2026-11-14 16:30",
    "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902655165,
+   "home": "FC Salzburg (W)",
+   "away": "FK Austria Vienna (W)",
+   "league": "Bundesliga Women",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902651079,
+   "home": "Willem II U21",
+   "away": "Go Ahead Eagles U21",
+   "league": "League U21",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902631461,
+   "home": "Llantwit Major",
+   "away": "Cardiff Draconians",
+   "league": "Championship South",
+   "country": "Wales",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902648716,
+   "home": "Montpellier U19",
+   "away": "Gazelec Ajaccio U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
    "status": "no_result",
    "needs": [
     "ft"

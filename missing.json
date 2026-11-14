@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 21:21",
- "count": 41,
+ "updated_utc": "2026-11-14 21:36",
+ "count": 42,
  "matches": [
   {
    "id": 902629192,
@@ -631,32 +631,6 @@
    ]
   },
   {
-   "id": 902640913,
-   "home": "Bethune",
-   "away": "Nancy",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 20:00",
-   "kickoff_utc": "2026-11-14 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "ht"
-   ],
-   "markets": [
-    "1x2",
-    "2nd_half_3_way",
-    "3_way",
-    "btts",
-    "competitor2_total_5_5",
-    "dc",
-    "over_under_3_5",
-    "pb_cor_ou_t2_7"
-   ],
-   "stored_ft": "6-7"
-  },
-  {
    "id": 902640914,
    "home": "USL Dunkerque",
    "away": "US Quevilly",
@@ -677,6 +651,30 @@
     "pb_cor_ou_9_5"
    ],
    "stored_ft": "0-3"
+  },
+  {
+   "id": 902640913,
+   "home": "Bethune",
+   "away": "Nancy",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 20:00",
+   "kickoff_utc": "2026-11-14 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "btts",
+    "competitor2_total_5_5",
+    "dc",
+    "over_under_3_5",
+    "pb_cor_ou_t2_7"
+   ],
+   "stored_ft": "6-7"
   },
   {
    "id": 902653594,
@@ -716,7 +714,6 @@
     "dc",
     "odd_even",
     "ou35",
-    "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
    ]
@@ -773,6 +770,26 @@
     "1x2",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902651384,
+   "home": "Santa Ana",
+   "away": "Sarchi",
+   "league": "Segunda Division",
+   "country": "Costa Rica",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 22:00",
+   "kickoff_utc": "2026-11-14 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "dc"
    ]
   }
  ]

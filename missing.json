@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 18:21",
- "count": 40,
+ "updated_utc": "2026-11-14 18:36",
+ "count": 42,
  "matches": [
   {
    "id": 902629192,
@@ -570,7 +570,6 @@
     "1x2",
     "dc",
     "double_chance",
-    "ou15",
     "over_under_2_5",
     "pb_cor_ou_8_5"
    ],
@@ -737,6 +736,44 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902631335,
+   "home": "NK Brezice",
+   "away": "ND Ilirija",
+   "league": "Second League",
+   "country": "Slovenia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:00",
+   "kickoff_utc": "2026-11-14 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902650531,
+   "home": "Atletico Madrid II (W)",
+   "away": "Villarreal (W)",
+   "league": "Primera Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:00",
+   "kickoff_utc": "2026-11-14 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5"
    ]
   }
  ]

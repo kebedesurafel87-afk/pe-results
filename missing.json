@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 15:05",
- "count": 23,
+ "updated_utc": "2026-11-14 15:35",
+ "count": 29,
  "matches": [
   {
    "id": 902629569,
@@ -16,8 +16,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -108,8 +107,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -337,8 +335,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -350,23 +347,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-14 14:30",
    "kickoff_utc": "2026-11-14 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902651408,
-   "home": "ACS Omega Bucuresti",
-   "away": "Oxigen Bucuresti",
-   "league": "League 3",
-   "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 15:00",
-   "kickoff_utc": "2026-11-14 12:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -406,6 +386,138 @@
     "ft"
    ],
    "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902648614,
+   "home": "ASM Oran",
+   "away": "Remchi",
+   "league": "Algeria Cup",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902653567,
+   "home": "WA Mostaganem",
+   "away": "WA Tlemcen",
+   "league": "Algeria Cup",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "ou15"
+   ]
+  },
+  {
+   "id": 902647784,
+   "home": "Rudes",
+   "away": "Segesta",
+   "league": "Croatia Cup",
+   "country": "Croatia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "competitor1_over_under_0_5",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902653817,
+   "home": "Marko U19",
+   "away": "Pyrgos AFC U19",
+   "league": "Super League 2 U19",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902653821,
+   "home": "Ndola United",
+   "away": "Forest Rangers",
+   "league": "Division 1",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902645175,
+   "home": "Afragolese",
+   "away": "ASD Monastir",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902651374,
+   "home": "Celik U19",
+   "away": "FK Zvijezda 09 U19",
+   "league": "Premier League U19",
+   "country": "Bosnia and Herzegovina",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:00",
+   "kickoff_utc": "2026-11-14 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
     "dc"
    ]
   }

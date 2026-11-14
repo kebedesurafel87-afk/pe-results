@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 15:35",
- "count": 29,
+ "updated_utc": "2026-11-14 15:50",
+ "count": 24,
  "matches": [
   {
    "id": 902629569,
@@ -286,23 +286,6 @@
    ]
   },
   {
-   "id": 902655762,
-   "home": "Bole Sub City (W)",
-   "away": "Sidama Bunna (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:00",
-   "kickoff_utc": "2026-11-14 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "handicap_hcp_0_2"
-   ]
-  },
-  {
    "id": 902653822,
    "home": "Kallithea U19",
    "away": "Zakynthos U19",
@@ -390,65 +373,6 @@
    ]
   },
   {
-   "id": 902648614,
-   "home": "ASM Oran",
-   "away": "Remchi",
-   "league": "Algeria Cup",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:00",
-   "kickoff_utc": "2026-11-14 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902653567,
-   "home": "WA Mostaganem",
-   "away": "WA Tlemcen",
-   "league": "Algeria Cup",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:00",
-   "kickoff_utc": "2026-11-14 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou15"
-   ]
-  },
-  {
-   "id": 902647784,
-   "home": "Rudes",
-   "away": "Segesta",
-   "league": "Croatia Cup",
-   "country": "Croatia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:00",
-   "kickoff_utc": "2026-11-14 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "competitor1_over_under_0_5",
-    "dc",
-    "double_chance",
-    "double_chance_over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5"
-   ]
-  },
-  {
    "id": 902653817,
    "home": "Marko U19",
    "away": "Pyrgos AFC U19",
@@ -463,24 +387,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902653821,
-   "home": "Ndola United",
-   "away": "Forest Rangers",
-   "league": "Division 1",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:00",
-   "kickoff_utc": "2026-11-14 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

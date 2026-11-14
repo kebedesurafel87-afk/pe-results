@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 09:50",
- "count": 5,
+ "updated_utc": "2026-11-14 10:35",
+ "count": 7,
  "matches": [
   {
    "id": 902629569,
@@ -92,6 +92,41 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902647415,
+   "home": "NC Magra U20",
+   "away": "CA Bordj Bou Arreridj U20",
+   "league": "Algeria U20 Cup",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 11:00",
+   "kickoff_utc": "2026-11-14 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902647416,
+   "home": "CA Batna U20",
+   "away": "US Berhoum U20",
+   "league": "Algeria U20 Cup",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 11:00",
+   "kickoff_utc": "2026-11-14 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

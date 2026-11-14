@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 00:12",
- "count": 6,
+ "updated_utc": "2026-11-14 06:35",
+ "count": 7,
  "matches": [
   {
    "id": 902629569,
@@ -111,6 +111,23 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902649979,
+   "home": "Vonds Ichihara (W)",
+   "away": "JFA Academy (W)",
+   "league": "Japan Cup Women",
+   "country": "Japan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 07:00",
+   "kickoff_utc": "2026-11-14 04:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

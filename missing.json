@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 15:50",
- "count": 24,
+ "updated_utc": "2026-11-14 16:05",
+ "count": 31,
  "matches": [
   {
    "id": 902629569,
@@ -425,6 +425,139 @@
     "1x2",
     "both_teams_to_score",
     "dc"
+   ]
+  },
+  {
+   "id": 902649218,
+   "home": "Vicenza Calcio (W)",
+   "away": "ASD Res Roma (W)",
+   "league": "Serie B Women",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902648625,
+   "home": "CA Boulay",
+   "away": "Sochaux",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902648717,
+   "home": "Stade Rennes U19",
+   "away": "Stade Poitevin U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902650501,
+   "home": "FC Lausanne-Sport U19",
+   "away": "Luzern U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902649895,
+   "home": "FC Thun U19",
+   "away": "St Gallen U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902648156,
+   "home": "Stade Laval U19",
+   "away": "TA Rennes U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902649894,
+   "home": "Winterthur U19",
+   "away": "Aarau U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way"
    ]
   }
  ]

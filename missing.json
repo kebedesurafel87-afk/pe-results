@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 17:51",
- "count": 42,
+ "updated_utc": "2026-11-14 18:06",
+ "count": 40,
  "matches": [
   {
    "id": 902629192,
@@ -534,7 +534,6 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "double_chance"
    ]
   },
@@ -708,23 +707,6 @@
    ]
   },
   {
-   "id": 902655372,
-   "home": "Deportivo Alaves III",
-   "away": "Aretxabaleta",
-   "league": "Tercera Div. RFEF Group 4",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902656104,
    "home": "Shepshed Dynamo",
    "away": "Boston Town",
@@ -740,23 +722,6 @@
    "markets": [
     "1x2",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902636614,
-   "home": "Ashton United",
-   "away": "Workington",
-   "league": "FA Trophy",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

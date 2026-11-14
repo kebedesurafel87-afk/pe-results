@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14 16:05",
+ "updated_utc": "2026-11-14 16:20",
  "count": 31,
  "matches": [
   {
@@ -487,44 +487,6 @@
    ]
   },
   {
-   "id": 902650501,
-   "home": "FC Lausanne-Sport U19",
-   "away": "Luzern U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902649895,
-   "home": "FC Thun U19",
-   "away": "St Gallen U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902648156,
    "home": "Stade Laval U19",
    "away": "TA Rennes U19",
@@ -558,6 +520,43 @@
    "markets": [
     "1x2",
     "3_way"
+   ]
+  },
+  {
+   "id": 902650501,
+   "home": "FC Lausanne-Sport U19",
+   "away": "Luzern U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902649895,
+   "home": "FC Thun U19",
+   "away": "St Gallen U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 21:36",
- "count": 42,
+ "updated_utc": "2026-11-14 21:51",
+ "count": 40,
  "matches": [
   {
    "id": 902629192,
@@ -164,11 +164,11 @@
    ]
   },
   {
-   "id": 902650224,
-   "home": "Athletico Abidjan (w)",
-   "away": "Buyo FC (W)",
-   "league": "League 1 Women",
-   "country": "Ivory Coast",
+   "id": 902647414,
+   "home": "MSP Batna U20",
+   "away": "Amal Bou Saada U20",
+   "league": "Algeria U20 Cup",
+   "country": "Algeria",
    "sport": "football",
    "kickoff_eat": "2026-11-14 13:00",
    "kickoff_utc": "2026-11-14 10:00",
@@ -181,11 +181,11 @@
    ]
   },
   {
-   "id": 902647414,
-   "home": "MSP Batna U20",
-   "away": "Amal Bou Saada U20",
-   "league": "Algeria U20 Cup",
-   "country": "Algeria",
+   "id": 902650224,
+   "home": "Athletico Abidjan (w)",
+   "away": "Buyo FC (W)",
+   "league": "League 1 Women",
+   "country": "Ivory Coast",
    "sport": "football",
    "kickoff_eat": "2026-11-14 13:00",
    "kickoff_utc": "2026-11-14 10:00",
@@ -303,24 +303,6 @@
    ]
   },
   {
-   "id": 902648156,
-   "home": "Stade Laval U19",
-   "away": "TA Rennes U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902648717,
    "home": "Stade Rennes U19",
    "away": "Stade Poitevin U19",
@@ -353,8 +335,25 @@
     "ft"
    ],
    "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902648156,
+   "home": "Stade Laval U19",
+   "away": "TA Rennes U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 16:30",
+   "kickoff_utc": "2026-11-14 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "1x2",
-    "3_way"
+    "over_under_1_5"
    ]
   },
   {
@@ -371,9 +370,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -443,7 +440,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
    ]
   },
@@ -499,7 +495,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "competitor1_over_under_0_5",
     "dc",
     "ou15",
@@ -544,7 +539,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "over_under_2_5"
    ]
   },
@@ -625,32 +619,9 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "ou35",
     "over_under_1_5"
    ]
-  },
-  {
-   "id": 902640914,
-   "home": "USL Dunkerque",
-   "away": "US Quevilly",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 20:00",
-   "kickoff_utc": "2026-11-14 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "0-3"
   },
   {
    "id": 902640913,
@@ -667,8 +638,6 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
-    "btts",
     "competitor2_total_5_5",
     "dc",
     "over_under_3_5",
@@ -677,22 +646,23 @@
    "stored_ft": "6-7"
   },
   {
-   "id": 902653594,
-   "home": "Queretaro U19",
-   "away": "Monterrey U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
+   "id": 902640914,
+   "home": "USL Dunkerque",
+   "away": "US Quevilly",
+   "league": "Coupe de France",
+   "country": "France",
    "sport": "football",
-   "kickoff_eat": "2026-11-14 20:30",
-   "kickoff_utc": "2026-11-14 17:30",
-   "status": "no_result",
+   "kickoff_eat": "2026-11-14 20:00",
+   "kickoff_utc": "2026-11-14 17:00",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "ft"
+    "corners"
    ],
    "markets": [
-    "1x2",
-    "dc"
-   ]
+    "over_under_2_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "0-3"
   },
   {
    "id": 902647413,
@@ -709,30 +679,9 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
     "odd_even",
-    "ou35",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902658572,
-   "home": "Atletico Malagueno",
-   "away": "Arenas de Armilla",
-   "league": "Tercera Div. RFEF Group 9",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 21:00",
-   "kickoff_utc": "2026-11-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -768,8 +717,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance"
+    "dc"
    ]
   },
   {
@@ -787,7 +735,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "competitor1_over_under_0_5",
     "dc"
    ]

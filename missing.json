@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 20:06",
- "count": 41,
+ "updated_utc": "2026-11-14 20:21",
+ "count": 39,
  "matches": [
   {
    "id": 902629192,
@@ -624,24 +624,6 @@
    ]
   },
   {
-   "id": 902631335,
-   "home": "NK Brezice",
-   "away": "ND Ilirija",
-   "league": "Second League",
-   "country": "Slovenia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 19:00",
-   "kickoff_utc": "2026-11-14 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "ou35"
-   ]
-  },
-  {
    "id": 902631133,
    "home": "Audace Cerignola",
    "away": "Inter Milan U23",
@@ -683,25 +665,6 @@
     "double_chance",
     "ou35",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902651104,
-   "home": "SC Villa (Ire)",
-   "away": "Killarney Celtic",
-   "league": "National League",
-   "country": "Ireland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 20:00",
-   "kickoff_utc": "2026-11-14 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "pbx_rtg_2_5"
    ]
   },
   {

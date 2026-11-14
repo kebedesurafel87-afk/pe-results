@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 07:05",
- "count": 6,
+ "updated_utc": "2026-11-14 09:50",
+ "count": 5,
  "matches": [
   {
    "id": 902629569,
@@ -18,25 +18,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902605229,
-   "home": "SL Benfica (W)",
-   "away": "FK Austria Vienna (W)",
-   "league": "UEFA Champions League Women",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-11 23:00",
-   "kickoff_utc": "2026-11-11 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "over_under_2_5"
    ]
   },
   {

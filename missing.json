@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 20:21",
- "count": 39,
+ "updated_utc": "2026-11-14 20:36",
+ "count": 42,
  "matches": [
   {
    "id": 902629192,
@@ -732,6 +732,70 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902647413,
+   "home": "RSC Anderlecht (W)",
+   "away": "Club Brugge (W)",
+   "league": "Super League Women",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 21:00",
+   "kickoff_utc": "2026-11-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "odd_even",
+    "ou35",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pbx_sbh_t1"
+   ]
+  },
+  {
+   "id": 902658572,
+   "home": "Atletico Malagueno",
+   "away": "Arenas de Armilla",
+   "league": "Tercera Div. RFEF Group 9",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 21:00",
+   "kickoff_utc": "2026-11-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902650635,
+   "home": "FC 03 Differdange (W)",
+   "away": "Bettembourg (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 21:00",
+   "kickoff_utc": "2026-11-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 22:36",
- "count": 39,
+ "updated_utc": "2026-11-14 22:51",
+ "count": 38,
  "matches": [
   {
    "id": 902629192,
@@ -357,25 +357,6 @@
    ]
   },
   {
-   "id": 902655165,
-   "home": "FC Salzburg (W)",
-   "away": "FK Austria Vienna (W)",
-   "league": "Bundesliga Women",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902631461,
    "home": "Llantwit Major",
    "away": "Cardiff Draconians",
@@ -407,6 +388,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902655165,
+   "home": "FC Salzburg (W)",
+   "away": "FK Austria Vienna (W)",
+   "league": "Bundesliga Women",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
    ]
   },
   {
@@ -579,8 +578,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "double_chance",
     "over_under_1_5",
     "over_under_2_5"
    ]
@@ -620,7 +617,6 @@
    ],
    "markets": [
     "1x2",
-    "competitor2_total_5_5",
     "dc",
     "pb_cor_ou_t2_7"
    ],
@@ -678,7 +674,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
    ]
   },
@@ -698,28 +693,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902635081,
-   "home": "Universitario Deportes (W)",
-   "away": "Alianza Lima (W)",
-   "league": "Campeonato Nacional Women",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 23:00",
-   "kickoff_utc": "2026-11-14 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_1_5",
-    "1x2",
-    "double_chance",
-    "over_under_3_5",
-    "pbx_bts_h2"
    ]
   }
  ]

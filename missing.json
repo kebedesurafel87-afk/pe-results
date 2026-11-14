@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 13:50",
- "count": 19,
+ "updated_utc": "2026-11-14 14:05",
+ "count": 20,
  "matches": [
   {
    "id": 902629569,
@@ -343,6 +343,24 @@
     "1x2",
     "both_teams_to_score",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902640762,
+   "home": "Dukla Praha B U20",
+   "away": "Povltavska FA",
+   "league": "3rd League",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 14:30",
+   "kickoff_utc": "2026-11-14 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_3_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 20:51",
- "count": 42,
+ "updated_utc": "2026-11-14 21:06",
+ "count": 41,
  "matches": [
   {
    "id": 902629192,
@@ -251,23 +251,6 @@
    ]
   },
   {
-   "id": 902651789,
-   "home": "AFC Amsterdamsche U21",
-   "away": "ADO Den Haag U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:15",
-   "kickoff_utc": "2026-11-14 11:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902653822,
    "home": "Kallithea U19",
    "away": "Zakynthos U19",
@@ -311,23 +294,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-14 15:00",
    "kickoff_utc": "2026-11-14 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902645175,
-   "home": "Afragolese",
-   "away": "ASD Monastir",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:00",
-   "kickoff_utc": "2026-11-14 13:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -601,9 +567,7 @@
     "btts",
     "dc",
     "double_chance",
-    "ou15",
-    "over_under_1_5",
-    "pbx_dc_h2"
+    "over_under_1_5"
    ]
   },
   {
@@ -660,7 +624,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
     "ou35",
@@ -752,13 +715,28 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "double_chance",
     "odd_even",
     "ou35",
     "over_under_1_5",
     "over_under_2_5",
-    "over_under_3_5",
-    "pbx_sbh_t1"
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902658572,
+   "home": "Atletico Malagueno",
+   "away": "Arenas de Armilla",
+   "league": "Tercera Div. RFEF Group 9",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 21:00",
+   "kickoff_utc": "2026-11-14 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   },
   {
@@ -780,21 +758,22 @@
    ]
   },
   {
-   "id": 902658572,
-   "home": "Atletico Malagueno",
-   "away": "Arenas de Armilla",
-   "league": "Tercera Div. RFEF Group 9",
-   "country": "Spain",
+   "id": 902650510,
+   "home": "Union Titus Petange",
+   "away": "Koeppchen Wormeldange",
+   "league": "Division of Honour",
+   "country": "Luxembourg",
    "sport": "football",
-   "kickoff_eat": "2026-11-14 21:00",
-   "kickoff_utc": "2026-11-14 18:00",
+   "kickoff_eat": "2026-11-14 21:30",
+   "kickoff_utc": "2026-11-14 18:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
-    "over_under_1_5"
+    "dc",
+    "double_chance"
    ]
   }
  ]

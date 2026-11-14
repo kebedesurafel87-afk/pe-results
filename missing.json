@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 13:05",
- "count": 15,
+ "updated_utc": "2026-11-14 13:20",
+ "count": 14,
  "matches": [
   {
    "id": 902629569,
@@ -163,26 +163,7 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902651062,
-   "home": "YoungHeart Manawatu",
-   "away": "Elite Kings FC",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 12:00",
-   "kickoff_utc": "2026-11-14 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou25"
    ]
   },
   {

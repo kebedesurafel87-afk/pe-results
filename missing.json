@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 12:05",
- "count": 11,
+ "updated_utc": "2026-11-14 12:35",
+ "count": 14,
  "matches": [
   {
    "id": 902629569,
@@ -202,6 +202,57 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902650224,
+   "home": "Athletico Abidjan (w)",
+   "away": "Buyo FC (W)",
+   "league": "League 1 Women",
+   "country": "Ivory Coast",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 13:00",
+   "kickoff_utc": "2026-11-14 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902647414,
+   "home": "MSP Batna U20",
+   "away": "Amal Bou Saada U20",
+   "league": "Algeria U20 Cup",
+   "country": "Algeria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 13:00",
+   "kickoff_utc": "2026-11-14 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902650760,
+   "home": "Tatran (W)",
+   "away": "Slovan Bratislava (W)",
+   "league": "1st League Women",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 13:00",
+   "kickoff_utc": "2026-11-14 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

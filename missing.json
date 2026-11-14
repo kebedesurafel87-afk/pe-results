@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 12:35",
- "count": 14,
+ "updated_utc": "2026-11-14 13:05",
+ "count": 15,
  "matches": [
   {
    "id": 902629569,
@@ -162,7 +162,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
@@ -253,6 +252,27 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902621326,
+   "home": "Sparta Rotterdam U19",
+   "away": "NEC U19",
+   "league": "Eredivisie U19",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 13:30",
+   "kickoff_utc": "2026-11-14 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "odd_even"
    ]
   }
  ]

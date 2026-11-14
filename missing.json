@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 16:36",
- "count": 34,
+ "updated_utc": "2026-11-14 16:51",
+ "count": 35,
  "matches": [
   {
    "id": 902629569,
@@ -423,7 +423,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc"
    ]
   },
@@ -609,6 +608,24 @@
     "1x2",
     "both_teams_to_score",
     "dc"
+   ]
+  },
+  {
+   "id": 902654309,
+   "home": "Al Jazira Abu Dhabi",
+   "away": "Al Ramms",
+   "league": "President Cup",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:10",
+   "kickoff_utc": "2026-11-14 14:10",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "double_chance"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 17:36",
- "count": 43,
+ "updated_utc": "2026-11-14 17:51",
+ "count": 42,
  "matches": [
   {
    "id": 902629192,
@@ -705,25 +705,6 @@
     "over_under_1_5",
     "over_under_2_5",
     "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902655138,
-   "home": "Cadiz II",
-   "away": "Sevilla III",
-   "league": "Tercera Div. RFEF Group 10",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_1_5"
    ]
   },
   {

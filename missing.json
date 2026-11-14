@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14 18:51",
+ "updated_utc": "2026-11-14 19:06",
  "count": 43,
  "matches": [
   {
@@ -229,7 +229,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "odd_even"
    ]
@@ -240,23 +239,6 @@
    "away": "Quick Boys U21",
    "league": "League U21",
    "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:00",
-   "kickoff_utc": "2026-11-14 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902650759,
-   "home": "Panionios FC U19",
-   "away": "Anagennisi Karditas U19",
-   "league": "Super League 2 U19",
-   "country": "Greece",
    "sport": "football",
    "kickoff_eat": "2026-11-14 14:00",
    "kickoff_utc": "2026-11-14 11:00",
@@ -335,23 +317,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902654306,
-   "home": "Goias EC U20",
-   "away": "Cerrado EC U20",
-   "league": "Copa Goias U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 15:30",
-   "kickoff_utc": "2026-11-14 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {
@@ -479,8 +444,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -517,45 +481,6 @@
     "1x2",
     "both_teams_to_score"
    ]
-  },
-  {
-   "id": 902654309,
-   "home": "Al Jazira Abu Dhabi",
-   "away": "Al Ramms",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:10",
-   "kickoff_utc": "2026-11-14 14:10",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902566171,
-   "home": "Milton Keynes Dons",
-   "away": "Burton Albion",
-   "league": "EFL League One",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pb_cor_ou_8_5"
-   ],
-   "stored_ft": "2-2"
   },
   {
    "id": 902638151,
@@ -634,7 +559,6 @@
     "both_teams_to_score",
     "competitor2_total_0_5",
     "dc",
-    "over_under_0_5",
     "over_under_1_5"
    ]
   },
@@ -656,7 +580,6 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "over_under_1_5",
     "over_under_2_5"
    ]
   },
@@ -791,6 +714,90 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902644528,
+   "home": "Villarreal III",
+   "away": "Atletico Torrellano",
+   "league": "Tercera Div. RFEF Group 6",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:30",
+   "kickoff_utc": "2026-11-14 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
+   ]
+  },
+  {
+   "id": 902631133,
+   "home": "Audace Cerignola",
+   "away": "Inter Milan U23",
+   "league": "Serie C Group C",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:30",
+   "kickoff_utc": "2026-11-14 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902631095,
+   "home": "Atalanta U23",
+   "away": "Asd Pineto Calcio",
+   "league": "Serie C Group B",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:30",
+   "kickoff_utc": "2026-11-14 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou35",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902655374,
+   "home": "Laredo",
+   "away": "Torina",
+   "league": "Tercera Div. RFEF Group 3",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 19:30",
+   "kickoff_utc": "2026-11-14 16:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc"
    ]
   }
  ]

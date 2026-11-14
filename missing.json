@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 19:06",
- "count": 43,
+ "updated_utc": "2026-11-14 19:36",
+ "count": 44,
  "matches": [
   {
    "id": 902629192,
@@ -430,24 +430,6 @@
    ]
   },
   {
-   "id": 902651079,
-   "home": "Willem II U21",
-   "away": "Go Ahead Eagles U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902631461,
    "home": "Llantwit Major",
    "away": "Cardiff Draconians",
@@ -470,6 +452,23 @@
    "away": "Gazelec Ajaccio U19",
    "league": "League U19",
    "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 17:00",
+   "kickoff_utc": "2026-11-14 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902651079,
+   "home": "Willem II U21",
+   "away": "Go Ahead Eagles U21",
+   "league": "League U21",
+   "country": "Netherlands",
    "sport": "football",
    "kickoff_eat": "2026-11-14 17:00",
    "kickoff_utc": "2026-11-14 14:00",
@@ -604,25 +603,7 @@
     "double_chance",
     "ou15",
     "over_under_1_5",
-    "over_under_2_5",
     "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902656104,
-   "home": "Shepshed Dynamo",
-   "away": "Boston Town",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -717,25 +698,6 @@
    ]
   },
   {
-   "id": 902644528,
-   "home": "Villarreal III",
-   "away": "Atletico Torrellano",
-   "league": "Tercera Div. RFEF Group 6",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 19:30",
-   "kickoff_utc": "2026-11-14 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc"
-   ]
-  },
-  {
    "id": 902631133,
    "home": "Audace Cerignola",
    "away": "Inter Milan U23",
@@ -750,12 +712,10 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_1_5",
-    "over_under_2_5",
-    "pbx_tgbts_2_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -795,10 +755,76 @@
     "ft"
    ],
    "markets": [
+    "btts"
+   ]
+  },
+  {
+   "id": 902651104,
+   "home": "SC Villa (Ire)",
+   "away": "Killarney Celtic",
+   "league": "National League",
+   "country": "Ireland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 20:00",
+   "kickoff_utc": "2026-11-14 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "1x2",
     "btts",
-    "dc"
+    "pbx_rtg_2_5"
    ]
+  },
+  {
+   "id": 902640913,
+   "home": "Bethune",
+   "away": "Nancy",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 20:00",
+   "kickoff_utc": "2026-11-14 17:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_1",
+    "1x2",
+    "2nd_half_3_way",
+    "3_way",
+    "btts",
+    "competitor2_total_5_5",
+    "dc",
+    "over_under_3_5",
+    "pb_cor_ou_t2_7"
+   ]
+  },
+  {
+   "id": 902640914,
+   "home": "USL Dunkerque",
+   "away": "US Quevilly",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 20:00",
+   "kickoff_utc": "2026-11-14 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "0-3"
   }
  ]
 }

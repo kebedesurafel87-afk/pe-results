@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-14 19:51",
+ "updated_utc": "2026-11-14 20:06",
  "count": 41,
  "matches": [
   {
@@ -686,23 +686,6 @@
    ]
   },
   {
-   "id": 902655374,
-   "home": "Laredo",
-   "away": "Torina",
-   "league": "Tercera Div. RFEF Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 19:30",
-   "kickoff_utc": "2026-11-14 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
    "id": 902651104,
    "home": "SC Villa (Ire)",
    "away": "Killarney Celtic",
@@ -730,10 +713,9 @@
    "sport": "football",
    "kickoff_eat": "2026-11-14 20:00",
    "kickoff_utc": "2026-11-14 17:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
     "corners",
-    "ft",
     "ht"
    ],
    "markets": [
@@ -746,7 +728,8 @@
     "dc",
     "over_under_3_5",
     "pb_cor_ou_t2_7"
-   ]
+   ],
+   "stored_ft": "6-7"
   },
   {
    "id": 902640914,
@@ -769,6 +752,24 @@
     "pb_cor_ou_9_5"
    ],
    "stored_ft": "0-3"
+  },
+  {
+   "id": 902653594,
+   "home": "Queretaro U19",
+   "away": "Monterrey U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-14 20:30",
+   "kickoff_utc": "2026-11-14 17:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
   }
  ]
 }

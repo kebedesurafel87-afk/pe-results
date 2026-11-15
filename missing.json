@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 12:07",
- "count": 31,
+ "updated_utc": "2026-11-15 12:37",
+ "count": 33,
  "matches": [
   {
    "id": 902629192,
@@ -488,23 +488,6 @@
    ]
   },
   {
-   "id": 902654954,
-   "home": "Gulele (w)",
-   "away": "Lideta Sub City (w)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 10:00",
-   "kickoff_utc": "2026-11-15 07:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
-   ]
-  },
-  {
    "id": 902654323,
    "home": "Sagesse SC U20",
    "away": "Racing Beirut U20",
@@ -555,6 +538,66 @@
    "markets": [
     "1x2",
     "over_under_5_5"
+   ]
+  },
+  {
+   "id": 902655006,
+   "home": "Panserraikos U19",
+   "away": "Niki Volou U19",
+   "league": "Super League 2 U19",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 13:00",
+   "kickoff_utc": "2026-11-15 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902654962,
+   "home": "Stade de Reims U19",
+   "away": "Clermont U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 13:00",
+   "kickoff_utc": "2026-11-15 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_3_5",
+    "pbx_weh_t1"
+   ]
+  },
+  {
+   "id": 902654964,
+   "home": "SA Merignac U19",
+   "away": "Lorient U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 13:00",
+   "kickoff_utc": "2026-11-15 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "over_under_1_5",
+    "over_under_4_5"
    ]
   }
  ]

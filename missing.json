@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 21:53",
- "count": 47,
+ "updated_utc": "2026-11-15 22:08",
+ "count": 45,
  "matches": [
   {
    "id": 902629192,
@@ -770,24 +770,6 @@
    ]
   },
   {
-   "id": 902662907,
-   "home": "Somozas",
-   "away": "Estradense",
-   "league": "Tercera Div. RFEF Group 1",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 19:00",
-   "kickoff_utc": "2026-11-15 16:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way"
-   ],
-   "stored_ft": "3-1"
-  },
-  {
    "id": 902662026,
    "home": "CRB U20",
    "away": "CS Alagoano U20",
@@ -805,26 +787,6 @@
     "both_teams_to_score",
     "double_chance",
     "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902659196,
-   "home": "Club Olimpia (W)",
-   "away": "Sportivo San Lorenzo (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 22:00",
-   "kickoff_utc": "2026-11-15 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_3_5",
-    "over_under_4_5"
    ]
   },
   {

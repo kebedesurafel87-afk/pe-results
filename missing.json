@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 14:07",
- "count": 32,
+ "updated_utc": "2026-11-15 15:07",
+ "count": 34,
  "matches": [
   {
    "id": 902629192,
@@ -568,6 +568,43 @@
    "sport": "football",
    "kickoff_eat": "2026-11-15 14:00",
    "kickoff_utc": "2026-11-15 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902650499,
+   "home": "SCR Altach Juniors",
+   "away": "Wolfurt",
+   "league": "Regionalliga West",
+   "country": "Austria",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 15:30",
+   "kickoff_utc": "2026-11-15 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902658857,
+   "home": "ZFK Junajted Struga (W)",
+   "away": "ZFK Kocani (W)",
+   "league": "Prva Liga Women",
+   "country": "North Macedonia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 15:30",
+   "kickoff_utc": "2026-11-15 12:30",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 17:38",
- "count": 48,
+ "updated_utc": "2026-11-15 17:53",
+ "count": 47,
  "matches": [
   {
    "id": 902629192,
@@ -597,68 +597,6 @@
    ]
   },
   {
-   "id": 902654963,
-   "home": "Nice U19",
-   "away": "Olympique Marseille U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_2_0",
-    "over_under_1_5",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902654956,
-   "home": "Versailles U19",
-   "away": "Amiens U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_1_5",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902654958,
-   "home": "Orleans U19",
-   "away": "Chartres U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902654957,
    "home": "Lens U19",
    "away": "Rouen U19",
@@ -675,7 +613,6 @@
     "1x2",
     "dc",
     "double_chance",
-    "over_under_1_5",
     "over_under_4_5"
    ]
   },
@@ -695,7 +632,6 @@
    "markets": [
     "1x2",
     "dc",
-    "over_under_1_5",
     "over_under_4_5"
    ]
   },
@@ -732,14 +668,13 @@
    ],
    "markets": [
     "1x2",
-    "handicap_hcp_0_3",
-    "over_under_1_5"
+    "handicap_hcp_0_3"
    ]
   },
   {
-   "id": 902654959,
-   "home": "Balma SC U19",
-   "away": "Cavigal Nice SF U19",
+   "id": 902654956,
+   "home": "Versailles U19",
+   "away": "Amiens U19",
    "league": "League U19",
    "country": "France",
    "sport": "football",
@@ -750,9 +685,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_1_5",
-    "over_under_4_5"
+    "over_under_3_5"
    ]
   },
   {
@@ -789,7 +722,6 @@
    ],
    "markets": [
     "1x2",
-    "over_under_1_5",
     "over_under_4_5"
    ]
   },
@@ -812,24 +744,6 @@
    ]
   },
   {
-   "id": 902658596,
-   "home": "Mondercange",
-   "away": "SC Bettembourg",
-   "league": "Division of Honour",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:00",
-   "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902658597,
    "home": "FC Lorentzweiler",
    "away": "FC Berdenia Berbourg",
@@ -843,8 +757,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "double_chance"
+    "1x2"
    ]
   },
   {
@@ -877,6 +790,59 @@
    "sport": "football",
    "kickoff_eat": "2026-11-15 18:00",
    "kickoff_utc": "2026-11-15 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902658596,
+   "home": "Mondercange",
+   "away": "SC Bettembourg",
+   "league": "Division of Honour",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:00",
+   "kickoff_utc": "2026-11-15 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902661601,
+   "home": "Cosmos Aragon (w)",
+   "away": "Actur Pablo Iglesias (W)",
+   "league": "Tercera Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:15",
+   "kickoff_utc": "2026-11-15 15:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902663013,
+   "home": "AS UAM",
+   "away": "Niima",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:15",
+   "kickoff_utc": "2026-11-15 15:15",
    "status": "no_result",
    "needs": [
     "ft"

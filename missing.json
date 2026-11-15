@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 21:38",
- "count": 49,
+ "updated_utc": "2026-11-15 21:53",
+ "count": 47,
  "matches": [
   {
    "id": 902629192,
@@ -571,7 +571,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "over_under_2_5"
    ]
@@ -733,7 +732,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -772,23 +770,6 @@
    ]
   },
   {
-   "id": 902663014,
-   "home": "Liberia (W)",
-   "away": "San Ramon (W)",
-   "league": "Segunda Division Women",
-   "country": "Costa Rica",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 19:00",
-   "kickoff_utc": "2026-11-15 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902662907,
    "home": "Somozas",
    "away": "Estradense",
@@ -822,28 +803,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
     "double_chance",
     "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902661568,
-   "home": "Petrolina",
-   "away": "Belo Jardim",
-   "league": "Pernambucano",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 22:00",
-   "kickoff_utc": "2026-11-15 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_1_5"
    ]
   },
   {
@@ -857,11 +818,9 @@
    "kickoff_utc": "2026-11-15 19:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "both_teams_to_score",
     "over_under_3_5",
@@ -879,11 +838,9 @@
    "kickoff_utc": "2026-11-15 19:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "dc",
     "over_under_2_5"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 07:07",
- "count": 29,
+ "updated_utc": "2026-11-15 07:22",
+ "count": 28,
  "matches": [
   {
    "id": 902629192,
@@ -502,23 +502,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902655009,
-   "home": "Imabari (W)",
-   "away": "Renofa Yamaguchi (W)",
-   "league": "Japan Cup Women",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 07:30",
-   "kickoff_utc": "2026-11-15 04:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_1_5"
    ]
   }
  ]

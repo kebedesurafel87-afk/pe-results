@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 16:07",
- "count": 48,
+ "updated_utc": "2026-11-15 16:37",
+ "count": 46,
  "matches": [
   {
    "id": 902629192,
@@ -757,23 +757,6 @@
    ]
   },
   {
-   "id": 902645049,
-   "home": "ACSD Saluzzo",
-   "away": "Valenzana",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902654961,
    "home": "Troyes U19",
    "away": "Paris U19",
@@ -793,45 +776,9 @@
    ]
   },
   {
-   "id": 902645014,
-   "home": "Calvi Noale",
-   "away": "Unione La Rocca Altavilla",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902645178,
-   "home": "Celle Varazze FBC",
-   "away": "Millesimo",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902645045,
-   "home": "Ligorna",
-   "away": "ASD Imperia",
+   "id": 902645049,
+   "home": "ACSD Saluzzo",
+   "away": "Valenzana",
    "league": "Serie D",
    "country": "Italy",
    "sport": "football",
@@ -843,23 +790,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902645147,
-   "home": "Virtus Bergamo",
-   "away": "Scanzorosciate",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   },
   {
@@ -879,6 +809,43 @@
     "1x2",
     "over_under_1_5",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902645012,
+   "home": "Maceratese",
+   "away": "Giulianova Calcio",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 17:00",
+   "kickoff_utc": "2026-11-15 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts"
+   ]
+  },
+  {
+   "id": 902644383,
+   "home": "Standard Liege II",
+   "away": "Royale Union Saint-Gilloise II",
+   "league": "First Amateur Division",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 17:00",
+   "kickoff_utc": "2026-11-15 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

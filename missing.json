@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 15:07",
- "count": 34,
+ "updated_utc": "2026-11-15 15:22",
+ "count": 33,
  "matches": [
   {
    "id": 902629192,
@@ -557,23 +557,6 @@
     "both_teams_to_score",
     "dc",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902657504,
-   "home": "Zfk T6 Nika (W)",
-   "away": "ZFK Partizan Sloga (W)",
-   "league": "First League Women",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 14:00",
-   "kickoff_utc": "2026-11-15 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

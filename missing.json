@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 07:37",
- "count": 27,
+ "updated_utc": "2026-11-15 09:37",
+ "count": 28,
  "matches": [
   {
    "id": 902629192,
@@ -485,6 +485,24 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902654954,
+   "home": "Gulele (w)",
+   "away": "Lideta Sub City (w)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 10:00",
+   "kickoff_utc": "2026-11-15 07:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "double_chance"
    ]
   }
  ]

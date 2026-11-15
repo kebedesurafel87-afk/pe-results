@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 17:53",
- "count": 47,
+ "updated_utc": "2026-11-15 18:08",
+ "count": 48,
  "matches": [
   {
    "id": 902629192,
@@ -612,7 +612,6 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
     "over_under_4_5"
    ]
   },
@@ -776,7 +775,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
     "over_under_1_5",
     "over_under_4_5"
    ]
@@ -797,23 +795,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902658596,
-   "home": "Mondercange",
-   "away": "SC Bettembourg",
-   "league": "Division of Honour",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:00",
-   "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   },
   {
@@ -849,6 +830,41 @@
    ],
    "markets": [
     "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902662951,
+   "home": "Bembibre",
+   "away": "Cultural Leonesa II",
+   "league": "Tercera Div. RFEF Group 8",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:30",
+   "kickoff_utc": "2026-11-15 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902635614,
+   "home": "Benfica II",
+   "away": "AVS",
+   "league": "Segunda Division",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:30",
+   "kickoff_utc": "2026-11-15 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 19:53",
- "count": 48,
+ "updated_utc": "2026-11-15 20:08",
+ "count": 45,
  "matches": [
   {
    "id": 902629192,
@@ -609,7 +609,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "over_under_4_5"
    ]
@@ -646,7 +645,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "over_under_4_5"
    ]
   },
@@ -722,25 +720,6 @@
    ]
   },
   {
-   "id": 902655015,
-   "home": "Strasbourg U19",
-   "away": "Auxerre U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:00",
-   "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5",
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902658595,
    "home": "CS Fola Esch",
    "away": "Union Remich/Bous",
@@ -767,23 +746,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-15 18:00",
    "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902661601,
-   "home": "Cosmos Aragon (w)",
-   "away": "Actur Pablo Iglesias (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:15",
-   "kickoff_utc": "2026-11-15 15:15",
    "status": "no_result",
    "needs": [
     "ft"
@@ -840,64 +802,9 @@
     "ht"
    ],
    "markets": [
-    "1st_half_3_way",
-    "dc"
+    "1st_half_3_way"
    ],
    "stored_ft": "3-1"
-  },
-  {
-   "id": 902629102,
-   "home": "Belarus",
-   "away": "Albania",
-   "league": "UEFA Nations League C",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 20:00",
-   "kickoff_utc": "2026-11-15 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "cards",
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1st_half_double_chance",
-    "1x2",
-    "2nd_half_over_under_2_5",
-    "3_way",
-    "both_teams_to_score",
-    "competitor1_highest_scoring_half",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "competitor2_total_0_5",
-    "competitor2_total_1_5",
-    "correct_score",
-    "dc",
-    "double_chance",
-    "double_chance_both_teams_to_score",
-    "double_chance_over_under_1_5",
-    "double_chance_over_under_4_5",
-    "draw_no_bet",
-    "highest_scoring_half",
-    "ou15",
-    "ou25",
-    "over_under_1_5",
-    "over_under_2_5",
-    "pb_cor_1x2",
-    "pb_cor_1x2_h2",
-    "pb_cor_ou_7_5",
-    "pb_cor_ou_t1_2_5",
-    "pb_cor_ou_t1_3_5",
-    "pb_cor_ou_t1_h1_1_5",
-    "pb_cor_ou_t2_3_5",
-    "pb_cor_ou_t2_4_5",
-    "pb_y_1x2",
-    "pb_y_ou_5_5",
-    "pbx_rtgnlo_t2_1_5",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "0-2"
   }
  ]
 }

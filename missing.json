@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 20:38",
- "count": 46,
+ "updated_utc": "2026-11-15 21:38",
+ "count": 49,
  "matches": [
   {
    "id": 902629192,
@@ -824,9 +824,69 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "handicap_hcp_0_1",
-    "pbx_bts_h2",
     "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902661568,
+   "home": "Petrolina",
+   "away": "Belo Jardim",
+   "league": "Pernambucano",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 22:00",
+   "kickoff_utc": "2026-11-15 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902659196,
+   "home": "Club Olimpia (W)",
+   "away": "Sportivo San Lorenzo (W)",
+   "league": "Copa EFE Women",
+   "country": "Paraguay",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 22:00",
+   "kickoff_utc": "2026-11-15 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "over_under_3_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902662839,
+   "home": "El Salvador U19 (W)",
+   "away": "Nicaragua U19 (W)",
+   "league": "Friendly Internationals U19 Women",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 22:00",
+   "kickoff_utc": "2026-11-15 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "dc",
+    "over_under_2_5"
    ]
   }
  ]

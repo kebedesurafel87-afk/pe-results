@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 15:37",
- "count": 36,
+ "updated_utc": "2026-11-15 16:07",
+ "count": 48,
  "matches": [
   {
    "id": 902629192,
@@ -554,9 +554,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
+    "dc"
    ]
   },
   {
@@ -597,28 +595,6 @@
    ]
   },
   {
-   "id": 902655431,
-   "home": "Scotland U21",
-   "away": "USA U21",
-   "league": "Friendly Internationals U21",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:00",
-   "kickoff_utc": "2026-11-15 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902654326,
    "home": "Mechal FC (w)",
    "away": "Ethiopia Nigd Bank (W)",
@@ -633,7 +609,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_1_5",
@@ -658,6 +633,252 @@
     "1x2",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902654963,
+   "home": "Nice U19",
+   "away": "Olympique Marseille U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "handicap_hcp_2_0",
+    "over_under_1_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902654956,
+   "home": "Versailles U19",
+   "away": "Amiens U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_1_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902654958,
+   "home": "Orleans U19",
+   "away": "Chartres U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902654957,
+   "home": "Lens U19",
+   "away": "Rouen U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902654960,
+   "home": "Racing Paris U19",
+   "away": "USL Dunkerque U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_1_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902645011,
+   "home": "San Nicolo",
+   "away": "Sporting Trestina",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902645049,
+   "home": "ACSD Saluzzo",
+   "away": "Valenzana",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902654961,
+   "home": "Troyes U19",
+   "away": "Paris U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "handicap_hcp_0_3",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902645014,
+   "home": "Calvi Noale",
+   "away": "Unione La Rocca Altavilla",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902645178,
+   "home": "Celle Varazze FBC",
+   "away": "Millesimo",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902645045,
+   "home": "Ligorna",
+   "away": "ASD Imperia",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902645147,
+   "home": "Virtus Bergamo",
+   "away": "Scanzorosciate",
+   "league": "Serie D",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902654959,
+   "home": "Balma SC U19",
+   "away": "Cavigal Nice SF U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:30",
+   "kickoff_utc": "2026-11-15 13:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5",
+    "over_under_4_5"
    ]
   }
  ]

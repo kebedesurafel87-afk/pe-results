@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 15:22",
- "count": 33,
+ "updated_utc": "2026-11-15 15:37",
+ "count": 36,
  "matches": [
   {
    "id": 902629192,
@@ -594,6 +594,70 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902655431,
+   "home": "Scotland U21",
+   "away": "USA U21",
+   "league": "Friendly Internationals U21",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:00",
+   "kickoff_utc": "2026-11-15 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902654326,
+   "home": "Mechal FC (w)",
+   "away": "Ethiopia Nigd Bank (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:00",
+   "kickoff_utc": "2026-11-15 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pbx_rtg_4_5"
+   ]
+  },
+  {
+   "id": 902654327,
+   "home": "Yirga Chefe Bunna (w)",
+   "away": "Tirunesh Dibaba Sports Academy (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 16:00",
+   "kickoff_utc": "2026-11-15 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

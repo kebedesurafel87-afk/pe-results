@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 00:06",
- "count": 27,
+ "updated_utc": "2026-11-15 03:06",
+ "count": 28,
  "matches": [
   {
    "id": 902629192,
@@ -447,7 +447,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "odd_even",
     "over_under_2_5",
     "over_under_3_5"
@@ -486,6 +485,23 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902658881,
+   "home": "PR San Juan",
+   "away": "Metropolitan",
+   "league": "National League",
+   "country": "Puerto Rico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 03:30",
+   "kickoff_utc": "2026-11-15 00:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "competitor2_total_4_5"
    ]
   }
  ]

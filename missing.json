@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 17:22",
- "count": 45,
+ "updated_utc": "2026-11-15 17:38",
+ "count": 48,
  "matches": [
   {
    "id": 902629192,
@@ -578,23 +578,6 @@
    ]
   },
   {
-   "id": 902658857,
-   "home": "ZFK Junajted Struga (W)",
-   "away": "ZFK Kocani (W)",
-   "league": "Prva Liga Women",
-   "country": "North Macedonia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 15:30",
-   "kickoff_utc": "2026-11-15 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902654327,
    "home": "Yirga Chefe Bunna (w)",
    "away": "Tirunesh Dibaba Sports Academy (W)",
@@ -819,6 +802,81 @@
    "sport": "football",
    "kickoff_eat": "2026-11-15 17:30",
    "kickoff_utc": "2026-11-15 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902658596,
+   "home": "Mondercange",
+   "away": "SC Bettembourg",
+   "league": "Division of Honour",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:00",
+   "kickoff_utc": "2026-11-15 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902658597,
+   "home": "FC Lorentzweiler",
+   "away": "FC Berdenia Berbourg",
+   "league": "Division of Honour",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:00",
+   "kickoff_utc": "2026-11-15 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902655015,
+   "home": "Strasbourg U19",
+   "away": "Auxerre U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:00",
+   "kickoff_utc": "2026-11-15 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_1_5",
+    "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902658595,
+   "home": "CS Fola Esch",
+   "away": "Union Remich/Bous",
+   "league": "Division of Honour",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 18:00",
+   "kickoff_utc": "2026-11-15 15:00",
    "status": "no_result",
    "needs": [
     "ft"

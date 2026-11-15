@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-14 23:36",
- "count": 38,
+ "updated_utc": "2026-11-15 00:06",
+ "count": 27,
  "matches": [
   {
    "id": 902629192,
@@ -181,23 +181,6 @@
    ]
   },
   {
-   "id": 902650760,
-   "home": "Tatran (W)",
-   "away": "Slovan Bratislava (W)",
-   "league": "1st League Women",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 13:00",
-   "kickoff_utc": "2026-11-14 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902621326,
    "home": "Sparta Rotterdam U19",
    "away": "NEC U19",
@@ -260,23 +243,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-14 14:30",
    "kickoff_utc": "2026-11-14 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902650634,
-   "home": "Mladost Lješkopolje",
-   "away": "Berane",
-   "league": "Prva Crnogorska Liga",
-   "country": "Montenegro",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 15:00",
-   "kickoff_utc": "2026-11-14 12:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -357,23 +323,6 @@
    ]
   },
   {
-   "id": 902631461,
-   "home": "Llantwit Major",
-   "away": "Cardiff Draconians",
-   "league": "Championship South",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902648716,
    "home": "Montpellier U19",
    "away": "Gazelec Ajaccio U19",
@@ -391,24 +340,6 @@
    ]
   },
   {
-   "id": 902655165,
-   "home": "FC Salzburg (W)",
-   "away": "FK Austria Vienna (W)",
-   "league": "Bundesliga Women",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902651079,
    "home": "Willem II U21",
    "away": "Go Ahead Eagles U21",
@@ -423,144 +354,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902638151,
-   "home": "Curzon Ashton",
-   "away": "Quorn",
-   "league": "Northern Premier League",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902636636,
-   "home": "Alvechurch",
-   "away": "Hitchin Town",
-   "league": "Southern Premier League Central",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902566168,
-   "home": "Doncaster Rovers",
-   "away": "Leyton Orient",
-   "league": "EFL League One",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "dc",
-    "ou15",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902566188,
-   "home": "Stevenage Borough",
-   "away": "Mansfield Town",
-   "league": "EFL League One",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor2_total_0_5",
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902568284,
-   "home": "Wycombe Wanderers",
-   "away": "Huddersfield Town",
-   "league": "EFL League One",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902566519,
-   "home": "Walsall",
-   "away": "Barnet",
-   "league": "EFL League Two",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902566212,
-   "home": "Leicester City",
-   "away": "Bradford City",
-   "league": "EFL League One",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 18:00",
-   "kickoff_utc": "2026-11-14 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

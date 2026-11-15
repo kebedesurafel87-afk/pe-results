@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 03:36",
- "count": 27,
+ "updated_utc": "2026-11-15 06:37",
+ "count": 28,
  "matches": [
   {
    "id": 902629192,
@@ -484,6 +484,23 @@
    ],
    "markets": [
     "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902648715,
+   "home": "Broadmeadow Magic",
+   "away": "Avondale Heights SC",
+   "league": "Australia Championship",
+   "country": "Australia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 07:00",
+   "kickoff_utc": "2026-11-15 04:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "dc"
    ]
   }

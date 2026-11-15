@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 13:37",
- "count": 34,
+ "updated_utc": "2026-11-15 14:07",
+ "count": 32,
  "matches": [
   {
    "id": 902629192,
@@ -537,46 +537,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902654962,
-   "home": "Stade de Reims U19",
-   "away": "Clermont U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 13:00",
-   "kickoff_utc": "2026-11-15 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902654964,
-   "home": "SA Merignac U19",
-   "away": "Lorient U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 13:00",
-   "kickoff_utc": "2026-11-15 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "over_under_1_5",
-    "over_under_4_5"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 20:08",
- "count": 45,
+ "updated_utc": "2026-11-15 20:23",
+ "count": 46,
  "matches": [
   {
    "id": 902629192,
@@ -805,6 +805,30 @@
     "1st_half_3_way"
    ],
    "stored_ft": "3-1"
+  },
+  {
+   "id": 902662026,
+   "home": "CRB U20",
+   "away": "CS Alagoano U20",
+   "league": "Copa Alagoas U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 20:45",
+   "kickoff_utc": "2026-11-15 17:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "over_under_2_5",
+    "pbx_bts_h2",
+    "pbx_dc_h2"
+   ]
   }
  ]
 }

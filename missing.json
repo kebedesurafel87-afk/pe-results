@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 16:37",
- "count": 46,
+ "updated_utc": "2026-11-15 16:52",
+ "count": 44,
  "matches": [
   {
    "id": 902629192,
@@ -776,23 +776,6 @@
    ]
   },
   {
-   "id": 902645049,
-   "home": "ACSD Saluzzo",
-   "away": "Valenzana",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902654959,
    "home": "Balma SC U19",
    "away": "Cavigal Nice SF U19",
@@ -809,24 +792,6 @@
     "1x2",
     "over_under_1_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902645012,
-   "home": "Maceratese",
-   "away": "Giulianova Calcio",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 17:00",
-   "kickoff_utc": "2026-11-15 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts"
    ]
   },
   {

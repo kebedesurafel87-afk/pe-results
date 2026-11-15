@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 09:37",
- "count": 28,
+ "updated_utc": "2026-11-15 10:37",
+ "count": 29,
  "matches": [
   {
    "id": 902629192,
@@ -503,6 +503,25 @@
    "markets": [
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902654323,
+   "home": "Sagesse SC U20",
+   "away": "Racing Beirut U20",
+   "league": "Lebanon U20 League",
+   "country": "Lebanon",
+   "sport": "football",
+   "kickoff_eat": "2026-11-15 11:00",
+   "kickoff_utc": "2026-11-15 08:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "ou35"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 00:38",
- "count": 44,
+ "updated_utc": "2026-11-16 01:08",
+ "count": 43,
  "matches": [
   {
    "id": 902629192,
@@ -769,23 +769,6 @@
     "1x2",
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902653612,
-   "home": "Sporting Cristal",
-   "away": "Alianza Atletico",
-   "league": "Copa Peru",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 01:00",
-   "kickoff_utc": "2026-11-15 22:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

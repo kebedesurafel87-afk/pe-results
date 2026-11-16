@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 16:09",
- "count": 34,
+ "updated_utc": "2026-11-16 16:39",
+ "count": 35,
  "matches": [
   {
    "id": 902650224,
@@ -620,6 +620,30 @@
     "dc",
     "double_chance",
     "ou25"
+   ]
+  },
+  {
+   "id": 902665476,
+   "home": "Chile U20",
+   "away": "Mexico U20",
+   "league": "Friendly Internationals U20",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-16 17:00",
+   "kickoff_utc": "2026-11-16 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "odd_even",
+    "ou15",
+    "over_under_1_5",
+    "over_under_4_5"
    ]
   }
  ]

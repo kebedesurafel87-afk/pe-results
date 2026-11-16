@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-16 19:55",
+ "updated_utc": "2026-11-16 20:10",
  "count": 36,
  "matches": [
   {
@@ -545,7 +545,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance"
    ]
@@ -566,7 +565,6 @@
    ],
    "markets": [
     "1st_half_both_teams_to_score",
-    "1st_half_over_under_2_5",
     "1x2",
     "3_way",
     "both_teams_to_score",
@@ -645,7 +643,6 @@
    "kickoff_utc": "2026-11-16 17:00",
    "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
     "corners_h1"
    ],
    "markets": [

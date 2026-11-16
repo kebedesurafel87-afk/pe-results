@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 17:09",
- "count": 37,
+ "updated_utc": "2026-11-16 17:24",
+ "count": 36,
  "matches": [
   {
    "id": 902650224,
@@ -621,33 +621,6 @@
    ]
   },
   {
-   "id": 902654972,
-   "home": "Colombe du Dja et Lobo",
-   "away": "Dynamo de Douala",
-   "league": "Elite One",
-   "country": "Cameroon",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 17:30",
-   "kickoff_utc": "2026-11-16 14:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_1_5",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_h1_4"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
    "id": 902664027,
    "home": "Al-Arabi Doha B",
    "away": "Al-Ahli Doha B",
@@ -685,7 +658,6 @@
    ],
    "markets": [
     "1x2",
-    "double_chance",
     "ou25",
     "over_under_2_5",
     "pbx_oe_h1"

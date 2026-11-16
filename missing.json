@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-15 23:08",
- "count": 45,
+ "updated_utc": "2026-11-16 00:08",
+ "count": 43,
  "matches": [
   {
    "id": 902629192,
@@ -540,23 +540,6 @@
    ]
   },
   {
-   "id": 902628689,
-   "home": "Elche II",
-   "away": "Atletico Baleares",
-   "league": "Segunda Division RFEF. Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 13:30",
-   "kickoff_utc": "2026-11-15 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902650499,
    "home": "SCR Altach Juniors",
    "away": "Wolfurt",
@@ -570,7 +553,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "double_chance",
     "over_under_2_5"
    ]
@@ -662,24 +644,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902644383,
-   "home": "Standard Liege II",
-   "away": "Royale Union Saint-Gilloise II",
-   "league": "First Amateur Division",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 17:00",
-   "kickoff_utc": "2026-11-15 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc"
    ]
   },
   {

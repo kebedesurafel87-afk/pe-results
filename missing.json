@@ -1,95 +1,7 @@
 {
- "updated_utc": "2026-11-16 05:53",
- "count": 38,
+ "updated_utc": "2026-11-16 06:08",
+ "count": 30,
  "matches": [
-  {
-   "id": 902642840,
-   "home": "Baynounah SC",
-   "away": "Forte Virtus FC",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 19:00",
-   "kickoff_utc": "2026-11-13 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902620298,
-   "home": "Resovia Rzeszow",
-   "away": "OKS Swit Skolwin",
-   "league": "2nd League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 20:00",
-   "kickoff_utc": "2026-11-13 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902647416,
-   "home": "CA Batna U20",
-   "away": "US Berhoum U20",
-   "league": "Algeria U20 Cup",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 11:00",
-   "kickoff_utc": "2026-11-14 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902640744,
-   "home": "Ceske Budejovice",
-   "away": "Sparta Prague B",
-   "league": "3rd League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 12:30",
-   "kickoff_utc": "2026-11-14 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902647414,
-   "home": "MSP Batna U20",
-   "away": "Amal Bou Saada U20",
-   "league": "Algeria U20 Cup",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 13:00",
-   "kickoff_utc": "2026-11-14 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902650224,
    "home": "Athletico Abidjan (w)",
@@ -158,25 +70,6 @@
    ],
    "markets": [
     "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902648717,
-   "home": "Stade Rennes U19",
-   "away": "Stade Poitevin U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
     "over_under_2_5"
    ]
   },
@@ -321,25 +214,6 @@
    "stored_ft": "0-3"
   },
   {
-   "id": 902647413,
-   "home": "RSC Anderlecht (W)",
-   "away": "Club Brugge (W)",
-   "league": "Super League Women",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 21:00",
-   "kickoff_utc": "2026-11-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "odd_even",
-    "over_under_2_5",
-    "over_under_3_5"
-   ]
-  },
-  {
    "id": 902650635,
    "home": "FC 03 Differdange (W)",
    "away": "Bettembourg (W)",
@@ -357,21 +231,20 @@
    ]
   },
   {
-   "id": 902650510,
-   "home": "Union Titus Petange",
-   "away": "Koeppchen Wormeldange",
-   "league": "Division of Honour",
-   "country": "Luxembourg",
+   "id": 902647413,
+   "home": "RSC Anderlecht (W)",
+   "away": "Club Brugge (W)",
+   "league": "Super League Women",
+   "country": "Belgium",
    "sport": "football",
-   "kickoff_eat": "2026-11-14 21:30",
-   "kickoff_utc": "2026-11-14 18:30",
+   "kickoff_eat": "2026-11-14 21:00",
+   "kickoff_utc": "2026-11-14 18:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "over_under_2_5"
    ]
   },
   {
@@ -442,25 +315,6 @@
    "markets": [
     "double_chance",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902654327,
-   "home": "Yirga Chefe Bunna (w)",
-   "away": "Tirunesh Dibaba Sports Academy (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:00",
-   "kickoff_utc": "2026-11-15 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   },
   {

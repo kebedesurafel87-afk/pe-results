@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 18:24",
- "count": 36,
+ "updated_utc": "2026-11-16 18:39",
+ "count": 35,
  "matches": [
   {
    "id": 902650224,
@@ -599,29 +599,6 @@
    ]
   },
   {
-   "id": 902664027,
-   "home": "Al-Arabi Doha B",
-   "away": "Al-Ahli Doha B",
-   "league": "League 3",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 17:30",
-   "kickoff_utc": "2026-11-16 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "ou25",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902664196,
    "home": "Lusail B",
    "away": "Qatar II",
@@ -636,9 +613,7 @@
    ],
    "markets": [
     "1x2",
-    "ou25",
-    "over_under_2_5",
-    "pbx_oe_h1"
+    "ou25"
    ]
   },
   {

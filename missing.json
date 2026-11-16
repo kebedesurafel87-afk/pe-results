@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 08:09",
- "count": 31,
+ "updated_utc": "2026-11-16 11:39",
+ "count": 32,
  "matches": [
   {
    "id": 902650224,
@@ -546,6 +546,30 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 902651123,
+   "home": "Inhulets",
+   "away": "Probiy Gorodenka",
+   "league": "1st League",
+   "country": "Ukraine",
+   "sport": "football",
+   "kickoff_eat": "2026-11-16 12:00",
+   "kickoff_utc": "2026-11-16 09:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "highest_scoring_half",
+    "over_under_2_5"
+   ],
+   "stored_ft": "1-0"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-16 12:39",
- "count": 34,
+ "updated_utc": "2026-11-16 13:09",
+ "count": 35,
  "matches": [
   {
    "id": 902650224,
@@ -614,6 +614,34 @@
     "double_chance",
     "highest_scoring_half",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902658600,
+   "home": "FC Chernigiv",
+   "away": "Lokomotiv Kyiv",
+   "league": "1st League",
+   "country": "Ukraine",
+   "sport": "football",
+   "kickoff_eat": "2026-11-16 13:30",
+   "kickoff_utc": "2026-11-16 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "odd_even",
+    "over_under_2_5",
+    "pbx_ah_h1_0_5"
    ]
   }
  ]

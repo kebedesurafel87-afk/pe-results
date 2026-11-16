@@ -1,44 +1,7 @@
 {
- "updated_utc": "2026-11-16 02:38",
- "count": 44,
+ "updated_utc": "2026-11-16 05:53",
+ "count": 38,
  "matches": [
-  {
-   "id": 902629192,
-   "home": "Telecom Egypt",
-   "away": "Kahraba Ismailia",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 15:30",
-   "kickoff_utc": "2026-11-13 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902642841,
-   "home": "Dibba Al Hisn",
-   "away": "Al Urooba",
-   "league": "President Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-13 15:45",
-   "kickoff_utc": "2026-11-13 12:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "pbx_weh"
-   ]
-  },
   {
    "id": 902642840,
    "home": "Baynounah SC",
@@ -91,42 +54,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902650636,
-   "home": "Kasem Bundit University (W)",
-   "away": "Chonburi FA (W)",
-   "league": "League Women",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 11:30",
-   "kickoff_utc": "2026-11-14 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902651063,
-   "home": "Yarmanya United FC",
-   "away": "Junior Lions",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 12:00",
-   "kickoff_utc": "2026-11-14 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "over_under_3_5"
    ]
   },
   {
@@ -235,23 +162,6 @@
    ]
   },
   {
-   "id": 902640762,
-   "home": "Dukla Praha B U20",
-   "away": "Povltavska FA",
-   "league": "3rd League",
-   "country": "Czech Republic",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:30",
-   "kickoff_utc": "2026-11-14 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902648717,
    "home": "Stade Rennes U19",
    "away": "Stade Poitevin U19",
@@ -357,25 +267,6 @@
    ]
   },
   {
-   "id": 902631133,
-   "home": "Audace Cerignola",
-   "away": "Inter Milan U23",
-   "league": "Serie C Group C",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 19:30",
-   "kickoff_utc": "2026-11-14 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902631095,
    "home": "Atalanta U23",
    "away": "Asd Pineto Calcio",
@@ -389,10 +280,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "ou35",
-    "over_under_1_5"
+    "1x2"
    ]
   },
   {
@@ -409,7 +297,6 @@
     "corners"
    ],
    "markets": [
-    "1x2",
     "dc",
     "pb_cor_ou_t2_7"
    ],

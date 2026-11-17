@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 21:11",
- "count": 13,
+ "updated_utc": "2026-11-17 21:26",
+ "count": 12,
  "matches": [
   {
    "id": 902621326,
@@ -221,28 +221,6 @@
     "1x2",
     "dc",
     "ou25"
-   ]
-  },
-  {
-   "id": 902671914,
-   "home": "Atletico Goianiense U20",
-   "away": "Trindade U20",
-   "league": "Copa Goias U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 21:00",
-   "kickoff_utc": "2026-11-17 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "over_under_2_5"
    ]
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17 20:26",
+ "updated_utc": "2026-11-17 20:41",
  "count": 13,
  "matches": [
   {
@@ -231,32 +231,26 @@
    ]
   },
   {
-   "id": 902668177,
-   "home": "Ireland U21",
-   "away": "Finland U21",
-   "league": "UEFA Championship U21",
-   "country": "Europe",
+   "id": 902671914,
+   "home": "Atletico Goianiense U20",
+   "away": "Trindade U20",
+   "league": "Copa Goias U20",
+   "country": "Brazil",
    "sport": "football",
-   "kickoff_eat": "2026-11-17 20:45",
-   "kickoff_utc": "2026-11-17 17:45",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-17 21:00",
+   "kickoff_utc": "2026-11-17 18:00",
+   "status": "no_result",
    "needs": [
-    "cards"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
-    "1st_half_double_chance",
-    "1st_half_over_under_1_5",
     "1x2",
+    "3_way",
     "both_teams_to_score",
     "btts",
     "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pb_y_iou_t2_1_5",
-    "pbx_weh_t2"
-   ],
-   "stored_ft": "2-1"
+    "over_under_2_5"
+   ]
   }
  ]
 }

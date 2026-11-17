@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17 20:11",
+ "updated_utc": "2026-11-17 20:26",
  "count": 13,
  "matches": [
   {
@@ -167,26 +167,6 @@
    ]
   },
   {
-   "id": 902669952,
-   "home": "Kirkos FC (W)",
-   "away": "Lemi Kura (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 16:00",
-   "kickoff_utc": "2026-11-17 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902670480,
    "home": "ViOn Zlate Moravce (W)",
    "away": "Slovan Bratislava (W)",
@@ -249,6 +229,34 @@
     "dc",
     "ou25"
    ]
+  },
+  {
+   "id": 902668177,
+   "home": "Ireland U21",
+   "away": "Finland U21",
+   "league": "UEFA Championship U21",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 20:45",
+   "kickoff_utc": "2026-11-17 17:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_double_chance",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pb_y_iou_t2_1_5",
+    "pbx_weh_t2"
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

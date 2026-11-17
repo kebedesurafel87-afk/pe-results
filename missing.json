@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 22:26",
- "count": 18,
+ "updated_utc": "2026-11-17 22:41",
+ "count": 17,
  "matches": [
   {
    "id": 902621326,
@@ -234,25 +234,6 @@
    ]
   },
   {
-   "id": 902669754,
-   "home": "Rushden & Diamonds",
-   "away": "Mickleover Sports",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902670474,
    "home": "Cheshunt",
    "away": "Aveley",
@@ -267,7 +248,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc"
    ]
   },
@@ -290,25 +270,6 @@
    ]
   },
   {
-   "id": 902669753,
-   "home": "Boldmere St Michaels",
-   "away": "Loughborough Univesity",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902669789,
    "home": "Marlow",
    "away": "Leverstock Green",
@@ -323,6 +284,26 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902670465,
+   "home": "Ross County",
+   "away": "Wick Academy",
+   "league": "Regional Cup",
+   "country": "Scotland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 23:00",
+   "kickoff_utc": "2026-11-17 20:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "pbx_ou_h2_1_5",
+    "pbx_rbts"
    ]
   }
  ]

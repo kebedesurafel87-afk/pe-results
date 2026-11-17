@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 14:56",
- "count": 8,
+ "updated_utc": "2026-11-17 15:11",
+ "count": 9,
  "matches": [
   {
    "id": 902621326,
@@ -128,9 +128,7 @@
     "btts",
     "dc",
     "double_chance",
-    "ou25",
     "over_under_2_5",
-    "pb_cor_1x2",
     "pb_cor_ou_8_5",
     "pbx_bts_h2",
     "pbx_dc_h2"
@@ -157,6 +155,24 @@
     "double_chance",
     "over_under_2_5",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902671271,
+   "home": "HB Koge (R)",
+   "away": "Brondby IF (R)",
+   "league": "Future Cup",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 15:30",
+   "kickoff_utc": "2026-11-17 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
    ]
   }
  ]

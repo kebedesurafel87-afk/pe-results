@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-17 04:55",
- "count": 34,
+ "updated_utc": "2026-11-17 07:40",
+ "count": 21,
  "matches": [
-  {
-   "id": 902650224,
-   "home": "Athletico Abidjan (w)",
-   "away": "Buyo FC (W)",
-   "league": "League 1 Women",
-   "country": "Ivory Coast",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 13:00",
-   "kickoff_utc": "2026-11-14 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902621326,
    "home": "Sparta Rotterdam U19",
@@ -248,76 +231,6 @@
    ]
   },
   {
-   "id": 902654323,
-   "home": "Sagesse SC U20",
-   "away": "Racing Beirut U20",
-   "league": "Lebanon U20 League",
-   "country": "Lebanon",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 11:00",
-   "kickoff_utc": "2026-11-15 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902658521,
-   "home": "Chonburi Sports School (W)",
-   "away": "Khelang United (W)",
-   "league": "League Women",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 11:30",
-   "kickoff_utc": "2026-11-15 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902655006,
-   "home": "Panserraikos U19",
-   "away": "Niki Volou U19",
-   "league": "Super League 2 U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 13:00",
-   "kickoff_utc": "2026-11-15 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902650499,
-   "home": "SCR Altach Juniors",
-   "away": "Wolfurt",
-   "league": "Regionalliga West",
-   "country": "Austria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 15:30",
-   "kickoff_utc": "2026-11-15 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902654957,
    "home": "Lens U19",
    "away": "Rouen U19",
@@ -371,23 +284,6 @@
    ]
   },
   {
-   "id": 902645011,
-   "home": "San Nicolo",
-   "away": "Sporting Trestina",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902655017,
    "home": "Monaco U19",
    "away": "Bastia U19",
@@ -403,23 +299,6 @@
    "markets": [
     "1x2",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902658595,
-   "home": "CS Fola Esch",
-   "away": "Union Remich/Bous",
-   "league": "Division of Honour",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:00",
-   "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {
@@ -457,80 +336,6 @@
    ]
   },
   {
-   "id": 902662026,
-   "home": "CRB U20",
-   "away": "CS Alagoano U20",
-   "league": "Copa Alagoas U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 20:45",
-   "kickoff_utc": "2026-11-15 17:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902662839,
-   "home": "El Salvador U19 (W)",
-   "away": "Nicaragua U19 (W)",
-   "league": "Friendly Internationals U19 Women",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 22:00",
-   "kickoff_utc": "2026-11-15 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902663034,
-   "home": "Garhwal Heroes FC U21",
-   "away": "Rajasthan United U21",
-   "league": "RFDL U21",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 08:30",
-   "kickoff_utc": "2026-11-16 05:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902663036,
-   "home": "Sudeva Delhi FC U21",
-   "away": "Sporting Club Delhi U21",
-   "league": "RFDL U21",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 12:30",
-   "kickoff_utc": "2026-11-16 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou25",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902651124,
    "home": "UCSA",
    "away": "Polissya Zhytomyr II",
@@ -565,44 +370,6 @@
    "markets": [
     "1x2",
     "ou25"
-   ]
-  },
-  {
-   "id": 902664196,
-   "home": "Lusail B",
-   "away": "Qatar II",
-   "league": "League 3",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 17:30",
-   "kickoff_utc": "2026-11-16 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou25"
-   ]
-  },
-  {
-   "id": 902662047,
-   "home": "Ampem Darkoa (W)",
-   "away": "Savannah (W)",
-   "league": "Premier League Women",
-   "country": "Ghana",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 18:00",
-   "kickoff_utc": "2026-11-16 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "dc",
-    "over_under_2_5"
    ]
   }
  ]

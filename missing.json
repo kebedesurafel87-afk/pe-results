@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 04:40",
- "count": 35,
+ "updated_utc": "2026-11-17 04:55",
+ "count": 34,
  "matches": [
   {
    "id": 902650224,
@@ -602,23 +602,6 @@
     "1x2",
     "3_way",
     "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902620888,
-   "home": "New Mexico United",
-   "away": "Sacramento Republic FC",
-   "league": "USL Championship",
-   "country": "USA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 05:00",
-   "kickoff_utc": "2026-11-17 02:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
     "over_under_2_5"
    ]
   }

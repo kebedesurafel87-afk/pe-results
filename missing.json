@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 16:41",
- "count": 14,
+ "updated_utc": "2026-11-17 18:11",
+ "count": 11,
  "matches": [
   {
    "id": 902621326,
@@ -109,31 +109,6 @@
    ]
   },
   {
-   "id": 902665748,
-   "home": "Vietnam",
-   "away": "Kyrgyzstan",
-   "league": "Friendly Internationals",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 15:00",
-   "kickoff_utc": "2026-11-17 12:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_2_5",
-    "pb_cor_ou_8_5",
-    "pbx_bts_h2"
-   ],
-   "stored_ft": "1-2"
-  },
-  {
    "id": 902671289,
    "home": "FC Kosice (W)",
    "away": "Dukla Banska Bystrica (W)",
@@ -193,23 +168,6 @@
    ]
   },
   {
-   "id": 902676293,
-   "home": "Oxford United (r)",
-   "away": "Derby (R)",
-   "league": "Central League",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 16:00",
-   "kickoff_utc": "2026-11-17 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902669952,
    "home": "Kirkos FC (W)",
    "away": "Lemi Kura (W)",
@@ -248,36 +206,6 @@
     "1x2",
     "over_under_4_5",
     "over_under_5_5"
-   ]
-  },
-  {
-   "id": 902669915,
-   "home": "Sheffield United U21",
-   "away": "Huddersfield Town U21",
-   "league": "Prof. Development League",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 17:00",
-   "kickoff_utc": "2026-11-17 14:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "handicap_hcp_1_0",
-    "ou35",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_ou_10_5",
-    "pb_cor_ou_9_5",
-    "pbx_weh_t1"
    ]
   }
  ]

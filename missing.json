@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 09:40",
- "count": 7,
+ "updated_utc": "2026-11-17 10:55",
+ "count": 6,
  "matches": [
   {
    "id": 902621326,
@@ -89,25 +89,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902651124,
-   "home": "UCSA",
-   "away": "Polissya Zhytomyr II",
-   "league": "1st League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 13:00",
-   "kickoff_utc": "2026-11-16 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   },
   {

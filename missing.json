@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 15:26",
- "count": 9,
+ "updated_utc": "2026-11-17 15:41",
+ "count": 13,
  "matches": [
   {
    "id": 902621326,
@@ -171,6 +171,84 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902670975,
+   "home": "USA U23",
+   "away": "Ukraine U21",
+   "league": "Friendly Internationals U23",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 16:00",
+   "kickoff_utc": "2026-11-17 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902676293,
+   "home": "Oxford United (r)",
+   "away": "Derby (R)",
+   "league": "Central League",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 16:00",
+   "kickoff_utc": "2026-11-17 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902669952,
+   "home": "Kirkos FC (W)",
+   "away": "Lemi Kura (W)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 16:00",
+   "kickoff_utc": "2026-11-17 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pbx_ou_h2_0_5"
+   ]
+  },
+  {
+   "id": 902670480,
+   "home": "ViOn Zlate Moravce (W)",
+   "away": "Slovan Bratislava (W)",
+   "league": "Slovakia Cup Women",
+   "country": "Slovakia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-17 16:00",
+   "kickoff_utc": "2026-11-17 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_4_5",
+    "over_under_5_5"
    ]
   }
  ]

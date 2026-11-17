@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 21:41",
- "count": 12,
+ "updated_utc": "2026-11-17 21:56",
+ "count": 11,
  "matches": [
   {
    "id": 902621326,
@@ -122,7 +122,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "over_under_3_5"
    ]
@@ -181,27 +180,6 @@
    ]
   },
   {
-   "id": 902667462,
-   "home": "Serbia U21",
-   "away": "Poland U21",
-   "league": "Friendly Internationals U21",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 20:00",
-   "kickoff_utc": "2026-11-17 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "pb_cor_ou_8_5",
-    "pb_cor_ou_t1_3_5"
-   ],
-   "stored_ft": "0-1"
-  },
-  {
    "id": 902674752,
    "home": "Saudi Arabia U23",
    "away": "Kuwait U23",
@@ -216,8 +194,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "ou25"
+    "dc"
    ]
   }
  ]

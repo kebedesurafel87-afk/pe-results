@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-17 19:56",
+ "updated_utc": "2026-11-17 20:11",
  "count": 13,
  "matches": [
   {
@@ -182,10 +182,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
     "over_under_1_5",
-    "over_under_2_5",
-    "pbx_ou_h2_0_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -202,9 +200,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_4_5",
-    "over_under_5_5"
+    "1x2"
    ]
   },
   {
@@ -229,7 +225,6 @@
     "btts",
     "dc",
     "ou35",
-    "over_under_2_5",
     "pb_cor_ou_8_5",
     "pb_cor_ou_t1_3_5"
    ],
@@ -252,10 +247,7 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "ou25",
-    "over_under_2_5",
-    "pbx_iou_t1_h1_0_5",
-    "pbx_iou_t2_h1_0_5"
+    "ou25"
    ]
   }
  ]

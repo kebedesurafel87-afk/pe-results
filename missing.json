@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 07:40",
- "count": 21,
+ "updated_utc": "2026-11-17 07:55",
+ "count": 6,
  "matches": [
   {
    "id": 902621326,
@@ -19,127 +19,6 @@
     "1x2",
     "double_chance",
     "odd_even"
-   ]
-  },
-  {
-   "id": 902651382,
-   "home": "IJsselmeervogels U21",
-   "away": "Quick Boys U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:00",
-   "kickoff_utc": "2026-11-14 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902653822,
-   "home": "Kallithea U19",
-   "away": "Zakynthos U19",
-   "league": "Super League 2 U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 14:15",
-   "kickoff_utc": "2026-11-14 11:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902649894,
-   "home": "Winterthur U19",
-   "away": "Aarau U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902648156,
-   "home": "Stade Laval U19",
-   "away": "TA Rennes U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902649895,
-   "home": "FC Thun U19",
-   "away": "St Gallen U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 16:30",
-   "kickoff_utc": "2026-11-14 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902648716,
-   "home": "Montpellier U19",
-   "away": "Gazelec Ajaccio U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902651079,
-   "home": "Willem II U21",
-   "away": "Go Ahead Eagles U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 17:00",
-   "kickoff_utc": "2026-11-14 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
    ]
   },
   {
@@ -179,41 +58,6 @@
    "stored_ft": "6-7"
   },
   {
-   "id": 902640914,
-   "home": "USL Dunkerque",
-   "away": "US Quevilly",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 20:00",
-   "kickoff_utc": "2026-11-14 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "0-3"
-  },
-  {
-   "id": 902650635,
-   "home": "FC 03 Differdange (W)",
-   "away": "Bettembourg (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 21:00",
-   "kickoff_utc": "2026-11-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902647413,
    "home": "RSC Anderlecht (W)",
    "away": "Club Brugge (W)",
@@ -228,94 +72,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902654957,
-   "home": "Lens U19",
-   "away": "Rouen U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902654961,
-   "home": "Troyes U19",
-   "away": "Paris U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "handicap_hcp_0_3"
-   ]
-  },
-  {
-   "id": 902654960,
-   "home": "Racing Paris U19",
-   "away": "USL Dunkerque U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 16:30",
-   "kickoff_utc": "2026-11-15 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902655017,
-   "home": "Monaco U19",
-   "away": "Bastia U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 17:30",
-   "kickoff_utc": "2026-11-15 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902658597,
-   "home": "FC Lorentzweiler",
-   "away": "FC Berdenia Berbourg",
-   "league": "Division of Honour",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-15 18:00",
-   "kickoff_utc": "2026-11-15 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -352,24 +108,6 @@
     "1x2",
     "dc",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902667487,
-   "home": "Torque (R)",
-   "away": "Penarol (R)",
-   "league": "Reserve League",
-   "country": "Uruguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-16 16:00",
-   "kickoff_utc": "2026-11-16 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "ou25"
    ]
   }
  ]

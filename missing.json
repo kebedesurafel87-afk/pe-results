@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 21:58",
- "count": 24,
+ "updated_utc": "2026-11-18 22:13",
+ "count": 23,
  "matches": [
   {
    "id": 902635614,
@@ -256,25 +256,6 @@
    ]
   },
   {
-   "id": 902677438,
-   "home": "Artaki",
-   "away": "Asteras Stavrou",
-   "league": "Amateur Cup",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 15:30",
-   "kickoff_utc": "2026-11-18 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902678314,
    "home": "APS Kifissos",
    "away": "Ethnikos Asteras",
@@ -348,9 +329,7 @@
     "1st_half_3_way",
     "1x2",
     "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "over_under_3_5"
+    "handicap_hcp_0_2"
    ]
   },
   {
@@ -408,32 +387,6 @@
    ]
   },
   {
-   "id": 902677776,
-   "home": "CF Can Vidalet",
-   "away": "Barcelona B",
-   "league": "Copa Catalunya",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 21:00",
-   "kickoff_utc": "2026-11-18 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "handicap_hcp_2_0",
-    "odd_even",
-    "over_under_2_5",
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902678737,
    "home": "Riachao",
    "away": "Botafogo ASF",
@@ -471,6 +424,34 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902634425,
+   "home": "Reus Reddis",
+   "away": "Barakaldo CF",
+   "league": "Copa del Rey",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-18 22:30",
+   "kickoff_utc": "2026-11-18 19:30",
+   "status": "no_result",
+   "needs": [
+    "cards",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_y_iou_t2_2_5"
    ]
   }
  ]

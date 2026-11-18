@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 17:12",
- "count": 21,
+ "updated_utc": "2026-11-18 17:27",
+ "count": 20,
  "matches": [
   {
    "id": 902647413,
@@ -333,29 +333,6 @@
     "3_way",
     "dc",
     "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902678217,
-   "home": "Red Arrows FC (W)",
-   "away": "Yasa (w)",
-   "league": "Zambia League Women",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 16:00",
-   "kickoff_utc": "2026-11-18 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "ou25",
     "over_under_2_5"
    ]
   },

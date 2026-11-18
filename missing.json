@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 17:42",
- "count": 24,
+ "updated_utc": "2026-11-18 17:57",
+ "count": 23,
  "matches": [
   {
    "id": 902647413,
@@ -247,7 +247,6 @@
    ],
    "markets": [
     "btts",
-    "dc",
     "handicap_hcp_0_2"
    ]
   },
@@ -421,38 +420,6 @@
     "double_chance",
     "over_under_1_5",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902675329,
-   "home": "El Gounah",
-   "away": "Al Ittihad Al Sakandary",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 18:00",
-   "kickoff_utc": "2026-11-18 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "odd_even",
-    "ou15",
-    "ou35",
-    "over_under_0_5",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5",
-    "pbx_ou_h2_0_5",
-    "pbx_weh"
    ]
   },
   {

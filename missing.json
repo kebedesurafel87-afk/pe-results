@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-18 18:58",
+ "updated_utc": "2026-11-18 19:13",
  "count": 24,
  "matches": [
   {
@@ -330,8 +330,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "3_way"
+    "1x2"
    ]
   },
   {
@@ -377,8 +376,7 @@
     "double_chance",
     "handicap_hcp_0_2",
     "ou35",
-    "over_under_3_5",
-    "pbx_iou_t1_h1_0_5"
+    "over_under_3_5"
    ]
   },
   {

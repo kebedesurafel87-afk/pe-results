@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 12:42",
- "count": 19,
+ "updated_utc": "2026-11-18 12:57",
+ "count": 18,
  "matches": [
   {
    "id": 902631095,
@@ -287,29 +287,6 @@
     "btts",
     "dc",
     "handicap_hcp_0_2"
-   ]
-  },
-  {
-   "id": 902676357,
-   "home": "Kasem Bundit University U21",
-   "away": "Khonkaen United U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 11:30",
-   "kickoff_utc": "2026-11-18 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
    ]
   },
   {

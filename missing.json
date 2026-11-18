@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 00:11",
- "count": 16,
+ "updated_utc": "2026-11-18 09:42",
+ "count": 17,
  "matches": [
   {
    "id": 902621326,
@@ -286,6 +286,27 @@
     "dc",
     "pbx_ou_h2_1_5",
     "pbx_rbts"
+   ]
+  },
+  {
+   "id": 902674983,
+   "home": "Addis Ketema (w)",
+   "away": "Akaki Kality (w)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-18 10:00",
+   "kickoff_utc": "2026-11-18 07:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "handicap_hcp_0_2",
+    "over_under_1_5"
    ]
   }
  ]

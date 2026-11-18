@@ -1,26 +1,7 @@
 {
- "updated_utc": "2026-11-18 16:42",
- "count": 22,
+ "updated_utc": "2026-11-18 17:12",
+ "count": 21,
  "matches": [
-  {
-   "id": 902640913,
-   "home": "Bethune",
-   "away": "Nancy",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 20:00",
-   "kickoff_utc": "2026-11-14 17:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "dc",
-    "pb_cor_ou_t2_7"
-   ],
-   "stored_ft": "6-7"
-  },
   {
    "id": 902647413,
    "home": "RSC Anderlecht (W)",

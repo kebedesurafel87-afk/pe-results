@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 19:28",
- "count": 23,
+ "updated_utc": "2026-11-18 19:58",
+ "count": 22,
  "matches": [
   {
    "id": 902635614,
@@ -216,23 +216,6 @@
    ]
   },
   {
-   "id": 902674983,
-   "home": "Addis Ketema (w)",
-   "away": "Akaki Kality (w)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 10:00",
-   "kickoff_utc": "2026-11-18 07:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
    "id": 902676358,
    "home": "Rasi Salai United U21",
    "away": "Pattaya United U21",
@@ -375,7 +358,6 @@
     "dc",
     "double_chance",
     "handicap_hcp_0_2",
-    "ou35",
     "over_under_3_5"
    ]
   },
@@ -450,7 +432,6 @@
     "correct_score",
     "dc",
     "double_chance",
-    "double_chance_both_teams_to_score",
     "ou25",
     "over_under_2_5",
     "over_under_3_5",

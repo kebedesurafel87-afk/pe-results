@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-18 15:42",
- "count": 23,
+ "updated_utc": "2026-11-18 16:42",
+ "count": 22,
  "matches": [
-  {
-   "id": 902631095,
-   "home": "Atalanta U23",
-   "away": "Asd Pineto Calcio",
-   "league": "Serie C Group B",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 19:30",
-   "kickoff_utc": "2026-11-14 16:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902640913,
    "home": "Bethune",

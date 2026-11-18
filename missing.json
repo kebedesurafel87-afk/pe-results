@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-18 21:43",
+ "updated_utc": "2026-11-18 21:58",
  "count": 24,
  "matches": [
   {
@@ -266,11 +266,9 @@
    "kickoff_utc": "2026-11-18 12:30",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "dc",
     "double_chance"
@@ -287,11 +285,9 @@
    "kickoff_utc": "2026-11-18 12:30",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "dc",
     "double_chance",
@@ -376,7 +372,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "ou25",
     "over_under_2_5"
    ]
@@ -462,25 +457,20 @@
    ]
   },
   {
-   "id": 902681955,
-   "home": "UE Tona",
-   "away": "UE Olot",
-   "league": "Copa Catalunya",
-   "country": "Spain",
+   "id": 902681939,
+   "home": "SC Emmen",
+   "away": "FC Oetwil-Geroldswil",
+   "league": "2 Liga Interregional",
+   "country": "Switzerland",
    "sport": "football",
-   "kickoff_eat": "2026-11-18 22:00",
-   "kickoff_utc": "2026-11-18 19:00",
+   "kickoff_eat": "2026-11-18 22:15",
+   "kickoff_utc": "2026-11-18 19:15",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "handicap_hcp_0_1",
-    "over_under_3_5"
+    "1x2"
    ]
   }
  ]

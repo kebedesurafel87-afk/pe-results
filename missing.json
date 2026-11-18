@@ -1,26 +1,7 @@
 {
- "updated_utc": "2026-11-18 09:42",
- "count": 17,
+ "updated_utc": "2026-11-18 10:42",
+ "count": 16,
  "matches": [
-  {
-   "id": 902621326,
-   "home": "Sparta Rotterdam U19",
-   "away": "NEC U19",
-   "league": "Eredivisie U19",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 13:30",
-   "kickoff_utc": "2026-11-14 10:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "odd_even"
-   ]
-  },
   {
    "id": 902631095,
    "home": "Atalanta U23",

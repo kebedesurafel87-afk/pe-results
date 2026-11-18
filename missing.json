@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-18 17:57",
+ "updated_utc": "2026-11-18 18:12",
  "count": 23,
  "matches": [
-  {
-   "id": 902647413,
-   "home": "RSC Anderlecht (W)",
-   "away": "Club Brugge (W)",
-   "league": "Super League Women",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-14 21:00",
-   "kickoff_utc": "2026-11-14 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
   {
    "id": 902635614,
    "home": "Benfica II",
@@ -329,7 +312,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "3_way",
     "dc",
     "double_chance",
     "over_under_2_5"
@@ -447,6 +429,31 @@
     "over_under_2_5",
     "over_under_3_5",
     "pbx_sbh_t2"
+   ]
+  },
+  {
+   "id": 902682218,
+   "home": "Binissalem",
+   "away": "Formentera",
+   "league": "Tercera Div. RFEF Group 11",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-18 18:30",
+   "kickoff_utc": "2026-11-18 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "ou15",
+    "ou25",
+    "over_under_2_5",
+    "pbx_iou_t1_h1_0_5"
    ]
   }
  ]

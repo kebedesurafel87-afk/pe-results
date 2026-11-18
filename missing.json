@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 19:58",
- "count": 22,
+ "updated_utc": "2026-11-18 20:13",
+ "count": 21,
  "matches": [
   {
    "id": 902635614,
@@ -300,23 +300,6 @@
    ]
   },
   {
-   "id": 902680904,
-   "home": "Nkwazi",
-   "away": "Mutondo Stars",
-   "league": "Super League",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 16:00",
-   "kickoff_utc": "2026-11-18 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902681431,
    "home": "Zesco United",
    "away": "Red Arrows",
@@ -334,6 +317,23 @@
     "both_teams_to_score",
     "dc",
     "double_chance"
+   ]
+  },
+  {
+   "id": 902680904,
+   "home": "Nkwazi",
+   "away": "Mutondo Stars",
+   "league": "Super League",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-18 16:00",
+   "kickoff_utc": "2026-11-18 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   },
   {
@@ -359,26 +359,6 @@
     "double_chance",
     "handicap_hcp_0_2",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902681956,
-   "home": "AS Douanes de Niamey",
-   "away": "Niima",
-   "league": "Super League",
-   "country": "Niger",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 18:00",
-   "kickoff_utc": "2026-11-18 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
    ]
   },
   {

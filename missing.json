@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 23:43",
- "count": 21,
+ "updated_utc": "2026-11-18 23:58",
+ "count": 20,
  "matches": [
   {
    "id": 902635614,
@@ -358,31 +358,7 @@
     "double_chance",
     "ou25",
     "over_under_2_5",
-    "over_under_3_5",
     "pbx_rtgnlo_t1_2_5"
-   ]
-  },
-  {
-   "id": 902678737,
-   "home": "Riachao",
-   "away": "Botafogo ASF",
-   "league": "Sergipano A3",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 21:00",
-   "kickoff_utc": "2026-11-18 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_3_5",
-    "over_under_4_5"
    ]
   },
   {

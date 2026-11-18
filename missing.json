@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-17 22:41",
- "count": 17,
+ "updated_utc": "2026-11-18 00:11",
+ "count": 16,
  "matches": [
   {
    "id": 902621326,
@@ -188,24 +188,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-17 20:00",
    "kickoff_utc": "2026-11-17 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902663923,
-   "home": "South Shields",
-   "away": "Harborough Town",
-   "league": "National League North",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
    "status": "no_result",
    "needs": [
     "ft"

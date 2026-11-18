@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-18 23:13",
- "count": 22,
+ "updated_utc": "2026-11-18 23:43",
+ "count": 21,
  "matches": [
   {
    "id": 902635614,
@@ -400,30 +400,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902678327,
-   "home": "Carabobo",
-   "away": "Zamora",
-   "league": "Venezuela Cup",
-   "country": "Venezuela",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 23:30",
-   "kickoff_utc": "2026-11-18 20:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "over_under_2_5",
-    "over_under_3_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 17:59",
- "count": 14,
+ "updated_utc": "2026-11-19 18:14",
+ "count": 12,
  "matches": [
   {
    "id": 902671289,
@@ -117,23 +117,6 @@
    ]
   },
   {
-   "id": 902683476,
-   "home": "Al Zawra'a U21",
-   "away": "Erbil SC U21",
-   "league": "League U21",
-   "country": "Iraq",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 14:00",
-   "kickoff_utc": "2026-11-19 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "handicap_hcp_1_0"
-   ]
-  },
-  {
    "id": 902682974,
    "home": "Al Sharjah U21",
    "away": "Al Dhaid U21",
@@ -171,8 +154,7 @@
     "3_way",
     "both_teams_to_score",
     "btts",
-    "double_chance",
-    "over_under_1_5"
+    "double_chance"
    ]
   },
   {
@@ -257,36 +239,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902677440,
-   "home": "Al Mokawloon Al Arab",
-   "away": "Al Qanah",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 18:00",
-   "kickoff_utc": "2026-11-19 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "handicap_hcp_1_0",
-    "over_under_0_5",
-    "over_under_1_5",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pbx_bts_h2"
+    "1x2"
    ]
   }
  ]

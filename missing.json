@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 15:14",
- "count": 9,
+ "updated_utc": "2026-11-19 15:29",
+ "count": 11,
  "matches": [
   {
    "id": 902635614,
@@ -178,6 +178,53 @@
     "double_chance",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902682974,
+   "home": "Al Sharjah U21",
+   "away": "Al Dhaid U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-19 15:45",
+   "kickoff_utc": "2026-11-19 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "pbx_bts_h2"
+   ]
+  },
+  {
+   "id": 902682973,
+   "home": "Baniyas U21",
+   "away": "Al Orooba U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-19 15:45",
+   "kickoff_utc": "2026-11-19 12:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_4_5"
    ]
   }
  ]

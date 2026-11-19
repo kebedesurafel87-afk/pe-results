@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 03:43",
- "count": 19,
+ "updated_utc": "2026-11-19 04:13",
+ "count": 18,
  "matches": [
   {
    "id": 902635614,
@@ -17,23 +17,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902669951,
-   "home": "Arba Minch (W)",
-   "away": "Addis Ababa Ketema (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 10:00",
-   "kickoff_utc": "2026-11-17 07:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   },
   {

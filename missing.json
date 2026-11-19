@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 20:45",
- "count": 13,
+ "updated_utc": "2026-11-19 21:15",
+ "count": 11,
  "matches": [
   {
    "id": 902671289,
@@ -115,26 +115,6 @@
    ]
   },
   {
-   "id": 902682973,
-   "home": "Baniyas U21",
-   "away": "Al Orooba U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 15:45",
-   "kickoff_utc": "2026-11-19 12:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "btts",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902682974,
    "home": "Al Sharjah U21",
    "away": "Al Dhaid U21",
@@ -230,39 +210,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902677439,
-   "home": "ZED FC",
-   "away": "Smouha SC",
-   "league": "Egypt Cup",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 21:00",
-   "kickoff_utc": "2026-11-19 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_1x2_over_under_1_5",
-    "1st_half_3_way",
-    "1st_half_competitor1_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_2_5",
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_0_5",
-    "competitor2_total_0_5",
-    "dc",
-    "double_chance",
-    "odd_even",
-    "ou25",
-    "over_under_1_5",
-    "over_under_3_5",
-    "pbx_rtg_1_5"
    ]
   }
  ]

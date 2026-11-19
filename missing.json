@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 14:59",
+ "updated_utc": "2026-11-19 15:14",
  "count": 9,
  "matches": [
   {
@@ -131,35 +131,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
-    "double_chance",
-    "ou25",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902680933,
-   "home": "Kanchanaburi Power U21",
-   "away": "Chainat Hornbill U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 14:00",
-   "kickoff_utc": "2026-11-19 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pbx_rbts"
+    "double_chance"
    ]
   },
   {
@@ -178,6 +151,32 @@
    "markets": [
     "both_teams_to_score",
     "handicap_hcp_1_0",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902676816,
+   "home": "Tersana",
+   "away": "Telecom Egypt",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-19 15:30",
+   "kickoff_utc": "2026-11-19 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
     "over_under_2_5"
    ]
   }

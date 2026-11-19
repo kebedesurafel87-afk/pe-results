@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 14:14",
+ "updated_utc": "2026-11-19 14:44",
  "count": 9,
  "matches": [
   {
@@ -94,7 +94,6 @@
     "1x2",
     "dc",
     "double_chance",
-    "over_under_3_5",
     "pbx_hsh"
    ]
   },
@@ -161,7 +160,6 @@
     "double_chance",
     "ou25",
     "over_under_2_5",
-    "over_under_3_5",
     "pbx_rbts"
    ]
   },

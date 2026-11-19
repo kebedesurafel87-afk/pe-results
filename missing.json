@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 04:43",
- "count": 6,
+ "updated_utc": "2026-11-19 05:13",
+ "count": 4,
  "matches": [
   {
    "id": 902635614,
@@ -52,42 +52,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902681431,
-   "home": "Zesco United",
-   "away": "Red Arrows",
-   "league": "Super League",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 16:00",
-   "kickoff_utc": "2026-11-18 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902680904,
-   "home": "Nkwazi",
-   "away": "Mutondo Stars",
-   "league": "Super League",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 16:00",
-   "kickoff_utc": "2026-11-18 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

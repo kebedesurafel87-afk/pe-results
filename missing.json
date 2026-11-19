@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 22:15",
+ "updated_utc": "2026-11-19 22:30",
  "count": 11,
  "matches": [
   {
@@ -171,29 +171,6 @@
    ]
   },
   {
-   "id": 902680903,
-   "home": "Kahrabaa",
-   "away": "Diyala",
-   "league": "Stars League",
-   "country": "Iraq",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 16:45",
-   "kickoff_utc": "2026-11-19 13:45",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "over_under_1_5",
-    "pb_cor_ou_7_5"
-   ],
-   "stored_ft": "1-1"
-  },
-  {
    "id": 902667426,
    "home": "Mes Shahr-e Babak",
    "away": "Traktor Sazi",
@@ -208,6 +185,43 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902665305,
+   "home": "Arsenal LFC (W)",
+   "away": "Lyon (W)",
+   "league": "UEFA Champions League Women",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-19 23:00",
+   "kickoff_utc": "2026-11-19 20:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "corners_h1",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance_both_teams_to_score",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_1_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "handicap_hcp_3_0",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_h1_1_5",
+    "pbx_rbts",
+    "pbx_rtgnlo_t2_2_5"
    ]
   }
  ]

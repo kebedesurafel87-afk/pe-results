@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 04:28",
- "count": 10,
+ "updated_utc": "2026-11-19 04:43",
+ "count": 6,
  "matches": [
   {
    "id": 902635614,
@@ -37,41 +37,6 @@
    ]
   },
   {
-   "id": 902676243,
-   "home": "Bourne Town",
-   "away": "Coventry United",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902669789,
-   "home": "Marlow",
-   "away": "Leverstock Green",
-   "league": "Southern Premier League Central",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902676358,
    "home": "Rasi Salai United U21",
    "away": "Pattaya United U21",
@@ -87,27 +52,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902676359,
-   "home": "Kasetsart U21",
-   "away": "Port U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 12:00",
-   "kickoff_utc": "2026-11-18 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
    ]
   },
   {
@@ -167,23 +111,6 @@
     "dc",
     "ou25",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902681939,
-   "home": "SC Emmen",
-   "away": "FC Oetwil-Geroldswil",
-   "league": "2 Liga Interregional",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 22:15",
-   "kickoff_utc": "2026-11-18 19:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

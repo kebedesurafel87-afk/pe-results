@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 13:44",
+ "updated_utc": "2026-11-19 14:14",
  "count": 9,
  "matches": [
   {
@@ -95,7 +95,6 @@
     "dc",
     "double_chance",
     "over_under_3_5",
-    "over_under_4_5",
     "pbx_hsh"
    ]
   },
@@ -182,8 +181,7 @@
    "markets": [
     "both_teams_to_score",
     "handicap_hcp_1_0",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   }
  ]

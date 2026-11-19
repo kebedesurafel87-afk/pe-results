@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 17:44",
+ "updated_utc": "2026-11-19 17:59",
  "count": 14,
  "matches": [
   {
@@ -61,25 +61,6 @@
    ]
   },
   {
-   "id": 902681430,
-   "home": "Manaw",
-   "away": "Enjoy Brother",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 12:00",
-   "kickoff_utc": "2026-11-19 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "pbx_hsh"
-   ]
-  },
-  {
    "id": 902680935,
    "home": "Myanmar Univ.",
    "away": "VUE Nay Pyi Taw",
@@ -99,6 +80,24 @@
    ]
   },
   {
+   "id": 902681430,
+   "home": "Manaw",
+   "away": "Enjoy Brother",
+   "league": "League 2",
+   "country": "Myanmar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-19 12:00",
+   "kickoff_utc": "2026-11-19 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "pbx_hsh"
+   ]
+  },
+  {
    "id": 902683668,
    "home": "Al Talaba U21",
    "away": "Al Najaf U21",
@@ -113,7 +112,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance"
    ]
@@ -132,7 +130,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "handicap_hcp_1_0"
    ]
   },
@@ -152,8 +149,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
-    "dc",
     "double_chance",
     "pbx_bts_h2"
    ]
@@ -176,11 +171,8 @@
     "3_way",
     "both_teams_to_score",
     "btts",
-    "dc",
     "double_chance",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_4_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -224,8 +216,7 @@
     "double_chance",
     "ou25",
     "ou35",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -246,7 +237,6 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "ou25",
     "over_under_1_5",
     "pb_cor_ou_7_5",
     "pb_cor_ou_8_5"
@@ -292,7 +282,6 @@
     "double_chance",
     "handicap_hcp_0_2",
     "handicap_hcp_1_0",
-    "ou35",
     "over_under_0_5",
     "over_under_1_5",
     "over_under_3_5",

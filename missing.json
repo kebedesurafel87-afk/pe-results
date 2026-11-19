@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 04:13",
- "count": 18,
+ "updated_utc": "2026-11-19 04:28",
+ "count": 10,
  "matches": [
   {
    "id": 902635614,
@@ -33,115 +33,7 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902671271,
-   "home": "HB Koge (R)",
-   "away": "Brondby IF (R)",
-   "league": "Future Cup",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 15:30",
-   "kickoff_utc": "2026-11-17 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902670975,
-   "home": "USA U23",
-   "away": "Ukraine U21",
-   "league": "Friendly Internationals U23",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 16:00",
-   "kickoff_utc": "2026-11-17 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902670480,
-   "home": "ViOn Zlate Moravce (W)",
-   "away": "Slovan Bratislava (W)",
-   "league": "Slovakia Cup Women",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 16:00",
-   "kickoff_utc": "2026-11-17 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902674752,
-   "home": "Saudi Arabia U23",
-   "away": "Kuwait U23",
-   "league": "Friendly Internationals U23",
-   "country": "World",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 20:00",
-   "kickoff_utc": "2026-11-17 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902670475,
-   "home": "Dulwich Hamlet",
-   "away": "Stanway Rovers",
-   "league": "Isthmian League Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902670474,
-   "home": "Cheshunt",
-   "away": "Aveley",
-   "league": "Isthmian League Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 22:45",
-   "kickoff_utc": "2026-11-17 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -177,25 +69,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902670465,
-   "home": "Ross County",
-   "away": "Wick Academy",
-   "league": "Regional Cup",
-   "country": "Scotland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 23:00",
-   "kickoff_utc": "2026-11-17 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "pbx_rbts"
    ]
   },
   {
@@ -271,27 +144,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902677466,
-   "home": "Atromitos Patron",
-   "away": "Panagriniakos",
-   "league": "Amateur Cup",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 18:00",
-   "kickoff_utc": "2026-11-18 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "dc",
-    "handicap_hcp_0_2"
    ]
   },
   {

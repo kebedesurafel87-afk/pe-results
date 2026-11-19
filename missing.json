@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 03:13",
- "count": 20,
+ "updated_utc": "2026-11-19 03:43",
+ "count": 19,
  "matches": [
   {
    "id": 902635614,
@@ -343,23 +343,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-18 22:15",
    "kickoff_utc": "2026-11-18 19:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902677962,
-   "home": "Guaynabo Gol SC",
-   "away": "Caguas Sporting",
-   "league": "National League",
-   "country": "Puerto Rico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 03:30",
-   "kickoff_utc": "2026-11-19 00:30",
    "status": "no_result",
    "needs": [
     "ft"

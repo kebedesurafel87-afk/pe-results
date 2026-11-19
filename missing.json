@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-19 14:44",
+ "updated_utc": "2026-11-19 14:59",
  "count": 9,
  "matches": [
   {
@@ -93,7 +93,6 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
     "pbx_hsh"
    ]
   },

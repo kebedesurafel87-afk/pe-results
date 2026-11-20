@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 14:31",
- "count": 14,
+ "updated_utc": "2026-11-20 15:01",
+ "count": 17,
  "matches": [
   {
    "id": 902671289,
@@ -271,6 +271,70 @@
     "dc",
     "double_chance",
     "pb_cor_ou_7_5"
+   ]
+  },
+  {
+   "id": 902689103,
+   "home": "Kedus Giorgis",
+   "away": "Hadiya Hossana",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 15:30",
+   "kickoff_utc": "2026-11-20 12:30",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "handicap_hcp_1_0",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_ou_7_5",
+    "pbx_rtg_1_5"
+   ]
+  },
+  {
+   "id": 902676820,
+   "home": "Team FC Cairo",
+   "away": "FC Masar",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 15:30",
+   "kickoff_utc": "2026-11-20 12:30",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "handicap_hcp_2_0",
+    "over_under_2_5",
+    "pb_cor_ou_8_5"
+   ]
+  },
+  {
+   "id": 902691807,
+   "home": "Kahraba Ismailia",
+   "away": "Nasr",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 15:30",
+   "kickoff_utc": "2026-11-20 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

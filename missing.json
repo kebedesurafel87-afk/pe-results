@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-20 18:01",
+ "updated_utc": "2026-11-20 18:16",
  "count": 14,
  "matches": [
   {
@@ -52,7 +52,6 @@
    "markets": [
     "1x2",
     "double_chance",
-    "over_under_2_5",
     "over_under_4_5"
    ]
   },
@@ -184,8 +183,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "double_chance"
+    "1x2"
    ]
   },
   {
@@ -228,8 +226,7 @@
     "dc",
     "double_chance",
     "over_under_2_5",
-    "pb_cor_ou_8_5",
-    "pb_cor_ou_9_5"
+    "pb_cor_ou_8_5"
    ]
   },
   {
@@ -248,7 +245,6 @@
    "markets": [
     "1x2",
     "btts",
-    "dc",
     "double_chance",
     "over_under_3_5"
    ]

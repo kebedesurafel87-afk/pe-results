@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 17:31",
- "count": 13,
+ "updated_utc": "2026-11-20 17:46",
+ "count": 15,
  "matches": [
   {
    "id": 902671289,
@@ -117,10 +117,9 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 14:15",
    "kickoff_utc": "2026-11-20 11:15",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "1x2",
@@ -128,7 +127,8 @@
     "dc",
     "double_chance",
     "pb_cor_ou_7_5"
-   ]
+   ],
+   "stored_ft": "4-1"
   },
   {
    "id": 902691807,
@@ -255,6 +255,45 @@
     "ou25",
     "over_under_1_5",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902688161,
+   "home": "Al Gharafa U20",
+   "away": "Al Duhail U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 18:10",
+   "kickoff_utc": "2026-11-20 15:10",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902691447,
+   "home": "Liberte FC",
+   "away": "AS UAM",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 18:15",
+   "kickoff_utc": "2026-11-20 15:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "handicap_hcp_0_1"
    ]
   }
  ]

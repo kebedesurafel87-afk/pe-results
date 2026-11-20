@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 16:46",
- "count": 13,
+ "updated_utc": "2026-11-20 17:16",
+ "count": 12,
  "matches": [
   {
    "id": 902671289,
@@ -169,24 +169,6 @@
     "over_under_1_5",
     "over_under_2_5",
     "pbx_rtg_1_5"
-   ]
-  },
-  {
-   "id": 902688158,
-   "home": "Al-Arabi Doha U20",
-   "away": "Al Mesaimeer SC U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

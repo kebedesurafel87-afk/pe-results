@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 18:46",
- "count": 15,
+ "updated_utc": "2026-11-20 19:01",
+ "count": 14,
  "matches": [
   {
    "id": 902671289,
@@ -88,23 +88,6 @@
    ],
    "markets": [
     "pbx_dc_h2"
-   ]
-  },
-  {
-   "id": 902690671,
-   "home": "Lightstars",
-   "away": "Real Maldive FC",
-   "league": "Premier League",
-   "country": "Seychelles",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 13:45",
-   "kickoff_utc": "2026-11-20 10:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

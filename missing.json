@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 22:32",
- "count": 16,
+ "updated_utc": "2026-11-20 22:47",
+ "count": 17,
  "matches": [
   {
    "id": 902671289,
@@ -277,8 +277,7 @@
     "ft"
    ],
    "markets": [
-    "dc",
-    "double_chance"
+    "dc"
    ]
   },
   {
@@ -290,29 +289,23 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 23:00",
    "kickoff_utc": "2026-11-20 20:00",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
     "cards",
-    "corners",
-    "ft",
-    "ht"
+    "corners"
    ],
    "markets": [
     "1st_half_3_way",
     "1st_half_competitor1_over_under_0_5",
     "1st_half_double_chance",
     "1st_half_over_under_0_5",
-    "1st_half_over_under_2_5",
     "1x2",
-    "2nd_half_over_under_0_5",
     "3_way",
-    "3_way_both_teams_to_score",
     "both_teams_to_score",
     "btts",
     "competitor1_over_under_0_5",
     "competitor1_over_under_1_5",
     "competitor1_over_under_2_5",
-    "competitor1_over_under_3_5",
     "competitor2_total_0_5",
     "dc",
     "double_chance",
@@ -320,7 +313,6 @@
     "handicap_hcp_1_0",
     "handicap_hcp_2_0",
     "ou25",
-    "ou35",
     "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5",
@@ -336,6 +328,28 @@
     "pb_y_iou_t2_2_5",
     "pbx_fls_ou_25_5",
     "pbx_gm_0_15"
+   ],
+   "stored_ft": "0-1"
+  },
+  {
+   "id": 902682219,
+   "home": "Real Madrid B",
+   "away": "Real Murcia",
+   "league": "Primera Division RFEF Group 2",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 23:15",
+   "kickoff_utc": "2026-11-20 20:15",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "dc",
+    "ou25"
    ]
   }
  ]

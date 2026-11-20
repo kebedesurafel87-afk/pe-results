@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 15:31",
- "count": 27,
+ "updated_utc": "2026-11-20 15:46",
+ "count": 21,
  "matches": [
   {
    "id": 902671289,
@@ -282,10 +282,9 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 15:30",
    "kickoff_utc": "2026-11-20 12:30",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "1x2",
@@ -298,7 +297,8 @@
     "over_under_2_5",
     "pb_cor_ou_7_5",
     "pbx_rtg_1_5"
-   ]
+   ],
+   "stored_ft": "2-0"
   },
   {
    "id": 902676820,
@@ -337,24 +337,6 @@
    ]
   },
   {
-   "id": 902689092,
-   "home": "FK Krasnodar (Y)",
-   "away": "Chertanovo-D",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "handicap_hcp_0_4"
-   ]
-  },
-  {
    "id": 902689102,
    "home": "Welwalo Adigrat",
    "away": "Mekelakeya",
@@ -381,69 +363,6 @@
    ]
   },
   {
-   "id": 902689089,
-   "home": "Zenit-D St-Petersburg",
-   "away": "CSKA Moscow (Y)",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_3_5",
-    "pbx_iou_t1_h1_0_5"
-   ]
-  },
-  {
-   "id": 902689090,
-   "home": "Dinamo-D Moscow",
-   "away": "Rubin-D Kazan",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902689091,
-   "home": "Spartak-D Moscow",
-   "away": "Almaz-Antey (Youth)",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "pbx_iou_t1_h1_0_5"
-   ]
-  },
-  {
    "id": 902689093,
    "home": "Ural-D Ekaterinburg",
    "away": "Fakel-M",
@@ -458,50 +377,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902689094,
-   "home": "Dynamo Makhachkala (Youth)",
-   "away": "FC Nizhny Novgorod-D",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "handicap_hcp_0_3",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902689096,
-   "home": "Rostov-D",
-   "away": "Rodina-M",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "handicap_hcp_3_0",
-    "over_under_3_5"
+    "double_chance"
    ]
   },
   {
@@ -519,8 +395,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -537,10 +412,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_3_5"
+    "1x2"
    ]
   }
  ]

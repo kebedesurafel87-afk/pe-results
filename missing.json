@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 16:01",
- "count": 20,
+ "updated_utc": "2026-11-20 16:16",
+ "count": 12,
  "matches": [
   {
    "id": 902671289,
@@ -20,118 +20,6 @@
    ]
   },
   {
-   "id": 902676358,
-   "home": "Rasi Salai United U21",
-   "away": "Pattaya United U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 11:30",
-   "kickoff_utc": "2026-11-18 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902676247,
-   "home": "Al Watan U21",
-   "away": "Al Orobah U21",
-   "league": "Reserve League",
-   "country": "Saudi Arabia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-18 18:10",
-   "kickoff_utc": "2026-11-18 15:10",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "ou25",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902680935,
-   "home": "Myanmar Univ.",
-   "away": "VUE Nay Pyi Taw",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 12:00",
-   "kickoff_utc": "2026-11-19 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2"
-   ]
-  },
-  {
-   "id": 902681430,
-   "home": "Manaw",
-   "away": "Enjoy Brother",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 12:00",
-   "kickoff_utc": "2026-11-19 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "pbx_hsh"
-   ]
-  },
-  {
-   "id": 902683668,
-   "home": "Al Talaba U21",
-   "away": "Al Najaf U21",
-   "league": "League U21",
-   "country": "Iraq",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 14:00",
-   "kickoff_utc": "2026-11-19 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902682974,
-   "home": "Al Sharjah U21",
-   "away": "Al Dhaid U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 15:45",
-   "kickoff_utc": "2026-11-19 12:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902677479,
    "home": "Nita FA (W)",
    "away": "East Bengal Club (W)",
@@ -145,39 +33,8 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "ou25",
-    "over_under_2_5"
+    "1x2"
    ]
-  },
-  {
-   "id": 902665305,
-   "home": "Arsenal LFC (W)",
-   "away": "Lyon (W)",
-   "league": "UEFA Champions League Women",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 23:00",
-   "kickoff_utc": "2026-11-19 20:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor2_total_2_5",
-    "dc",
-    "double_chance",
-    "handicap_hcp_3_0",
-    "over_under_2_5",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t1_h1_1_5"
-   ],
-   "stored_ft": "0-2"
   },
   {
    "id": 902688151,
@@ -272,33 +129,6 @@
     "double_chance",
     "pb_cor_ou_7_5"
    ]
-  },
-  {
-   "id": 902689103,
-   "home": "Kedus Giorgis",
-   "away": "Hadiya Hossana",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 15:30",
-   "kickoff_utc": "2026-11-20 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "handicap_hcp_1_0",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_7_5",
-    "pbx_rtg_1_5"
-   ],
-   "stored_ft": "2-0"
   },
   {
    "id": 902676820,

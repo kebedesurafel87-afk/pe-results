@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 16:31",
- "count": 14,
+ "updated_utc": "2026-11-20 16:46",
+ "count": 13,
  "matches": [
   {
    "id": 902671289,
@@ -131,25 +131,6 @@
    ]
   },
   {
-   "id": 902676820,
-   "home": "Team FC Cairo",
-   "away": "FC Masar",
-   "league": "2nd Division A",
-   "country": "Egypt",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 15:30",
-   "kickoff_utc": "2026-11-20 12:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "handicap_hcp_2_0",
-    "pb_cor_ou_8_5"
-   ],
-   "stored_ft": "0-2"
-  },
-  {
    "id": 902691807,
    "home": "Kahraba Ismailia",
    "away": "Nasr",
@@ -177,7 +158,6 @@
    "kickoff_utc": "2026-11-20 13:00",
    "status": "no_result",
    "needs": [
-    "corners",
     "ft"
    ],
    "markets": [
@@ -188,7 +168,6 @@
     "handicap_hcp_0_1",
     "over_under_1_5",
     "over_under_2_5",
-    "pb_cor_ou_7_5",
     "pbx_rtg_1_5"
    ]
   },

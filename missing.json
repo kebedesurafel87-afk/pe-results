@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 17:16",
- "count": 12,
+ "updated_utc": "2026-11-20 17:31",
+ "count": 13,
  "matches": [
   {
    "id": 902671289,
@@ -232,6 +232,29 @@
     "over_under_2_5",
     "pb_cor_ou_8_5",
     "pb_cor_ou_9_5"
+   ]
+  },
+  {
+   "id": 902682967,
+   "home": "Kahraba Ismailia",
+   "away": "Ceramika Cleopatra",
+   "league": "Egypt Cup",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 18:00",
+   "kickoff_utc": "2026-11-20 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_1_5",
+    "over_under_3_5"
    ]
   }
  ]

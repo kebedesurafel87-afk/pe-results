@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 12:16",
- "count": 11,
+ "updated_utc": "2026-11-20 12:31",
+ "count": 12,
  "matches": [
   {
    "id": 902671289,
@@ -217,6 +217,25 @@
     "both_teams_to_score",
     "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902687646,
+   "home": "Mawkhar SC",
+   "away": "Shillong Lajong (R)",
+   "league": "Shillong Champions Cup",
+   "country": "India",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 13:00",
+   "kickoff_utc": "2026-11-20 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5",
+    "pbx_dc_h2"
    ]
   }
  ]

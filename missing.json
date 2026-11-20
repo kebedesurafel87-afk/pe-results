@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-20 15:01",
+ "updated_utc": "2026-11-20 15:16",
  "count": 17,
  "matches": [
   {
@@ -309,16 +309,16 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 15:30",
    "kickoff_utc": "2026-11-20 12:30",
-   "status": "no_result",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "corners",
-    "ft"
+    "corners"
    ],
    "markets": [
     "handicap_hcp_2_0",
     "over_under_2_5",
     "pb_cor_ou_8_5"
-   ]
+   ],
+   "stored_ft": "0-2"
   },
   {
    "id": 902691807,

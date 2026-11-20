@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 15:46",
- "count": 21,
+ "updated_utc": "2026-11-20 16:01",
+ "count": 20,
  "matches": [
   {
    "id": 902671289,
@@ -363,24 +363,6 @@
    ]
   },
   {
-   "id": 902689093,
-   "home": "Ural-D Ekaterinburg",
-   "away": "Fakel-M",
-   "league": "Youth Championship",
-   "country": "Russia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902688158,
    "home": "Al-Arabi Doha U20",
    "away": "Al Mesaimeer SC U20",
@@ -399,20 +381,22 @@
    ]
   },
   {
-   "id": 902689095,
-   "home": "Academy Konopleva-D",
-   "away": "Lokomotiv-D Moscow",
-   "league": "Youth Championship",
-   "country": "Russia",
+   "id": 902687610,
+   "home": "Kickstart Karnataka FC (W)",
+   "away": "Hops FC (W)",
+   "league": "League 2 Women",
+   "country": "India",
    "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
+   "kickoff_eat": "2026-11-20 16:30",
+   "kickoff_utc": "2026-11-20 13:30",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "1x2"
+    "1x2",
+    "double_chance",
+    "handicap_hcp_0_2"
    ]
   }
  ]

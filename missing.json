@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-19 22:45",
- "count": 11,
+ "updated_utc": "2026-11-20 00:15",
+ "count": 9,
  "matches": [
   {
    "id": 902671289,
@@ -132,24 +132,6 @@
    ]
   },
   {
-   "id": 902667481,
-   "home": "Kheybar",
-   "away": "Esteghlal Tehran",
-   "league": "Pro League",
-   "country": "Iran",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 16:00",
-   "kickoff_utc": "2026-11-19 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902677479,
    "home": "Nita FA (W)",
    "away": "East Bengal Club (W)",
@@ -166,23 +148,6 @@
     "1x2",
     "ou25",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902667426,
-   "home": "Mes Shahr-e Babak",
-   "away": "Traktor Sazi",
-   "league": "Pro League",
-   "country": "Iran",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 16:45",
-   "kickoff_utc": "2026-11-19 13:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

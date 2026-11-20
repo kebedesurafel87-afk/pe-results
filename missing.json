@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-20 23:02",
- "count": 16,
+ "updated_utc": "2026-11-20 23:17",
+ "count": 17,
  "matches": [
   {
    "id": 902671289,
@@ -328,6 +328,32 @@
     "pbx_gm_0_15"
    ],
    "stored_ft": "0-1"
+  },
+  {
+   "id": 902690118,
+   "home": "FC Porto",
+   "away": "USC Paredes",
+   "league": "Portuguese Cup",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-20 23:45",
+   "kickoff_utc": "2026-11-20 20:45",
+   "status": "no_result",
+   "needs": [
+    "cards",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "btts",
+    "over_under_3_5",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t2_1_5",
+    "pbx_iou_t1_h1_0_5",
+    "pbx_rtgwo_t1_1_5"
+   ]
   }
  ]
 }

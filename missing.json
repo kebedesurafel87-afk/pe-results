@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 15:33",
- "count": 11,
+ "updated_utc": "2026-11-21 15:49",
+ "count": 9,
  "matches": [
   {
    "id": 902677479,
@@ -90,23 +90,6 @@
    ]
   },
   {
-   "id": 902684261,
-   "home": "Paradou",
-   "away": "IRB Nezla",
-   "league": "2nd Division",
-   "country": "Algeria",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902687621,
    "home": "Costa Do Sol",
    "away": "AD Pemba",
@@ -146,23 +129,6 @@
    "away": "Sportivo Luqueno (W)",
    "league": "Copa EFE Women",
    "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902688103,
-   "home": "Wolfurt",
-   "away": "Dornbirn 1913",
-   "league": "Regionalliga West",
-   "country": "Austria",
    "sport": "football",
    "kickoff_eat": "2026-11-21 16:00",
    "kickoff_utc": "2026-11-21 13:00",

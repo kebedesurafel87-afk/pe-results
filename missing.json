@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 16:49",
- "count": 14,
+ "updated_utc": "2026-11-21 17:04",
+ "count": 15,
  "matches": [
   {
    "id": 902677479,
@@ -189,7 +189,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc",
     "over_under_2_5"
    ]
@@ -245,6 +244,23 @@
     "1x2",
     "btts",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902696192,
+   "home": "Artis Brno (W)",
+   "away": "Slovacko Women",
+   "league": "Women Cup",
+   "country": "Czech Republic",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 17:30",
+   "kickoff_utc": "2026-11-21 14:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

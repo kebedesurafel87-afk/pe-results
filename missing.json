@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 00:17",
- "count": 15,
+ "updated_utc": "2026-11-21 00:47",
+ "count": 14,
  "matches": [
   {
    "id": 902671289,
@@ -289,23 +289,6 @@
     "pbx_rtgwo_t1_1_5"
    ],
    "stored_ft": "1-1"
-  },
-  {
-   "id": 902669308,
-   "home": "Medellin",
-   "away": "Independiente Santa Fe",
-   "league": "Primera A",
-   "country": "Colombia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 00:30",
-   "kickoff_utc": "2026-11-20 21:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
   }
  ]
 }

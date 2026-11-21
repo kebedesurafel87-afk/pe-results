@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 22:49",
- "count": 14,
+ "updated_utc": "2026-11-21 23:04",
+ "count": 15,
  "matches": [
   {
    "id": 902677479,
@@ -243,6 +243,24 @@
     "1x2",
     "over_under_2_5"
    ]
+  },
+  {
+   "id": 902696811,
+   "home": "Vitoria Guimaraes",
+   "away": "Sporting Braga",
+   "league": "Portuguese Cup",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 23:30",
+   "kickoff_utc": "2026-11-21 20:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "pb_cor_1x2"
+   ],
+   "stored_ft": "0-2"
   }
  ]
 }

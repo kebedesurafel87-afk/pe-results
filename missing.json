@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 21:04",
- "count": 19,
+ "updated_utc": "2026-11-21 21:19",
+ "count": 18,
  "matches": [
   {
    "id": 902677479,
@@ -212,11 +212,11 @@
    ]
   },
   {
-   "id": 902696206,
-   "home": "Quevilly U19",
-   "away": "PSG U19",
-   "league": "League U19",
-   "country": "France",
+   "id": 902698825,
+   "home": "AS Denguele",
+   "away": "Leader",
+   "league": "League 2",
+   "country": "Ivory Coast",
    "sport": "football",
    "kickoff_eat": "2026-11-21 21:00",
    "kickoff_utc": "2026-11-21 18:00",
@@ -225,10 +225,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance",
-    "ou35"
+    "1x2"
    ]
   },
   {
@@ -251,11 +248,11 @@
    ]
   },
   {
-   "id": 902698825,
-   "home": "AS Denguele",
-   "away": "Leader",
-   "league": "League 2",
-   "country": "Ivory Coast",
+   "id": 902696206,
+   "home": "Quevilly U19",
+   "away": "PSG U19",
+   "league": "League U19",
+   "country": "France",
    "sport": "football",
    "kickoff_eat": "2026-11-21 21:00",
    "kickoff_utc": "2026-11-21 18:00",
@@ -264,7 +261,10 @@
     "ft"
    ],
    "markets": [
-    "1x2"
+    "1x2",
+    "both_teams_to_score",
+    "double_chance",
+    "ou35"
    ]
   },
   {
@@ -315,30 +315,9 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902694999,
-   "home": "Royale Union Saint-Gilloise II",
-   "away": "Meux",
-   "league": "First Amateur Division",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:30",
-   "kickoff_utc": "2026-11-21 18:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "pb_cor_ou_8_5"
-   ],
-   "stored_ft": "1-1"
   }
  ]
 }

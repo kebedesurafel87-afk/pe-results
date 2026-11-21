@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 14:18",
- "count": 8,
+ "updated_utc": "2026-11-21 14:33",
+ "count": 9,
  "matches": [
   {
    "id": 902677479,
@@ -103,7 +103,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "over_under_2_5"
    ]
   },
@@ -125,21 +124,38 @@
    ]
   },
   {
-   "id": 902620353,
-   "home": "Kryvbas Kryvyi Rih",
-   "away": "FC Kudrivka",
+   "id": 902698796,
+   "home": "Rovers FC",
+   "away": "Anse Reunion",
    "league": "Premier League",
-   "country": "Ukraine",
+   "country": "Seychelles",
    "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
+   "kickoff_eat": "2026-11-21 15:00",
+   "kickoff_utc": "2026-11-21 12:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902695399,
+   "home": "Inter Milan U20",
+   "away": "Juventus U20",
+   "league": "Primavera 1",
+   "country": "Italy",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 15:00",
+   "kickoff_utc": "2026-11-21 12:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
-    "dc"
+    "both_teams_to_score"
    ]
   }
  ]

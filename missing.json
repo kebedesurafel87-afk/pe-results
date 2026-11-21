@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 23:04",
- "count": 15,
+ "updated_utc": "2026-11-21 23:34",
+ "count": 14,
  "matches": [
   {
    "id": 902677479,
@@ -172,23 +172,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902688558,
-   "home": "Paget Lions",
-   "away": "Devonshire Colts",
-   "league": "Premier League",
-   "country": "Bermuda",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 22:00",
-   "kickoff_utc": "2026-11-21 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

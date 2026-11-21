@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 13:33",
- "count": 9,
+ "updated_utc": "2026-11-21 13:48",
+ "count": 8,
  "matches": [
   {
    "id": 902677479,
@@ -123,24 +123,6 @@
    "markets": [
     "1x2",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902702072,
-   "home": "Atletico Lusaka",
-   "away": "Kafue Celtic Fc",
-   "league": "Division 1",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

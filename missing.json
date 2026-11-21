@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 18:49",
- "count": 16,
+ "updated_utc": "2026-11-21 19:19",
+ "count": 15,
  "matches": [
   {
    "id": 902677479,
@@ -177,23 +177,6 @@
    ]
   },
   {
-   "id": 902697683,
-   "home": "Santos Laguna U19",
-   "away": "Leon U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 18:00",
-   "kickoff_utc": "2026-11-21 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "3_way"
-   ]
-  },
-  {
    "id": 902689828,
    "home": "Elche II",
    "away": "Deportiva Minera",
@@ -258,8 +241,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
-    "over_under_2_5"
+    "both_teams_to_score"
    ]
   },
   {
@@ -277,8 +259,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   }
  ]

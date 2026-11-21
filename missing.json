@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 02:02",
- "count": 14,
+ "updated_utc": "2026-11-21 06:02",
+ "count": 11,
  "matches": [
   {
    "id": 902671289,
@@ -37,25 +37,6 @@
    ]
   },
   {
-   "id": 902688151,
-   "home": "Elite Kings FC",
-   "away": "Yarmanya United FC",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 12:00",
-   "kickoff_utc": "2026-11-20 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "over_under_4_5"
-   ]
-  },
-  {
    "id": 902687611,
    "home": "Sethu (W)",
    "away": "Gokulam Kerala FC (W)",
@@ -74,23 +55,6 @@
    ]
   },
   {
-   "id": 902687646,
-   "home": "Mawkhar SC",
-   "away": "Shillong Lajong (R)",
-   "league": "Shillong Champions Cup",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 13:00",
-   "kickoff_utc": "2026-11-20 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "pbx_dc_h2"
-   ]
-  },
-  {
    "id": 902680900,
    "home": "Al Zawraa",
    "away": "Al Talaba",
@@ -104,7 +68,6 @@
     "corners"
    ],
    "markets": [
-    "double_chance",
     "pb_cor_ou_7_5"
    ],
    "stored_ft": "4-1"
@@ -124,24 +87,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902687652,
-   "home": "Muscat",
-   "away": "Suwaiq",
-   "league": "1st Division",
-   "country": "Oman",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:50",
-   "kickoff_utc": "2026-11-20 13:50",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
    ]
   },
   {
@@ -194,8 +139,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_3_5"
+    "1x2"
    ]
   },
   {

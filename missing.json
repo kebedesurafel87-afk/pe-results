@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 22:34",
- "count": 16,
+ "updated_utc": "2026-11-21 22:49",
+ "count": 14,
  "matches": [
   {
    "id": 902677479,
@@ -46,40 +46,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 16:30",
    "kickoff_utc": "2026-11-20 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902698389,
-   "home": "Club Rubio Nu (W)",
-   "away": "Sportivo Trinidense (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902698390,
-   "home": "2 de Mayo (W)",
-   "away": "Sportivo Luqueno (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
    "status": "no_result",
    "needs": [
     "ft"

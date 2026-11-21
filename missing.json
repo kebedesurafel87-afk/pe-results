@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 16:34",
- "count": 23,
+ "updated_utc": "2026-11-21 16:49",
+ "count": 14,
  "matches": [
   {
    "id": 902677479,
@@ -81,23 +81,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-21 14:00",
    "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902687621,
-   "home": "Costa Do Sol",
-   "away": "AD Pemba",
-   "league": "Mocambola",
-   "country": "Mozambique",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -246,71 +229,6 @@
    ]
   },
   {
-   "id": 902696782,
-   "home": "CD Mafra",
-   "away": "Arouca",
-   "league": "Portuguese Cup",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902695401,
-   "home": "Cesena U20",
-   "away": "Roma U20",
-   "league": "Primavera 1",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902622965,
-   "home": "Mjolby AI FF",
-   "away": "Malmo FF",
-   "league": "Allsvenskan",
-   "country": "Sweden",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_1_5",
-    "competitor2_total_0_5",
-    "dc",
-    "double_chance_over_under_2_5",
-    "ou25",
-    "over_under_2_5",
-    "over_under_3_5"
-   ]
-  },
-  {
    "id": 902698785,
    "home": "Heerenveen U21",
    "away": "Telstar U21",
@@ -327,92 +245,6 @@
     "1x2",
     "btts",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902678262,
-   "home": "Cardiff Draconians",
-   "away": "Aberystwyth",
-   "league": "Championship South",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902678193,
-   "home": "Llanuwchllyn",
-   "away": "Ruthin Town",
-   "league": "Championship North",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts",
-    "dc"
-   ]
-  },
-  {
-   "id": 902677959,
-   "home": "Guilsfield Athletic",
-   "away": "Bangor 1876",
-   "league": "Championship North",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902677960,
-   "home": "Brickfield Rangers",
-   "away": "Newtown",
-   "league": "Championship North",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902678194,
-   "home": "Caersws",
-   "away": "Denbigh Town",
-   "league": "Championship North",
-   "country": "Wales",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 16:04",
- "count": 17,
+ "updated_utc": "2026-11-21 16:19",
+ "count": 18,
  "matches": [
   {
    "id": 902677479,
@@ -172,8 +172,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -208,7 +207,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "over_under_2_5"
    ]
@@ -298,6 +296,27 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 902624582,
+   "home": "Le Puy",
+   "away": "Paris 13 Atletico",
+   "league": "Ligue 3",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 16:45",
+   "kickoff_utc": "2026-11-21 13:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_1_5",
+    "1x2",
+    "competitor1_over_under_0_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "0-0"
   }
  ]
 }

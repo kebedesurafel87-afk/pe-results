@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 21:49",
- "count": 20,
+ "updated_utc": "2026-11-21 22:04",
+ "count": 15,
  "matches": [
   {
    "id": 902677479,
@@ -89,24 +89,6 @@
    ]
   },
   {
-   "id": 902697046,
-   "home": "OFI (W)",
-   "away": "Rethymniakis Enosos (w)",
-   "league": "Class A Women",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 16:00",
-   "kickoff_utc": "2026-11-21 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902658885,
    "home": "Dunfermline Athletic",
    "away": "Greenock Morton",
@@ -159,23 +141,6 @@
    ]
   },
   {
-   "id": 902697289,
-   "home": "Fundacio FB Reus (W)",
-   "away": "CE Europa B (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 19:00",
-   "kickoff_utc": "2026-11-21 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902697684,
    "home": "Pumas UNAM U19",
    "away": "Monterrey U19",
@@ -189,26 +154,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902697681,
-   "home": "Pachuca U19",
-   "away": "Toluca U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:45",
-   "kickoff_utc": "2026-11-21 17:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -243,8 +189,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "double_chance",
     "ou35"
    ]
   },
@@ -257,41 +201,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-21 21:00",
    "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902698812,
-   "home": "Fanatico U20",
-   "away": "Nacional AC U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:00",
-   "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902697053,
-   "home": "Gimnastica Segoviana (w)",
-   "away": "UD Bovedana (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:15",
-   "kickoff_utc": "2026-11-21 18:15",
    "status": "no_result",
    "needs": [
     "ft"
@@ -335,14 +244,14 @@
    ]
   },
   {
-   "id": 902698449,
-   "home": "Libertad Asuncion (W)",
-   "away": "Sportivo San Lorenzo (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
+   "id": 902697893,
+   "home": "Lugano (W)",
+   "away": "FC Ostermundigen (W)",
+   "league": "Nationalliga B Women",
+   "country": "Switzerland",
    "sport": "football",
-   "kickoff_eat": "2026-11-21 22:00",
-   "kickoff_utc": "2026-11-21 19:00",
+   "kickoff_eat": "2026-11-21 22:30",
+   "kickoff_utc": "2026-11-21 19:30",
    "status": "no_result",
    "needs": [
     "ft"

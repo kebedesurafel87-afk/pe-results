@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 06:32",
- "count": 5,
+ "updated_utc": "2026-11-21 07:33",
+ "count": 4,
  "matches": [
   {
    "id": 902671289,
@@ -63,23 +63,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 16:30",
    "kickoff_utc": "2026-11-20 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902688161,
-   "home": "Al Gharafa U20",
-   "away": "Al Duhail U20",
-   "league": "League U20",
-   "country": "Qatar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 18:10",
-   "kickoff_utc": "2026-11-20 15:10",
    "status": "no_result",
    "needs": [
     "ft"

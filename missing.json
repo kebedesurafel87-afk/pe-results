@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-21 07:33",
- "count": 4,
+ "updated_utc": "2026-11-21 12:03",
+ "count": 3,
  "matches": [
-  {
-   "id": 902671289,
-   "home": "FC Kosice (W)",
-   "away": "Dukla Banska Bystrica (W)",
-   "league": "Slovakia Cup Women",
-   "country": "Slovakia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-17 15:00",
-   "kickoff_utc": "2026-11-17 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_3_5"
-   ]
-  },
   {
    "id": 902677479,
    "home": "Nita FA (W)",

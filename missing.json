@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 14:33",
- "count": 9,
+ "updated_utc": "2026-11-21 14:48",
+ "count": 7,
  "matches": [
   {
    "id": 902677479,
@@ -73,23 +73,6 @@
    ]
   },
   {
-   "id": 902690609,
-   "home": "Slask Wroclaw U19",
-   "away": "Arka Gdynia U19",
-   "league": "Youth League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902698391,
    "home": "Club Guarani (W)",
    "away": "Club Olimpia (W)",
@@ -115,23 +98,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-21 14:00",
    "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902698796,
-   "home": "Rovers FC",
-   "away": "Anse Reunion",
-   "league": "Premier League",
-   "country": "Seychelles",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 15:00",
-   "kickoff_utc": "2026-11-21 12:00",
    "status": "no_result",
    "needs": [
     "ft"

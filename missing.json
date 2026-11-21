@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 06:17",
- "count": 6,
+ "updated_utc": "2026-11-21 06:32",
+ "count": 5,
  "matches": [
   {
    "id": 902671289,
@@ -53,24 +53,6 @@
     "1x2",
     "double_chance"
    ]
-  },
-  {
-   "id": 902680900,
-   "home": "Al Zawraa",
-   "away": "Al Talaba",
-   "league": "Stars League",
-   "country": "Iraq",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 14:15",
-   "kickoff_utc": "2026-11-20 11:15",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_ou_7_5"
-   ],
-   "stored_ft": "4-1"
   },
   {
    "id": 902687610,

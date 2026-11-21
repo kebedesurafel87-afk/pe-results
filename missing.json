@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 20:19",
- "count": 16,
+ "updated_utc": "2026-11-21 20:34",
+ "count": 19,
  "matches": [
   {
    "id": 902677479,
@@ -142,23 +142,6 @@
    ]
   },
   {
-   "id": 902702539,
-   "home": "AD Ceuta II",
-   "away": "Recreativo Huelva II",
-   "league": "Tercera Div. RFEF Group 10",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 19:00",
-   "kickoff_utc": "2026-11-21 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902697865,
    "home": "Young Boys Diekirch (W)",
    "away": "Kelen (W)",
@@ -190,24 +173,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902703064,
-   "home": "CF San Bartolome",
-   "away": "Las Palmas III",
-   "league": "Tercera Div. RFEF Group 12",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:00",
-   "kickoff_utc": "2026-11-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
    ]
   },
   {
@@ -246,38 +211,6 @@
    ]
   },
   {
-   "id": 902572151,
-   "home": "Utrecht",
-   "away": "Cambuur Leeuwarden",
-   "league": "Eredivisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:45",
-   "kickoff_utc": "2026-11-21 17:45",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "2nd_half_over_under_0_5",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_3_5",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_t2_2_5",
-    "pb_cor_ou_t2_3_5"
-   ],
-   "stored_ft": "2-3"
-  },
-  {
    "id": 902697681,
    "home": "Pachuca U19",
    "away": "Toluca U19",
@@ -293,6 +226,117 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902696206,
+   "home": "Quevilly U19",
+   "away": "PSG U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "double_chance",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902697896,
+   "home": "FC 03 Differdange (W)",
+   "away": "Swift Hesperange (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
+   ]
+  },
+  {
+   "id": 902698812,
+   "home": "Fanatico U20",
+   "away": "Nacional AC U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902701274,
+   "home": "CD Irapuato II",
+   "away": "Racing de Veracruz III",
+   "league": "Liga Premier. Serie B",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902677468,
+   "home": "CD Estepona",
+   "away": "Sevilla II",
+   "league": "Tercera Div. RFEF Group 4",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902698825,
+   "home": "AS Denguele",
+   "away": "Leader",
+   "league": "League 2",
+   "country": "Ivory Coast",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
     "dc"
    ]
   }

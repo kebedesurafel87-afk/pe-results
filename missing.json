@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-21 19:49",
+ "updated_utc": "2026-11-21 20:04",
  "count": 17,
  "matches": [
   {
@@ -68,7 +68,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "ou25"
    ]
   },
@@ -242,27 +241,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902696813,
-   "home": "CS Maritimo",
-   "away": "Desportivo Chaves",
-   "league": "Portuguese Cup",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:00",
-   "kickoff_utc": "2026-11-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   },
   {
@@ -280,7 +259,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "double_chance",
     "over_under_1_5"
    ]
@@ -294,6 +272,23 @@
    "sport": "football",
    "kickoff_eat": "2026-11-21 20:15",
    "kickoff_utc": "2026-11-21 17:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902697684,
+   "home": "Pumas UNAM U19",
+   "away": "Monterrey U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:30",
+   "kickoff_utc": "2026-11-21 17:30",
    "status": "no_result",
    "needs": [
     "ft"

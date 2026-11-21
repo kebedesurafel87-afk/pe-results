@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 21:34",
- "count": 21,
+ "updated_utc": "2026-11-21 21:49",
+ "count": 20,
  "matches": [
   {
    "id": 902677479,
@@ -229,25 +229,6 @@
    ]
   },
   {
-   "id": 902697896,
-   "home": "FC 03 Differdange (W)",
-   "away": "Swift Hesperange (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:00",
-   "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902696206,
    "home": "Quevilly U19",
    "away": "PSG U19",
@@ -265,6 +246,24 @@
     "both_teams_to_score",
     "double_chance",
     "ou35"
+   ]
+  },
+  {
+   "id": 902697896,
+   "home": "FC 03 Differdange (W)",
+   "away": "Swift Hesperange (W)",
+   "league": "Ligue 1 Women",
+   "country": "Luxembourg",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   },
   {
@@ -315,7 +314,6 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "over_under_2_5"
    ]
   },
@@ -335,25 +333,6 @@
    "markets": [
     "1x2"
    ]
-  },
-  {
-   "id": 902681450,
-   "home": "R.O.C. de Charleroi-Marchienne",
-   "away": "FC Flenu",
-   "league": "First Amateur Division",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 22:00",
-   "kickoff_utc": "2026-11-21 19:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "pb_cor_ou_8_5"
-   ],
-   "stored_ft": "2-0"
   },
   {
    "id": 902698449,

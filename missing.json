@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 19:19",
- "count": 15,
+ "updated_utc": "2026-11-21 19:34",
+ "count": 17,
  "matches": [
   {
    "id": 902677479,
@@ -142,23 +142,6 @@
    ]
   },
   {
-   "id": 902698785,
-   "home": "Heerenveen U21",
-   "away": "Telstar U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 17:00",
-   "kickoff_utc": "2026-11-21 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
-   ]
-  },
-  {
    "id": 902658885,
    "home": "Dunfermline Athletic",
    "away": "Greenock Morton",
@@ -245,21 +228,81 @@
    ]
   },
   {
-   "id": 902703062,
-   "home": "Lagun Onak",
-   "away": "Eibar III",
-   "league": "Tercera Div. RFEF Group 4",
+   "id": 902697733,
+   "home": "Dakar Sacre-Coeur",
+   "away": "Generation Foot",
+   "league": "Ligue 1",
+   "country": "Senegal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:00",
+   "kickoff_utc": "2026-11-21 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902703064,
+   "home": "CF San Bartolome",
+   "away": "Las Palmas III",
+   "league": "Tercera Div. RFEF Group 12",
    "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-21 19:15",
-   "kickoff_utc": "2026-11-21 16:15",
+   "kickoff_eat": "2026-11-21 20:00",
+   "kickoff_utc": "2026-11-21 17:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score"
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902696813,
+   "home": "CS Maritimo",
+   "away": "Desportivo Chaves",
+   "league": "Portuguese Cup",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:00",
+   "kickoff_utc": "2026-11-21 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
+   ]
+  },
+  {
+   "id": 902677560,
+   "home": "Sacramento Republic FC",
+   "away": "Louisville City",
+   "league": "USL Championship",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:00",
+   "kickoff_utc": "2026-11-21 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "over_under_1_5"
    ]
   }
  ]

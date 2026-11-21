@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 00:02",
- "count": 18,
+ "updated_utc": "2026-11-21 00:17",
+ "count": 15,
  "matches": [
   {
    "id": 902671289,
@@ -104,33 +104,10 @@
     "corners"
    ],
    "markets": [
-    "1x2",
     "double_chance",
     "pb_cor_ou_7_5"
    ],
    "stored_ft": "4-1"
-  },
-  {
-   "id": 902689102,
-   "home": "Welwalo Adigrat",
-   "away": "Mekelakeya",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:00",
-   "kickoff_utc": "2026-11-20 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_1_5",
-    "over_under_2_5",
-    "pbx_rtg_1_5"
-   ]
   },
   {
    "id": 902687610,
@@ -165,26 +142,6 @@
    "markets": [
     "1x2",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902688147,
-   "home": "Estoril Praia U23",
-   "away": "Benfica U23",
-   "league": "League U23",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 17:00",
-   "kickoff_utc": "2026-11-20 14:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_2_5",
-    "pb_cor_ou_8_5"
    ]
   },
   {
@@ -264,23 +221,6 @@
    ]
   },
   {
-   "id": 902688122,
-   "home": "Fulham U21",
-   "away": "Sporting U21",
-   "league": "Premier League International Cup",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 22:00",
-   "kickoff_utc": "2026-11-20 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902580043,
    "home": "Athletic Bilbao",
    "away": "RCD Espanyol",
@@ -305,7 +245,6 @@
     "competitor1_over_under_0_5",
     "competitor1_over_under_1_5",
     "competitor1_over_under_2_5",
-    "competitor2_total_0_5",
     "dc",
     "double_chance",
     "handicap_hcp_0_3",
@@ -345,7 +284,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "btts",
     "pb_y_iou_t1_1_5",
     "pb_y_iou_t2_1_5",
     "pbx_rtgwo_t1_1_5"

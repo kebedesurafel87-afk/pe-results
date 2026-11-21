@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 20:49",
- "count": 18,
+ "updated_utc": "2026-11-21 21:04",
+ "count": 19,
  "matches": [
   {
    "id": 902677479,
@@ -176,23 +176,6 @@
    ]
   },
   {
-   "id": 902703063,
-   "home": "Alcudia",
-   "away": "Binissalem",
-   "league": "Tercera Div. RFEF Group 11",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:15",
-   "kickoff_utc": "2026-11-21 17:15",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902697684,
    "home": "Pumas UNAM U19",
    "away": "Monterrey U19",
@@ -225,8 +208,7 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
-    "dc"
+    "both_teams_to_score"
    ]
   },
   {
@@ -269,24 +251,6 @@
    ]
   },
   {
-   "id": 902698812,
-   "home": "Fanatico U20",
-   "away": "Nacional AC U20",
-   "league": "Copa Parana U20",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:00",
-   "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902698825,
    "home": "AS Denguele",
    "away": "Leader",
@@ -300,8 +264,24 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
+   ]
+  },
+  {
+   "id": 902698812,
+   "home": "Fanatico U20",
+   "away": "Nacional AC U20",
+   "league": "Copa Parana U20",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:00",
+   "kickoff_utc": "2026-11-21 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
    ]
   },
   {
@@ -320,6 +300,45 @@
    "markets": [
     "1x2"
    ]
+  },
+  {
+   "id": 902698418,
+   "home": "Parana Clube",
+   "away": "Athletico Paranaense B",
+   "league": "Copa Parana",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:30",
+   "kickoff_utc": "2026-11-21 18:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902694999,
+   "home": "Royale Union Saint-Gilloise II",
+   "away": "Meux",
+   "league": "First Amateur Division",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 21:30",
+   "kickoff_utc": "2026-11-21 18:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "pb_cor_ou_8_5"
+   ],
+   "stored_ft": "1-1"
   }
  ]
 }

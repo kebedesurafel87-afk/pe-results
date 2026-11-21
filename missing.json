@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 14:48",
- "count": 7,
+ "updated_utc": "2026-11-21 15:03",
+ "count": 6,
  "matches": [
   {
    "id": 902677479,
@@ -73,23 +73,6 @@
    ]
   },
   {
-   "id": 902698391,
-   "home": "Club Guarani (W)",
-   "away": "Club Olimpia (W)",
-   "league": "Copa EFE Women",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902685517,
    "home": "B.Binh Duong",
    "away": "Hue FC",
@@ -107,22 +90,35 @@
    ]
   },
   {
-   "id": 902695399,
-   "home": "Inter Milan U20",
-   "away": "Juventus U20",
-   "league": "Primavera 1",
-   "country": "Italy",
+   "id": 902696210,
+   "home": "Ethiopia Bunna",
+   "away": "Wolaita Dicha",
+   "league": "Premier League",
+   "country": "Ethiopia",
    "sport": "football",
-   "kickoff_eat": "2026-11-21 15:00",
-   "kickoff_utc": "2026-11-21 12:00",
-   "status": "no_result",
+   "kickoff_eat": "2026-11-21 15:30",
+   "kickoff_utc": "2026-11-21 12:30",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "ft"
+    "corners"
    ],
    "markets": [
+    "1st_half_3_way",
+    "1st_half_correct_score",
     "1x2",
-    "both_teams_to_score"
-   ]
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_2_0",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_cor_ou_7_5",
+    "pbx_hsh",
+    "pbx_iou_t2_h1_0_5",
+    "pbx_tsg_t2"
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

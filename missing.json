@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 01:32",
- "count": 15,
+ "updated_utc": "2026-11-21 02:02",
+ "count": 14,
  "matches": [
   {
    "id": 902671289,
@@ -289,24 +289,6 @@
     "pbx_rtgwo_t1_1_5"
    ],
    "stored_ft": "1-1"
-  },
-  {
-   "id": 902620867,
-   "home": "Velez Sarsfield",
-   "away": "Belgrano",
-   "league": "Primera Division",
-   "country": "Argentina",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 02:00",
-   "kickoff_utc": "2026-11-20 23:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
   }
  ]
 }

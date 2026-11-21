@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 20:04",
- "count": 17,
+ "updated_utc": "2026-11-21 20:19",
+ "count": 16,
  "matches": [
   {
    "id": 902677479,
@@ -46,40 +46,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 16:30",
    "kickoff_utc": "2026-11-20 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902690606,
-   "home": "Legia Warsaw U19",
-   "away": "Bialystok U19",
-   "league": "Youth League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "ou25"
-   ]
-  },
-  {
-   "id": 902685517,
-   "home": "B.Binh Duong",
-   "away": "Hue FC",
-   "league": "V-League 2",
-   "country": "Vietnam",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 14:00",
-   "kickoff_utc": "2026-11-21 11:00",
    "status": "no_result",
    "needs": [
     "ft"
@@ -245,25 +211,6 @@
    ]
   },
   {
-   "id": 902677560,
-   "home": "Sacramento Republic FC",
-   "away": "Louisville City",
-   "league": "USL Championship",
-   "country": "USA",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:00",
-   "kickoff_utc": "2026-11-21 17:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902703063,
    "home": "Alcudia",
    "away": "Binissalem",
@@ -296,6 +243,57 @@
    "markets": [
     "1x2",
     "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902572151,
+   "home": "Utrecht",
+   "away": "Cambuur Leeuwarden",
+   "league": "Eredivisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:45",
+   "kickoff_utc": "2026-11-21 17:45",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_3_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_ou_t2_2_5",
+    "pb_cor_ou_t2_3_5"
+   ],
+   "stored_ft": "2-3"
+  },
+  {
+   "id": 902697681,
+   "home": "Pachuca U19",
+   "away": "Toluca U19",
+   "league": "Liga MX U19",
+   "country": "Mexico",
+   "sport": "football",
+   "kickoff_eat": "2026-11-21 20:45",
+   "kickoff_utc": "2026-11-21 17:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

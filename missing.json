@@ -1,24 +1,7 @@
 {
- "updated_utc": "2026-11-22 15:06",
- "count": 22,
+ "updated_utc": "2026-11-22 15:36",
+ "count": 26,
  "matches": [
-  {
-   "id": 902677479,
-   "home": "Nita FA (W)",
-   "away": "East Bengal Club (W)",
-   "league": "League 2 Women",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-19 16:30",
-   "kickoff_utc": "2026-11-19 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902687611,
    "home": "Sethu (W)",
@@ -389,8 +372,139 @@
     "dc",
     "double_chance",
     "over_under_1_5",
+    "pb_cor_ou_7_5"
+   ]
+  },
+  {
+   "id": 902622997,
+   "home": "Kasimpasa",
+   "away": "Alanyaspor",
+   "league": "Super Lig",
+   "country": "Turkey",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 16:00",
+   "kickoff_utc": "2026-11-22 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_2",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_9",
+    "pb_cor_ou_t2_3_5",
+    "pbx_1x2_10m",
+    "pbx_1x2_15m"
+   ],
+   "stored_ft": "2-1"
+  },
+  {
+   "id": 902702974,
+   "home": "Negelle Arsi",
+   "away": "Gamo Chencha",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 16:00",
+   "kickoff_utc": "2026-11-22 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way_over_under_1_5",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_1_5",
+    "over_under_2_5",
     "pb_cor_ou_7_5",
-    "pbx_rtg_1_5"
+    "pbx_iou_t2_h1_0_5",
+    "pbx_rtg_1_5",
+    "pbx_tsg_t2_h1"
+   ],
+   "stored_ft": "1-0"
+  },
+  {
+   "id": 902691190,
+   "home": "Peterborough United U21",
+   "away": "Luton Town U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 16:00",
+   "kickoff_utc": "2026-11-22 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_4_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "1-5"
+  },
+  {
+   "id": 902691191,
+   "home": "Brentford U21",
+   "away": "Hull City U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 16:00",
+   "kickoff_utc": "2026-11-22 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "2-1"
+  },
+  {
+   "id": 902705011,
+   "home": "Akaki Kality (w)",
+   "away": "Arba Minch (W)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 16:00",
+   "kickoff_utc": "2026-11-22 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc",
+    "over_under_2_5"
    ]
   }
  ]

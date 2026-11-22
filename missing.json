@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-22 21:51",
+ "updated_utc": "2026-11-22 22:07",
  "count": 28,
  "matches": [
   {
@@ -276,7 +276,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -397,7 +396,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -429,23 +427,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-22 17:00",
    "kickoff_utc": "2026-11-22 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902697682,
-   "home": "Queretaro U19",
-   "away": "Club Necaxa U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 20:30",
-   "kickoff_utc": "2026-11-22 17:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -487,6 +468,27 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902704602,
+   "home": "Uniao Leiria",
+   "away": "Leca",
+   "league": "Portuguese Cup",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 22:30",
+   "kickoff_utc": "2026-11-22 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "competitor1_over_under_0_5",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

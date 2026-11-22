@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 16:06",
- "count": 31,
+ "updated_utc": "2026-11-22 16:21",
+ "count": 28,
  "matches": [
   {
    "id": 902687611,
@@ -190,8 +190,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "double_chance"
+    "1x2"
    ]
   },
   {
@@ -243,7 +242,6 @@
     "ft"
    ],
    "markets": [
-    "btts",
     "over_under_1_5"
    ]
   },
@@ -449,9 +447,7 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "dc",
-    "over_under_2_5",
     "over_under_5_5"
    ]
   },
@@ -489,7 +485,6 @@
    "markets": [
     "both_teams_to_score",
     "btts",
-    "dc",
     "handicap_hcp_1_0"
    ]
   },
@@ -507,59 +502,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902691136,
-   "home": "Lavarian Mortean Esperia",
-   "away": "Clodiense",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902691125,
-   "home": "Sporting Trestina",
-   "away": "ASD K-Sport Montecchio",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902702944,
-   "home": "USL Dunkerque U19",
-   "away": "Le Havre U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "btts"
+    "1x2"
    ]
   }
  ]

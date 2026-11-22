@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 18:21",
- "count": 27,
+ "updated_utc": "2026-11-22 18:36",
+ "count": 30,
  "matches": [
   {
    "id": 902687611,
@@ -469,6 +469,72 @@
    "sport": "football",
    "kickoff_eat": "2026-11-22 18:30",
    "kickoff_utc": "2026-11-22 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902629168,
+   "home": "KFUM",
+   "away": "SK Brann",
+   "league": "Eliteserien",
+   "country": "Norway",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 19:00",
+   "kickoff_utc": "2026-11-22 16:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "corners_h1",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_2",
+    "over_under_2_5",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_t1_3_5",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902690992,
+   "home": "Mar Menor CF",
+   "away": "Olimpico Totana",
+   "league": "Tercera Div. RFEF Group 13",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 19:00",
+   "kickoff_utc": "2026-11-22 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902705038,
+   "home": "Queens Park (W)",
+   "away": "Dundee United (W)",
+   "league": "FA Cup Women",
+   "country": "Scotland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 19:00",
+   "kickoff_utc": "2026-11-22 16:00",
    "status": "no_result",
    "needs": [
     "ft"

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 18:06",
- "count": 28,
+ "updated_utc": "2026-11-22 18:21",
+ "count": 27,
  "matches": [
   {
    "id": 902687611,
@@ -365,7 +365,6 @@
    "markets": [
     "1x2",
     "dc",
-    "double_chance",
     "over_under_1_5",
     "pb_cor_ou_7_5"
    ]
@@ -422,23 +421,6 @@
    "markets": [
     "both_teams_to_score",
     "handicap_hcp_1_0"
-   ]
-  },
-  {
-   "id": 902685717,
-   "home": "Palazzolo 1913",
-   "away": "Club Milano",
-   "league": "Serie D",
-   "country": "Italy",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {

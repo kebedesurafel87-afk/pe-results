@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 12:35",
- "count": 21,
+ "updated_utc": "2026-11-22 13:05",
+ "count": 20,
  "matches": [
   {
    "id": 902677479,
@@ -192,23 +192,6 @@
     "pb_cor_1x2"
    ],
    "stored_ft": "0-2"
-  },
-  {
-   "id": 902706020,
-   "home": "Anagennisi Karditas U19",
-   "away": "Zakynthos U19",
-   "league": "Super League 2 U19",
-   "country": "Greece",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 11:30",
-   "kickoff_utc": "2026-11-22 08:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
   },
   {
    "id": 902702497,

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 07:20",
- "count": 11,
+ "updated_utc": "2026-11-22 09:35",
+ "count": 13,
  "matches": [
   {
    "id": 902677479,
@@ -192,6 +192,40 @@
     "pb_cor_1x2"
    ],
    "stored_ft": "0-2"
+  },
+  {
+   "id": 902705010,
+   "home": "Addis Ababa Ketema (W)",
+   "away": "Nifas Silk Lafto Sub City (W)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 10:00",
+   "kickoff_utc": "2026-11-22 07:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "3_way"
+   ]
+  },
+  {
+   "id": 902702381,
+   "home": "Lideta Sub City (w)",
+   "away": "Bahir Dar Kenema FC (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 10:00",
+   "kickoff_utc": "2026-11-22 07:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance"
+   ]
   }
  ]
 }

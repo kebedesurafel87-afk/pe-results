@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-22 16:36",
+ "updated_utc": "2026-11-22 16:51",
  "count": 30,
  "matches": [
   {
@@ -500,23 +500,6 @@
    ]
   },
   {
-   "id": 902681951,
-   "home": "Harelbeke",
-   "away": "Cercle Brugge (R)",
-   "league": "First Amateur Division",
-   "country": "Belgium",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 17:00",
-   "kickoff_utc": "2026-11-22 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902685494,
    "home": "FC Bulle",
    "away": "SC Bruhl",
@@ -530,6 +513,25 @@
     "ft"
    ],
    "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902698821,
+   "home": "Al Shabab Al Ahmadi",
+   "away": "Al Sahel (KUW)",
+   "league": "Crown Prince Cup",
+   "country": "Kuwait",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 17:20",
+   "kickoff_utc": "2026-11-22 14:20",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
     "dc"
    ]
   }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 00:05",
- "count": 12,
+ "updated_utc": "2026-11-22 00:20",
+ "count": 11,
  "matches": [
   {
    "id": 902677479,
@@ -120,23 +120,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902698418,
-   "home": "Parana Clube",
-   "away": "Athletico Paranaense B",
-   "league": "Copa Parana",
-   "country": "Brazil",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:30",
-   "kickoff_utc": "2026-11-21 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   },
   {

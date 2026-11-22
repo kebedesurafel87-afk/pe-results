@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 22:07",
- "count": 28,
+ "updated_utc": "2026-11-22 22:22",
+ "count": 27,
  "matches": [
   {
    "id": 902687611,
@@ -468,27 +468,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902704602,
-   "home": "Uniao Leiria",
-   "away": "Leca",
-   "league": "Portuguese Cup",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 22:30",
-   "kickoff_utc": "2026-11-22 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "competitor1_over_under_0_5",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
    ]
   }
  ]

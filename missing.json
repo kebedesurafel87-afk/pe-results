@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 19:06",
- "count": 29,
+ "updated_utc": "2026-11-22 19:36",
+ "count": 30,
  "matches": [
   {
    "id": 902687611,
@@ -494,28 +494,68 @@
     "competitor2_total_1_5",
     "dc",
     "double_chance",
-    "handicap_hcp_0_2",
     "over_under_2_5",
     "pb_cor_ou_t1_3_5",
     "pbx_tgbts_2_5"
    ]
   },
   {
-   "id": 902690992,
-   "home": "Mar Menor CF",
-   "away": "Olimpico Totana",
-   "league": "Tercera Div. RFEF Group 13",
-   "country": "Spain",
+   "id": 902623512,
+   "home": "FC Nordsjælland",
+   "away": "FC Copenhagen",
+   "league": "Superligaen",
+   "country": "Denmark",
    "sport": "football",
-   "kickoff_eat": "2026-11-22 19:00",
-   "kickoff_utc": "2026-11-22 16:00",
-   "status": "no_result",
+   "kickoff_eat": "2026-11-22 20:00",
+   "kickoff_utc": "2026-11-22 17:00",
+   "status": "result_saved_parts_missing",
    "needs": [
-    "ft"
+    "corners"
    ],
    "markets": [
-    "1x2"
-   ]
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5",
+    "pb_cor_ou_8_5",
+    "pb_cor_ou_t2_3_5"
+   ],
+   "stored_ft": "5-0"
+  },
+  {
+   "id": 902570191,
+   "home": "Olympiakos Piraeus",
+   "away": "Iraklis",
+   "league": "Superleague",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 20:00",
+   "kickoff_utc": "2026-11-22 17:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_1x2_both_teams_to_score",
+    "1x2",
+    "3_way",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "dc",
+    "handicap_hcp_0_1",
+    "handicap_hcp_0_2",
+    "over_under_2_5",
+    "pb_cor_ou_t2_1_5",
+    "pb_y_1x2",
+    "pbx_1x2_10m"
+   ],
+   "stored_ft": "6-2"
   }
  ]
 }

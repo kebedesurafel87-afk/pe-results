@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 13:35",
- "count": 25,
+ "updated_utc": "2026-11-22 13:50",
+ "count": 22,
  "matches": [
   {
    "id": 902677479,
@@ -280,7 +280,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "btts",
     "dc",
     "over_under_1_5"
@@ -377,42 +376,6 @@
    ]
   },
   {
-   "id": 902709162,
-   "home": "Cultural Guarnizo",
-   "away": "Tropezon",
-   "league": "Tercera Div. RFEF Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902692435,
-   "home": "Burgos Promesas",
-   "away": "Bembibre",
-   "league": "Tercera Div. RFEF Group 8",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902691002,
    "home": "Sevilla III",
    "away": "Real Balompedica Linense",
@@ -427,24 +390,6 @@
    ],
    "markets": [
     "1x2"
-   ]
-  },
-  {
-   "id": 902705525,
-   "home": "Extremadura (W)",
-   "away": "Real Madrid II (W)",
-   "league": "Primera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts"
    ]
   }
  ]

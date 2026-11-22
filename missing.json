@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 17:36",
- "count": 30,
+ "updated_utc": "2026-11-22 17:51",
+ "count": 27,
  "matches": [
   {
    "id": 902687611,
@@ -389,25 +389,6 @@
    ]
   },
   {
-   "id": 902702942,
-   "home": "Racing Paris U19",
-   "away": "Orleans U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts",
-    "dc"
-   ]
-  },
-  {
    "id": 902702939,
    "home": "Amiens U19",
    "away": "Chartres U19",
@@ -424,24 +405,6 @@
     "1x2",
     "dc",
     "over_under_5_5"
-   ]
-  },
-  {
-   "id": 902702949,
-   "home": "Valenciennes U19",
-   "away": "Versailles U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {
@@ -515,36 +478,6 @@
    "markets": [
     "dc"
    ]
-  },
-  {
-   "id": 902623515,
-   "home": "Sonderjyske",
-   "away": "Odense",
-   "league": "Superligaen",
-   "country": "Denmark",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 18:00",
-   "kickoff_utc": "2026-11-22 15:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_1_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_clean_sheet",
-    "competitor2_total_0_5",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_2_5",
-    "pb_cor_ou_t1_6_5",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "1-2"
   }
  ]
 }

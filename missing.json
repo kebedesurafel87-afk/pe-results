@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-21 23:34",
- "count": 14,
+ "updated_utc": "2026-11-22 00:05",
+ "count": 12,
  "matches": [
   {
    "id": 902677479,
@@ -46,41 +46,6 @@
    "sport": "football",
    "kickoff_eat": "2026-11-20 16:30",
    "kickoff_utc": "2026-11-20 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902658885,
-   "home": "Dunfermline Athletic",
-   "away": "Greenock Morton",
-   "league": "Championship",
-   "country": "Scotland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 18:00",
-   "kickoff_utc": "2026-11-21 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902689828,
-   "home": "Elche II",
-   "away": "Deportiva Minera",
-   "league": "Segunda Division RFEF. Group 3",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 18:00",
-   "kickoff_utc": "2026-11-21 15:00",
    "status": "no_result",
    "needs": [
     "ft"

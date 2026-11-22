@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 17:51",
- "count": 27,
+ "updated_utc": "2026-11-22 18:06",
+ "count": 28,
  "matches": [
   {
    "id": 902687611,
@@ -403,8 +403,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
-    "over_under_5_5"
+    "dc"
    ]
   },
   {
@@ -477,6 +476,23 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902703725,
+   "home": "Athletic Adjame",
+   "away": "Lanfiara",
+   "league": "League 2",
+   "country": "Ivory Coast",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 18:30",
+   "kickoff_utc": "2026-11-22 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

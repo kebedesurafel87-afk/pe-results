@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 00:20",
- "count": 11,
+ "updated_utc": "2026-11-22 05:35",
+ "count": 12,
  "matches": [
   {
    "id": 902677479,
@@ -192,6 +192,23 @@
     "pb_cor_1x2"
    ],
    "stored_ft": "0-2"
+  },
+  {
+   "id": 902698787,
+   "home": "Kawasaki Frontale U21",
+   "away": "Fagiano Okayama U21",
+   "league": "J League U21",
+   "country": "Japan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 06:00",
+   "kickoff_utc": "2026-11-22 03:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

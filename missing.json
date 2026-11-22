@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 16:21",
- "count": 28,
+ "updated_utc": "2026-11-22 16:36",
+ "count": 30,
  "matches": [
   {
    "id": 902687611,
@@ -364,7 +364,6 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_1_5",
@@ -387,30 +386,6 @@
    "markets": [
     "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902697830,
-   "home": "Mamelodi Sundowns",
-   "away": "Kaizer Chiefs",
-   "league": "South Africa Cup",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:30",
-   "kickoff_utc": "2026-11-22 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance_over_under_4_5",
-    "over_under_1_5",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pbx_weh_t1"
    ]
   },
   {
@@ -484,7 +459,6 @@
    ],
    "markets": [
     "both_teams_to_score",
-    "btts",
     "handicap_hcp_1_0"
    ]
   },
@@ -503,6 +477,60 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902705728,
+   "home": "Stockport County (W)",
+   "away": "Durham Cestria (W)",
+   "league": "FA Premier Women",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 17:00",
+   "kickoff_utc": "2026-11-22 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "over_under_3_5",
+    "pbx_bts_h2"
+   ]
+  },
+  {
+   "id": 902681951,
+   "home": "Harelbeke",
+   "away": "Cercle Brugge (R)",
+   "league": "First Amateur Division",
+   "country": "Belgium",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 17:00",
+   "kickoff_utc": "2026-11-22 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902685494,
+   "home": "FC Bulle",
+   "away": "SC Bruhl",
+   "league": "Promotion League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-22 17:00",
+   "kickoff_utc": "2026-11-22 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 21:08",
- "count": 15,
+ "updated_utc": "2026-11-23 21:38",
+ "count": 23,
  "matches": [
   {
    "id": 902701609,
@@ -159,8 +159,6 @@
     "1x2",
     "both_teams_to_score",
     "correct_score",
-    "dc",
-    "handicap_hcp_1_0",
     "over_under_1_5",
     "over_under_2_5",
     "pbx_rtg_2_5"
@@ -285,12 +283,250 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "handicap_hcp_2_0",
     "ou25",
     "over_under_2_5",
-    "over_under_3_5",
-    "pbx_bts_h2"
+    "over_under_3_5"
    ]
+  },
+  {
+   "id": 902711182,
+   "home": "Bournemouth U21",
+   "away": "Leicester U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "pb_cor_ou_10",
+    "pb_cor_ou_11",
+    "pbx_iou_t1_h1_0_5"
+   ],
+   "stored_ft": "5-3"
+  },
+  {
+   "id": 902711184,
+   "home": "Wolverhampton U21",
+   "away": "Preston North End U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pb_cor_ou_10_5"
+   ],
+   "stored_ft": "6-1"
+  },
+  {
+   "id": 902711224,
+   "home": "Reading U21",
+   "away": "Exeter City U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "pb_cor_ou_10_5",
+    "pb_cor_ou_9_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "1-0"
+  },
+  {
+   "id": 902711225,
+   "home": "Birmingham U21",
+   "away": "Gillingham U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_10",
+    "pb_cor_ou_t2_3_5",
+    "pbx_iou_t2_h2_1_5"
+   ],
+   "stored_ft": "0-1"
+  },
+  {
+   "id": 902711226,
+   "home": "Brighton U21",
+   "away": "West Ham United U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way_both_teams_to_score",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_10_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "2-1"
+  },
+  {
+   "id": 902663829,
+   "home": "Jong Ajax",
+   "away": "AZ II",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "corners_h1",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_2_0",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_1x2_h2",
+    "pb_cor_ou_10_5",
+    "pb_cor_ou_t1_4_5",
+    "pb_cor_ou_t1_5_5",
+    "pb_cor_ou_t2_5_5",
+    "pbx_iou_t1_h2_0_5",
+    "pbx_iou_t2_h2_0_5",
+    "pbx_rtgwu_t1_5_5",
+    "pbx_sbh_t2",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902711183,
+   "home": "Newcastle United U21",
+   "away": "Nottm Forest U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "pb_cor_ou_9",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "2-2"
+  },
+  {
+   "id": 902663830,
+   "home": "Jong PSV Eindhoven",
+   "away": "Jong FC Utrecht",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 22:00",
+   "kickoff_utc": "2026-11-23 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_3_5",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "over_under_3_5",
+    "over_under_both_teams_to_score_2_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_10_5",
+    "pbx_rbts",
+    "pbx_tgbts_2_5",
+    "pbx_weh"
+   ],
+   "stored_ft": "3-2"
   }
  ]
 }

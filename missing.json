@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 15:23",
- "count": 14,
+ "updated_utc": "2026-11-23 15:38",
+ "count": 15,
  "matches": [
   {
    "id": 902701609,
@@ -270,6 +270,33 @@
     "1x2",
     "dc",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902708693,
+   "home": "Hawassa City Fc (W)",
+   "away": "Mechal FC (w)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 16:00",
+   "kickoff_utc": "2026-11-23 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "handicap_hcp_1_0",
+    "ou25",
+    "over_under_2_5",
+    "pbx_bts_h2",
+    "pbx_sbh_t2"
    ]
   }
  ]

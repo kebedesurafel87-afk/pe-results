@@ -1,95 +1,7 @@
 {
- "updated_utc": "2026-11-23 06:22",
- "count": 19,
+ "updated_utc": "2026-11-23 06:37",
+ "count": 6,
  "matches": [
-  {
-   "id": 902698825,
-   "home": "AS Denguele",
-   "away": "Leader",
-   "league": "League 2",
-   "country": "Ivory Coast",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:00",
-   "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902697893,
-   "home": "Lugano (W)",
-   "away": "FC Ostermundigen (W)",
-   "league": "Nationalliga B Women",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 22:30",
-   "kickoff_utc": "2026-11-21 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902697720,
-   "home": "Pacifico",
-   "away": "Sporting Cristal (R)",
-   "league": "Terceira Division",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 23:00",
-   "kickoff_utc": "2026-11-21 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902697721,
-   "home": "Alianza Lima (R)",
-   "away": "Universitario de Deportes (R)",
-   "league": "Terceira Division",
-   "country": "Peru",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 23:00",
-   "kickoff_utc": "2026-11-21 20:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902696811,
-   "home": "Vitoria Guimaraes",
-   "away": "Sporting Braga",
-   "league": "Portuguese Cup",
-   "country": "Portugal",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 23:30",
-   "kickoff_utc": "2026-11-21 20:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "pb_cor_1x2"
-   ],
-   "stored_ft": "0-2"
-  },
   {
    "id": 902701609,
    "home": "Teteks U19",
@@ -122,24 +34,6 @@
    ],
    "markets": [
     "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902698451,
-   "home": "Junior Lions",
-   "away": "Asia Lion",
-   "league": "League 2",
-   "country": "Myanmar",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 12:00",
-   "kickoff_utc": "2026-11-22 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "pbx_iou_t1_h1_0_5"
    ]
   },
   {
@@ -177,109 +71,6 @@
    ]
   },
   {
-   "id": 902702941,
-   "home": "Lyon U19",
-   "away": "Stade de Reims U19",
-   "league": "League U19",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
-   "id": 902705527,
-   "home": "Next Level Teruel (W)",
-   "away": "Cosmos Aragon (w)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902705523,
-   "home": "Ethiopia Nigd Bank (W)",
-   "away": "Dire Dawa (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902705528,
-   "home": "SD Lagunak (W)",
-   "away": "Mutilvera (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:30",
-   "kickoff_utc": "2026-11-22 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902706988,
-   "home": "EEPCO FC",
-   "away": "Halaba City",
-   "league": "Premier League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 15:30",
-   "kickoff_utc": "2026-11-22 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902705011,
-   "home": "Akaki Kality (w)",
-   "away": "Arba Minch (W)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 16:00",
-   "kickoff_utc": "2026-11-22 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
-   ]
-  },
-  {
    "id": 902702939,
    "home": "Amiens U19",
    "away": "Chartres U19",
@@ -294,25 +85,6 @@
    ],
    "markets": [
     "dc"
-   ]
-  },
-  {
-   "id": 902705728,
-   "home": "Stockport County (W)",
-   "away": "Durham Cestria (W)",
-   "league": "FA Premier Women",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 17:00",
-   "kickoff_utc": "2026-11-22 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_3_5",
-    "pbx_bts_h2"
    ]
   },
   {

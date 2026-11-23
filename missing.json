@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 06:37",
- "count": 6,
+ "updated_utc": "2026-11-23 08:37",
+ "count": 7,
  "matches": [
   {
    "id": 902701609,
@@ -102,6 +102,24 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902713906,
+   "home": "Berari Kokeboch (w)",
+   "away": "Kirkos FC (W)",
+   "league": "Premier League Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 09:00",
+   "kickoff_utc": "2026-11-23 06:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_4_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 18:38",
- "count": 16,
+ "updated_utc": "2026-11-23 18:53",
+ "count": 15,
  "matches": [
   {
    "id": 902701609,
@@ -138,26 +138,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902713907,
-   "home": "Ethiopian Sports Academy (W)",
-   "away": "Addis Ketema (w)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-23 11:00",
-   "kickoff_utc": "2026-11-23 08:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
    ]
   },
   {

@@ -1,99 +1,13 @@
 {
- "updated_utc": "2026-11-23 03:37",
- "count": 24,
+ "updated_utc": "2026-11-23 06:22",
+ "count": 19,
  "matches": [
-  {
-   "id": 902687611,
-   "home": "Sethu (W)",
-   "away": "Gokulam Kerala FC (W)",
-   "league": "League 2 Women",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 12:30",
-   "kickoff_utc": "2026-11-20 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902687610,
-   "home": "Kickstart Karnataka FC (W)",
-   "away": "Hops FC (W)",
-   "league": "League 2 Women",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-20 16:30",
-   "kickoff_utc": "2026-11-20 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902697865,
-   "home": "Young Boys Diekirch (W)",
-   "away": "Kelen (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 19:00",
-   "kickoff_utc": "2026-11-21 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902697684,
-   "home": "Pumas UNAM U19",
-   "away": "Monterrey U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 20:30",
-   "kickoff_utc": "2026-11-21 17:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
   {
    "id": 902698825,
    "home": "AS Denguele",
    "away": "Leader",
    "league": "League 2",
    "country": "Ivory Coast",
-   "sport": "football",
-   "kickoff_eat": "2026-11-21 21:00",
-   "kickoff_utc": "2026-11-21 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902697896,
-   "home": "FC 03 Differdange (W)",
-   "away": "Swift Hesperange (W)",
-   "league": "Ligue 1 Women",
-   "country": "Luxembourg",
    "sport": "football",
    "kickoff_eat": "2026-11-21 21:00",
    "kickoff_utc": "2026-11-21 18:00",

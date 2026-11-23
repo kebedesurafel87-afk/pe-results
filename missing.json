@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-22 23:07",
- "count": 28,
+ "updated_utc": "2026-11-23 00:07",
+ "count": 26,
  "matches": [
   {
    "id": 902687611,
@@ -314,23 +314,6 @@
    ]
   },
   {
-   "id": 902691002,
-   "home": "Sevilla III",
-   "away": "Real Balompedica Linense",
-   "league": "Tercera Div. RFEF Group 10",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 14:00",
-   "kickoff_utc": "2026-11-22 11:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902705528,
    "home": "SD Lagunak (W)",
    "away": "Mutilvera (W)",
@@ -416,23 +399,6 @@
     "1x2",
     "over_under_3_5",
     "pbx_bts_h2"
-   ]
-  },
-  {
-   "id": 902685494,
-   "home": "FC Bulle",
-   "away": "SC Bruhl",
-   "league": "Promotion League",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 17:00",
-   "kickoff_utc": "2026-11-22 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {

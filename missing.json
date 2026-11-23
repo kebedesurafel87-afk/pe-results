@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-23 21:53",
+ "updated_utc": "2026-11-23 22:08",
  "count": 16,
  "matches": [
   {
@@ -160,7 +160,6 @@
     "both_teams_to_score",
     "correct_score",
     "over_under_1_5",
-    "over_under_2_5",
     "pbx_rtg_2_5"
    ]
   },
@@ -182,7 +181,23 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "ou35",
+    "ou35"
+   ]
+  },
+  {
+   "id": 902713881,
+   "home": "Al Sharjah U21",
+   "away": "Baniyas U21",
+   "league": "UAE U21 Cup",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 15:40",
+   "kickoff_utc": "2026-11-23 12:40",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "over_under_2_5"
    ]
   },
@@ -200,8 +215,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "both_teams_to_score"
+    "1x2"
    ]
   },
   {
@@ -218,26 +232,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "dc"
-   ]
-  },
-  {
-   "id": 902713881,
-   "home": "Al Sharjah U21",
-   "away": "Baniyas U21",
-   "league": "UAE U21 Cup",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-23 15:40",
-   "kickoff_utc": "2026-11-23 12:40",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
    ]
   },
   {
@@ -260,9 +255,7 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "handicap_hcp_1_0",
-    "over_under_2_5",
-    "pbx_sbh_t2"
+    "handicap_hcp_1_0"
    ]
   },
   {
@@ -280,11 +273,9 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "ou25",
-    "over_under_2_5",
     "over_under_3_5"
    ]
   },
@@ -309,16 +300,9 @@
     "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_2_0",
-    "ou35",
     "over_under_3_5",
-    "over_under_4_5",
     "pb_cor_1x2_h2",
-    "pb_cor_ou_10_5",
-    "pb_cor_ou_t1_4_5",
     "pb_cor_ou_t1_5_5",
-    "pb_cor_ou_t2_5_5",
-    "pbx_iou_t1_h2_0_5",
     "pbx_iou_t2_h2_0_5",
     "pbx_rtgwu_t1_5_5",
     "pbx_sbh_t2",

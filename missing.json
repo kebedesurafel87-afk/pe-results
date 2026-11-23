@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 18:23",
- "count": 15,
+ "updated_utc": "2026-11-23 18:38",
+ "count": 16,
  "matches": [
   {
    "id": 902701609,
@@ -185,7 +185,6 @@
     "ou25",
     "over_under_1_5",
     "over_under_2_5",
-    "pbx_bts_h2",
     "pbx_rtg_2_5"
    ]
   },
@@ -209,8 +208,7 @@
     "dc",
     "double_chance",
     "ou35",
-    "over_under_2_5",
-    "pbx_bts_h2"
+    "over_under_2_5"
    ]
   },
   {
@@ -290,8 +288,38 @@
     "double_chance",
     "handicap_hcp_1_0",
     "over_under_2_5",
-    "pbx_bts_h2",
     "pbx_sbh_t2"
+   ]
+  },
+  {
+   "id": 902582246,
+   "home": "Traktor Sazi",
+   "away": "Al Wasl SC",
+   "league": "AFC Champions League",
+   "country": "ASIA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 19:00",
+   "kickoff_utc": "2026-11-23 16:00",
+   "status": "no_result",
+   "needs": [
+    "cards",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_2_0",
+    "ou15",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_y_ou_3_5",
+    "pbx_weh_t2"
    ]
   }
  ]

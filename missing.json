@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 00:37",
- "count": 25,
+ "updated_utc": "2026-11-23 00:52",
+ "count": 24,
  "matches": [
   {
    "id": 902687611,
@@ -399,24 +399,6 @@
     "1x2",
     "over_under_3_5",
     "pbx_bts_h2"
-   ]
-  },
-  {
-   "id": 902702122,
-   "home": "Somerset",
-   "away": "X-Roads Warriors",
-   "league": "Premier League",
-   "country": "Bermuda",
-   "sport": "football",
-   "kickoff_eat": "2026-11-22 21:00",
-   "kickoff_utc": "2026-11-22 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

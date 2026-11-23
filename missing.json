@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-23 20:53",
+ "updated_utc": "2026-11-23 21:08",
  "count": 15,
  "matches": [
   {
@@ -268,39 +268,29 @@
    ]
   },
   {
-   "id": 902582244,
-   "home": "Al Quwa Al Jawiya",
-   "away": "Al Gharrafa",
-   "league": "AFC Champions League",
-   "country": "ASIA",
+   "id": 902714417,
+   "home": "AD Son Sardina (W)",
+   "away": "CE Constancia (W)",
+   "league": "Tercera Federacion Women",
+   "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-23 21:15",
-   "kickoff_utc": "2026-11-23 18:15",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-23 21:30",
+   "kickoff_utc": "2026-11-23 18:30",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_2_5",
     "1x2",
     "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor2_total_0_5",
     "dc",
     "double_chance",
-    "draw_no_bet",
-    "handicap_hcp_0_2",
-    "over_under_1_5",
+    "handicap_hcp_2_0",
+    "ou25",
     "over_under_2_5",
     "over_under_3_5",
-    "pb_cor_ou_8_5",
-    "pb_cor_ou_t2_3_5"
-   ],
-   "stored_ft": "2-1"
+    "pbx_bts_h2"
+   ]
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 22:38",
- "count": 18,
+ "updated_utc": "2026-11-23 22:53",
+ "count": 17,
  "matches": [
   {
    "id": 902701609,
@@ -256,26 +256,6 @@
     "dc",
     "double_chance",
     "handicap_hcp_1_0"
-   ]
-  },
-  {
-   "id": 902714417,
-   "home": "AD Son Sardina (W)",
-   "away": "CE Constancia (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-23 21:30",
-   "kickoff_utc": "2026-11-23 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance",
-    "over_under_3_5"
    ]
   },
   {

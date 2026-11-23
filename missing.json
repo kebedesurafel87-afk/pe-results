@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-23 19:38",
- "count": 14,
+ "updated_utc": "2026-11-23 20:38",
+ "count": 15,
  "matches": [
   {
    "id": 902701609,
@@ -182,7 +182,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
     "ou35",
@@ -267,6 +266,60 @@
     "over_under_2_5",
     "pbx_sbh_t2"
    ]
+  },
+  {
+   "id": 902623514,
+   "home": "Brondby",
+   "away": "FC Midtjylland",
+   "league": "Superligaen",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-23 21:00",
+   "kickoff_utc": "2026-11-23 18:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "competitor2_total_2_5",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "double_chance_over_under_2_5",
+    "draw_no_bet",
+    "handicap_hcp_0_2",
+    "handicap_hcp_2_0",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_t1_3_5",
+    "pb_cor_ou_t1_4_5",
+    "pb_cor_ou_t1_5_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_5_5",
+    "pb_y_ou_3_5",
+    "pbx_tgbts_2_5",
+    "pbx_weh"
+   ],
+   "stored_ft": "0-2"
   }
  ]
 }

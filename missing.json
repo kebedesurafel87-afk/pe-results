@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-23 16:08",
+ "updated_utc": "2026-11-23 18:23",
  "count": 15,
  "matches": [
   {
@@ -151,11 +151,9 @@
    "kickoff_utc": "2026-11-23 08:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "both_teams_to_score",
     "dc",
@@ -267,7 +265,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "over_under_2_5"
    ]
   },

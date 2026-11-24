@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 13:39",
- "count": 5,
+ "updated_utc": "2026-11-24 13:54",
+ "count": 4,
  "matches": [
   {
    "id": 902721681,
@@ -66,39 +66,6 @@
     "over_under_1_5",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902717724,
-   "home": "Galatasaray U19",
-   "away": "Aston Villa U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 14:00",
-   "kickoff_utc": "2026-11-24 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_double_chance",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "handicap_hcp_0_2",
-    "ou35",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_t2_3_5",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "3-1"
   },
   {
    "id": 902718651,

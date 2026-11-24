@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-24 19:55",
+ "updated_utc": "2026-11-24 20:10",
  "count": 8,
  "matches": [
   {
@@ -81,7 +81,6 @@
    "markets": [
     "1st_half_3_way",
     "both_teams_to_score",
-    "btts",
     "dc",
     "handicap_hcp_1_0",
     "over_under_2_5"
@@ -140,8 +139,7 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "handicap_hcp_2_0"
+    "dc"
    ]
   },
   {

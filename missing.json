@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 11:39",
- "count": 1,
+ "updated_utc": "2026-11-24 12:39",
+ "count": 3,
  "matches": [
   {
    "id": 902721681,
@@ -18,6 +18,55 @@
    "markets": [
     "1x2",
     "btts"
+   ]
+  },
+  {
+   "id": 902717767,
+   "home": "FK Bodo/Glimt U19",
+   "away": "LASK Linz U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 13:00",
+   "kickoff_utc": "2026-11-24 10:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "handicap_hcp_2_0",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_t2_6_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "2-6"
+  },
+  {
+   "id": 902717202,
+   "home": "Nong Bua Pitchaya U21",
+   "away": "Khonkaen United U21",
+   "league": "League U21",
+   "country": "Thailand",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 13:00",
+   "kickoff_utc": "2026-11-24 10:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

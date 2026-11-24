@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 14:39",
- "count": 5,
+ "updated_utc": "2026-11-24 15:09",
+ "count": 6,
  "matches": [
   {
    "id": 902721681,
@@ -108,6 +108,23 @@
     "dc",
     "double_chance",
     "ou35"
+   ]
+  },
+  {
+   "id": 902720934,
+   "home": "Batu Ketema",
+   "away": "Sululta Ketema",
+   "league": "Higher League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 15:30",
+   "kickoff_utc": "2026-11-24 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

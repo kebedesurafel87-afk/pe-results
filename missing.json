@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 22:25",
- "count": 9,
+ "updated_utc": "2026-11-24 22:40",
+ "count": 5,
  "matches": [
   {
    "id": 902721681,
@@ -59,23 +59,6 @@
    ]
   },
   {
-   "id": 902720934,
-   "home": "Batu Ketema",
-   "away": "Sululta Ketema",
-   "league": "Higher League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 15:30",
-   "kickoff_utc": "2026-11-24 12:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902720933,
    "home": "Shashemene Kenema FC",
    "away": "Bishoftu Ketema",
@@ -112,58 +95,6 @@
     "dc",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902718175,
-   "home": "Carrick Rangers",
-   "away": "Glenavon",
-   "league": "League Cup",
-   "country": "Northern Ireland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 22:45",
-   "kickoff_utc": "2026-11-24 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902718784,
-   "home": "Witton Albion",
-   "away": "Stafford Rangers",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 22:45",
-   "kickoff_utc": "2026-11-24 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902718783,
-   "home": "Mickleover Sports",
-   "away": "Bedworth United",
-   "league": "NPL Division One North Midlands",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 22:45",
-   "kickoff_utc": "2026-11-24 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   }
  ]

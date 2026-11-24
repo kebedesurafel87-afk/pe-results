@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 12:54",
- "count": 2,
+ "updated_utc": "2026-11-24 13:09",
+ "count": 3,
  "matches": [
   {
    "id": 902721681,
@@ -38,6 +38,32 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902717090,
+   "home": "Burayo Ketema",
+   "away": "Nib FC",
+   "league": "Higher League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 13:30",
+   "kickoff_utc": "2026-11-24 10:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
     "over_under_2_5"
    ]
   }

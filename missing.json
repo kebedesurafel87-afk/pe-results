@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 16:24",
- "count": 6,
+ "updated_utc": "2026-11-24 17:40",
+ "count": 10,
  "matches": [
   {
    "id": 902721681,
@@ -59,7 +59,6 @@
     "1x2",
     "3_way",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
     "over_under_1_5"
@@ -124,6 +123,123 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902718458,
+   "home": "Real Madrid U19",
+   "away": "PSV Eindhoven U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 18:00",
+   "kickoff_utc": "2026-11-24 15:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "2nd_half_over_under_3_5",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_10",
+    "pb_cor_ou_t1_6_5",
+    "pb_cor_ou_t2_2_5",
+    "pbx_iou_t1_h1_0_5"
+   ],
+   "stored_ft": "3-3"
+  },
+  {
+   "id": 902718461,
+   "home": "Manchester City U19",
+   "away": "Napoli U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 18:00",
+   "kickoff_utc": "2026-11-24 15:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "handicap_hcp_0_3",
+    "handicap_hcp_0_4",
+    "ou35",
+    "over_under_4_5",
+    "pb_cor_ou_10",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_2_5",
+    "pbx_iou_t1_h1_0_5"
+   ],
+   "stored_ft": "4-1"
+  },
+  {
+   "id": 902718460,
+   "home": "Feyenoord U19",
+   "away": "Porto U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 18:00",
+   "kickoff_utc": "2026-11-24 15:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_1_5",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_9_5",
+    "pbx_weh"
+   ],
+   "stored_ft": "0-1"
+  },
+  {
+   "id": 902720933,
+   "home": "Shashemene Kenema FC",
+   "away": "Bishoftu Ketema",
+   "league": "Higher League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 18:00",
+   "kickoff_utc": "2026-11-24 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "handicap_hcp_2_0"
    ]
   }
  ]

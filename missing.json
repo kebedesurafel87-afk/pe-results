@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-24 15:39",
+ "updated_utc": "2026-11-24 15:54",
  "count": 8,
  "matches": [
   {
@@ -127,64 +127,48 @@
    ]
   },
   {
-   "id": 902717768,
-   "home": "Arsenal U19",
-   "away": "Borussia Dortmund U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
+   "id": 902717780,
+   "home": "FC AGMK",
+   "away": "Nawbahor Namangan",
+   "league": "Uzbekistan Cup",
+   "country": "Uzbekistan",
    "sport": "football",
-   "kickoff_eat": "2026-11-24 16:00",
-   "kickoff_utc": "2026-11-24 13:00",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-24 16:15",
+   "kickoff_utc": "2026-11-24 13:15",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_2_0",
-    "over_under_3_5",
-    "over_under_both_teams_to_score_2_5",
-    "pb_cor_ou_10_5",
-    "pbx_iou_t1_h1_0_5",
-    "pbx_iou_t1_h2_0_5"
-   ],
-   "stored_ft": "3-2"
+    "ou25",
+    "over_under_2_5"
+   ]
   },
   {
-   "id": 902718459,
-   "home": "Calcio Como U19",
-   "away": "AEK Athens U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
+   "id": 902717781,
+   "home": "Andizhan",
+   "away": "Lokomotiv Tashkent",
+   "league": "Uzbekistan Cup",
+   "country": "Uzbekistan",
    "sport": "football",
-   "kickoff_eat": "2026-11-24 16:00",
-   "kickoff_utc": "2026-11-24 13:00",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-24 16:15",
+   "kickoff_utc": "2026-11-24 13:15",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
-    "1st_half_double_chance",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_2_5",
-    "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
     "double_chance",
-    "handicap_hcp_1_0",
-    "over_under_2_5",
-    "pb_cor_ou_t2_3_5"
-   ],
-   "stored_ft": "1-1"
+    "ou25",
+    "over_under_1_5",
+    "over_under_2_5"
+   ]
   }
  ]
 }

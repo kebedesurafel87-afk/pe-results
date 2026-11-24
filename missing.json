@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-24 17:55",
- "count": 7,
+ "updated_utc": "2026-11-24 18:40",
+ "count": 8,
  "matches": [
   {
    "id": 902721681,
@@ -143,6 +143,28 @@
     "both_teams_to_score",
     "dc",
     "handicap_hcp_2_0"
+   ]
+  },
+  {
+   "id": 902718346,
+   "home": "Vitesse U21",
+   "away": "Excelsior U21",
+   "league": "League U21",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-24 19:00",
+   "kickoff_utc": "2026-11-24 16:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_2_5",
+    "over_under_3_5"
    ]
   }
  ]

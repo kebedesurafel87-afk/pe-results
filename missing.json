@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 19:42",
- "count": 8,
+ "updated_utc": "2026-11-25 19:57",
+ "count": 7,
  "matches": [
   {
    "id": 902718173,
@@ -19,23 +19,6 @@
     "both_teams_to_score",
     "dc",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902721679,
-   "home": "CISF New Delhi",
-   "away": "Northern United FC",
-   "league": "Delhi Senior Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 09:30",
-   "kickoff_utc": "2026-11-25 06:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
    ]
   },
   {
@@ -102,7 +85,6 @@
     "1st_half_double_chance",
     "1st_half_handicap_hcp_0_1",
     "1x2",
-    "competitor2_total_0_5",
     "dc",
     "handicap_hcp_0_1",
     "handicap_hcp_3_0",

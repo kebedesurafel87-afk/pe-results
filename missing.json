@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 15:11",
- "count": 6,
+ "updated_utc": "2026-11-25 15:41",
+ "count": 8,
  "matches": [
   {
    "id": 902718173,
@@ -82,7 +82,6 @@
     "1st_half_double_chance",
     "1st_half_handicap_hcp_0_1",
     "1x2",
-    "both_teams_to_score",
     "btts",
     "competitor2_total_0_5",
     "dc",
@@ -110,7 +109,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
     "over_under_1_5",
@@ -140,9 +138,73 @@
     "double_chance",
     "over_under_1_5",
     "over_under_2_5",
-    "pbx_iou_t1_h1_0_5",
     "pbx_ou_h2_1_5"
    ]
+  },
+  {
+   "id": 902724413,
+   "home": "Sporting CP U19",
+   "away": "Manchester United U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 16:00",
+   "kickoff_utc": "2026-11-25 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "handicap_hcp_0_2",
+    "ou35",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_1x2",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_h2_2",
+    "pbx_rbts",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "2-2"
+  },
+  {
+   "id": 902726598,
+   "home": "Red Bull Salzburg U19",
+   "away": "Crvena Zvezda U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 16:00",
+   "kickoff_utc": "2026-11-25 13:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "handicap_hcp_0_3",
+    "ou25",
+    "ou35",
+    "over_under_2_5",
+    "pb_cor_ou_9",
+    "pb_cor_ou_h1_3_5"
+   ],
+   "stored_ft": "5-0"
   }
  ]
 }

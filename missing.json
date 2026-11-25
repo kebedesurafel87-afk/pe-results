@@ -1,44 +1,7 @@
 {
- "updated_utc": "2026-11-24 22:40",
- "count": 5,
+ "updated_utc": "2026-11-25 04:10",
+ "count": 1,
  "matches": [
-  {
-   "id": 902721681,
-   "home": "BG Pathum United U21",
-   "away": "Kasetsart U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 12:00",
-   "kickoff_utc": "2026-11-24 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "btts"
-   ]
-  },
-  {
-   "id": 902717202,
-   "home": "Nong Bua Pitchaya U21",
-   "away": "Khonkaen United U21",
-   "league": "League U21",
-   "country": "Thailand",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 13:00",
-   "kickoff_utc": "2026-11-24 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
   {
    "id": 902718173,
    "home": "Dordrecht U21",
@@ -56,45 +19,6 @@
     "both_teams_to_score",
     "dc",
     "double_chance"
-   ]
-  },
-  {
-   "id": 902720933,
-   "home": "Shashemene Kenema FC",
-   "away": "Bishoftu Ketema",
-   "league": "Higher League",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 18:00",
-   "kickoff_utc": "2026-11-24 15:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902718346,
-   "home": "Vitesse U21",
-   "away": "Excelsior U21",
-   "league": "League U21",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-24 19:00",
-   "kickoff_utc": "2026-11-24 16:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5",
-    "over_under_3_5"
    ]
   }
  ]

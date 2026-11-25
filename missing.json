@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 19:27",
- "count": 7,
+ "updated_utc": "2026-11-25 19:42",
+ "count": 8,
  "matches": [
   {
    "id": 902718173,
@@ -153,6 +153,25 @@
     "1x2",
     "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902723824,
+   "home": "AE Patras 2005",
+   "away": "Davourlis K. 92",
+   "league": "Amateur Cup",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 20:00",
+   "kickoff_utc": "2026-11-25 17:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

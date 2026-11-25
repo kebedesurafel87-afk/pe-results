@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 22:27",
- "count": 9,
+ "updated_utc": "2026-11-25 22:42",
+ "count": 8,
  "matches": [
   {
    "id": 902718173,
@@ -121,52 +121,7 @@
     "both_teams_to_score",
     "dc",
     "double_chance",
-    "over_under_1_5",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902723904,
-   "home": "Sporting Gava",
-   "away": "Reus Reddis",
-   "league": "Copa Catalunya",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 22:00",
-   "kickoff_utc": "2026-11-25 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "ou25",
-    "over_under_1_5",
-    "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902723854,
-   "home": "CF San Cristobal",
-   "away": "Terrassa",
-   "league": "Copa Catalunya",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 22:30",
-   "kickoff_utc": "2026-11-25 19:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "over_under_1_5",
-    "over_under_4_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -187,6 +142,64 @@
     "both_teams_to_score",
     "dc"
    ]
+  },
+  {
+   "id": 902593391,
+   "home": "Sporting Lisbon",
+   "away": "Manchester United",
+   "league": "UEFA Champions League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 23:00",
+   "kickoff_utc": "2026-11-25 20:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "handicap_hcp_0_1",
+    "handicap_hcp_0_2",
+    "handicap_hcp_2_0",
+    "over_under_2_5",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_5_5",
+    "pb_cor_ou_t2_3_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_5_5",
+    "pb_cor_ou_t2_h1_1_5",
+    "pb_y_dc",
+    "pb_y_iou_t2_1_5",
+    "pb_y_iou_t2_2",
+    "pb_y_ou_3_5",
+    "pbx_fls_1x2",
+    "pbx_fls_ou_22_5",
+    "pbx_fls_ou_t1_10_5",
+    "pbx_fls_ou_t1_11_5",
+    "pbx_gm_0_15",
+    "pbx_tgbts_2_5",
+    "pbx_y_iou_t2_h2_1_5"
+   ],
+   "stored_ft": "2-2"
   }
  ]
 }

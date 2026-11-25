@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 13:41",
- "count": 7,
+ "updated_utc": "2026-11-25 13:56",
+ "count": 5,
  "matches": [
   {
    "id": 902718173,
@@ -40,24 +40,6 @@
    ]
   },
   {
-   "id": 902721680,
-   "home": "Hindustan FC",
-   "away": "Shastri",
-   "league": "Delhi Senior Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 12:30",
-   "kickoff_utc": "2026-11-25 09:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
    "id": 902722217,
    "home": "Ethiopia Nigd Bank",
    "away": "Hadiya Hossana",
@@ -83,34 +65,6 @@
     "pbx_iou_t2_h1_0_5",
     "pbx_ou_h2_1_5"
    ]
-  },
-  {
-   "id": 902724412,
-   "home": "Legia Warsaw U19",
-   "away": "Super Nova U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 14:00",
-   "kickoff_utc": "2026-11-25 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_2_5",
-    "1x2",
-    "btts",
-    "dc",
-    "handicap_hcp_0_4",
-    "ou35",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_ou_9_5"
-   ],
-   "stored_ft": "1-0"
   },
   {
    "id": 902684494,

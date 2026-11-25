@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-25 17:12",
+ "updated_utc": "2026-11-25 18:27",
  "count": 7,
  "matches": [
   {
@@ -81,7 +81,6 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "dc",
     "double_chance",
     "over_under_1_5",
     "pbx_iou_t2_h1_0_5"
@@ -132,7 +131,6 @@
     "1x2",
     "3_way",
     "both_teams_to_score",
-    "dc",
     "double_chance",
     "over_under_1_5",
     "over_under_2_5",
@@ -156,8 +154,7 @@
     "1x2",
     "dc",
     "double_chance",
-    "over_under_2_5",
-    "pbx_bts_h2"
+    "over_under_2_5"
    ]
   }
  ]

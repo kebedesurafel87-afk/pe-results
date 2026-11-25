@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 15:56",
- "count": 6,
+ "updated_utc": "2026-11-25 16:42",
+ "count": 7,
  "matches": [
   {
    "id": 902718173,
@@ -66,33 +66,6 @@
    ]
   },
   {
-   "id": 902684494,
-   "home": "Kryvbas Kryvyi Rih",
-   "away": "FC Kharkiv",
-   "league": "Premier League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 14:00",
-   "kickoff_utc": "2026-11-25 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1st_half_handicap_hcp_0_1",
-    "1x2",
-    "btts",
-    "competitor2_total_0_5",
-    "dc",
-    "handicap_hcp_0_1",
-    "handicap_hcp_3_0",
-    "over_under_1_5",
-    "over_under_4_5"
-   ],
-   "stored_ft": "0-2"
-  },
-  {
    "id": 902721708,
    "home": "Dire Dawa",
    "away": "Arba Minch",
@@ -114,6 +87,32 @@
     "over_under_1_5",
     "pbx_iou_t2_h1_0_5"
    ]
+  },
+  {
+   "id": 902684494,
+   "home": "Kryvbas Kryvyi Rih",
+   "away": "FC Kharkiv",
+   "league": "Premier League",
+   "country": "Ukraine",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 14:00",
+   "kickoff_utc": "2026-11-25 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_handicap_hcp_0_1",
+    "1x2",
+    "competitor2_total_0_5",
+    "dc",
+    "handicap_hcp_0_1",
+    "handicap_hcp_3_0",
+    "over_under_1_5",
+    "over_under_4_5"
+   ],
+   "stored_ft": "0-2"
   },
   {
    "id": 902722216,
@@ -139,6 +138,28 @@
     "over_under_1_5",
     "over_under_2_5",
     "pbx_ou_h2_1_5"
+   ]
+  },
+  {
+   "id": 902728051,
+   "home": "Bragantino U20 (W)",
+   "away": "Atletico Mineiro U20 (w)",
+   "league": "Copa Sao Paulo Youth Women",
+   "country": "Brazil",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 17:00",
+   "kickoff_utc": "2026-11-25 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pbx_bts_h2"
    ]
   }
  ]

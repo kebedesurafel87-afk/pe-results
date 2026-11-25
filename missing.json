@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-25 13:56",
+ "updated_utc": "2026-11-25 14:26",
  "count": 5,
  "matches": [
   {
@@ -82,7 +82,6 @@
    "markets": [
     "1st_half_double_chance",
     "1st_half_handicap_hcp_0_1",
-    "1st_half_odd_even",
     "1x2",
     "both_teams_to_score",
     "btts",

@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-25 22:12",
+ "updated_utc": "2026-11-25 22:27",
  "count": 9,
  "matches": [
   {
@@ -38,12 +38,9 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "3_way",
     "both_teams_to_score",
     "dc",
-    "double_chance",
-    "over_under_1_5",
-    "pbx_iou_t2_h1_0_5"
+    "double_chance"
    ]
   },
   {
@@ -63,32 +60,8 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "double_chance",
-    "pbx_iou_t2_h1_0_5"
+    "double_chance"
    ]
-  },
-  {
-   "id": 902684494,
-   "home": "Kryvbas Kryvyi Rih",
-   "away": "FC Kharkiv",
-   "league": "Premier League",
-   "country": "Ukraine",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 14:00",
-   "kickoff_utc": "2026-11-25 11:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "ht"
-   ],
-   "markets": [
-    "1st_half_handicap_hcp_0_1",
-    "1x2",
-    "dc",
-    "handicap_hcp_3_0",
-    "over_under_1_5",
-    "over_under_4_5"
-   ],
-   "stored_ft": "0-2"
   },
   {
    "id": 902722216,
@@ -107,11 +80,8 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
-    "3_way",
     "both_teams_to_score",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_2_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -149,13 +119,10 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "competitor2_total_1_5",
     "dc",
     "double_chance",
-    "ou25",
     "over_under_1_5",
-    "over_under_2_5",
-    "over_under_5_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -169,18 +136,15 @@
    "kickoff_utc": "2026-11-25 19:00",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "both_teams_to_score",
     "dc",
     "ou25",
     "over_under_1_5",
-    "over_under_4_5",
-    "pbx_weh"
+    "over_under_4_5"
    ]
   },
   {
@@ -201,9 +165,27 @@
     "both_teams_to_score",
     "btts",
     "dc",
-    "double_chance",
     "over_under_1_5",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902723253,
+   "home": "Southall",
+   "away": "Newmarket Town",
+   "league": "Isthmian League Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 22:45",
+   "kickoff_utc": "2026-11-25 19:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

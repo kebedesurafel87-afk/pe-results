@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 20:27",
- "count": 6,
+ "updated_utc": "2026-11-25 21:12",
+ "count": 7,
  "matches": [
   {
    "id": 902718173,
@@ -131,6 +131,34 @@
     "1x2",
     "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902695402,
+   "home": "FC Bavois",
+   "away": "Schaffhausen",
+   "league": "Promotion League",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 21:30",
+   "kickoff_utc": "2026-11-25 18:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "ou35",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_5_5"
    ]
   }
  ]

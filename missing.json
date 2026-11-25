@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 11:11",
- "count": 3,
+ "updated_utc": "2026-11-25 11:26",
+ "count": 2,
  "matches": [
   {
    "id": 902718173,
@@ -39,27 +39,6 @@
     "both_teams_to_score",
     "dc"
    ]
-  },
-  {
-   "id": 902721675,
-   "home": "Persiku Kudus",
-   "away": "PSIM Yogyakarta",
-   "league": "Presidents Cup",
-   "country": "Indonesia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 11:30",
-   "kickoff_utc": "2026-11-25 08:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "handicap_hcp_4_0",
-    "ou35",
-    "pb_cor_ou_8_5"
-   ],
-   "stored_ft": "1-2"
   }
  ]
 }

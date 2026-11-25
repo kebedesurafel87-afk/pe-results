@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 19:12",
- "count": 8,
+ "updated_utc": "2026-11-25 19:27",
+ "count": 7,
  "matches": [
   {
    "id": 902718173,
@@ -154,35 +154,6 @@
     "double_chance",
     "over_under_2_5"
    ]
-  },
-  {
-   "id": 902724458,
-   "home": "Flora Tallinn U19",
-   "away": "St Patricks U19",
-   "league": " UEFA Youth League",
-   "country": "Europe",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 19:30",
-   "kickoff_utc": "2026-11-25 16:30",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1x2",
-    "3_way_over_under_1_5",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "double_chance_over_under_2_5",
-    "over_under_3_5",
-    "pb_cor_1x2_h1",
-    "pbx_iou_t1_h2_2_5",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "0-0"
   }
  ]
 }

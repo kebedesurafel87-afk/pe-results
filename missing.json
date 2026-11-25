@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 13:11",
- "count": 4,
+ "updated_utc": "2026-11-25 13:41",
+ "count": 7,
  "matches": [
   {
    "id": 902718173,
@@ -82,6 +82,87 @@
     "over_under_1_5",
     "pbx_iou_t2_h1_0_5",
     "pbx_ou_h2_1_5"
+   ]
+  },
+  {
+   "id": 902724412,
+   "home": "Legia Warsaw U19",
+   "away": "Super Nova U19",
+   "league": " UEFA Youth League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 14:00",
+   "kickoff_utc": "2026-11-25 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_1_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "btts",
+    "dc",
+    "handicap_hcp_0_4",
+    "ou35",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "1-0"
+  },
+  {
+   "id": 902684494,
+   "home": "Kryvbas Kryvyi Rih",
+   "away": "FC Kharkiv",
+   "league": "Premier League",
+   "country": "Ukraine",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 14:00",
+   "kickoff_utc": "2026-11-25 11:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "ht"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_handicap_hcp_0_1",
+    "1st_half_odd_even",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_0_5",
+    "dc",
+    "handicap_hcp_0_1",
+    "handicap_hcp_3_0",
+    "over_under_1_5",
+    "over_under_4_5"
+   ],
+   "stored_ft": "0-2"
+  },
+  {
+   "id": 902721708,
+   "home": "Dire Dawa",
+   "away": "Arba Minch",
+   "league": "Higher League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 14:00",
+   "kickoff_utc": "2026-11-25 11:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "pbx_iou_t2_h1_0_5"
    ]
   }
  ]

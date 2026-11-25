@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-25 21:57",
- "count": 8,
+ "updated_utc": "2026-11-25 22:12",
+ "count": 9,
  "matches": [
   {
    "id": 902718173,
@@ -149,14 +149,12 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "competitor2_total_1_5",
     "dc",
     "double_chance",
     "ou25",
     "over_under_1_5",
     "over_under_2_5",
-    "over_under_3_5",
     "over_under_5_5"
    ]
   },
@@ -183,6 +181,29 @@
     "over_under_1_5",
     "over_under_4_5",
     "pbx_weh"
+   ]
+  },
+  {
+   "id": 902723854,
+   "home": "CF San Cristobal",
+   "away": "Terrassa",
+   "league": "Copa Catalunya",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-25 22:30",
+   "kickoff_utc": "2026-11-25 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_4_5"
    ]
   }
  ]

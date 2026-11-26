@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 19:50",
- "count": 8,
+ "updated_utc": "2026-11-26 20:20",
+ "count": 6,
  "matches": [
   {
    "id": 902695402,
@@ -23,23 +23,6 @@
    ]
   },
   {
-   "id": 902734455,
-   "home": "Mawlai SC",
-   "away": "Mawkhar SC",
-   "league": "Shillong Champions Cup",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 10:30",
-   "kickoff_utc": "2026-11-26 07:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902731602,
    "home": "Addis Ababa Ketema (W)",
    "away": "Wolaita Dicha (W)",
@@ -57,8 +40,7 @@
     "1st_half_3_way",
     "1x2",
     "dc",
-    "double_chance",
-    "over_under_2_5"
+    "double_chance"
    ]
   },
   {
@@ -75,10 +57,7 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "over_under_2_5"
+    "both_teams_to_score"
    ]
   },
   {
@@ -97,8 +76,7 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
+    "dc"
    ]
   },
   {
@@ -112,11 +90,9 @@
    "kickoff_utc": "2026-11-26 16:10",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "both_teams_to_score",
     "btts",
@@ -137,11 +113,9 @@
    "kickoff_utc": "2026-11-26 16:10",
    "status": "no_result",
    "needs": [
-    "ft",
-    "ht"
+    "ft"
    ],
    "markets": [
-    "1st_half_3_way",
     "1x2",
     "both_teams_to_score",
     "btts",
@@ -150,32 +124,6 @@
     "over_under_1_5",
     "over_under_2_5",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902729619,
-   "home": "Al Arabi Kuwait",
-   "away": "Khaitan",
-   "league": "Kuwait Cup",
-   "country": "Kuwait",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 20:20",
-   "kickoff_utc": "2026-11-26 17:20",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "competitor1_over_under_1_5",
-    "dc",
-    "double_chance",
-    "ou25",
-    "over_under_1_5",
-    "over_under_4_5",
-    "pbx_weh"
    ]
   }
  ]

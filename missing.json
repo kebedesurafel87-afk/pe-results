@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 21:35",
- "count": 6,
+ "updated_utc": "2026-11-26 22:05",
+ "count": 7,
  "matches": [
   {
    "id": 902695402,
@@ -102,14 +102,39 @@
    ]
   },
   {
-   "id": 902728805,
-   "home": "Stoke City U21",
-   "away": "Milan U21",
-   "league": "Premier League International Cup U21",
-   "country": "World",
+   "id": 902728175,
+   "home": "Espanyol B (W)",
+   "away": "CE Europa (W)",
+   "league": "Copa Catalunya Women",
+   "country": "Spain",
    "sport": "football",
-   "kickoff_eat": "2026-11-26 22:00",
-   "kickoff_utc": "2026-11-26 19:00",
+   "kickoff_eat": "2026-11-26 22:30",
+   "kickoff_utc": "2026-11-26 19:30",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pbx_dc_h2"
+   ]
+  },
+  {
+   "id": 902728422,
+   "home": "La Nucia (w)",
+   "away": "Elche II (W)",
+   "league": "Tercera Federacion Women",
+   "country": "Spain",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 22:30",
+   "kickoff_utc": "2026-11-26 19:30",
    "status": "no_result",
    "needs": [
     "ft"
@@ -117,10 +142,9 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
-    "over_under_2_5",
-    "over_under_3_5"
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

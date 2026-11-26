@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 02:43",
- "count": 12,
+ "updated_utc": "2026-11-26 03:13",
+ "count": 10,
  "matches": [
   {
    "id": 902718173,
@@ -235,42 +235,6 @@
    "markets": [
     "1x2",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902730512,
-   "home": "Queretaro U19",
-   "away": "Tigres UANL U19",
-   "league": "Liga MX U19",
-   "country": "Mexico",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 02:00",
-   "kickoff_utc": "2026-11-25 23:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902707897,
-   "home": "Barcelona Guayaquil",
-   "away": "Independiente Del Valle",
-   "league": "Serie A",
-   "country": "Ecuador",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 03:00",
-   "kickoff_utc": "2026-11-26 00:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "double_chance"
    ]
   }
  ]

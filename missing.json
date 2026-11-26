@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 16:04",
- "count": 3,
+ "updated_utc": "2026-11-26 16:34",
+ "count": 4,
  "matches": [
   {
    "id": 902695402,
@@ -58,6 +58,28 @@
    "markets": [
     "1st_half_3_way",
     "1x2",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902728058,
+   "home": "Al-Rayyan SC U20",
+   "away": "Qatar SC Doha U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 17:00",
+   "kickoff_utc": "2026-11-26 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
     "dc",
     "double_chance",
     "over_under_2_5"

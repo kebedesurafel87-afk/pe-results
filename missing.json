@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 17:50",
- "count": 5,
+ "updated_utc": "2026-11-26 18:05",
+ "count": 6,
  "matches": [
   {
    "id": 902695402,
@@ -102,6 +102,56 @@
     "dc",
     "over_under_2_5"
    ]
+  },
+  {
+   "id": 902610427,
+   "home": "Kairat Almaty",
+   "away": "Mjolby AI FF",
+   "league": "UEFA Conference League",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 18:30",
+   "kickoff_utc": "2026-11-26 15:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards"
+   ],
+   "markets": [
+    "1st_half_1x2_over_under_1_5",
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_1_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_over_under_0_5",
+    "2nd_half_over_under_2_5",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "handicap_hcp_0_2",
+    "handicap_hcp_2_0",
+    "odd_even",
+    "ou15",
+    "ou25",
+    "ou35",
+    "over_under_0_5",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_rcard",
+    "pbx_1x2_10m",
+    "pbx_1x2_15m",
+    "pbx_ou_0_15_0_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "1-0"
   }
  ]
 }

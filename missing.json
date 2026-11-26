@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 10:04",
- "count": 4,
+ "updated_utc": "2026-11-26 10:49",
+ "count": 3,
  "matches": [
   {
    "id": 902695402,
@@ -21,24 +21,6 @@
     "dc",
     "double_chance",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902728056,
-   "home": "Noida City",
-   "away": "National United",
-   "league": "Delhi Senior Division",
-   "country": "India",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 09:30",
-   "kickoff_utc": "2026-11-26 06:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

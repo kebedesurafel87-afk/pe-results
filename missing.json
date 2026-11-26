@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 18:35",
- "count": 5,
+ "updated_utc": "2026-11-26 18:50",
+ "count": 7,
  "matches": [
   {
    "id": 902695402,
@@ -99,6 +99,57 @@
     "both_teams_to_score",
     "dc",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902728057,
+   "home": "Al-Ahli Doha U20",
+   "away": "Al Markhiya U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 19:10",
+   "kickoff_utc": "2026-11-26 16:10",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902728184,
+   "home": "Al-Khor SC U20",
+   "away": "Umm Salal U20",
+   "league": "League U20",
+   "country": "Qatar",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 19:10",
+   "kickoff_utc": "2026-11-26 16:10",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "over_under_3_5"
    ]
   }
  ]

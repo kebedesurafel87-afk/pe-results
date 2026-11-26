@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 01:43",
- "count": 11,
+ "updated_utc": "2026-11-26 02:43",
+ "count": 12,
  "matches": [
   {
    "id": 902718173,
@@ -252,6 +252,25 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902707897,
+   "home": "Barcelona Guayaquil",
+   "away": "Independiente Del Valle",
+   "league": "Serie A",
+   "country": "Ecuador",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 03:00",
+   "kickoff_utc": "2026-11-26 00:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance"
    ]
   }
  ]

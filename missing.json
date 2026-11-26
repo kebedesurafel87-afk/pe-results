@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 11:04",
- "count": 5,
+ "updated_utc": "2026-11-26 11:19",
+ "count": 4,
  "matches": [
   {
    "id": 902695402,
@@ -21,25 +21,6 @@
     "dc",
     "double_chance",
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902731603,
-   "home": "Fasil Kenema (w)",
-   "away": "Lemi Kura (W)",
-   "league": "Premier League Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 10:00",
-   "kickoff_utc": "2026-11-26 07:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "double_chance",
-    "pbx_ou_h2_0_5"
    ]
   },
   {

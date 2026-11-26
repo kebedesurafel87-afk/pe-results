@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 03:13",
- "count": 10,
+ "updated_utc": "2026-11-26 04:43",
+ "count": 8,
  "matches": [
   {
    "id": 902718173,
@@ -200,42 +200,6 @@
     "pbx_y_iou_t2_h2_1_5"
    ],
    "stored_ft": "2-2"
-  },
-  {
-   "id": 902716582,
-   "home": "Sportivo Trinidense",
-   "away": "Deportivo Recoleta (PAR)",
-   "league": "Primera Division",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 00:00",
-   "kickoff_utc": "2026-11-25 21:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
-   "id": 902717159,
-   "home": "Sportivo Luqueno",
-   "away": "Olimpia Asuncion",
-   "league": "Primera Division",
-   "country": "Paraguay",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 00:00",
-   "kickoff_utc": "2026-11-25 21:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "over_under_4_5"
-   ]
   }
  ]
 }

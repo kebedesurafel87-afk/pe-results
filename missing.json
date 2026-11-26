@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 18:50",
- "count": 7,
+ "updated_utc": "2026-11-26 19:05",
+ "count": 8,
  "matches": [
   {
    "id": 902695402,
@@ -151,6 +151,51 @@
     "over_under_2_5",
     "over_under_3_5"
    ]
+  },
+  {
+   "id": 902569118,
+   "home": "Dinamo Moscow",
+   "away": "Fakel",
+   "league": "Russian Cup. RPL Path",
+   "country": "Russia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 19:30",
+   "kickoff_utc": "2026-11-26 16:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1st_half_both_teams_to_score",
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_over_under_2_5",
+    "3_way",
+    "both_teams_to_score",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_2_5",
+    "competitor1_to_win_either_half",
+    "competitor2_total_0_5",
+    "dc",
+    "double_chance",
+    "double_chance_over_under_4_5",
+    "handicap_hcp_0_2",
+    "over_under_2_5",
+    "pb_cor_1x2",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_8_5",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t1_4_5",
+    "pbx_1x2_10m",
+    "pbx_1x2_15m",
+    "pbx_iou_t1_h1_0_5",
+    "pbx_y_iou_t1_h1_0_5"
+   ],
+   "stored_ft": "2-1"
   }
  ]
 }

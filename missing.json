@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 15:49",
- "count": 4,
+ "updated_utc": "2026-11-26 16:04",
+ "count": 3,
  "matches": [
   {
    "id": 902695402,
@@ -39,31 +39,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902728153,
-   "home": "KCCA",
-   "away": "BUL FC",
-   "league": "Premier League",
-   "country": "Uganda",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 16:00",
-   "kickoff_utc": "2026-11-26 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance",
-    "ou15",
-    "over_under_1_5",
-    "pbx_iou_t2_h1_0_5"
    ]
   },
   {

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 17:04",
- "count": 5,
+ "updated_utc": "2026-11-26 17:20",
+ "count": 4,
  "matches": [
   {
    "id": 902695402,
@@ -81,27 +81,6 @@
     "btts",
     "dc",
     "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902728060,
-   "home": "Real Maldive FC",
-   "away": "Foresters FC",
-   "league": "Premier League",
-   "country": "Seychelles",
-   "sport": "football",
-   "kickoff_eat": "2026-11-26 17:30",
-   "kickoff_utc": "2026-11-26 14:30",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "ou25",
     "over_under_2_5"
    ]
   }

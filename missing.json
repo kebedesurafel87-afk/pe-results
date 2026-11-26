@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-26 20:35",
- "count": 5,
+ "updated_utc": "2026-11-26 21:35",
+ "count": 6,
  "matches": [
   {
    "id": 902695402,
@@ -99,6 +99,28 @@
     "double_chance",
     "over_under_1_5",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902728805,
+   "home": "Stoke City U21",
+   "away": "Milan U21",
+   "league": "Premier League International Cup U21",
+   "country": "World",
+   "sport": "football",
+   "kickoff_eat": "2026-11-26 22:00",
+   "kickoff_utc": "2026-11-26 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "over_under_2_5",
+    "over_under_3_5"
    ]
   }
  ]

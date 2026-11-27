@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 15:21",
- "count": 6,
+ "updated_utc": "2026-11-27 15:36",
+ "count": 4,
  "matches": [
   {
    "id": 902695402,
@@ -77,53 +77,8 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "double_chance",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902729918,
-   "home": "Al Dhaid U21",
-   "away": "Al-Shahama FC U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 15:40",
-   "kickoff_utc": "2026-11-27 12:40",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "3_way",
-    "over_under_4_5",
-    "over_under_5_5"
-   ]
-  },
-  {
-   "id": 902729988,
-   "home": "Al Jazira U21",
-   "away": "Al Arabi Umm Al Quwain U21",
-   "league": "League U21",
-   "country": "United Arab Emirates",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 15:45",
-   "kickoff_utc": "2026-11-27 12:45",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_3_way",
-    "1x2",
-    "both_teams_to_score",
-    "over_under_4_5",
-    "pbx_ou_h2_1_5"
    ]
   }
  ]

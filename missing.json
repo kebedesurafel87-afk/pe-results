@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 22:22",
- "count": 13,
+ "updated_utc": "2026-11-27 22:37",
+ "count": 12,
  "matches": [
   {
    "id": 902695402,
@@ -238,26 +238,6 @@
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902718766,
-   "home": "Glebe North FC",
-   "away": "Wayside Celtic",
-   "league": "Leinster Senior League",
-   "country": "Ireland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:45",
-   "kickoff_utc": "2026-11-27 19:45",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_double_chance",
-    "1x2",
-    "dc"
    ]
   }
  ]

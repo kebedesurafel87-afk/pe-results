@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:22",
- "count": 9,
+ "updated_utc": "2026-11-27 21:37",
+ "count": 20,
  "matches": [
   {
    "id": 902695402,
@@ -57,7 +57,6 @@
    "markets": [
     "1x2",
     "dc",
-    "ou25",
     "pbx_iou_t2_h1_0_5"
    ]
   },
@@ -75,7 +74,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "double_chance",
     "over_under_2_5"
    ]
@@ -184,6 +182,289 @@
     "dc",
     "double_chance",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902737457,
+   "home": "Manchester City U21",
+   "away": "West Bromwich U21",
+   "league": "Premier League II",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "competitor1_over_under_3_5",
+    "dc",
+    "over_under_3_5",
+    "over_under_4_5",
+    "pb_cor_ou_11"
+   ],
+   "stored_ft": "6-3"
+  },
+  {
+   "id": 902737506,
+   "home": "US Le Pays du Valois",
+   "away": "Valenciennes FC",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "competitor1_over_under_0_5",
+    "competitor2_total_2_5",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902706260,
+   "home": "VVV-Venlo",
+   "away": "RKC Waalwijk",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "corners_h1",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_2_5",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_1x2_h1",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902714331,
+   "home": "Dordrecht 90",
+   "away": "Vitesse",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "dc",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_t1_4_5",
+    "pbx_tgbts_2_5"
+   ]
+  },
+  {
+   "id": 902737454,
+   "home": "Norwich City U21",
+   "away": "Chelsea U21",
+   "league": "Premier League II",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "3_way_over_under_2_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_2_5",
+    "competitor2_total_1_5",
+    "dc",
+    "double_chance",
+    "draw_no_bet",
+    "over_under_4_5",
+    "pb_cor_1x2"
+   ],
+   "stored_ft": "2-5"
+  },
+  {
+   "id": 902714330,
+   "home": "AZ II",
+   "away": "Top Oss",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_3_5",
+    "pb_cor_ou_3w_11",
+    "pbx_1x2_10m",
+    "pbx_iou_t1_h1_0_5",
+    "pbx_rbts"
+   ]
+  },
+  {
+   "id": 902714332,
+   "home": "Jong FC Utrecht",
+   "away": "Almere",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor1_over_under_2_5",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "over_under_4_5",
+    "pb_cor_ou_t2_4_5",
+    "pbx_wtn_t2"
+   ]
+  },
+  {
+   "id": 902737453,
+   "home": "West Ham United U21",
+   "away": "Tottenham Hotspur U21",
+   "league": "Premier League II",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "dc",
+    "handicap_hcp_0_2",
+    "over_under_4_5",
+    "pb_cor_1x2",
+    "pbx_iou_t1_h1_1_5",
+    "pbx_iou_t2_h1_0_5",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "3-1"
+  },
+  {
+   "id": 902737496,
+   "home": "Derby U21",
+   "away": "Wycombe Wanderers U21",
+   "league": "Premier League U21 Cup",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners",
+    "corners_h1"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pb_cor_1x2_h1",
+    "pb_cor_ou_10_5"
+   ],
+   "stored_ft": "2-3"
+  },
+  {
+   "id": 902725317,
+   "home": "CR Belouizdad",
+   "away": "AS Douanes",
+   "league": "CAF Confederation Cup",
+   "country": "Africa",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "btts",
+    "handicap_hcp_0_3",
+    "ou25",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902720935,
+   "home": "Academia de Balompie Boliviano",
+   "away": "Real Tomayapo",
+   "league": "Primera Division",
+   "country": "Bolivia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 22:00",
+   "kickoff_utc": "2026-11-27 19:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc"
    ]
   }
  ]

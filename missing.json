@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 14:51",
- "count": 2,
+ "updated_utc": "2026-11-27 15:06",
+ "count": 9,
  "matches": [
   {
    "id": 902695402,
@@ -39,6 +39,170 @@
     "1x2",
     "dc",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902728207,
+   "home": "Dinamo Zagreb II",
+   "away": "Hrvace",
+   "league": "1 NL",
+   "country": "Croatia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:30",
+   "kickoff_utc": "2026-11-27 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "pb_cor_ou_8_5"
+   ],
+   "stored_ft": "0-2"
+  },
+  {
+   "id": 902735274,
+   "home": "Ethiopia Bunna",
+   "away": "Halaba City",
+   "league": "Premier League",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:30",
+   "kickoff_utc": "2026-11-27 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "handicap_hcp_0_1",
+    "handicap_hcp_1_0",
+    "ou15",
+    "ou25",
+    "over_under_1_5",
+    "pb_cor_ou_7_5",
+    "pbx_iou_t1_h2_0_5",
+    "pbx_weh_t1"
+   ],
+   "stored_ft": "1-1"
+  },
+  {
+   "id": 902723250,
+   "home": "Telecom Egypt",
+   "away": "Team FC Cairo",
+   "league": "2nd Division A",
+   "country": "Egypt",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:30",
+   "kickoff_utc": "2026-11-27 12:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "double_chance",
+    "ou25",
+    "over_under_1_5",
+    "pbx_iou_t2_h1_0_5"
+   ]
+  },
+  {
+   "id": 902736702,
+   "home": "Italy U19 (w)",
+   "away": "Wales U19 (w)",
+   "league": "UEFA Championship U19 Women Qualification",
+   "country": "Europe",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:30",
+   "kickoff_utc": "2026-11-27 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1st_half_3_way",
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5",
+    "pb_cor_ou_9_5"
+   ],
+   "stored_ft": "3-1"
+  },
+  {
+   "id": 902728208,
+   "home": "Sesvete",
+   "away": "Vukovar 91",
+   "league": "1 NL",
+   "country": "Croatia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:30",
+   "kickoff_utc": "2026-11-27 12:30",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "pb_cor_ou_8_5"
+   ],
+   "stored_ft": "0-3"
+  },
+  {
+   "id": 902729958,
+   "home": "Emirates U21",
+   "away": "Baniyas U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:35",
+   "kickoff_utc": "2026-11-27 12:35",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "double_chance",
+    "over_under_2_5",
+    "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902729700,
+   "home": "Al Fujairah U21",
+   "away": "Al Sharjah U21",
+   "league": "League U21",
+   "country": "United Arab Emirates",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 15:35",
+   "kickoff_utc": "2026-11-27 12:35",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5",
+    "over_under_3_5"
    ]
   }
  ]

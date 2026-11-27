@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 22:07",
- "count": 14,
+ "updated_utc": "2026-11-27 22:22",
+ "count": 13,
  "matches": [
   {
    "id": 902695402,
@@ -55,7 +55,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "pbx_iou_t2_h1_0_5"
    ]
   },
@@ -92,27 +91,9 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "dc",
     "over_under_2_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902738716,
-   "home": "ORBIT College",
-   "away": "North West University",
-   "league": "First Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 16:30",
-   "kickoff_utc": "2026-11-27 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "double_chance"
    ]
   },
   {
@@ -153,7 +134,6 @@
     "1st_half_over_under_2_5",
     "1x2",
     "dc",
-    "double_chance",
     "over_under_4_5"
    ]
   },
@@ -175,8 +155,7 @@
     "1st_half_competitor1_over_under_0_5",
     "1x2",
     "dc",
-    "double_chance",
-    "over_under_2_5"
+    "double_chance"
    ]
   },
   {
@@ -195,11 +174,8 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
     "dc",
-    "double_chance",
-    "over_under_2_5",
-    "over_under_3_5"
+    "double_chance"
    ]
   },
   {
@@ -218,10 +194,7 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "btts",
-    "dc",
-    "over_under_2_5",
-    "over_under_3_5"
+    "dc"
    ]
   },
   {
@@ -235,7 +208,6 @@
    "kickoff_utc": "2026-11-27 19:00",
    "status": "no_result",
    "needs": [
-    "corners",
     "ft",
     "ht"
    ],
@@ -243,15 +215,9 @@
     "1st_half_over_under_0_5",
     "1x2",
     "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
     "competitor1_over_under_1_5",
     "dc",
-    "double_chance",
-    "double_chance_both_teams_to_score",
-    "over_under_4_5",
-    "pb_cor_ou_t2_4_5",
-    "pbx_wtn_t2"
+    "double_chance"
    ]
   },
   {
@@ -269,31 +235,28 @@
    ],
    "markets": [
     "1x2",
-    "3_way",
     "both_teams_to_score",
-    "btts",
     "dc",
-    "double_chance",
-    "over_under_3_5",
-    "pbx_1x2_10m",
-    "pbx_rbts"
+    "over_under_3_5"
    ]
   },
   {
-   "id": 902720935,
-   "home": "Academia de Balompie Boliviano",
-   "away": "Real Tomayapo",
-   "league": "Primera Division",
-   "country": "Bolivia",
+   "id": 902718766,
+   "home": "Glebe North FC",
+   "away": "Wayside Celtic",
+   "league": "Leinster Senior League",
+   "country": "Ireland",
    "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
+   "kickoff_eat": "2026-11-27 22:45",
+   "kickoff_utc": "2026-11-27 19:45",
    "status": "no_result",
    "needs": [
-    "ft"
+    "ft",
+    "ht"
    ],
    "markets": [
-    "both_teams_to_score",
+    "1st_half_double_chance",
+    "1x2",
     "dc"
    ]
   }

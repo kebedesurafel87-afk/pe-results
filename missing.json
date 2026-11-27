@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:37",
- "count": 20,
+ "updated_utc": "2026-11-27 21:52",
+ "count": 16,
  "matches": [
   {
    "id": 902695402,
@@ -95,7 +95,6 @@
     "1x2",
     "both_teams_to_score",
     "dc",
-    "double_chance",
     "over_under_2_5",
     "over_under_4_5"
    ]
@@ -114,7 +113,6 @@
     "ft"
    ],
    "markets": [
-    "dc",
     "double_chance"
    ]
   },
@@ -185,30 +183,6 @@
    ]
   },
   {
-   "id": 902737457,
-   "home": "Manchester City U21",
-   "away": "West Bromwich U21",
-   "league": "Premier League II",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_3_5",
-    "dc",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_ou_11"
-   ],
-   "stored_ft": "6-3"
-  },
-  {
    "id": 902737506,
    "home": "US Le Pays du Valois",
    "away": "Valenciennes FC",
@@ -242,21 +216,16 @@
    "kickoff_utc": "2026-11-27 19:00",
    "status": "no_result",
    "needs": [
-    "corners",
-    "corners_h1",
     "ft"
    ],
    "markets": [
     "1x2",
     "both_teams_to_score",
     "btts",
-    "competitor1_over_under_2_5",
     "dc",
     "double_chance",
-    "ou25",
     "over_under_2_5",
     "over_under_3_5",
-    "pb_cor_1x2_h1",
     "pbx_tgbts_2_5"
    ]
   },
@@ -271,77 +240,16 @@
    "kickoff_utc": "2026-11-27 19:00",
    "status": "no_result",
    "needs": [
-    "corners",
     "ft"
    ],
    "markets": [
     "1x2",
     "both_teams_to_score",
     "btts",
-    "competitor1_over_under_0_5",
     "dc",
     "over_under_2_5",
     "over_under_3_5",
-    "pb_cor_ou_t1_4_5",
     "pbx_tgbts_2_5"
-   ]
-  },
-  {
-   "id": 902737454,
-   "home": "Norwich City U21",
-   "away": "Chelsea U21",
-   "league": "Premier League II",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "3_way_over_under_2_5",
-    "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_2_5",
-    "competitor2_total_1_5",
-    "dc",
-    "double_chance",
-    "draw_no_bet",
-    "over_under_4_5",
-    "pb_cor_1x2"
-   ],
-   "stored_ft": "2-5"
-  },
-  {
-   "id": 902714330,
-   "home": "AZ II",
-   "away": "Top Oss",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "corners",
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "3_way",
-    "both_teams_to_score",
-    "btts",
-    "dc",
-    "double_chance",
-    "over_under_3_5",
-    "pb_cor_ou_3w_11",
-    "pbx_1x2_10m",
-    "pbx_iou_t1_h1_0_5",
-    "pbx_rbts"
    ]
   },
   {
@@ -366,7 +274,6 @@
     "btts",
     "competitor1_over_under_0_5",
     "competitor1_over_under_1_5",
-    "competitor1_over_under_2_5",
     "dc",
     "double_chance",
     "double_chance_both_teams_to_score",
@@ -376,57 +283,29 @@
    ]
   },
   {
-   "id": 902737453,
-   "home": "West Ham United U21",
-   "away": "Tottenham Hotspur U21",
-   "league": "Premier League II",
-   "country": "England",
+   "id": 902714330,
+   "home": "AZ II",
+   "away": "Top Oss",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
    "sport": "football",
    "kickoff_eat": "2026-11-27 22:00",
    "kickoff_utc": "2026-11-27 19:00",
-   "status": "result_saved_parts_missing",
+   "status": "no_result",
    "needs": [
-    "corners"
+    "ft"
    ],
    "markets": [
     "1x2",
+    "3_way",
     "both_teams_to_score",
-    "btts",
-    "competitor1_over_under_0_5",
-    "dc",
-    "handicap_hcp_0_2",
-    "over_under_4_5",
-    "pb_cor_1x2",
-    "pbx_iou_t1_h1_1_5",
-    "pbx_iou_t2_h1_0_5",
-    "pbx_tgbts_2_5"
-   ],
-   "stored_ft": "3-1"
-  },
-  {
-   "id": 902737496,
-   "home": "Derby U21",
-   "away": "Wycombe Wanderers U21",
-   "league": "Premier League U21 Cup",
-   "country": "England",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "result_saved_parts_missing",
-   "needs": [
-    "corners",
-    "corners_h1"
-   ],
-   "markets": [
-    "1x2",
     "btts",
     "dc",
     "double_chance",
-    "over_under_2_5",
-    "pb_cor_1x2_h1",
-    "pb_cor_ou_10_5"
-   ],
-   "stored_ft": "2-3"
+    "over_under_3_5",
+    "pbx_1x2_10m",
+    "pbx_rbts"
+   ]
   },
   {
    "id": 902725317,
@@ -443,7 +322,6 @@
    ],
    "markets": [
     "1x2",
-    "btts",
     "handicap_hcp_0_3",
     "ou25",
     "over_under_2_5"

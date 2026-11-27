@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 19:52",
- "count": 8,
+ "updated_utc": "2026-11-27 20:37",
+ "count": 10,
  "matches": [
   {
    "id": 902695402,
@@ -162,6 +162,85 @@
     "double_chance",
     "over_under_1_5",
     "over_under_4_5"
+   ]
+  },
+  {
+   "id": 902704259,
+   "home": "Sonderjyske",
+   "away": "Brondby",
+   "league": "Superligaen",
+   "country": "Denmark",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 21:00",
+   "kickoff_utc": "2026-11-27 18:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "cards",
+    "corners"
+   ],
+   "markets": [
+    "1st_half_double_chance",
+    "1st_half_over_under_0_5",
+    "1st_half_over_under_2_5",
+    "1x2",
+    "2nd_half_competitor2_over_under_0_5",
+    "2nd_half_double_chance",
+    "2nd_half_over_under_0_5",
+    "3_way_both_teams_to_score",
+    "3_way_over_under_2_5",
+    "both_teams_to_score",
+    "btts",
+    "competitor1_over_under_0_5",
+    "competitor1_over_under_1_5",
+    "competitor2_to_win_either_half",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "correct_score",
+    "dc",
+    "double_chance",
+    "double_chance_both_teams_to_score",
+    "double_chance_over_under_4_5",
+    "draw_no_bet",
+    "ou25",
+    "over_under_2_5",
+    "over_under_3_5",
+    "pb_cor_ou_10",
+    "pb_cor_ou_10_5",
+    "pb_cor_ou_9_5",
+    "pb_cor_ou_t2_4_5",
+    "pb_cor_ou_t2_5_5",
+    "pb_y_1x2",
+    "pb_y_iou_t1_1_5",
+    "pb_y_iou_t2_1_5",
+    "pbx_1x2_10m",
+    "pbx_1x2_15m",
+    "pbx_rbts",
+    "pbx_rtg_2_5",
+    "pbx_weh"
+   ],
+   "stored_ft": "1-1"
+  },
+  {
+   "id": 902714363,
+   "home": "Spvgg Bayreuth",
+   "away": "Spvgg Greuther Furth II",
+   "league": "Regionalliga Bayern",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 21:00",
+   "kickoff_utc": "2026-11-27 18:00",
+   "status": "no_result",
+   "needs": [
+    "ft",
+    "ht"
+   ],
+   "markets": [
+    "1st_half_competitor1_over_under_0_5",
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_2_5"
    ]
   }
  ]

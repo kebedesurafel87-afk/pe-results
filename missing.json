@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 16:06",
- "count": 7,
+ "updated_utc": "2026-11-27 16:21",
+ "count": 6,
  "matches": [
   {
    "id": 902695402,
@@ -102,28 +102,6 @@
     "over_under_1_5",
     "over_under_2_5",
     "over_under_4_5"
-   ]
-  },
-  {
-   "id": 902736783,
-   "home": "Real Native",
-   "away": "Pretoria University",
-   "league": "First Division",
-   "country": "South Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 16:30",
-   "kickoff_utc": "2026-11-27 13:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "double_chance",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5"
    ]
   },
   {

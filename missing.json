@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 18:06",
- "count": 8,
+ "updated_utc": "2026-11-27 18:21",
+ "count": 9,
  "matches": [
   {
    "id": 902695402,
@@ -142,8 +142,7 @@
     "handicap_hcp_0_2",
     "ou25",
     "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5"
+    "over_under_2_5"
    ]
   },
   {
@@ -166,6 +165,30 @@
     "dc",
     "handicap_hcp_0_2",
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902734829,
+   "home": "Dhofar",
+   "away": "Fanja",
+   "league": "Sultan Cup",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-11-27 18:40",
+   "kickoff_utc": "2026-11-27 15:40",
+   "status": "no_result",
+   "needs": [
+    "corners",
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "dc",
+    "double_chance",
+    "over_under_1_5",
+    "over_under_2_5",
+    "pb_cor_ou_8_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 21:52",
- "count": 16,
+ "updated_utc": "2026-11-27 22:07",
+ "count": 14,
  "matches": [
   {
    "id": 902695402,
@@ -56,7 +56,6 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "pbx_iou_t2_h1_0_5"
    ]
   },
@@ -133,8 +132,7 @@
     "1x2",
     "dc",
     "handicap_hcp_0_2",
-    "over_under_1_5",
-    "over_under_2_5"
+    "over_under_1_5"
    ]
   },
   {
@@ -176,32 +174,8 @@
    "markets": [
     "1st_half_competitor1_over_under_0_5",
     "1x2",
-    "both_teams_to_score",
     "dc",
     "double_chance",
-    "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902737506,
-   "home": "US Le Pays du Valois",
-   "away": "Valenciennes FC",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "competitor1_over_under_0_5",
-    "competitor2_total_2_5",
-    "dc",
     "over_under_2_5"
    ]
   },
@@ -225,8 +199,7 @@
     "dc",
     "double_chance",
     "over_under_2_5",
-    "over_under_3_5",
-    "pbx_tgbts_2_5"
+    "over_under_3_5"
    ]
   },
   {
@@ -248,8 +221,7 @@
     "btts",
     "dc",
     "over_under_2_5",
-    "over_under_3_5",
-    "pbx_tgbts_2_5"
+    "over_under_3_5"
    ]
   },
   {
@@ -305,26 +277,6 @@
     "over_under_3_5",
     "pbx_1x2_10m",
     "pbx_rbts"
-   ]
-  },
-  {
-   "id": 902725317,
-   "home": "CR Belouizdad",
-   "away": "AS Douanes",
-   "league": "CAF Confederation Cup",
-   "country": "Africa",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "handicap_hcp_0_3",
-    "ou25",
-    "over_under_2_5"
    ]
   },
   {

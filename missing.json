@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-11-28 14:38",
+ "updated_utc": "2026-11-28 14:53",
  "count": 16,
  "matches": [
   {
@@ -242,23 +242,6 @@
    ]
   },
   {
-   "id": 902744387,
-   "home": "Petrolul ZF 1948 Berca",
-   "away": "Viitorul Corbeanca",
-   "league": "League 3",
-   "country": "Romania",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 15:00",
-   "kickoff_utc": "2026-11-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902717220,
    "home": "FK Graficar Beograd",
    "away": "Proleter Zrenjanin",
@@ -292,6 +275,23 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902734424,
+   "home": "Al Mabarra",
+   "away": "Akhaa Ahli Aley",
+   "league": "Lebanon Premier League",
+   "country": "Lebanon",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 15:15",
+   "kickoff_utc": "2026-11-28 12:15",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

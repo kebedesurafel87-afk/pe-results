@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 16:23",
- "count": 35,
+ "updated_utc": "2026-11-28 16:38",
+ "count": 38,
  "matches": [
   {
    "id": 902728184,
@@ -507,23 +507,6 @@
    ]
   },
   {
-   "id": 902741055,
-   "home": "Weiche Flensburg",
-   "away": "HSC Hannover",
-   "league": "Regionalliga Nord",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902714326,
    "home": "VfB Eichstatt",
    "away": "TSV Buchbach",
@@ -545,6 +528,23 @@
    "home": "Ansbach",
    "away": "Memmingen",
    "league": "Regionalliga Bayern",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902741055,
+   "home": "Weiche Flensburg",
+   "away": "HSC Hannover",
+   "league": "Regionalliga Nord",
    "country": "Germany",
    "sport": "football",
    "kickoff_eat": "2026-11-28 16:00",
@@ -633,6 +633,59 @@
    ],
    "markets": [
     "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902744252,
+   "home": "SAS Epinal",
+   "away": "SC Amiens",
+   "league": "Coupe de France",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 17:00",
+   "kickoff_utc": "2026-11-28 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902738677,
+   "home": "Juventude Evora",
+   "away": "Santa Clara B",
+   "league": "Campeonato de Portugal",
+   "country": "Portugal",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 17:00",
+   "kickoff_utc": "2026-11-28 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902741058,
+   "home": "SV Atlas Delmenhorst",
+   "away": "SSV Jeddeloh",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 17:00",
+   "kickoff_utc": "2026-11-28 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "double_chance"
    ]
   }
  ]

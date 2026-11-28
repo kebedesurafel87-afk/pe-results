@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 07:52",
- "count": 7,
+ "updated_utc": "2026-11-28 09:37",
+ "count": 8,
  "matches": [
   {
    "id": 902728184,
@@ -135,6 +135,24 @@
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902741881,
+   "home": "Kirkos FC (W)",
+   "away": "Addis Ketema (w)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 10:00",
+   "kickoff_utc": "2026-11-28 07:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_2_5"
    ]
   }
  ]

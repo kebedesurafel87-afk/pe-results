@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 16:38",
- "count": 38,
+ "updated_utc": "2026-11-28 16:53",
+ "count": 37,
  "matches": [
   {
    "id": 902728184,
@@ -256,8 +256,7 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "dc"
+    "1x2"
    ]
   },
   {
@@ -489,24 +488,6 @@
    ]
   },
   {
-   "id": 902720890,
-   "home": "FK Zemun",
-   "away": "Radnicki Kragujevas",
-   "league": "Super Liga",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "competitor2_total_0_5",
-    "dc"
-   ]
-  },
-  {
    "id": 902714326,
    "home": "VfB Eichstatt",
    "away": "TSV Buchbach",
@@ -555,6 +536,23 @@
    ],
    "markets": [
     "1x2"
+   ]
+  },
+  {
+   "id": 902720890,
+   "home": "FK Zemun",
+   "away": "Radnicki Kragujevas",
+   "league": "Super Liga",
+   "country": "Serbia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
    ]
   },
   {
@@ -633,23 +631,6 @@
    ],
    "markets": [
     "over_under_1_5"
-   ]
-  },
-  {
-   "id": 902744252,
-   "home": "SAS Epinal",
-   "away": "SC Amiens",
-   "league": "Coupe de France",
-   "country": "France",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 17:00",
-   "kickoff_utc": "2026-11-28 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "over_under_2_5"
    ]
   },
   {

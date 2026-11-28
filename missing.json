@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 07:37",
- "count": 8,
+ "updated_utc": "2026-11-28 07:52",
+ "count": 7,
  "matches": [
   {
    "id": 902728184,
@@ -135,24 +135,6 @@
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
-   ]
-  },
-  {
-   "id": 902741688,
-   "home": "Viamaterras Miyazaki (W)",
-   "away": "Okayama Yunogo Belle (W)",
-   "league": "Japan Cup Women",
-   "country": "Japan",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 08:00",
-   "kickoff_utc": "2026-11-28 05:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc",
-    "over_under_1_5"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 03:52",
- "count": 8,
+ "updated_utc": "2026-11-28 04:07",
+ "count": 9,
  "matches": [
   {
    "id": 902695402,
@@ -155,6 +155,23 @@
     "both_teams_to_score",
     "dc",
     "over_under_3_5"
+   ]
+  },
+  {
+   "id": 902733179,
+   "home": "San Francisco",
+   "away": "Arabe Unido",
+   "league": "Premier League",
+   "country": "Panama",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 04:30",
+   "kickoff_utc": "2026-11-28 01:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 16:53",
- "count": 37,
+ "updated_utc": "2026-11-28 17:23",
+ "count": 35,
  "matches": [
   {
    "id": 902728184,
@@ -220,7 +220,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
    ]
   },
@@ -243,23 +242,6 @@
    ]
   },
   {
-   "id": 902738725,
-   "home": "Borac Cacak",
-   "away": "FK Dubocica",
-   "league": "First League",
-   "country": "Serbia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 15:00",
-   "kickoff_utc": "2026-11-28 12:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902744542,
    "home": "St Gallen U19",
    "away": "Young Boys U19",
@@ -275,42 +257,6 @@
    "markets": [
     "1x2",
     "dc"
-   ]
-  },
-  {
-   "id": 902749223,
-   "home": "Nifas Silk Lafto Sub City (W)",
-   "away": "Akaki Kality (w)",
-   "league": "Higher league Women",
-   "country": "Ethiopia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902741063,
-   "home": "SG Wattenscheid 09",
-   "away": "Ssg Bergisch Gladbach 09",
-   "league": "Regionalliga West",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score",
-    "dc",
-    "over_under_2_5"
    ]
   },
   {
@@ -344,7 +290,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "both_teams_to_score"
    ]
   },
@@ -384,6 +329,24 @@
    ]
   },
   {
+   "id": 902741063,
+   "home": "SG Wattenscheid 09",
+   "away": "Ssg Bergisch Gladbach 09",
+   "league": "Regionalliga West",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
    "id": 902741064,
    "home": "SC Wiedenbrück 2000",
    "away": "Koln II",
@@ -414,7 +377,6 @@
     "ft"
    ],
    "markets": [
-    "3_way",
     "both_teams_to_score",
     "over_under_2_5"
    ]
@@ -454,23 +416,6 @@
    ]
   },
   {
-   "id": 902726622,
-   "home": "Zanaco",
-   "away": "Nchanga Rangers",
-   "league": "Super League",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902741054,
    "home": "Eimsbutteler",
    "away": "Eintracht Norderstedt",
@@ -485,23 +430,6 @@
    ],
    "markets": [
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902714326,
-   "home": "VfB Eichstatt",
-   "away": "TSV Buchbach",
-   "league": "Regionalliga Bayern",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
    ]
   },
   {
@@ -553,6 +481,23 @@
    ],
    "markets": [
     "dc"
+   ]
+  },
+  {
+   "id": 902726622,
+   "home": "Zanaco",
+   "away": "Nchanga Rangers",
+   "league": "Super League",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   },
   {
@@ -665,8 +610,25 @@
     "ft"
    ],
    "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902744373,
+   "home": "Lugano U19",
+   "away": "Grasshopper U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 17:45",
+   "kickoff_utc": "2026-11-28 14:45",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
     "both_teams_to_score",
-    "double_chance"
+    "btts"
    ]
   }
  ]

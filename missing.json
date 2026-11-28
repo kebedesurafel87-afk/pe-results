@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 15:08",
- "count": 15,
+ "updated_utc": "2026-11-28 15:23",
+ "count": 16,
  "matches": [
   {
    "id": 902728184,
@@ -275,6 +275,23 @@
    "markets": [
     "1x2",
     "dc"
+   ]
+  },
+  {
+   "id": 902746895,
+   "home": "Bahla",
+   "away": "Majees",
+   "league": "Sultan Cup",
+   "country": "Oman",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 15:40",
+   "kickoff_utc": "2026-11-28 12:40",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]

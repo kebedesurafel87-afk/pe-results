@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 00:07",
- "count": 8,
+ "updated_utc": "2026-11-28 03:37",
+ "count": 9,
  "matches": [
   {
    "id": 902695402,
@@ -156,6 +156,35 @@
     "dc",
     "over_under_3_5"
    ]
+  },
+  {
+   "id": 902710487,
+   "home": "Columbus Crew",
+   "away": "Inter Miami CF",
+   "league": "MLS",
+   "country": "USA",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 04:00",
+   "kickoff_utc": "2026-11-28 01:00",
+   "status": "result_saved_parts_missing",
+   "needs": [
+    "corners"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score",
+    "btts",
+    "competitor2_total_0_5",
+    "competitor2_total_1_5",
+    "dc",
+    "draw_no_bet",
+    "handicap_hcp_0_2",
+    "over_under_2_5",
+    "pb_cor_ou_t2_3_5",
+    "pbx_dc_15m",
+    "pbx_tgbts_2_5"
+   ],
+   "stored_ft": "1-0"
   }
  ]
 }

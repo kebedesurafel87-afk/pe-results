@@ -1,27 +1,7 @@
 {
- "updated_utc": "2026-11-28 04:52",
- "count": 8,
+ "updated_utc": "2026-11-28 05:52",
+ "count": 7,
  "matches": [
-  {
-   "id": 902695402,
-   "home": "FC Bavois",
-   "away": "Schaffhausen",
-   "league": "Promotion League",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-25 21:30",
-   "kickoff_utc": "2026-11-25 18:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
   {
    "id": 902728184,
    "home": "Al-Khor SC U20",

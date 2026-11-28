@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 15:23",
- "count": 16,
+ "updated_utc": "2026-11-28 15:38",
+ "count": 32,
  "matches": [
   {
    "id": 902728184,
@@ -278,14 +278,296 @@
    ]
   },
   {
-   "id": 902746895,
-   "home": "Bahla",
-   "away": "Majees",
-   "league": "Sultan Cup",
-   "country": "Oman",
+   "id": 902744542,
+   "home": "St Gallen U19",
+   "away": "Young Boys U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
    "sport": "football",
-   "kickoff_eat": "2026-11-28 15:40",
-   "kickoff_utc": "2026-11-28 12:40",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
+   ]
+  },
+  {
+   "id": 902749223,
+   "home": "Nifas Silk Lafto Sub City (W)",
+   "away": "Akaki Kality (w)",
+   "league": "Higher league Women",
+   "country": "Ethiopia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902741063,
+   "home": "SG Wattenscheid 09",
+   "away": "Ssg Bergisch Gladbach 09",
+   "league": "Regionalliga West",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902741057,
+   "home": "VFB Oldenburg",
+   "away": "SV Todesfelde",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902744248,
+   "home": "Rodinghausen",
+   "away": "Borussia Monchengladbach II",
+   "league": "Regionalliga West",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "3_way",
+    "both_teams_to_score",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902744543,
+   "home": "NK Servette U19",
+   "away": "Neuchatel Xamax U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902744538,
+   "home": "Aarau U19",
+   "away": "Luzern U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902741061,
+   "home": "1. FC Bocholt",
+   "away": "Hilden",
+   "league": "Regionalliga West",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "double_chance",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902741064,
+   "home": "SC Wiedenbrück 2000",
+   "away": "Koln II",
+   "league": "Regionalliga West",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902741056,
+   "home": "FSV Schoningen",
+   "away": "Werder Bremen II",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902741557,
+   "home": "TSV Steinbach",
+   "away": "Sandhausen",
+   "league": "Regionalliga Sudwest",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
+   "id": 902726622,
+   "home": "Zanaco",
+   "away": "Nchanga Rangers",
+   "league": "Super League",
+   "country": "Zambia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902741054,
+   "home": "Eimsbutteler",
+   "away": "Eintracht Norderstedt",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902720890,
+   "home": "FK Zemun",
+   "away": "Radnicki Kragujevas",
+   "league": "Super Liga",
+   "country": "Serbia",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "competitor2_total_0_5",
+    "dc"
+   ]
+  },
+  {
+   "id": 902741055,
+   "home": "Weiche Flensburg",
+   "away": "HSC Hannover",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902714326,
+   "home": "VfB Eichstatt",
+   "away": "TSV Buchbach",
+   "league": "Regionalliga Bayern",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "over_under_1_5"
+   ]
+  },
+  {
+   "id": 902714324,
+   "home": "Ansbach",
+   "away": "Memmingen",
+   "league": "Regionalliga Bayern",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
    "status": "no_result",
    "needs": [
     "ft"

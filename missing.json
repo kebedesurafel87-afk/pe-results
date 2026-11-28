@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-27 22:37",
- "count": 12,
+ "updated_utc": "2026-11-28 00:07",
+ "count": 8,
  "matches": [
   {
    "id": 902695402,
@@ -97,26 +97,6 @@
    ]
   },
   {
-   "id": 902729919,
-   "home": "Al Hilal Omdurman",
-   "away": "Amagaju",
-   "league": "National League",
-   "country": "Rwanda",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 17:00",
-   "kickoff_utc": "2026-11-27 14:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc",
-    "handicap_hcp_0_2",
-    "over_under_1_5"
-   ]
-  },
-  {
    "id": 902717155,
    "home": "Usti nad Labem",
    "away": "Hanacka",
@@ -138,27 +118,6 @@
    ]
   },
   {
-   "id": 902714363,
-   "home": "Spvgg Bayreuth",
-   "away": "Spvgg Greuther Furth II",
-   "league": "Regionalliga Bayern",
-   "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 21:00",
-   "kickoff_utc": "2026-11-27 18:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_competitor1_over_under_0_5",
-    "1x2",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
    "id": 902706260,
    "home": "VVV-Venlo",
    "away": "RKC Waalwijk",
@@ -174,48 +133,6 @@
    "markets": [
     "1x2",
     "both_teams_to_score",
-    "dc",
-    "double_chance"
-   ]
-  },
-  {
-   "id": 902714331,
-   "home": "Dordrecht 90",
-   "away": "Vitesse",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "both_teams_to_score",
-    "dc"
-   ]
-  },
-  {
-   "id": 902714332,
-   "home": "Jong FC Utrecht",
-   "away": "Almere",
-   "league": "Eerste Divisie",
-   "country": "Netherlands",
-   "sport": "football",
-   "kickoff_eat": "2026-11-27 22:00",
-   "kickoff_utc": "2026-11-27 19:00",
-   "status": "no_result",
-   "needs": [
-    "ft",
-    "ht"
-   ],
-   "markets": [
-    "1st_half_over_under_0_5",
-    "1x2",
-    "both_teams_to_score",
-    "competitor1_over_under_1_5",
     "dc",
     "double_chance"
    ]

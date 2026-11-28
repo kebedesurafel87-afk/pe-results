@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 17:54",
- "count": 39,
+ "updated_utc": "2026-11-28 18:09",
+ "count": 40,
  "matches": [
   {
    "id": 902728184,
@@ -682,73 +682,41 @@
    ]
   },
   {
-   "id": 902620541,
-   "home": "Malaga CF",
-   "away": "Athletic Bilbao",
-   "league": "La Liga",
-   "country": "Spain",
+   "id": 902706259,
+   "home": "Emmen",
+   "away": "Helmond Sport",
+   "league": "Eerste Divisie",
+   "country": "Netherlands",
    "sport": "football",
-   "kickoff_eat": "2026-11-28 18:15",
-   "kickoff_utc": "2026-11-28 15:15",
-   "status": "result_saved_parts_missing",
+   "kickoff_eat": "2026-11-28 18:30",
+   "kickoff_utc": "2026-11-28 15:30",
+   "status": "no_result",
    "needs": [
-    "cards",
     "corners",
-    "corners_h1"
+    "ft"
    ],
    "markets": [
-    "1st_half_both_teams_to_score",
-    "1st_half_over_under_0_5",
-    "1st_half_over_under_1_5",
-    "1st_half_over_under_2_5",
     "1x2",
-    "2nd_half_3_way",
-    "2nd_half_over_under_0_5",
-    "2nd_half_over_under_2_5",
-    "3_way",
-    "both_teams_to_score",
     "btts",
-    "competitor1_over_under_0_5",
-    "competitor1_over_under_2_5",
-    "competitor2_clean_sheet",
-    "competitor2_total_0_5",
-    "competitor2_total_1_5",
-    "competitor2_total_2_5",
-    "dc",
-    "double_chance",
-    "double_chance_over_under_4_5",
-    "draw_no_bet",
-    "handicap_hcp_0_1",
-    "handicap_hcp_0_2",
-    "handicap_hcp_2_0",
-    "ou15",
-    "over_under_1_5",
-    "over_under_2_5",
-    "over_under_3_5",
-    "over_under_4_5",
-    "pb_cor_1x2",
-    "pb_cor_1x2_h1",
-    "pb_cor_dc",
-    "pb_cor_ou_9_5",
-    "pb_cor_ou_h1_4_5",
-    "pb_cor_ou_t1_3_5",
-    "pb_cor_ou_t1_4",
-    "pb_cor_ou_t2_5_5",
-    "pb_y_iou_t1_1_5",
-    "pb_y_iou_t2_1_5",
-    "pbx_1x2_10m",
-    "pbx_1x2_15m",
-    "pbx_fls_ou_20_5",
-    "pbx_fls_ou_22_5",
-    "pbx_fls_ou_t1_10_5",
-    "pbx_fls_ou_t1_11_5",
-    "pbx_gm_0_15",
-    "pbx_gm_45_60",
-    "pbx_ou_0_15_0_5",
-    "pbx_rbts",
-    "pbx_weh"
+    "pb_cor_ou_10_5"
+   ]
+  },
+  {
+   "id": 902745380,
+   "home": "ASEC Mimosas",
+   "away": "OFC Adiake",
+   "league": "League 1",
+   "country": "Ivory Coast",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:30",
+   "kickoff_utc": "2026-11-28 15:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
    ],
-   "stored_ft": "3-4"
+   "markets": [
+    "1x2"
+   ]
   }
  ]
 }

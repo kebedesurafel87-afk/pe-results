@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 13:53",
- "count": 14,
+ "updated_utc": "2026-11-28 14:08",
+ "count": 13,
  "matches": [
   {
    "id": 902728184,
@@ -173,40 +173,6 @@
    ]
   },
   {
-   "id": 902745038,
-   "home": "Ponferradina (W)",
-   "away": "Unionistas de Salamanca CF (W)",
-   "league": "Tercera Federacion Women",
-   "country": "Spain",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 13:00",
-   "kickoff_utc": "2026-11-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902744537,
-   "home": "FC Zurich U19",
-   "away": "Winterthur U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 13:00",
-   "kickoff_utc": "2026-11-28 10:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "dc"
-   ]
-  },
-  {
    "id": 902737772,
    "home": "Binh Minh Saigon",
    "away": "B.Binh Duong",
@@ -255,6 +221,24 @@
    ],
    "markets": [
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902717146,
+   "home": "Olimpia Grudziadz",
+   "away": "Avia Swidnik",
+   "league": "2nd League",
+   "country": "Poland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 14:30",
+   "kickoff_utc": "2026-11-28 11:30",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "both_teams_to_score"
    ]
   }
  ]

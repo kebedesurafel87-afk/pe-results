@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 18:09",
- "count": 40,
+ "updated_utc": "2026-11-28 18:24",
+ "count": 39,
  "matches": [
   {
    "id": 902728184,
@@ -432,23 +432,6 @@
    ]
   },
   {
-   "id": 902726622,
-   "home": "Zanaco",
-   "away": "Nchanga Rangers",
-   "league": "Super League",
-   "country": "Zambia",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
    "id": 902710506,
    "home": "Botev Vratsa",
    "away": "Ludogorets",
@@ -466,8 +449,7 @@
     "competitor2_total_0_5",
     "dc",
     "over_under_1_5",
-    "pbx_1x2_10m",
-    "pbx_weh_t2"
+    "pbx_1x2_10m"
    ]
   },
   {
@@ -553,7 +535,6 @@
     "ft"
    ],
    "markets": [
-    "1x2",
     "dc"
    ]
   },
@@ -647,11 +628,11 @@
    ]
   },
   {
-   "id": 902741882,
-   "home": "Montpellier U19",
-   "away": "Olympique Rovenain U19",
-   "league": "League U19",
-   "country": "France",
+   "id": 902729554,
+   "home": "Plymouth Parkway",
+   "away": "Sholing",
+   "league": "Southern Premier League South",
+   "country": "England",
    "sport": "football",
    "kickoff_eat": "2026-11-28 18:00",
    "kickoff_utc": "2026-11-28 15:00",
@@ -660,16 +641,15 @@
     "ft"
    ],
    "markets": [
-    "1x2",
-    "btts"
+    "1x2"
    ]
   },
   {
-   "id": 902729554,
-   "home": "Plymouth Parkway",
-   "away": "Sholing",
-   "league": "Southern Premier League South",
-   "country": "England",
+   "id": 902741882,
+   "home": "Montpellier U19",
+   "away": "Olympique Rovenain U19",
+   "league": "League U19",
+   "country": "France",
    "sport": "football",
    "kickoff_eat": "2026-11-28 18:00",
    "kickoff_utc": "2026-11-28 15:00",

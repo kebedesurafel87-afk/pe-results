@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 12:08",
- "count": 11,
+ "updated_utc": "2026-11-28 12:23",
+ "count": 10,
  "matches": [
   {
    "id": 902728184,
@@ -170,26 +170,7 @@
    ],
    "markets": [
     "1x2",
-    "dc",
     "over_under_2_5"
-   ]
-  },
-  {
-   "id": 902745142,
-   "home": "Metallurg Bekabad",
-   "away": "Fardu Ferghana",
-   "league": "PFL",
-   "country": "Uzbekistan",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 12:00",
-   "kickoff_utc": "2026-11-28 09:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
    ]
   },
   {

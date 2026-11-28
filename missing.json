@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 09:37",
- "count": 8,
+ "updated_utc": "2026-11-28 11:38",
+ "count": 10,
  "matches": [
   {
    "id": 902728184,
@@ -153,6 +153,44 @@
    "markets": [
     "1x2",
     "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902744228,
+   "home": "Panserraikos U19",
+   "away": "Nestos Chrisoupolis U19",
+   "league": "Super League 2 U19",
+   "country": "Greece",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 12:00",
+   "kickoff_utc": "2026-11-28 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5",
+    "pbx_iou_t1_h1_0_5"
+   ]
+  },
+  {
+   "id": 902745142,
+   "home": "Metallurg Bekabad",
+   "away": "Fardu Ferghana",
+   "league": "PFL",
+   "country": "Uzbekistan",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 12:00",
+   "kickoff_utc": "2026-11-28 09:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc"
    ]
   }
  ]

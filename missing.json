@@ -1,6 +1,6 @@
 {
- "updated_utc": "2026-11-28 17:23",
- "count": 35,
+ "updated_utc": "2026-11-28 17:38",
+ "count": 39,
  "matches": [
   {
    "id": 902728184,
@@ -207,23 +207,6 @@
    ]
   },
   {
-   "id": 902717146,
-   "home": "Olimpia Grudziadz",
-   "away": "Avia Swidnik",
-   "league": "2nd League",
-   "country": "Poland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 14:30",
-   "kickoff_utc": "2026-11-28 11:30",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
    "id": 902717220,
    "home": "FK Graficar Beograd",
    "away": "Proleter Zrenjanin",
@@ -242,63 +225,11 @@
    ]
   },
   {
-   "id": 902744542,
-   "home": "St Gallen U19",
-   "away": "Young Boys U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2",
-    "dc"
-   ]
-  },
-  {
    "id": 902741057,
    "home": "VFB Oldenburg",
    "away": "SV Todesfelde",
    "league": "Regionalliga Nord",
    "country": "Germany",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "1x2"
-   ]
-  },
-  {
-   "id": 902744543,
-   "home": "NK Servette U19",
-   "away": "Neuchatel Xamax U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
-   "sport": "football",
-   "kickoff_eat": "2026-11-28 16:00",
-   "kickoff_utc": "2026-11-28 13:00",
-   "status": "no_result",
-   "needs": [
-    "ft"
-   ],
-   "markets": [
-    "both_teams_to_score"
-   ]
-  },
-  {
-   "id": 902744538,
-   "home": "Aarau U19",
-   "away": "Luzern U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
    "sport": "football",
    "kickoff_eat": "2026-11-28 16:00",
    "kickoff_utc": "2026-11-28 13:00",
@@ -416,6 +347,23 @@
    ]
   },
   {
+   "id": 902744538,
+   "home": "Aarau U19",
+   "away": "Luzern U19",
+   "league": "U19 Championship",
+   "country": "Switzerland",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 16:00",
+   "kickoff_utc": "2026-11-28 13:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
    "id": 902741054,
    "home": "Eimsbutteler",
    "away": "Eintracht Norderstedt",
@@ -515,13 +463,10 @@
    ],
    "markets": [
     "1x2",
-    "both_teams_to_score",
     "competitor2_total_0_5",
     "dc",
     "over_under_1_5",
-    "over_under_3_5",
     "pbx_1x2_10m",
-    "pbx_iou_t2_h1_0_5",
     "pbx_weh_t2"
    ]
   },
@@ -556,7 +501,6 @@
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
     "over_under_1_5",
     "over_under_2_5"
    ]
@@ -579,6 +523,23 @@
    ]
   },
   {
+   "id": 902741058,
+   "home": "SV Atlas Delmenhorst",
+   "away": "SSV Jeddeloh",
+   "league": "Regionalliga Nord",
+   "country": "Germany",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 17:00",
+   "kickoff_utc": "2026-11-28 14:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "both_teams_to_score"
+   ]
+  },
+  {
    "id": 902738677,
    "home": "Juventude Evora",
    "away": "Santa Clara B",
@@ -597,38 +558,144 @@
    ]
   },
   {
-   "id": 902741058,
-   "home": "SV Atlas Delmenhorst",
-   "away": "SSV Jeddeloh",
-   "league": "Regionalliga Nord",
-   "country": "Germany",
+   "id": 902729543,
+   "home": "Anstey Nomads",
+   "away": "Stratford Town",
+   "league": "Southern Premier League Central",
+   "country": "England",
    "sport": "football",
-   "kickoff_eat": "2026-11-28 17:00",
-   "kickoff_utc": "2026-11-28 14:00",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "both_teams_to_score"
+    "1x2",
+    "pbx_iou_t1_h1_0_5"
    ]
   },
   {
-   "id": 902744373,
-   "home": "Lugano U19",
-   "away": "Grasshopper U19",
-   "league": "U19 Championship",
-   "country": "Switzerland",
+   "id": 902726585,
+   "home": "Harrogate Town",
+   "away": "Yeovil Town",
+   "league": "National League",
+   "country": "England",
    "sport": "football",
-   "kickoff_eat": "2026-11-28 17:45",
-   "kickoff_utc": "2026-11-28 14:45",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
    "status": "no_result",
    "needs": [
     "ft"
    ],
    "markets": [
-    "both_teams_to_score",
+    "over_under_1_5",
+    "pbx_1x2_10m"
+   ]
+  },
+  {
+   "id": 902730907,
+   "home": "Guiseley AFC",
+   "away": "Whitby Town",
+   "league": "Northern Premier League",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
+    "dc",
+    "over_under_2_5"
+   ]
+  },
+  {
+   "id": 902747451,
+   "home": "US Gendarmerie Nationale",
+   "away": "AS ZAM",
+   "league": "Super League",
+   "country": "Niger",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902749292,
+   "home": "Barwell",
+   "away": "Boston Town",
+   "league": "NPL Division One North Midlands",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "dc"
+   ]
+  },
+  {
+   "id": 902749291,
+   "home": "Coventry United",
+   "away": "Belper Town",
+   "league": "NPL Division One North Midlands",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
+   ]
+  },
+  {
+   "id": 902741882,
+   "home": "Montpellier U19",
+   "away": "Olympique Rovenain U19",
+   "league": "League U19",
+   "country": "France",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2",
     "btts"
+   ]
+  },
+  {
+   "id": 902729554,
+   "home": "Plymouth Parkway",
+   "away": "Sholing",
+   "league": "Southern Premier League South",
+   "country": "England",
+   "sport": "football",
+   "kickoff_eat": "2026-11-28 18:00",
+   "kickoff_utc": "2026-11-28 15:00",
+   "status": "no_result",
+   "needs": [
+    "ft"
+   ],
+   "markets": [
+    "1x2"
    ]
   }
  ]
